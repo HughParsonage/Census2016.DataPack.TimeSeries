@@ -1,0 +1,596 @@
+
+
+```{r Region}
+Region <- "STE"
+```
+
+```{r setup}
+START <- Sys.time()
+knitr::opts_knit$set(root.dir = "..")
+knitr::opts_chunk$set(echo = TRUE, 
+                      print_chunk = TRUE)
+```
+
+```{r loadPackages}
+library(readxl)
+library(testthat)
+library(magrittr)
+library(hutils)
+library(data.table)
+library(ASGS)
+library(Census2016.DataPack)
+```
+
+
+```{r Clear-tables}
+# Ensure we are working with pristine tables
+if (!isTRUE(getOption("knitr.in.progress"))) {
+  AllTables <- Filter(function(x) is.data.table(get(x)), ls())
+  if (length(AllTables) != 0) {
+    if (exists("table_killer")) {
+      menu_selection <- 1
+    } else {
+      menu_selection <- menu(c("Remove all tables.",
+                               "Cancel."),
+                             title = "Data tables detected. This script will save all tables in the workspace to the package. Remove current tables from workspace?")
+    }
+  }
+  
+  if (exists("menu_selection")) {
+    if (menu_selection %in% c(0, 2)) {
+      stop("Operation cancelled.")
+    } else {
+      rm(list = AllTables)
+    }
+  }
+}
+```
+
+```{r rename-decoder}
+if (!isNamespaceLoaded("Census2016.DataPack")) {
+  load("../data/SA16_decoder.rda")
+}
+```
+
+```{r Metadata}
+Metadata <-
+  read_excel("./data-raw/Metadata/Metadata_2016_TSP_DataPack.xlsx",
+             sheet = "Cell descriptors information", 
+             skip = 12) %>%
+  as.data.table %>%
+  .[, varI := as.integer(gsub("^T", "", Sequential))] %>%
+  .[]
+```
+
+```{r short2long}
+.short2long <- function(short) {
+  coalesce(Metadata[match(x = short, Short)][["Long"]], short)
+}
+
+expect_equal(.short2long(c("squierl", "Tot_persons_C11_F", "Tot_C16_P")),
+             c("squierl", 
+               "Total_persons_2011_Census_Females",
+               "Total_2016_Census_Persons"))
+
+short2long <- function(.data) {
+  noms <- names(.data)
+  setnames(.data, noms, .short2long(noms))
+}
+```
+
+```{r Region_key}
+Region_key <- 
+  fread(paste0('./data-raw/data/', Region, '/AUST/2016Census_T01_AUS_', Region, '.csv')) %>%
+  names %>%
+  extract2(1)
+```
+
+```{r perf}
+grep <- function(..., perl, fixed) base::grep(..., perl = missing(fixed), fixed = !missing(fixed))
+grepl <- function(..., perl, fixed) base::grepl(..., perl = missing(fixed), fixed = !missing(fixed))
+gsub <- function(..., perl, fixed) base::gsub(..., perl = missing(fixed), fixed = !missing(fixed))
+sub <- function(..., perl, fixed) base::sub(..., perl = missing(fixed), fixed = !missing(fixed))
+```
+
+```{r freadG}
+#' @return Wide as-is data table of all tables.
+freadG <- function(g, ...) {
+  stopifnot(length(g) == 1)
+  g0 <- paste0(if (g < 10) "0", g)
+  file_list <-
+    list.files(path = file.path('./data-raw/data/', Region, 'AUST'),
+               # Files may be of the form ..G08_AUS.. or ..G09B_AUS..
+               pattern = paste0('2016Census_T', g0, '[A-Z]?_AUS_', Region, '\\.csv$'),
+               full.names = TRUE)
+  if (length(file_list) > 1) {
+    file_list %>%
+    lapply(fread, key = Region_key, ...) %>%
+    Reduce(f = function(X, Y) X[Y])
+  } else {
+    fread(file = file_list[1], ...)
+  } %>% 
+    short2long
+}
+```
+
+```{r freadT}
+freadT <- function(g, vi, value.name = "persons") {
+  gmolten <- 
+    freadG(g) %>%
+    melt.data.table(id.vars = Region_key,
+                    variable.factor = FALSE,
+                    value.name = value.name)
+  
+  if (all(.subset2(gmolten, "variable") %chin% .subset2(Metadata, "Long"))) {
+    gmolten[Metadata, on = "variable==Long", nomatch=0L]
+  } else if (all(.subset2(gmolten, "variable") %chin% .subset2(Metadata, "Short"))) {
+    gmolten[Metadata, on = "variable==Short", nomatch=0L]
+  } else {
+    stop("Unable to decode table names.")
+  } %>%
+  drop_cols(setdiff(names(Metadata), "varI")) %>%
+  .[varI %between% vi] %>%
+  extract_Year
+}
+```
+
+```{r extract_Year}
+.extract_Year <- function(v) {
+  as.integer(sub("^.*_(2[0-9]{3})_Census.*$", "\\1", v))
+}
+
+extract_Year <- function(.data) {
+  stopifnot("variable" %in% names(.data),
+            all(grepl("^.*_(2[0-9]{3})_Census.*$", .data[["variable"]])))
+  .data[, Year := .extract_Year(variable)]
+}
+
+expect_equal(.extract_Year("Total_persons_2006_Census_Males"), 2006L)
+```
+
+```{r extract_Sex}
+.extract_Sex <- function(v) {
+  req_regex <- ".*(Males|Females)$"
+  sub(req_regex, "\\1", v)
+}
+
+expect_equal(.extract_Sex("Total_persons_2006_Census_Males"), "Males")
+extract_Sex <- function(.data) {
+  req_regex <- ".*(Males|Females)$"
+  stopifnot("variable" %in% names(.data),
+            all(grepl(req_regex, .data[["variable"]])))
+  .data[, Sex := .extract_Sex(variable)]
+}
+```
+
+```{r grapes-notlike}
+`%npin%` <- function(x, y) {
+  !grepl(y, x)
+}
+```
+
+```{r extract_Age}
+.extract_Age <- function(v, orderedFactor = TRUE) {
+  out <- 
+    if_else(grepl("years_and_over", v),
+            sub("^.*[^0-9]([0-9]+)_years_and_over.*$", "\\1+", v),
+            sub("^Age_group_([0-9]+)_([0-9]+)_years.*", "\\1-\\2", v))
+            
+  if (orderedFactor) {
+    out <- factor(out, ordered = TRUE)
+  }
+  out
+}
+expect_equal(.extract_Age("Age_group_85_years_and_over_2006_Census_Males", FALSE), "85+")
+
+extract_Age <- function(.data) {
+  .data[, Age := .extract_Age(variable)]
+}
+```
+
+
+
+```{r Mop}
+Mop <- function(DT, value.name = "persons", suborder = NULL) {
+  # Check if any variables have already been used.
+  # If so, stop; else, add to varIused
+  varIBeingUsed <- .subset2(DT, "varI")
+  stopifnot("varI" %in% names(DT),
+            is.null(varIused) || !any(varIBeingUsed %in% varIused))
+  drop_col(DT, "varI")
+  
+  stopifnot(value.name %in% names(DT),
+            "Year" %in% names(DT),
+            # Should be Completed
+            'MaxSchooling' %notin% names(DT))
+  
+  # Check for no duplicates, except for value.name
+  if (anyDuplicated(DT, by = setdiff(names(DT), c(value.name, "variable")))) {
+    print(duplicated_rows(DT, by = setdiff(names(DT), c(value.name, "variable"))))
+    stop("Duplicated rows.")
+  }
+  
+  # Are any columns constant?
+  uv <- vapply(DT, uniqueN, integer(1))
+  if (any(uv == 1)) {
+    print(names(uv)[uv == 1])
+    stop("Constant columns in DT.")
+  }
+  
+  out <- 
+    DT %>%
+    drop_col("variable") %>%
+    setcolorder(sort(names(.))) %>%
+    set_cols_first(c(Region_key, "Year")) %>%
+    setorderv(setdiff(names(.), value.name)) %>%
+    set_cols_last(value.name) %>%
+    .[]
+  
+  if ("CountryOfBirth" %in% names(DT)) {
+    out[CountryOfBirth %pin% "Born elsewhere", CountryOfBirth := "(Born elsewhere)"]
+  }
+  
+  for (j in names(DT)) {
+   out[out[[j]] == "Other", (j) := "(Other)"]
+  }
+  
+  apparent_population <- 
+      out[, list(ApparentPopulation = sum(eval(parse(text = value.name)))), keyby = "Year"]
+    
+  permitted_error <- switch(Region,
+                            "SA1" = 1.5e6,
+                            0.5e6)
+  
+  expected_population <-
+    fread("data-raw/data/AUST/2016Census_T01_AUS.csv",
+          select = c("Tot_persons_C06_P", "Tot_persons_C11_P", "Tot_persons_C16_P")) %>%
+    melt(measure.vars = names(.), value.name = "ExpectedPopulation") %>%
+    .[, "Year" := 2000L + as.integer(sub("^Tot_persons_C(06|11|16)_P$", "\\1", variable))] %>%
+    setkeyv("Year") %>%
+    .[]
+  
+  pop_diff_by_Year <- 
+    apparent_population[expected_population, on = "Year"] %>%
+    .[, difference := ApparentPopulation - ExpectedPopulation]
+  
+  differences <- .subset2(pop_diff_by_Year, "difference")
+  
+  if (AND(value.name == "persons",
+          AND(!any(c("SpeaksEnglishOnly", 
+                     "BornAust",
+                     "MaritalStatus",
+                     "MaxSchoolingCompleted",
+                     "OnlyEnglishSpokenHome") %in% names(DT)),
+              any(abs(differences) > permitted_error)))) {
+    
+    i_first_bad <- which(abs(differences) > permitted_error)[1]
+    
+    first_bad <-
+      pop_diff_by_Year[i_first_bad] %>%
+      .subset2("difference")
+    
+    Yr_first_bad <-
+      switch(i_first_bad,
+             2006,
+             2011,
+             2016)
+    
+    text_apparent_population <-
+      apparent_population[i_first_bad] %>%
+      .subset2("ApparentPopulation") %>%
+      prettyNum(big.mark = ",")
+    
+    
+    if (first_bad < 0) {
+      stop("Population undercounted in ", Yr_first_bad, ":\n\t",
+           text_apparent_population, "\n\t",
+           " (e = ", prettyNum(first_bad, big.mark = ","), ")",
+           "\nShould you have used a different value.name?")
+    } else {
+      stop("Apparent population too high: ", text_apparent_population,
+           " (e = ", prettyNum(first_bad, big.mark = ","), ")")
+    }
+  }
+  
+  # Check for no duplicates, except for value.name
+  if (anyDuplicated(out, by = setdiff(names(out), value.name))) {
+    print(duplicated_rows(out, by = setdiff(names(out), value.name)))
+    stop("Duplicated rows.")
+  }
+  if (!is.null(suborder)) {
+    set_colsuborder(DT, suborder)
+    setorderv(DT, setdiff(names(out), value.name))
+  }
+
+  out_noms <- names(out)
+  
+  object_name <- 
+    paste0(Region,
+           "__",
+           paste0(setdiff(out_noms, c(Region_key, "persons")),
+                  collapse = "_"))
+  
+  if (object_name %in% ls(envir = .GlobalEnv)) {
+    stop("`", object_name, "` already defined.")
+  }
+  
+  decoder <- 
+    switch(Region,
+           "SA2" = SA16_decoder[ASGS_Structure == Region,
+                                .(SA2_MAIN16 = Census_Code_2016,
+                                  SA2_NAME16 = Census_Name_2016)],
+           "SA3" = SA16_decoder[ASGS_Structure == Region,
+                                .(SA3_MAIN16 = Census_Code_2016,
+                                  SA3_NAME16 = Census_Name_2016)],
+           "SA4" = SA16_decoder[ASGS_Structure == Region,
+                                .(SA4_MAIN16 = Census_Code_2016,
+                                  SA4_NAME16 = Census_Name_2016)],
+           "STE" = SA16_decoder[ASGS_Structure == Region,
+                                .(STE_MAIN16 = Census_Code_2016,
+                                  STE_NAME16 = Census_Name_2016)],
+           "LGA" = {
+             NonABS_decoder[ASGS_Structure == Region,
+                            .(Census_Code_2016, LGA_NAME16 = Census_Name_2016)]
+           },
+           "CED" = {
+             NonABS_decoder[ASGS_Structure == Region,
+                            .(Census_Code_2016, CED_NAME16 = Census_Name_2016)]
+           },
+           "SED" = {
+             NonABS_decoder[ASGS_Structure == Region,
+                            .(Census_Code_2016, SED_NAME16 = Census_Name_2016)]
+           },
+           "SSC" = {
+             NonABS_decoder[ASGS_Structure == Region,
+                            .(Census_Code_2016, SSC_NAME16 = Census_Name_2016)]
+           },
+           NULL) %>%
+    unique %>%
+    setnames(1, Region_key)
+  
+  decoded_out <- decoder[out, on = Region_key]
+  decoded_out[, (Region_key) := NULL]
+  
+  if (!anyDuplicated(decoded_out, by = setdiff(names(decoded_out), value.name))) {
+    out <- decoded_out 
+  } else {
+    cat("\n\n\n\n\n")
+    print(duplicated_rows(decoded_out, by = setdiff(names(decoded_out), value.name)))
+    cat("\n\n\n\n\n")
+  }
+  
+  assign(object_name, out, envir = .GlobalEnv)
+  # Provided we have reached here, we can now modify varIused
+  varIused <<- sort(c(varIused, unique(varIBeingUsed)))
+  decoded_out[]
+}
+```
+
+```{r varIused}
+varIused <- NULL
+```
+
+## G01
+
+### Persons
+
+```{r }
+freadT(1, c(1, 9), "persons") %>%
+  .[variable %pin% "Persons$"] %>%
+  Mop
+```
+
+### Persons by gender
+
+```{r}
+freadT(1, c(1, 9), "persons") %>%
+  .[variable %npin% "Persons$"] %>%
+  extract_Sex %>%
+  Mop
+```
+
+### Persons by age
+
+```{r}
+freadT(1, c(10, 108), "persons") %>%
+  .[variable %pin% "Persons$"] %>%
+  extract_Age %>%
+  Mop
+```
+
+
+### Persons by age by sex
+
+```{r}
+freadT(1, c(10, 108), "persons") %>%
+  .[variable %npin% "Persons$"] %>%
+  extract_Sex %>%
+  extract_Age %>%
+  Mop
+```
+
+
+### Overseas visitors
+
+```{r}
+freadT(1, c(109, 117), "overseas_visitors") %>%
+  .[variable %pin% "Persons$"] %>%
+  Mop(value.name = "overseas_visitors")
+```
+
+
+### Overseas visitors by Sex
+
+```{r}
+freadT(1, c(109, 117), "overseas_visitors") %>%
+  .[variable %npin% "Persons$"] %>%
+  extract_Sex %>%
+  Mop(value.name = "overseas_visitors")
+```
+
+
+### ATSI 
+
+```{r}
+provide_complementary_observation <- function(.data, vars = "Year") {
+  tempDT <- 
+    get(paste0(Region, "__", paste0(vars, collapse = "_"))) %>%
+    .[SA16_decoder[ASGS_Structure == Region],
+      on = c(paste0(names(.)[1], "==Census_Name_2016")),
+      nomatch=0L] %>%
+    setnames("Census_Code_2016", Region_key)
+  
+  
+  .data %>%
+    .[, .(tot_in_persons = sum(persons)), keyby = c(Region_key, vars)] %>%
+    .[tempDT, on = c(Region_key, vars)] %>%
+    .[, persons := persons - tot_in_persons] %>%
+    .[, variable := "Other"] %>%
+    .[, .SD, .SDcols = c(Region_key, vars, "variable", "persons")] %>%
+    rbind(.data, use.names = TRUE, fill = TRUE)
+}
+
+
+freadT(1, c(118, 144)) %>%
+  .[variable %pin% "Persons$"] %>%
+  provide_complementary_observation %>%
+  .[, Aboriginal := FALSE] %>%
+  .[, TorresStraitIslander := FALSE] %>%
+  .[variable %pin% "persons_Aboriginal", Aboriginal := TRUE] %>%
+  .[variable %pin% "persons_Torres_Strait", TorresStraitIslander := TRUE] %>%
+  .[variable %pin% "Both", c("Aboriginal", "TorresStraitIslander") := TRUE] %>%
+  Mop
+  
+```
+
+```{r}
+freadT(1, c(118, 144)) %>%
+  .[variable %npin% "Persons$"] %>%
+  extract_Sex %>%
+  provide_complementary_observation(vars = c("Year", "Sex")) %>%
+  
+  .[, Aboriginal := FALSE] %>%
+  .[, TorresStraitIslander := FALSE] %>%
+  .[variable %pin% "persons_Aboriginal", Aboriginal := TRUE] %>%
+  .[variable %pin% "persons_Torres_Strait", TorresStraitIslander := TRUE] %>%
+  .[variable %pin% "Both", c("Aboriginal", "TorresStraitIslander") := TRUE] %>%
+  Mop
+```
+
+```{r}
+varIused <- c(varIused, 145:153)
+```
+
+```{r}
+freadT(1, c(154, 171)) %>%
+  .[variable %pin% "Persons$"] %>%
+  .[, BornAust := grepl("Birthplace_Australia", variable)] %>%
+  Mop
+```
+
+```{r}
+freadT(1, c(154, 171)) %>%
+  .[variable %npin% "Persons$"] %>%
+  .[, BornAust := grepl("Birthplace_Australia", variable)] %>%
+  extract_Sex %>%
+  Mop
+```
+
+```{r}
+freadT(1, c(172, 189)) %>%
+  .[variable %pin% "Persons$"] %>%
+  .[, SpeaksEnglishOnly := grepl("English_only", variable)] %>%
+  Mop
+```
+
+```{r}
+freadT(1, c(172, 189)) %>%
+  .[variable %npin% "Persons$"] %>%
+  .[, SpeaksEnglishOnly := grepl("English_only", variable)] %>%
+  extract_Sex %>%
+  Mop
+```
+
+```{r}
+freadT(1, c(190, 199)) %>%
+  .[variable %pin% "Persons$"] %>%
+  provide_complementary_observation %>%
+  .[, AustCitizen := variable != "Other"] %>%
+  Mop
+```
+
+
+```{r}
+freadT(1, c(190, 199)) %>%
+  .[variable %npin% "Persons$"] %>%
+  extract_Sex %>%
+  provide_complementary_observation %>%
+  .[, AustCitizen := variable != "Other"] %>%
+  Mop
+```
+
+```{r melt_using_suffix}
+melt_using_suffix <- function(DT, suffix, suffix_is = "Year", id.cols = Region_key) {
+   prefixes <- sub(suffix, "", setdiff(names(DT), Region_key))
+   suffixes <- sub(paste0("^.*", suffix), "\\1", setdiff(names(DT), Region_key))
+   
+   decode_suffix <- data.table(temp = seq_along(unique(suffixes)),
+                               new = unique(suffixes)) %>%
+     .[, temp := as.character(temp)] %>%
+     setnames(c("temp", "new"), c("_temp", suffix_is))
+   
+   melt.data.table(DT, 
+                   id.vars = id.cols,
+                   measure.vars = patterns(unique(prefixes)),
+                   value.name = unique(prefixes),
+                   variable.name = "_temp",
+                   variable.factor = FALSE,
+                   verbose = TRUE) %>%
+     .[decode_suffix, on = "_temp"] %>%
+     .[, "_temp" := NULL] %>%
+     set_cols_first(c(Region_key, suffix_is)) %>%
+     .[]
+}
+```
+
+```{r Mop_multiple}
+Mop_multiple <- function(DT) {
+  DTnoms <- copy(names(DT))
+  for (nom in DTnoms) {
+    if (!(nom %chin% c(Region_key, "Year"))) {
+      nom_ <-
+        gsub("^([A-Z])", "\\L\\1\\E",
+             x = gsub("_([A-za-z])", "\\U\\1\\E",
+                      nom,
+                      perl = TRUE),
+             perl = TRUE)
+      
+      object_name <- 
+        paste0(Region,
+               "__",
+               "Year",
+               "_",
+               nom_)
+      
+      assign(object_name,
+             value = DT[, .SD, .SDcols = c(Region_key, "Year", nom)],
+             envir = .GlobalEnv)
+    }
+  }
+}
+```
+
+
+## T02
+```{r}
+freadG(2)[] %>%
+  melt_using_suffix("_Census_year_(2006|2011|2016)") %>%
+  Mop_multiple
+```
+
+## T03
+
+```{r}
+freadT(3, vi = c(223, 233))[]
+```
+
