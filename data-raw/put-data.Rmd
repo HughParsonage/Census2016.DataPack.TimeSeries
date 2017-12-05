@@ -200,17 +200,39 @@ extract_Sex <- function(.data) {
             sub("^.*Census_([0-9]{1,2})_([0-9]{1,2})_years.*$", "\\1-\\2", v),
             if_else(grepl("years_and_over", v),
                     sub("^.*[^0-9]([0-9]+)_years_and_over.*$", "\\1+", v),
-                    sub("^.*Age_(?:group(?:_of_parent)|years)_([0-9]{1,2})_([0-9]{1,2})_years.*",
-                        "\\1-\\2", v)))
+                    if_else(grepl("^.*Age_(?:group(?:_of_parent)?|years)_([0-9]{1,2})_([0-9]{1,2})_years.*", v),
+                            sub("^.*Age_(?:group(?:_of_parent)?|years)_([0-9]{1,2})_([0-9]{1,2})_years.*",
+                                "\\1-\\2",
+                                v),
+                                if_else(grepl("_[0-9]{1,2}_[0-9]{1,2}_years$", v),
+                                        sub("^.*([0-9]{1,2})_([0-9]{1,2})_years$", "\\1-\\2", v),
+                                        v))))
+  if (any(grepl("_", out))) {
+    stop("\n\t", paste0(head(unique(grep("_", out, value = TRUE))), collapse = "\n\t"), " present.")
+  }
             
   if (orderedFactor) {
-    out <- factor(out, ordered = TRUE)
+    out <- factor(out, levels = unique(out), ordered = TRUE)
   }
   out
 }
 expect_equal(.extract_Age("Age_group_85_years_and_over_2006_Census_Males", FALSE), "85+")
 expect_equal(.extract_Age("2016_Census_80_84_years_Never_married_Females", FALSE), "80-84")
+expect_equal(.extract_Age("2006_Census_Buddhism_0_14_years", FALSE), "0-14")
+expect_equal(.extract_Age("Age_group_0_4_years_2006_Census_Persons", FALSE), "0-4")
 expect_equal(.extract_Age("2006_Census_Age_group_of_parent_15_19_years_Number_of_children_ever_born_No_children", FALSE), "15-19")
+
+local({
+  input <- c("Age_group_0_4_years_2006_Census_Persons",
+             "Age_group_5_14_years_2016_Census_Persons",
+             "Age_group_35_44_years_2011_Census_Persons",
+             "Age_group_55_64_years_2011_Census_Persons",
+             "Age_group_85_years_and_over_2006_Census_Persons")
+  output <- .extract_Age(input) 
+  
+  # i.e. ascending order, not 
+  expect_false(is.unsorted(output))
+})
 
 extract_Age <- function(.data) {
   .data[, Age := .extract_Age(variable)]
@@ -720,8 +742,84 @@ freadT(8, c(3142, 3483)) %>%
 ## Ancestory
 
 ```{r}
-freadT(9)
+freadT(10) %>%
+  .[!grepl("Total", variable)] %>%
+  .[variable %pin% "Persons$"] %>%
+  .[grepl("Speaks_English_only", variable),
+    LanguageSpoken := "English"] %>%
+  .[variable %pin% "^Speaks_other_language_(.*)_20(06|11|16)_Census_.*$",
+    LanguageSpoken := sub("^Speaks_other_language_(.*)_20(06|11|16)_Census_.*$", "\\1", variable)] %>%
+  Mop
 ```
+
+
+```{r}
+freadT(10) %>%
+  .[!grepl("Total", variable)] %>%
+  .[variable %npin% "Persons$"] %>%
+  .[grepl("Speaks_English_only", variable),
+    LanguageSpoken := "English"] %>%
+  .[variable %pin% "^Speaks_other_language_(.*)_20(06|11|16)_Census_.*$",
+    LanguageSpoken := sub("^Speaks_other_language_(.*)_20(06|11|16)_Census_.*$", "\\1", variable)] %>%
+  extract_Sex %>%
+  Mop
+```
+
+```{r}
+freadT(11) %>%
+  .[!grepl("Total", variable)] %>%
+  .[grepl("English_Very_well_or_well", variable), EnglishProficiency := "Speaks English well or very well"] %>%
+  .[grepl("English_Not_well", variable), EnglishProficiency := "Speaks English not well or not at all"] %>%
+  extract_Age %>%
+  .[]
+
+```
+
+```{r}
+freadT(12) %>%
+  .[!grepl("Total", variable)] %>%
+  extract_Age %>%
+  .[, Religion := gsub("^.*Census_([^0-9]+)_[0-9].*$", "\\1", variable)] %>%
+  .[Religion == "Secular_Beliefs_and_Other_Spiritual_Beliefs_and_No_Religious_Affiliation",
+    Religion := "No religion"] %>%
+  .[Religion == "Religious_affiliation_not_stated",
+    Religion := NA_character_] %>%
+  .[Religion %pin% "Christ", Denomination := gsub("^Christ[a-z]+y_", "", Religion)] %>%
+  .[Religion %pin% "Christ", Religion := "Christianity"] %>%
+  .[Religion %enotin% c("Christianity", "Buddhism", "Hinduism", "Judaism", "Islam", "No religion"),
+    Religion := "(Other)"] %>%
+  .[] %>%
+  .[variable %pin% "Presbyterian",
+   Denomination := "Presbyterian Reformed"] %>%
+  .[variable %pin% "Eastrn.Orthdox",
+    Denomination := "Eastern Orthodox"] %>%
+  .[variable %pin% "Orintal_Orthdx",
+    Denomination := "Oriental Orthodox"] %>%
+  .[variable %pin% "Sevnth.dy",
+    Denomination := "Seventh Day Adventist"] %>%
+  .[variable %pin% "Othr_Protestnt",
+    Denomination := "Protestant (Other)"] %>%
+  .[variable %pin% "Jeh.*v.*ahs.*Witn.*s.*es",
+    Denomination := "Jehovah's Witnesses"] %>%
+  .[variable %pin% "Oth.?r_Christian",
+    Denomination := "(Other)"] %>%
+  .[variable %pin% "Sikhism",
+    Denomination := "Sikhism"] %>%
+  .[variable %pin% "Aust.*Abor.*Trad.*Rel",
+    Denomination := "Australian Aboriginal Traditional"] %>%
+  .[variable %pin% "Other_Religions_Other_Religious_Groups",
+    Denomination := "(Other)"] %>%
+  .[variable %pin% "SB_OSB_NRA_SB",
+    Denomination := "Secular beliefs"] %>%
+  .[variable %pin% "SB_OSB_NRA_OSB",
+    Denomination := "Other spiritual beliefs"] %>%
+  .[, Religion := gsub("_", " ", Religion)] %>%
+  .[, Denomination := gsub("_", " ", Denomination)] %>%
+  Mop
+```
+
+
+
 
 
 
