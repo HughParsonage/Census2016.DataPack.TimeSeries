@@ -382,7 +382,9 @@ Mop <- function(DT, value.name = "persons", suborder = NULL) {
       exp_tot_dwellings <- 23190507
       
       tot_dwellings <- sum(out[["occupied_private_dwellings"]])
-      if (abs(tot_dwellings - exp_tot_dwellings) / exp_tot_dwellings > 0.05) {
+      
+      
+      if (abs(tot_dwellings - exp_tot_dwellings) / exp_tot_dwellings > 0.0004 * nrow(out)) {
         stop("Dwellings under or overcounted:\n",
              "\t",
              "Expected:\t", prettyNum(exp_tot_dwellings, big.mark = ","),
@@ -883,7 +885,7 @@ freadT(13, value.name = "students") %>%
   Mop("students")
 ```
 
-```{extract_FamilyComposition}
+```{r extract_FamilyComposition}
 .extract_FamilyComposition <- function(v) {
   outputs <- 
     c("Couple family with no children",
@@ -966,17 +968,25 @@ freadT(14, value.name =  "occupied_private_dwellings") %>%
 #' @param x Values to be matched against
 #' @param y Permitted decoded values. 
 #' @param extract1 A regex with a capturing group. The part of \code{x} to be retained.
+#' @param y.complete Must all values in y match with at least one value in \code{x}?
 #' @return For every value in x, the closest match in y.
-zmatch <- function(x, y, extract1 = "^(.*)$") {
+zmatch <- function(x, y, extract1 = "^(.*)$", delete.penalty = 0.01, sub.penalty = 0.2, y.complete = TRUE) {
   x <- sub(extract1, "\\1", x, perl = TRUE)
   Y <- gsub("[^A-Za-z]+", "_", y)
   distance_matrix <-
     adist(x, Y,
-          costs = list(deletions = 0.01,
-                       substitutions = 0.2))
+          costs = list(deletions = delete.penalty,
+                       substitutions = sub.penalty))
   
   indexes <- apply(distance_matrix, 1, which.min)
-  y[indexes]
+  out <- y[indexes]
+  
+  if (any(y[!is.na(y)] %notin% out)) {
+    stop("Not all y were matched.\n\t",
+         paste0(unique(y[y %notin% out]), sep = "\n\t"))
+  }
+  
+  out
 }
 ```
 
@@ -992,7 +1002,7 @@ permitted_DwellingStructures <-
 ```{r test_zmatch}
 test_that("zmatch", {
   x0 <- 'Semi_detached_row_or_terrace_house_townhouse_etc_with_Two_or_more_storeys_'
-  expect_equal(zmatch(x0, permitted_DwellingStructures), 
+  expect_equal(zmatch(x0, permitted_DwellingStructures, y.complete = FALSE), 
                permitted_DwellingStructures[4])
 })
 ```
@@ -1035,7 +1045,6 @@ freadT(15, value.name = "occupied_private_dwellings") %>%
   .[, DwellingStructure := zmatch(variable, 
                                   permitted_DwellingStructures,
                                   extract1 = "^(?:20(?:06|11|16))_Census_(.*)(?:_Total)?_Total$")] %>% 
-  # .[, DwellingStructure := sub("^(?:20(?:06|11|16))_Census_(.*)(?:_Total)?_Total$", "\\1", variable)] %>% 
   .[variable %pin% "Dwelling_structure_not_stated", DwellingStructure := NA_character_] %>%
   .[] %>%
    .[,
@@ -1047,6 +1056,50 @@ freadT(15, value.name = "occupied_private_dwellings") %>%
                                            table = c("One", "Two", "Three", "Four", "Five", "Six")))] %>%
   Mop("occupied_private_dwellings")
 ```
+
+```{r}
+freadT(18, value.name = "occupied_private_dwellings") %>% 
+  .[!grepl("^Total", variable)] %>%
+  .[variable %pin% "^(?:20(?:06|11|16))_Census_(?!Total).*Dwelling_structure_"] %>%
+  .[, DwellingStructure := zmatch(variable, 
+                                  permitted_DwellingStructures,
+                                  extract1 = "^(?:20(?:06|11|16))_Census_.*Dwelling_structure_(.*)(?:_Total)?(?:_Total)?$",
+                                  delete.penalty = 0.05)] %>% 
+  .[grepl("Dwelling_structure_Not_stated", variable, ignore.case = TRUE),
+    DwellingStructure := NA_character_] %>%
+  .[!grepl("20.._Census_Total_Dwelling_structure_Separate_house", variable)] %>%
+  .[] %>%
+  .[, TenureType := sub("^(?:20(?:06|11|16))_Census_(.*)_Dwelling_structure_.*$",
+                        "\\1",
+                        variable)] %>%
+  .[TenureType != "Rented_Total"] %>%
+  .[TenureType == "Tenure_type_not_stated", TenureType := NA_character_] %>%
+  .[, TenureType := gsub("_", " ", TenureType)] %>%
+  .[] %>%
+  Mop("occupied_private_dwellings")
+```
+
+```{r permitted_Landlords}
+permitted_Landlords <-
+  c(NA, "(Other)", "Co-op/church group etc", "Person not in same household", 
+    "Real estate agent", "State or territory housing authority")
+```
+
+```{r}
+freadT(19, value.name = "occupied_private_dwellings_being_rented") %>%
+  .[!(variable %pin% "_Total$")] %>%
+  .[!grepl("^20.._Census_Total", variable)] %>%
+  .[, variable := gsub("Housing_co_operative_community_church_group", "Co-op/church group etc", variable)] %>%
+  .[!grepl("Landlord_type_Not_stated", variable),
+    Landlord := zmatch(variable, permitted_Landlords)] %>%
+  .[variable %pin% "Housing.co.operative",
+    Landlord := "Co-op/church group etc"] %>%
+  .[variable %pin% "^20.._Census_([0-9]+)_.*$",
+    Rent.min := sub("^20.._Census_([0-9]+)_.*$", "\\1", variable)] %>%
+  .[] %>%
+  Mop("occupied_private_dwellings_being_rented")
+```
+
 
 
 
