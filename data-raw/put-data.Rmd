@@ -123,6 +123,9 @@ freadT <- function(g, vi = NULL, value.name = "persons") {
                     variable.factor = FALSE,
                     value.name = value.name)
   
+  # Lots of duplicate table names across g's
+  Metadata <- Metadata[TableNo == g]
+  
   if (all(.subset2(gmolten, "variable") %chin% .subset2(Metadata, "Long"))) {
     og <- gmolten[Metadata, on = "variable==Long", nomatch=0L]
   } else if (all(.subset2(gmolten, "variable") %chin% .subset2(Metadata, "Short"))) {
@@ -333,42 +336,61 @@ Mop <- function(DT, value.name = "persons", suborder = NULL) {
   
   differences <- .subset2(pop_diff_by_Year, "difference")
   
-  if (AND(value.name == "persons",
-          AND(!any(c("SpeaksEnglishOnly", 
+  switch(
+    value.name,
+    "persons" = {
+      if (AND(!any(c("SpeaksEnglishOnly", 
                      "BornAust",
                      "MaritalStatus",
                      "MaxSchoolingCompleted",
                      "OnlyEnglishSpokenHome") %in% names(DT)),
-              any(abs(differences) > permitted_error)))) {
+              any(abs(differences) > permitted_error))) {
+        
+        i_first_bad <- which(abs(differences) > permitted_error)[1]
+        
+        first_bad <-
+          pop_diff_by_Year[i_first_bad] %>%
+          .subset2("difference")
+        
+        Yr_first_bad <-
+          switch(i_first_bad,
+                 2006,
+                 2011,
+                 2016)
+        
+        text_apparent_population <-
+          apparent_population[i_first_bad] %>%
+          .subset2("ApparentPopulation") %>%
+          prettyNum(big.mark = ",")
+        
+        
+        if (first_bad < 0) {
+          stop("Population undercounted in ", Yr_first_bad, ":\n\t",
+               text_apparent_population, "\n\t",
+               " (e = ", prettyNum(first_bad, big.mark = ","), ")",
+               "\nShould you have used a different value.name?")
+        } else {
+          stop("Apparent population too high: ", text_apparent_population,
+               " (e = ", prettyNum(first_bad, big.mark = ","), ")")
+        }
+      }
+    },
     
-    i_first_bad <- which(abs(differences) > permitted_error)[1]
     
-    first_bad <-
-      pop_diff_by_Year[i_first_bad] %>%
-      .subset2("difference")
-    
-    Yr_first_bad <-
-      switch(i_first_bad,
-             2006,
-             2011,
-             2016)
-    
-    text_apparent_population <-
-      apparent_population[i_first_bad] %>%
-      .subset2("ApparentPopulation") %>%
-      prettyNum(big.mark = ",")
-    
-    
-    if (first_bad < 0) {
-      stop("Population undercounted in ", Yr_first_bad, ":\n\t",
-           text_apparent_population, "\n\t",
-           " (e = ", prettyNum(first_bad, big.mark = ","), ")",
-           "\nShould you have used a different value.name?")
-    } else {
-      stop("Apparent population too high: ", text_apparent_population,
-           " (e = ", prettyNum(first_bad, big.mark = ","), ")")
-    }
-  }
+    "occupied_private_dwellings" = {
+      # freadG(15) %$% sum(C16_T_T + C06_T_T + C11_T_T)
+      exp_tot_dwellings <- 23190507
+      
+      tot_dwellings <- sum(out[["occupied_private_dwellings"]])
+      if (abs(tot_dwellings - exp_tot_dwellings) / exp_tot_dwellings > 0.05) {
+        stop("Dwellings under or overcounted:\n",
+             "\t",
+             "Expected:\t", prettyNum(exp_tot_dwellings, big.mark = ","),
+             "\n\t",
+             "Result:  \t",  prettyNum(tot_dwellings, big.mark = ","),
+             "\n")
+      }
+    })
   
   # Check for no duplicates, except for value.name
   if (anyDuplicated(out, by = setdiff(names(out), value.name))) {
@@ -817,6 +839,216 @@ freadT(12) %>%
   .[, Denomination := gsub("_", " ", Denomination)] %>%
   Mop
 ```
+
+```{r}
+freadT(13, value.name = "students") %>%
+  .[variable %pin% "Persons$"] %>%
+  .[!grepl("^Total", variable)] %>%
+  .[if_else(variable %pin% c("^(?:Technical|University)",
+                             "^Other_type",
+                             "^Infants_Primary",
+                             "^Secondary"),
+            grepl("Total", variable),
+            TRUE)] %>%
+  .[variable %pin% "Pre.school",     EduInstitutionType := "Pre-school"] %>%
+  .[variable %pin% "Infants.Primary",EduInstitutionType := "Infants/Primary"] %>%
+  .[variable %pin% "^Secondary",     EduInstitutionType := "Secondary"] %>%
+  .[variable %pin% "^Tec.*Furt",     EduInstitutionType := "Technical or Further Educational Institution"] %>%
+  .[variable %pin% "^Uni",           EduInstitutionType := "University or other tertiary"] %>%
+  .[variable %pin% "^Oth",           EduInstitutionType := "(Other)"] %>%
+  Mop("students")
+
+```
+
+```{r}
+freadT(13, value.name = "students") %>%
+  .[!(variable %pin% "Persons$")] %>%
+  .[!grepl("^Total", variable)] %>%
+  .[if_else(variable %pin% c("^(?:Technical|University)",
+                             "^Other_type",
+                             "^Infants_Primary",
+                             "^Secondary"),
+            grepl("Total", variable),
+            TRUE)] %>%
+  .[variable %pin% "Pre.school",     EduInstitutionType := "Pre-school"] %>%
+  .[variable %pin% "Infants.Primary",EduInstitutionType := "Infants/Primary"] %>%
+  .[variable %pin% "^Secondary",     EduInstitutionType := "Secondary"] %>%
+  .[variable %pin% "^Tec.*Furt",     EduInstitutionType := "Technical or Further Educational Institution"] %>%
+  .[variable %pin% "^Uni",           EduInstitutionType := "University or other tertiary"] %>%
+  .[variable %pin% "^Oth",           EduInstitutionType := "(Other)"] %>%
+  .[, EduInstitutionType := factor(EduInstitutionType,
+                                   levels = unique(EduInstitutionType),
+                                   ordered = TRUE)] %>%
+  extract_Sex %>%
+  Mop("students")
+```
+
+```{extract_FamilyComposition}
+.extract_FamilyComposition <- function(v) {
+  outputs <- 
+    c("Couple family with no children",
+      "Couple family with children", 
+      "One parent family with children",
+      "Other family",
+      "Lone-person household", 
+      "Group household")
+  
+  underscores <- gsub("[^A-Za-z]", "_",
+                      gsub("One parent family with children",
+                           "One parent family", 
+                           outputs,
+                           fixed = TRUE))
+  
+  regex <-
+    paste0("(?:",
+           paste0(underscores, 
+                  collapse = ")|(?:"),
+           ")")
+  
+  underscore_out <- 
+    sub(paste0("^.*?(", regex, ").*?$"), 
+        "\\1",
+        v,
+        perl = TRUE)
+  
+  outputs[match(underscore_out, underscores)]
+}
+
+extract_FamilyComposition <- function(.data) {
+  outputs <- 
+    c("Couple family with no children",
+      "Couple family with children", 
+      "One parent family with children",
+      "Other family",
+      "Lone-person household", 
+      "Group household")
+  
+  underscores <- gsub("[^A-Za-z]", "_", outputs)
+  
+  req_regex <-
+    paste0("(?:",
+           paste0(underscores, 
+                  collapse = ")|(?:"),
+           ")")
+  
+  stopifnot("variable" %in% names(.data),
+            all(grepl(req_regex, .data[["variable"]])))
+  .data[, FamilyComposition := .extract_FamilyComposition(variable)]
+  .data
+}
+
+expect_equal(.extract_FamilyComposition("2006_Census_Separate_house_Family_households_Couple_family_with_no_children"), 
+             "Couple family with no children")
+```
+
+
+```{r}
+freadT(14, value.name =  "occupied_private_dwellings") %>%
+  .[!(variable %pin% "Total$")] %$%
+  .[, isFamily := variable %pin% "Family_households"] %>%
+  .[(isFamily),
+    FamilyComposition := gsub("_", " ",
+                              gsub("^.*Family_households_",
+                                   "",
+                                   variable))] %>%
+  .[not(isFamily),
+    FamilyComposition := sub("^.*((?:Lone_person)|(?:Group)|(?:Other)).*$",
+                             "\\1",
+                             variable)] %>%
+  .[, FamilyComposition := gsub("_", " ", FamilyComposition)] %>%
+  .[FamilyComposition == "Other", FamilyComposition := "Other family"] %>%
+  .[FamilyComposition == "Group", FamilyComposition := "Group household"] %>%
+  .[FamilyComposition == "Lone person", FamilyComposition := "Lone-person household"] %>%
+  .[]
+```
+
+```{r zmatch}
+#' @param x Values to be matched against
+#' @param y Permitted decoded values. 
+#' @param extract1 A regex with a capturing group. The part of \code{x} to be retained.
+#' @return For every value in x, the closest match in y.
+zmatch <- function(x, y, extract1 = "^(.*)$") {
+  x <- sub(extract1, "\\1", x, perl = TRUE)
+  Y <- gsub("[^A-Za-z]+", "_", y)
+  distance_matrix <-
+    adist(x, Y,
+          costs = list(deletions = 0.01,
+                       substitutions = 0.2))
+  
+  indexes <- apply(distance_matrix, 1, which.min)
+  y[indexes]
+}
+```
+
+```{r permitted_DwellingStructures}
+permitted_DwellingStructures <-
+  c(NA_character_,
+    "(Other)",
+    "Flat/apartment",
+    "Semi-detached, row/terrace house, townhouse etc.", 
+    "Separate house")
+```
+
+```{r test_zmatch}
+test_that("zmatch", {
+  x0 <- 'Semi_detached_row_or_terrace_house_townhouse_etc_with_Two_or_more_storeys_'
+  expect_equal(zmatch(x0, permitted_DwellingStructures), 
+               permitted_DwellingStructures[4])
+})
+```
+
+
+
+
+
+
+
+
+```{r}
+freadT(15, value.name = "occupied_private_dwellings") %>%
+  .[variable %pin% paste0("^(20(06|11|16))_Census_",
+                          c("Separate_house", 
+                            "Semi_detached_row_or_terrace_house_townhouse_etc_with_Total", 
+                            "Flat_unit_or_apartment_Total",
+                            "Other_dwelling_Total",
+                            "Dwelling_structure_not_stated"),
+                          "_Total$")] %>%
+  .[, DwellingStructure := zmatch(variable, 
+                                  permitted_DwellingStructures,
+                                  extract1 = "^(?:20(?:06|11|16))_Census_(.*)(?:_Total)?_Total$")] %>% 
+  # .[, DwellingStructure := sub("^(?:20(?:06|11|16))_Census_(.*)(?:_Total)?_Total$", "\\1", variable)] %>% 
+  .[variable %pin% "Dwelling_structure_not_stated", DwellingStructure := NA_character_] %>%
+  .[] %>%
+  Mop("occupied_private_dwellings")
+```
+
+
+```{r}
+freadT(15, value.name = "occupied_private_dwellings") %>%
+  .[variable %pin% paste0("^(20(06|11|16))_Census_",
+                          c("Separate_house", 
+                            "Semi_detached_row_or_terrace_house_townhouse_etc_with_Total", 
+                            "Flat_unit_or_apartment_Total",
+                            "Other_dwelling_Total",
+                            "Dwelling_structure_not_stated"),
+                          "_Number_of_persons_usually_resident")] %>%
+  .[, DwellingStructure := zmatch(variable, 
+                                  permitted_DwellingStructures,
+                                  extract1 = "^(?:20(?:06|11|16))_Census_(.*)(?:_Total)?_Total$")] %>% 
+  # .[, DwellingStructure := sub("^(?:20(?:06|11|16))_Census_(.*)(?:_Total)?_Total$", "\\1", variable)] %>% 
+  .[variable %pin% "Dwelling_structure_not_stated", DwellingStructure := NA_character_] %>%
+  .[] %>%
+   .[,
+    UsualResidents.min := zmatch(variable, 
+                                 c("One", "Two", "Three", "Four", "Five", "Six"),
+                                 extract1 = "^.*persons_usually_resident_(.*)$")] %>%
+  .[,
+    UsualResidents.min := as.integer(match(UsualResidents.min,
+                                           table = c("One", "Two", "Three", "Four", "Five", "Six")))] %>%
+  Mop("occupied_private_dwellings")
+```
+
+
 
 
 
