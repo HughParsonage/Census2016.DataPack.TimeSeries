@@ -392,6 +392,21 @@ Mop <- function(DT, value.name = "persons", suborder = NULL) {
              "Result:  \t",  prettyNum(tot_dwellings, big.mark = ","),
              "\n")
       }
+    },
+    "occupied_private_dwellings_being_rented" = {
+      exp_tot_dwellings_2016 <- 2606630
+      tot_dwellings <-
+        sum(out[Year == 2016L][["occupied_private_dwellings_being_rented"]])
+
+      if (abs(tot_dwellings - exp_tot_dwellings) / exp_tot_dwellings > 0.0004 * nrow(out)) {
+        stop("Dwellings under or overcounted:\n",
+             "\t",
+             "Expected:\t", prettyNum(exp_tot_dwellings, big.mark = ","),
+             "\n\t",
+             "Result:  \t",  prettyNum(tot_dwellings, big.mark = ","),
+             "\n")
+      }
+      
     })
   
   # Check for no duplicates, except for value.name
@@ -981,7 +996,7 @@ zmatch <- function(x, y, extract1 = "^(.*)$", delete.penalty = 0.01, sub.penalty
   indexes <- apply(distance_matrix, 1, which.min)
   out <- y[indexes]
   
-  if (any(y[!is.na(y)] %notin% out)) {
+  if (y.complete && any(y[!is.na(y)] %notin% out)) {
     stop("Not all y were matched.\n\t",
          paste0(unique(y[y %notin% out]), sep = "\n\t"))
   }
@@ -1090,12 +1105,34 @@ freadT(19, value.name = "occupied_private_dwellings_being_rented") %>%
   .[!(variable %pin% "_Total$")] %>%
   .[!grepl("^20.._Census_Total", variable)] %>%
   .[, variable := gsub("Housing_co_operative_community_church_group", "Co-op/church group etc", variable)] %>%
+  .[, variable := gsub("State_territory", "State or territory", variable)] %>%
   .[!grepl("Landlord_type_Not_stated", variable),
-    Landlord := zmatch(variable, permitted_Landlords)] %>%
+    Landlord := zmatch(variable, permitted_Landlords, extract1 = "^.*Landlord_type_(.*)$")] %>%
   .[variable %pin% "Housing.co.operative",
     Landlord := "Co-op/church group etc"] %>%
   .[variable %pin% "^20.._Census_([0-9]+)_.*$",
-    Rent.min := sub("^20.._Census_([0-9]+)_.*$", "\\1", variable)] %>%
+    Rent.min := as.integer(sub("^20.._Census_([0-9]+)_.*$", "\\1", variable))] %>%
+  .[] %>%
+  Mop("occupied_private_dwellings_being_rented")
+```
+
+
+```{r}
+freadT(20, value.name = "occupied_private_dwellings_being_rented") %>%
+  rbind(freadT(21, value.name = "occupied_private_dwellings_being_rented")) %>%
+  .[!(variable %pin% "_Total$")] %>%
+  .[!(variable %pin% "20.._Census_Total")] %>%
+  .[variable %pin% "^20.._Census_([0-9]+)_.*$",
+    Rent.min := as.integer(sub("^20.._Census_([0-9]+)_.*$", "\\1", variable))] %>%
+
+  .[variable %pin% "Couple_family", FamilyComposition := "Couple family"] %>%
+  .[variable %pin% "One.parent", FamilyComposition := "One-parent family"] %>%
+  
+  .[, HasDependantStudent := not(variable %pin% "no_dependent_students$")] %>%
+  .[, HasChild := not(variable %pin% "With_no_children(_under_15)?")] %>%
+  .[!grepl("With_no_children$", variable),
+    HasNonDependentChild := variable %pin% "With_non_dependent_children_only"] %>%
+  
   .[] %>%
   Mop("occupied_private_dwellings_being_rented")
 ```
