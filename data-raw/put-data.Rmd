@@ -22,6 +22,7 @@ library(Census2016.DataPack)
 ```
 
 
+
 ```{r Clear-tables}
 # Ensure we are working with pristine tables
 if (!isTRUE(getOption("knitr.in.progress"))) {
@@ -92,6 +93,12 @@ grep <- function(..., perl, fixed) base::grep(..., perl = missing(fixed), fixed 
 grepl <- function(..., perl, fixed) base::grepl(..., perl = missing(fixed), fixed = !missing(fixed))
 gsub <- function(..., perl, fixed) base::gsub(..., perl = missing(fixed), fixed = !missing(fixed))
 sub <- function(..., perl, fixed) base::sub(..., perl = missing(fixed), fixed = !missing(fixed))
+```
+
+```{r check-case-subs}
+# Possible future issue with R 3.5
+stopifnot(sub("a_([a-z])", "\\U\\1\\E", "a_b") == "B",
+          sub("a_([A-Z])", "\\L\\1\\E", "a_B") == "b")
 ```
 
 ```{r freadG}
@@ -177,13 +184,13 @@ expect_equal(.extract_Year("2006_Census_15_19_years_Married_Females"), 2006L)
 
 ```{r extract_Sex}
 .extract_Sex <- function(v) {
-  req_regex <- ".*(Males|Females)$"
+  req_regex <- ".*(Males|Females)"
   substr(sub(req_regex, "\\1", v), 0, 1)
 }
 
 expect_equal(.extract_Sex("Total_persons_2006_Census_Males"), "M")
 extract_Sex <- function(.data) {
-  req_regex <- ".*(Males|Females)$"
+  req_regex <- ".*(Males|Females)"
   stopifnot("variable" %in% names(.data),
             all(grepl(req_regex, .data[["variable"]])))
   .data[, Sex := .extract_Sex(variable)]
@@ -199,17 +206,23 @@ extract_Sex <- function(.data) {
 ```{r extract_Age}
 .extract_Age <- function(v, orderedFactor = TRUE) {
   out <-
-    if_else(grepl("^.*Census_[0-9]{1,2}_[0-9]{1,2}_years.*", v),
-            sub("^.*Census_([0-9]{1,2})_([0-9]{1,2})_years.*$", "\\1-\\2", v),
-            if_else(grepl("years_and_over", v),
-                    sub("^.*[^0-9]([0-9]+)_years_and_over.*$", "\\1+", v),
-                    if_else(grepl("^.*Age_(?:group(?:_of_parent)?|years)_([0-9]{1,2})_([0-9]{1,2})_years.*", v),
-                            sub("^.*Age_(?:group(?:_of_parent)?|years)_([0-9]{1,2})_([0-9]{1,2})_years.*",
-                                "\\1-\\2",
-                                v),
-                                if_else(grepl("_[0-9]{1,2}_[0-9]{1,2}_years$", v),
-                                        sub("^.*([0-9]{1,2})_([0-9]{1,2})_years$", "\\1-\\2", v),
-                                        v))))
+    if_else(grepl("^.*?_([0-9]{2})_([0-9]{2})_years$", v),
+            sub("^.*?_([0-9]{2})_([0-9]{2})_years", "\\1-\\2", v),
+            if_else(grepl("^.*Census_[0-9]{1,2}_[0-9]{1,2}_years.*", v),
+                    sub("^.*Census_([0-9]{1,2})_([0-9]{1,2})_years.*$", "\\1-\\2", v),
+                    if_else(grepl("years_and_over", v),
+                            sub("^.*[^0-9]([0-9]+)_years_and_over.*$", "\\1+", v),
+                            if_else(grepl("^.*Age_(?:group(?:_of_parent)?|years)_([0-9]{1,2})_([0-9]{1,2})_years.*", v),
+                                    sub("^.*Age_(?:group(?:_of_parent)?|years)_([0-9]{1,2})_([0-9]{1,2})_years.*",
+                                        "\\1-\\2",
+                                        v),
+                                    if_else(grepl("_[0-9]{1,2}_[0-9]{1,2}_years$", v),
+                                            sub("^.*([0-9]{1,2})_([0-9]{1,2})_years$", "\\1-\\2", v),
+                                            v)))))
+  i0 <- grepl("_([0-9]{2})_([0-9]{2})_years_[A-Z]", v)
+  out[i0] <- sub("^.*_([0-9]{2})_([0-9]{2})_years_[A-Z].*$", "\\1-\\2", v[i0])
+  
+  
   if (any(grepl("_", out))) {
     stop("\n\t", paste0(head(unique(grep("_", out, value = TRUE))), collapse = "\n\t"), " present.")
   }
@@ -224,6 +237,8 @@ expect_equal(.extract_Age("2016_Census_80_84_years_Never_married_Females", FALSE
 expect_equal(.extract_Age("2006_Census_Buddhism_0_14_years", FALSE), "0-14")
 expect_equal(.extract_Age("Age_group_0_4_years_2006_Census_Persons", FALSE), "0-4")
 expect_equal(.extract_Age("2006_Census_Age_group_of_parent_15_19_years_Number_of_children_ever_born_No_children", FALSE), "15-19")
+expect_equal(.extract_Age("2006_Census_Persons_Postgraduate_Degree_Level_15_19_years", FALSE), "15-19")
+expect_equal(.extract_Age("2006_Census_Persons_15_19_years_Employed_Hours_worked_not_stated", FALSE), "15-19")
 
 local({
   input <- c("Age_group_0_4_years_2006_Census_Persons",
@@ -528,10 +543,12 @@ varIused <- NULL
 ### Persons
 
 ```{r }
-freadT(1, c(1, 9), "persons") %>%
+.region_persons <- 
+  freadT(1, c(1, 9), "persons") %>%
   .[variable %pin% "Persons$"] %>%
   Mop
 ```
+
 
 ### Persons by gender
 
@@ -545,21 +562,46 @@ freadT(1, c(1, 9), "persons") %>%
 ### Persons by age
 
 ```{r}
-freadT(1, c(10, 108), "persons") %>%
+.region_by_age <- 
+  freadT(1, c(10, 108), "persons") %>%
   .[variable %pin% "Persons$"] %>%
   extract_Age %>%
   Mop
 ```
 
+```{r}
+.region_by_age %>%
+  .[Age >= "15-19"] %>%
+  .[, .(adults = sum(persons)), keyby = c(names(.)[1], "Year")] %>%
+  assign(x = paste0(Region, "__Year_adults"), envir = .GlobalEnv)
+```
+
 
 ### Persons by age by sex
 
+
 ```{r}
-freadT(1, c(10, 108), "persons") %>%
+.region_by_age_sex <- 
+  freadT(1, c(10, 108), "persons") %>%
   .[variable %npin% "Persons$"] %>%
   extract_Sex %>%
   extract_Age %>%
   Mop
+```
+
+```{r}
+.region_by_age %>%
+  .[Age >= "15-19"] %>%
+  .[, varI := 0L] %>%
+  setnames("persons", "adults") %>%
+  assign(x = paste0(Region, "__Year_Age_adults"), envir = .GlobalEnv)
+```
+
+```{r}
+.region_by_age_sex %>%
+  .[Age >= "15-19"] %>%
+  .[, .(adults = sum(persons)), keyby = c(names(.)[1], "Year", "Sex")] %>%
+  assign(x = paste0(Region, "__Year_Sex_adults"), envir = .GlobalEnv)
 ```
 
 
@@ -585,21 +627,31 @@ freadT(1, c(109, 117), "overseas_visitors") %>%
 ### ATSI 
 
 ```{r}
-provide_complementary_observation <- function(.data, vars = "Year") {
+provide_complementary_observation <- function(.data, vars = "Year",
+                                              value.name = "persons",
+                                              compl.var.name = "Other") {
+  
   tempDT <- 
-    get(paste0(Region, "__", paste0(vars, collapse = "_"))) %>%
+    get(paste0(Region, 
+               "__",
+               paste0(c(vars, if (value.name != "persons") value.name),
+                      collapse = "_"))) %>%
     .[SA16_decoder[ASGS_Structure == Region],
       on = c(paste0(names(.)[1], "==Census_Name_2016")),
       nomatch=0L] %>%
-    setnames("Census_Code_2016", Region_key)
+    setnames("Census_Code_2016", Region_key) %>%
+    setnames(value.name, "persons")
   
   
   .data %>%
+    copy %>%
+    setnames(value.name, "persons") %>%
     .[, .(tot_in_persons = sum(persons)), keyby = c(Region_key, vars)] %>%
     .[tempDT, on = c(Region_key, vars)] %>%
     .[, persons := persons - tot_in_persons] %>%
-    .[, variable := "Other"] %>%
-    .[, .SD, .SDcols = c(Region_key, vars, "variable", "persons")] %>%
+    setnames("persons", value.name) %>%
+    .[, "variable" := compl.var.name] %>%
+    .[, .SD, .SDcols = c(Region_key, vars, "variable", value.name)] %>%
     rbind(.data, use.names = TRUE, fill = TRUE)
 }
 
@@ -1325,17 +1377,395 @@ fread29 %>%
   .[, variable := sub("^([A-Z])", "\\L\\1\\E", variable)] %>%
   dcast.data.table(formula = as.formula(paste0(Region_key, " + Year", "~", "variable")),
                    value.var = "value") %>%
-                   {
-                     dot <- .
-                     for (nom in setdiff(names(dot), c(Region_key, "Year"))) {
-                       out <- dot[, .SD, .SDcols = c(Region_key, "Year", nom)]
-                     }
-                   }
+  .[] %>%
+  
+  {
+    dot <- .
+    for (nom in setdiff(names(dot), c(Region_key, "Year"))) {
+      out <- dot[, .SD, .SDcols = c(Region_key, "Year", nom)]
+      assign(paste0(Region, "__Year_", nom),
+             value = decodeRegion(dot[, .SD, .SDcols = c(Region_key, "Year", nom)]),
+             envir = .GlobalEnv)
+    }
+  }
+```
+
+```{r}
+fread29 %>%
+  .[!endsWith(variable, "Persons")] %>%
+  extract_Sex %>%
+  .[startsWith(variable, "Percent")] %>%
+  setnames("persons", "value") %>%
+  .[, variable := sub("^Percent_(.*)_20...*$", "\\1", variable)] %>%
+  .[, variable := gsub("_([A-Za-z])", "\\U\\1\\E", variable)] %>%
+  .[, variable := sub("^([A-Z])", "\\L\\1\\E", variable)] %T>%
+  {
+    dot <- .
+    varIused <<- sort(c(varIused, unique(dot[["varI"]])))
+  } %>%
+  dcast.data.table(formula = as.formula(paste0(Region_key, " + Year + Sex", "~", "variable")),
+                   value.var = "value") %>%
+  .[] %>%
+  
+  {
+    dot <- .
+    for (nom in setdiff(names(dot), c(Region_key, "Year", "Sex"))) {
+      out <- dot[, .SD, .SDcols = c(Region_key, "Year", "Sex", nom)]
+      assign(paste0(Region, "__Year_Sex", nom),
+             value = decodeRegion(dot[, .SD, .SDcols = c(Region_key, "Year", "Sex", nom)]),
+             envir = .GlobalEnv)
+    }
+   
+  }
+```
+
+```{r}
+fread29 %>%
+  .[endsWith(variable, "Persons")] %>%
+  .[startsWith(variable, "Non_school_qualification")] %>%
+  .[, variable := sub("^Non_school_qualifications?_(.*)_20.._Census_Persons$", "\\1", variable)] %>%
+  .[!endsWith(variable, "Total")] %>%
+  .[, NonSchoolQualification := gsub("_", " ", 
+                                     sub("Certificate_Certificate",
+                                         "Certificate",
+                                         sub("_(Degree_)?Level", "", 
+                                             sub("(Certificate_Level_){2}",
+                                                 "Certificate_Level_",
+                                                 variable))))] %>%
+  .[, NonSchoolQualification := factor(NonSchoolQualification,
+                                       levels = rev(unique(.$NonSchoolQualification)),
+                                       ordered = TRUE)] %>%
+  provide_complementary_observation %>%
+  .[] %>%
+  Mop
+```
+
+```{r}
+fread29 %>%
+  .[!endsWith(variable, "Persons")] %>%
+  extract_Sex %>%
+  .[startsWith(variable, "Non_school_qualification")] %>%
+  .[, variable := sub("^Non_school_qualifications?_(.*)_20.._Census_(Males|Females)$", "\\1", variable)] %>%
+  .[!endsWith(variable, "Total")] %>%
+  .[, NonSchoolQualification := gsub("_", " ", 
+                                     sub("Certificate_Certificate",
+                                         "Certificate",
+                                         sub("_(Degree_)?Level", "", 
+                                             sub("(Certificate_Level_){2}",
+                                                 "Certificate_Level_",
+                                                 variable))))] %>%
+  .[, NonSchoolQualification := factor(NonSchoolQualification,
+                                       levels = rev(unique(.$NonSchoolQualification)),
+                                       ordered = TRUE)] %>%
+  provide_complementary_observation(vars = c("Year", "Sex")) %>%
+  .[] %>%
+  Mop
+```
+
+
+```{r}
+fread29 %>%
+  .[endsWith(variable, "Persons")] %>%
+  .[startsWith(variable, "Migration")] %>%
+  .[grepl("1_year_ago", variable)] %>%
+  .[, SameAddress1YearAgo := grepl("Lived_at_same_address_1_year_ago", variable)] %>%
+  .[] %>%
+  provide_complementary_observation %>%
+  Mop
+```
+
+```{r}
+fread29 %>%
+  .[endsWith(variable, "Persons")] %>%
+  .[startsWith(variable, "Migration")] %>%
+  .[grepl("5_years_ago", variable)] %>%
+  .[, SameAddress5YearsAgo := grepl("Lived_at_same_address_5_years_ago", variable)] %>%
+  .[] %>%
+  provide_complementary_observation %>%
+  Mop
+```
+
+
+```{r}
+fread29 %>%
+  .[!endsWith(variable, "Persons")] %>%
+  extract_Sex %>%
+  .[startsWith(variable, "Migration")] %>%
+  .[grepl("1_year_ago", variable)] %>%
+  .[, SameAddress1YearAgo := grepl("Lived_at_same_address_1_year_ago", variable)] %>%
+  .[] %>%
+  provide_complementary_observation(vars = c("Year", "Sex")) %>%
+  Mop
+```
+
+```{r}
+fread29 %>%
+  .[!endsWith(variable, "Persons")] %>%
+  extract_Sex %>%
+  .[startsWith(variable, "Migration")] %>%
+  .[grepl("5_years_ago", variable)] %>%
+  .[, SameAddress5YearsAgo := grepl("Lived_at_same_address_5_years_ago", variable)] %>%
+  .[] %>%
+  provide_complementary_observation(vars = c("Year", "Sex")) %>%
+  Mop
+```
+
+```{r}
+freadT(30, value.name = "families") %>%
+  .[!endsWith(variable, "Total")] %>%
+  .[!grepl("Census_Total", variable)] %>%
+  .[grepl("Couple|Parent", variable, ignore.case = TRUE),
+    FamilyComposition := zmatch(variable, y = c("Couple", "One parent"))] %>%
+  .[] %>%
+  .[variable %pin% "Family_income_[0-9]",
+    TotalFamilyIncome.min := 52L * as.integer(sub("^.*Family_income_([0-9]+)_.*$", "\\1", variable))] %>%
+  .[variable %pin% "Negative_Nil_income$", 
+    TotalFamilyIncome.min := -1L] %>%
+  .[, variable := sub("_Family_income.*$", "", variable)] %>%
+  .[!endsWith(variable, "Total")] %>%
+  .[!grepl("Labour_force(_status)?_not_stated", variable),
+    c("FullTimeWorkers", 
+      "PartTimeWorkers",
+      "AwayFromWork", 
+      "NotWorking") := 0L] %>%
+  .[variable %pin% "(One_e|E)mployed_full_time", FullTimeWorkers := 1L] %>%
+  .[variable %pin% "[oO]ne(_employed)?_part_time", PartTimeWorkers := 1L] %>%
+  .[variable %pin% "Employed_part_time", PartTimeWorkers := 1L] %>%
+  .[variable %pin% "one_away_from_work", AwayFromWork := 1L] %>%
+  .[variable %pin% "Employed_away_from_work$", AwayFromWork := 1L] %>%
+  .[variable %pin% "one_not_working", NotWorking := 1L] %>%
+  .[variable %pin% "Both_employed_full_time", FullTimeWorkers := 2L] %>%
+  .[variable %pin% "Both_employed_part_time", PartTimeWorkers := 2L] %>%
+  .[variable %pin% "Both_employed_away_from_work", AwayFromWork := 2L] %>%
+  .[variable %pin% "Both_not_working", NotWorking := 2L] %>%
+  .[variable %pin% "Unemployed", NotWorking := 1L] %>%
+  .[] %>%
+  .[grepl("children", variable),
+    HasChildren := !grepl("with_no_children", variable)] %>%
+  .[] %>%
+  Mop("families",
+      suborder = c("FamilyComposition",
+                   "HasChildren",
+                   "TotalFamilyIncome.min",
+                   "FullTimeWorkers", "PartTimeWorkers", "AwayFromWork", 'NotWorking')) %>%
+  .[]
+```
+
+```{r}
+freadT(31, value.name = "adults") %>%
+  .[grepl("20.._Census_Persons", variable)] %>%
+  .[!grepl("Total$", variable)] %>%
+  .[!grepl("20.._Census_Persons_Total", variable)] %>%
+  extract_Age %>%
+  .[, variable := sub("20.._Census_Persons_(.*?)_[1-9].*", "\\1", variable)] %>%
+  .[] %>%
+  .[variable != "Certificate_Level_Total"] %>%
+  
+  # Set both to NA
+  .[variable == "Level_of_education_inadequately_described",
+    variable := "Level_of_education_not_stated"] %>%
+  .[variable == "Level_of_education_not_stated",
+    adults := sum(adults),
+    by = c(Region_key, "Year", "Age")] %>%
+  unique(by = setdiff(names(.), "varI")) %>%
+  
+  .[!grepl("Level_of_education_not_stated", variable),
+    NonSchoolQualification := zmatch(variable,
+                                     c("Certificate nfd", 
+                                       "Certificate I and II Level",
+                                       "Certificate III and IV Level", 
+                                       "Advanced Diploma and Diploma",
+                                       "Bachelor",
+                                       "Graduate Diploma and Graduate Certificate", 
+                                       "Postgraduate"))] %>%
+  .[, NonSchoolQualification := factor(NonSchoolQualification, 
+                                       levels = unique(.$NonSchoolQualification), 
+                                       ordered = TRUE)] %>%
+  .[] %>%
+  Mop("adults")
+```
+
+```{r}
+freadT(31, value.name = "adults") %>%
+  .[grepl("20.._Census_(Males|Females)", variable)] %>%
+  extract_Sex %>%
+  .[!grepl("Total$", variable)] %>%
+  .[!grepl("20.._Census_(Males|Females)_Total", variable)] %>%
+  extract_Age %>%
+  .[, variable := sub("20.._Census_(?:Males|Females)_(.*?)_[1-9].*", "\\1", variable)] %>%
+  .[] %>%
+  .[variable != "Certificate_Level_Total"] %>%
+  
+  # Set both to NA
+  .[variable == "Level_of_education_inadequately_described",
+    variable := "Level_of_education_not_stated"] %>%
+  .[variable == "Level_of_education_not_stated",
+    adults := sum(adults),
+    by = c(Region_key, "Year", "Age", "Sex")] %>%
+  unique(by = setdiff(names(.), "varI")) %>%
+  
+  .[!grepl("Level_of_education_not_stated", variable),
+    NonSchoolQualification := zmatch(variable,
+                                     c("Certificate nfd", 
+                                       "Certificate I and II Level",
+                                       "Certificate III and IV Level", 
+                                       "Advanced Diploma and Diploma",
+                                       "Bachelor",
+                                       "Graduate Diploma and Graduate Certificate", 
+                                       "Postgraduate"))] %>%
+  .[, NonSchoolQualification := factor(NonSchoolQualification, 
+                                       levels = unique(.$NonSchoolQualification), 
+                                       ordered = TRUE)] %>%
+  .[] %>%
+  Mop("adults")
+```
+
+```{r}
+freadT(32, value.name = "adults") %>%
+  .[grepl("20.._Census_(Persons)", variable)] %>%
+  .[!grepl("Total$", variable)] %>%
+  .[!grepl("20.._Census_(Persons)_Total", variable)] %>%
+  extract_Age %>%
+  .[, variable := sub("20.._Census_(?:Persons)_(.*?)_[1-9].*", "\\1", variable)] %>%
+  .[] %>%
+  # Set both to NA
+  .[variable == "Field_of_study_inadequately_described",
+    variable := "Field_of_study_not_stated"] %>%
+  .[variable == "Field_of_study_not_stated",
+    adults := sum(adults),
+    by = c(Region_key, "Year", "Age")] %>%
+  unique(by = setdiff(names(.), "varI")) %>%
+  .[, FOE := gsub("_", " ", variable)] %>%
+  .[] %>%
+  Mop("adults")
+```
+
+```{r}
+freadT(32, value.name = "adults") %>%
+  .[grepl("20.._Census_(Males|Females)", variable)] %>%
+  extract_Sex %>%
+  .[!grepl("Total$", variable)] %>%
+  .[!grepl("20.._Census_(Males|Females)_Total", variable)] %>%
+  extract_Age %>%
+  .[, variable := sub("20.._Census_(?:Males|Females)_(.*?)_[1-9].*", "\\1", variable)] %>%
+  # Set both to NA
+  .[variable == "Level_of_education_inadequately_described",
+    variable := "Level_of_education_not_stated"] %>%
+  .[variable == "Level_of_education_not_stated",
+    adults := sum(adults),
+    by = c(Region_key, "Year", "Age", "Sex")] %>%
+  unique(by = setdiff(names(.), "varI")) %>%
+  .[, FOE := gsub("_", " ", variable)] %>%
+  .[] %>%
+  Mop("adults")
+```
+
+```{r}
+freadT(33, value.name = "adults") %>%
+  .[!grepl("Males|Females", variable)] %>%
+  .[!grepl("Labour_force_status_Total", variable)] %>%
+  .[!grepl("20.._Census_Persons_Total", variable)] %>%
+  .[!endsWith(variable, "Total")] %>%
+  extract_Age %>%
+  .[] %>%
+  .[, variable := sub("^.*_([A-Z][^A-Z]+)$", "\\1", variable)] %>%
+  .[] %>%
+  .[variable %enotin% "Total_labour_force"] %>%
+  .[] %>%
+  .[variable %ein% "Worked_full_time", LabourForceStatus := "Employed (full-time)"] %>%
+  .[variable %ein% "Worked_part_time", LabourForceStatus := "Employed (part-time)"] %>%
+  .[variable %ein% "Away_from_work",LabourForceStatus := "Employed (away from work)"] %>%
+  .[variable %ein% "Hours_worked_not_stated",LabourForceStatus := "Employed (hours worked not stated)"] %>%
+  .[variable %ein% "Looking_for_full_time_work",LabourForceStatus := "Unemployed (looking for full-time work)"] %>%
+  .[variable %ein% "Looking_for_part_time_work",LabourForceStatus := "Unemployed (looking for part-time work)"] %>%
+  .[variable %ein% "Not_in_the_labour_force",LabourForceStatus := "Not in the labour force"] %>%
+  .[] %>% 
+  Mop("adults")
+```
+
+```{r}
+freadT(33, value.name = "adults") %>%
+  .[grepl("Males|Females", variable)] %>%
+  extract_Sex %>%
+  .[!grepl("Labour_force_status_Total", variable)] %>%
+  .[!grepl("20.._Census_(Males|Females)_Total", variable)] %>%
+  .[!endsWith(variable, "Total")] %>%
+  extract_Age %>%
+  .[] %>%
+  .[, variable := sub("^.*_([A-Z][^A-Z]+)$", "\\1", variable)] %>%
+  .[] %>%
+  .[variable %enotin% "Total_labour_force"] %>%
+  .[] %>%
+  .[variable %ein% "Worked_full_time", LabourForceStatus := "Employed (full-time)"] %>%
+  .[variable %ein% "Worked_part_time", LabourForceStatus := "Employed (part-time)"] %>%
+  .[variable %ein% "Away_from_work",LabourForceStatus := "Employed (away from work)"] %>%
+  .[variable %ein% "Hours_worked_not_stated",LabourForceStatus := "Employed (hours worked not stated)"] %>%
+  .[variable %ein% "Looking_for_full_time_work",LabourForceStatus := "Unemployed (looking for full-time work)"] %>%
+  .[variable %ein% "Looking_for_part_time_work",LabourForceStatus := "Unemployed (looking for part-time work)"] %>%
+  .[variable %ein% "Not_in_the_labour_force",LabourForceStatus := "Not in the labour force"] %>%
+  .[] %>% 
+  Mop("adults")
+```
+
+```{r}
+freadT(34, value.name = "workers") %>%
+  .[!grepl("Males|Females", variable)] %>%
+  .[, variable := sub("_20.._Census_Persons$", "", variable)] %>%
+  .[variable != "Total"] %>%
+  .[variable != "Inadequately_described_Not_stated",
+    IndustryOfEmployment := gsub("_", " ", variable)] %>%
+
+  Mop("workers")
+  
 ```
 
 
 
+```{r}
+freadT(34, value.name = "workers") %>%
+  .[grepl("Males|Females", variable)] %>%
+  extract_Sex %>%
+  .[, variable := sub("_20.._Census_(Males|Females)$", "", variable)] %>%
+  .[variable != "Total"] %>%
+  .[variable != "Inadequately_described_Not_stated",
+    IndustryOfEmployment := gsub("_", " ", variable)] %>%
+
+  provide_complementary_observation(vars = c("Year", "Sex"),
+                                    compl.var.name = "afoihusfa",
+                                    value.name = "workers") %>%
+  .[, Employed := variable != "afoihusfa"] %>%
+  Mop("workers")
+```
 
 
+```{r}
+freadT(35, value.name = "workers") %>%
+  .[!grepl("Males|Females", variable)] %>%
+  .[, variable := sub("_20...*", "", variable)] %>%
+  .[variable != "Total"] %>%
+  .[variable != "Inadequately_described_Not_stated", 
+    Occupation := gsub("_", " ", variable)] %>%
+  .[] %>%
+  Mop("workers")
+```
+
+
+```{r}
+freadT(35, value.name = "workers") %>%
+  .[grepl("Males|Females", variable)] %>%
+  extract_Sex %>%
+  .[, variable := sub("_20...*", "", variable)] %>%
+  .[variable != "Total"] %>%
+  .[variable != "Inadequately_described_Not_stated", 
+    Occupation := gsub("_", " ", variable)] %>%
+  .[] %>%
+  Mop("workers")
+```
+
+
+
+```{r finally}
+
+```
 
 
