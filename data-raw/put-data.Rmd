@@ -125,7 +125,7 @@ freadG <- function(g, ...) {
 ```{r freadT}
 freadT <- function(g, vi = NULL, value.name = "persons") {
   gmolten <- 
-    freadG(g) %>%
+    freadG(g, logical01=FALSE) %>%
     melt.data.table(id.vars = Region_key,
                     variable.factor = FALSE,
                     value.name = value.name)
@@ -630,18 +630,26 @@ freadT(1, c(109, 117), "overseas_visitors") %>%
 provide_complementary_observation <- function(.data, vars = "Year",
                                               value.name = "persons",
                                               compl.var.name = "Other") {
+  if (Region != "LGA") {
+    meta_decoder <- SA16_decoder[ASGS_Structure == Region]
+  } else {
+    meta_decoder <-
+      LGA_2016@data %>%
+      as.data.table %>%
+      .[, .(Census_Name_2016 = as.character(LGA_NAME16),
+            Census_Code_2016 = paste0("LGA", (as.character(LGA_CODE16))))]
+  }
   
   tempDT <- 
     get(paste0(Region, 
                "__",
                paste0(c(vars, if (value.name != "persons") value.name),
                       collapse = "_"))) %>%
-    .[SA16_decoder[ASGS_Structure == Region],
+    .[meta_decoder,
       on = c(paste0(names(.)[1], "==Census_Name_2016")),
       nomatch=0L] %>%
     setnames("Census_Code_2016", Region_key) %>%
     setnames(value.name, "persons")
-  
   
   .data %>%
     copy %>%
@@ -770,6 +778,8 @@ Mop_multiple <- function(DT) {
                       perl = TRUE),
              perl = TRUE)
       
+      setnames(DT, nom, nom_)
+      
       object_name <- 
         paste0(Region,
                "__",
@@ -778,7 +788,7 @@ Mop_multiple <- function(DT) {
                nom_)
       
       assign(object_name,
-             value = DT[, .SD, .SDcols = c(Region_key, "Year", nom)],
+             value = DT[, .SD, .SDcols = c(Region_key, "Year", nom_)],
              envir = .GlobalEnv)
     }
   }
@@ -1729,11 +1739,6 @@ freadT(34, value.name = "workers") %>%
   .[variable != "Total"] %>%
   .[variable != "Inadequately_described_Not_stated",
     IndustryOfEmployment := gsub("_", " ", variable)] %>%
-
-  provide_complementary_observation(vars = c("Year", "Sex"),
-                                    compl.var.name = "afoihusfa",
-                                    value.name = "workers") %>%
-  .[, Employed := variable != "afoihusfa"] %>%
   Mop("workers")
 ```
 
@@ -1763,9 +1768,115 @@ freadT(35, value.name = "workers") %>%
 ```
 
 
+```{r document}
+document <- function(the_table) {
+  stopifnot(dir.exists("R"))
+  file.R <- file.path("R", paste0(the_table, ".R"))
+  
+  if (file.exists(file.R)) {
+    file.remove(file.R)
+  }
+  
+  DT <- get(the_table)
+  value_name <- names(DT)[ncol(DT)]
+  
+  
+  cat(paste0("#' @title ", paste0(names(DT)[-c(1:2, ncol(DT))],
+                                  collapse = ", "),
+             " by ", Region, ", Year"),
+      "\n",
+      file = file.R)
+  
+  cat(paste0("#' @description ",
+             if (value_name == tolower(value_name) && 
+                 value_name != "unemployment") {
+               paste0("Number of ", value_name)
+             } else {
+               # 'medianIncomeHouse' --> 'Median income house'
+               sub("^(.)",
+                   "\\U\\1\\E",
+                   paste0(unlist(strsplit(value_name, split = "(?<=[a-z](?=(?:[A-Z])))", perl = TRUE))))
+             }, 
+             paste0(names(DT)[-c(1:2, ncol(DT))],
+                    collapse = ", "),
+             " by ", Region, ", Year"),
+      "\n",
+      file = file.R, append = TRUE)
+  
+  cat(paste0("#' @format ",
+             prettyNum(nrow(DT), big.mark = ","), 
+             " observations and ", ncol(DT), " variables."),
+      "\n",
+      "\n",
+      file = file.R, append = TRUE)
+  
+  cat(paste0('"', the_table, '"'), file = file.R, append = TRUE)
+  cat("\n", file = file.R, append = TRUE)
+}
+```
 
-```{r finally}
 
+```{r use_data, eval=dir.exists("data")}
+# Print side-effect ok
+ced_tbls <-
+  tables(silent = TRUE) %>%
+  use_series("NAME") %>%
+  grep(pattern = paste0("^", Region), x = ., value = TRUE)
+
+if (dir.exists("data")) {
+  
+  lapply(list.files(path = "data/",
+                    full.names = TRUE),
+         file.info) %>%
+    rbindlist %$%
+    sum(size) %>%
+    divide_by(1024^2) %>%
+    cat
+  
+  region_dtas <- list.files(path = "data/",
+                            pattern = Region,
+                            full.names = TRUE)
+  
+  vapply(region_dtas,
+         file.remove,
+         logical(1)) %>%
+    all %>%
+    stopifnot
+} else {
+  provide.dir("data")
+}
+
+for (tbl in ced_tbls) {
+  document(tbl)
+  save(list = tbl, file = file.path("data", paste0(tbl, ".rda")))
+}
+
+region_dtas <- list.files(path = "data/",
+                          pattern = Region,
+                          full.names = TRUE)
+size_of_data <- 
+  lapply(list.files(path = "data/",
+                    pattern = Region,
+                    full.names = TRUE),
+         file.info) %>%
+  rbindlist %$%
+  sum(size) %>%
+  divide_by(1024^2)
+
+cat("Size before resave:\t", round(size_of_data, 1), "MB")
+# Size not large enough to justify resaving.
+# 
+# tools::resaveRdaFiles(paths = region_dtas)
+# size_of_data <- 
+#   lapply(list.files(path = "data/",
+#                     pattern = Region,
+#                     full.names = TRUE),
+#          file.info) %>%
+#   rbindlist %$%
+#   sum(size) %>%
+#   divide_by(1024^2)
+# 
+# cat("Size after resave:\t", round(size_of_data, 1), "MB")
 ```
 
 

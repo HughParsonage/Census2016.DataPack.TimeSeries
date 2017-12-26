@@ -1,0 +1,5 @@
+#' @title  by STE, Year 
+#' @description Number of persons by STE, Year 
+#' @format 27 observations and 3 variables. 
+ 
+"STE__Year"

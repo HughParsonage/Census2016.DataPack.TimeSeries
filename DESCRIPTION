@@ -1,9 +1,11 @@
 Package: Census2016.DataPack.TimeSeries
-Version: 0.0.0.9000
-Title: What the Package Does (one line, title case)
-Description: What the package does (one paragraph).
-Authors@R: person("First", "Last", , "first.last@example.com", c("aut", "cre"))
-License: What license it uses
+Version: 0.0.1
+Title: Provides ABS Time-Series Datapacks
+Description:Provides the data packs from the Australian Bureau of Statistics's 2006, 2011, and 2016 censuses in normalized form. In development.
+Authors@R: person("Hugh", "Parsonage", email = "hugh.parsonage@gmail.com", role = c("aut", "cre"))
+License: CC BY 4.0
 Encoding: UTF-8
 LazyData: true
+Depends: data.table
 ByteCompile: true
+RoxygenNote: 6.0.1
