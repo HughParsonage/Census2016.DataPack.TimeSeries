@@ -376,6 +376,34 @@ Mop <- function(DT, value.name = "persons", suborder = NULL) {
       }
     },
     
+    "adults" = {
+      adult_population <-
+        lapply(dir(path = "data-raw/data/AUST/",
+                   pattern = "T29",
+                   full.names = TRUE),
+               fread) %>%
+        rbindlist(use.names = TRUE, fill = TRUE) %>%
+        short2long %>%
+        .[, .SD, .SDcols = grep("^Persons_aged_15_years.*Persons$", names(.))] %>%
+        melt.data.table(measure.vars = names(.),
+                        value.name = "adults") %>%
+        .[, Year := as.integer(sub("^.*(2006|2011|2016).*$", "\\1", variable))]
+      
+      comparison <- 
+        adult_population[apparent_population, on = "Year"] %>%
+        .[, err := abs(ApparentPopulation - adults) / adults]
+      
+      if (any(comparison[["err"]] > 0.0004 * nrow(out))) {
+        print(comparison[, .(apparent = prettyNum(ApparentPopulation, big.mark = ","),
+                             expected = prettyNum(adults, big.mark = ","))])
+        stop("Adults under or overcounted.")
+      }
+      
+      
+      
+      
+    },
+    
     
     "occupied_private_dwellings" = {
       # freadG(15) %$% sum(C16_T_T + C06_T_T + C11_T_T)
@@ -383,8 +411,8 @@ Mop <- function(DT, value.name = "persons", suborder = NULL) {
       
       tot_dwellings <- sum(out[["occupied_private_dwellings"]])
       
-      
-      if (abs(tot_dwellings - exp_tot_dwellings) / exp_tot_dwellings > 0.0004 * nrow(out)) {
+      err <- abs(tot_dwellings - exp_tot_dwellings) / exp_tot_dwellings
+      if (err > 0.0004 * nrow(out)) {
         stop("Dwellings under or overcounted:\n",
              "\t",
              "Expected:\t", prettyNum(exp_tot_dwellings, big.mark = ","),
@@ -395,10 +423,11 @@ Mop <- function(DT, value.name = "persons", suborder = NULL) {
     },
     "occupied_private_dwellings_being_rented" = {
       exp_tot_dwellings_2016 <- 2606630
-      tot_dwellings <-
+      tot_dwellings_2016 <-
         sum(out[Year == 2016L][["occupied_private_dwellings_being_rented"]])
-
-      if (abs(tot_dwellings - exp_tot_dwellings) / exp_tot_dwellings > 0.0004 * nrow(out)) {
+      
+      err <- abs(tot_dwellings_2016 - exp_tot_dwellings_2016) / exp_tot_dwellings_2016
+      if (err > 0.0004 * nrow(out)) {
         stop("Dwellings under or overcounted:\n",
              "\t",
              "Expected:\t", prettyNum(exp_tot_dwellings, big.mark = ","),
@@ -1137,6 +1166,106 @@ freadT(20, value.name = "occupied_private_dwellings_being_rented") %>%
   Mop("occupied_private_dwellings_being_rented")
 ```
 
+
+```{r}
+freadT(22, value.name = "families_with_children") %>%
+  rbind(freadT(23, value.name = "families_with_children")) %>%
+  .[!grepl("Total", variable)] %>%
+  .[, CoupleFamily := grepl("Couple_family", variable)] %>%
+  .[, Children := match(zmatch(variable,
+                               y = c("One", "Two", "Three", "Four"),
+                               extract1 = "^.*family_with_(.*)_child(ren)?$"), 
+                        table = c("One", "Two", "Three", "Four", "Five"))] %>%
+  .[!grepl("Partial_income_stated|All_incomes_not_stated|Negative", variable),
+    TotalFamilyIncome.min := 52L * as.integer(sub("^.*Census_([0-9]+)_([0-9]+|or_more)_(Couple|One_parent).*$", "\\1", variable))] %>%
+  .[grepl("Negative", variable), TotalFamilyIncome.min := -1L] %>%
+  .[, list(families_with_children = sum(families_with_children),
+           # hack to allow Mop() to proceed
+           varI = first(varI)),
+    keyby = c(Region_key, "Year", "CoupleFamily", "Children", "TotalFamilyIncome.min")] %>%
+  Mop("families_with_children")
+```
+
+```{r}
+freadT(24, value.name = "occupied_private_dwellings_being_rented") %>%
+  .[!grepl("Total", variable)] %>%
+  # Mistake in data pack 150-224 should be 200-224
+  .[, variable := sub("Rent_150_224", "Rent_200_224", variable)] %>%
+  # If any income not stated, just set it as NA:
+  .[, variable := sub("Partial_income_stated", "All_incomes_not_stated", variable)] %>%
+  .[, 
+    .(occupied_private_dwellings_being_rented = sum(occupied_private_dwellings_being_rented),
+      varI = first(varI)),
+    keyby = c(Region_key, "Year", "variable")] %>%
+  .[variable %pin% "20.._Census_[0-9]",
+    TotalHouseholdIncome.min := 52L * as.integer(sub("^.*Census_([0-9]+)_.*$", "\\1", variable))] %>%
+  .[grepl("Negative", variable), TotalHouseholdIncome.min := -1L] %>%
+  .[variable %pin% "^20.._Census_.*_Rent_[0-9]",
+    Rent.min := as.integer(sub("^20.._Census_.*_Rent_([0-9]+).*$", "\\1", variable))] %>%
+  .[] %>%
+  # .[, list(occupied_private_dwellings_being_rented = sum(occupied_private_dwellings_being_rented),
+  #          # hack to allow Mop() to proceed
+  #          varI = first(varI)),
+  #   keyby = c(Region_key, "Year", "Rent.min", "TotalFamilyIncome.min")] %>%
+  Mop("occupied_private_dwellings_being_rented")
+```
+
+```{r, eval=FALSE}
+# Not usable
+freadT(25, value.name = "families") %>%
+  .[!grepl("Total", variable)] %>%
+  .[, FamilyComposition := zmatch(variable,
+                                  c("Couple family", "One-parent family"))] %>%
+  .[] %>%
+  .[, HasChildren := !grepl("family_with_no_children_(?!under_15)", variable)] %>%
+  .[, HasChildrenUnder15 := HasChildren & !grepl("no_children_under_15|non_dependent", variable)] %>%
+  .[, HasDependentStudents := grepl("((?<!(?:no))_dependent_students)", variable)] %>%
+  .[variable %pin% "Mortgage_repayment_[0-9]",
+    MortgageRepayment.min := as.integer(sub("^.*Mortgage_repayment_([0-9]+).*$", "\\1", variable))] %>%
+  .[] %>%
+  Mop("families")
+```
+
+```{r}
+# Selected (percent and persons in same table)
+fread29 <- suppressWarnings(freadT(29))
+
+adult_population <-
+  fread29 %>%
+  .[variable %pin% "^Persons_aged_15_years_and_over.*Persons$"] %>%
+  .[, .(tot_adults = persons), keyby = c(Region_key, "Year")]
+
+# Labour_force_status
+fread29 %>%
+  .[endsWith(variable, "Persons")] %>%
+  .[variable %pin% c("^Labour_force_status", 
+                     "^Not_in_the_labour_force")] %>%
+  setnames("persons", "adults") %>%
+  .[!grepl("Labour_force_status_Total", variable)] %>%
+  .[variable %pin% "^Labour_force_status",
+     LabourForceStatus := zmatch(variable, 
+                                 c("Employed (full-time)",
+                                   "Employed (part-time)",
+                                   "Employed (away from work)",
+                                   "Unemployed (looking for work)"),
+                                 extract1 = "^Labour_force_status_(.*)_20.*$")] %>%
+  .[variable %pin% "^Not_in_the_labour_force",
+    LabourForceStatus := "Not in the labour force"] %>%
+  
+  # Need to account for 'not applicable' to ensure totals 
+  # sum to adult population
+  .[adult_population, on = c(Region_key, "Year")] %>%
+  .[, residual_adults := tot_adults - sum(adults), keyby = c(Region_key, "Year")] %>%
+  .[, .SD, .SDcols = c(Region_key,
+                       "varI",
+                       "Year", "LabourForceStatus", "adults", "residual_adults")] %>%
+  melt.data.table(measure.vars = grep("adults", names(.), value = TRUE),
+                  value.name = "adults") %>%
+  .[variable == "residual_adults", LabourForceStatus := NA_character_] %>%
+  unique(by = c(Region_key, "Year", "LabourForceStatus")) %>%
+  Mop("adults")
+
+```
 
 
 
