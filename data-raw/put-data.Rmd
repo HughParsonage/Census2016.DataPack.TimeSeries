@@ -269,6 +269,49 @@ extract_CountryOfBirth <- function(DT) {
 ```
 
 
+```{r decodeRegion}
+decodeRegion <- function(DT) {
+  out <- DT
+  decoder <- 
+    switch(Region,
+           "SA2" = SA16_decoder[ASGS_Structure == Region,
+                                .(SA2_MAIN16 = Census_Code_2016,
+                                  SA2_NAME16 = Census_Name_2016)],
+           "SA3" = SA16_decoder[ASGS_Structure == Region,
+                                .(SA3_MAIN16 = Census_Code_2016,
+                                  SA3_NAME16 = Census_Name_2016)],
+           "SA4" = SA16_decoder[ASGS_Structure == Region,
+                                .(SA4_MAIN16 = Census_Code_2016,
+                                  SA4_NAME16 = Census_Name_2016)],
+           "STE" = SA16_decoder[ASGS_Structure == Region,
+                                .(STE_MAIN16 = Census_Code_2016,
+                                  STE_NAME16 = Census_Name_2016)],
+           "LGA" = {
+             NonABS_decoder[ASGS_Structure == Region,
+                            .(Census_Code_2016, LGA_NAME16 = Census_Name_2016)]
+           },
+           "CED" = {
+             NonABS_decoder[ASGS_Structure == Region,
+                            .(Census_Code_2016, CED_NAME16 = Census_Name_2016)]
+           },
+           "SED" = {
+             NonABS_decoder[ASGS_Structure == Region,
+                            .(Census_Code_2016, SED_NAME16 = Census_Name_2016)]
+           },
+           "SSC" = {
+             NonABS_decoder[ASGS_Structure == Region,
+                            .(Census_Code_2016, SSC_NAME16 = Census_Name_2016)]
+           },
+           NULL) %>%
+    unique %>%
+    setnames(1, Region_key)
+  
+  decoded_out <- decoder[out, on = Region_key]
+  decoded_out[, (Region_key) := NULL]
+  decoded_out
+}
+```
+
 
 
 ```{r Mop}
@@ -460,43 +503,7 @@ Mop <- function(DT, value.name = "persons", suborder = NULL) {
     stop("`", object_name, "` already defined.")
   }
   
-  decoder <- 
-    switch(Region,
-           "SA2" = SA16_decoder[ASGS_Structure == Region,
-                                .(SA2_MAIN16 = Census_Code_2016,
-                                  SA2_NAME16 = Census_Name_2016)],
-           "SA3" = SA16_decoder[ASGS_Structure == Region,
-                                .(SA3_MAIN16 = Census_Code_2016,
-                                  SA3_NAME16 = Census_Name_2016)],
-           "SA4" = SA16_decoder[ASGS_Structure == Region,
-                                .(SA4_MAIN16 = Census_Code_2016,
-                                  SA4_NAME16 = Census_Name_2016)],
-           "STE" = SA16_decoder[ASGS_Structure == Region,
-                                .(STE_MAIN16 = Census_Code_2016,
-                                  STE_NAME16 = Census_Name_2016)],
-           "LGA" = {
-             NonABS_decoder[ASGS_Structure == Region,
-                            .(Census_Code_2016, LGA_NAME16 = Census_Name_2016)]
-           },
-           "CED" = {
-             NonABS_decoder[ASGS_Structure == Region,
-                            .(Census_Code_2016, CED_NAME16 = Census_Name_2016)]
-           },
-           "SED" = {
-             NonABS_decoder[ASGS_Structure == Region,
-                            .(Census_Code_2016, SED_NAME16 = Census_Name_2016)]
-           },
-           "SSC" = {
-             NonABS_decoder[ASGS_Structure == Region,
-                            .(Census_Code_2016, SSC_NAME16 = Census_Name_2016)]
-           },
-           NULL) %>%
-    unique %>%
-    setnames(1, Region_key)
-  
-  decoded_out <- decoder[out, on = Region_key]
-  decoded_out[, (Region_key) := NULL]
-  
+  decoded_out <- decodeRegion(out)
   if (!anyDuplicated(decoded_out, by = setdiff(names(decoded_out), value.name))) {
     out <- decoded_out 
   } else {
@@ -1234,7 +1241,9 @@ adult_population <-
   fread29 %>%
   .[variable %pin% "^Persons_aged_15_years_and_over.*Persons$"] %>%
   .[, .(tot_adults = persons), keyby = c(Region_key, "Year")]
+```
 
+```{r}
 # Labour_force_status
 fread29 %>%
   .[endsWith(variable, "Persons")] %>%
@@ -1268,6 +1277,61 @@ fread29 %>%
 ```
 
 
+```{r}
+adult_population <-
+  fread29 %>%
+  .[variable %pin% "^Persons_aged_15_years_and_over.*(Males|Females)$"] %>%
+  extract_Sex %>%
+  .[, .(tot_adults = persons), keyby = c(Region_key, "Sex", "Year")]
+
+fread29 %>%
+  .[!endsWith(variable, "Persons")] %>%
+  extract_Sex %>%
+  .[variable %pin% c("^Labour_force_status", 
+                     "^Not_in_the_labour_force")] %>%
+  setnames("persons", "adults") %>%
+  .[!grepl("Labour_force_status_Total", variable)] %>%
+  .[variable %pin% "^Labour_force_status",
+     LabourForceStatus := zmatch(variable, 
+                                 c("Employed (full-time)",
+                                   "Employed (part-time)",
+                                   "Employed (away from work)",
+                                   "Unemployed (looking for work)"),
+                                 extract1 = "^Labour_force_status_(.*)_20.*$")] %>%
+  .[variable %pin% "^Not_in_the_labour_force",
+    LabourForceStatus := "Not in the labour force"] %>%
+  
+  # Need to account for 'not applicable' to ensure totals 
+  # sum to adult population
+  .[adult_population, on = c(Region_key, "Year", "Sex")] %>%
+  .[, residual_adults := tot_adults - sum(adults), keyby = c(Region_key, "Year", "Sex")] %>%
+  .[, .SD, .SDcols = c(Region_key,
+                       "varI",
+                       "Year", "LabourForceStatus", "Sex", "adults", "residual_adults")] %>%
+  melt.data.table(measure.vars = grep("adults", names(.), value = TRUE),
+                  value.name = "adults") %>%
+  .[variable == "residual_adults", LabourForceStatus := NA_character_] %>%
+  unique(by = c(Region_key, "Year", "Sex", "LabourForceStatus")) %>%
+  Mop("adults")
+```
+
+```{r}
+fread29 %>%
+  .[endsWith(variable, "Persons")] %>%
+  .[startsWith(variable, "Percent")] %>%
+  setnames("persons", "value") %>%
+  .[, variable := sub("^Percent_(.*)_20...*$", "\\1", variable)] %>%
+  .[, variable := gsub("_([A-Za-z])", "\\U\\1\\E", variable)] %>%
+  .[, variable := sub("^([A-Z])", "\\L\\1\\E", variable)] %>%
+  dcast.data.table(formula = as.formula(paste0(Region_key, " + Year", "~", "variable")),
+                   value.var = "value") %>%
+                   {
+                     dot <- .
+                     for (nom in setdiff(names(dot), c(Region_key, "Year"))) {
+                       out <- dot[, .SD, .SDcols = c(Region_key, "Year", nom)]
+                     }
+                   }
+```
 
 
 
