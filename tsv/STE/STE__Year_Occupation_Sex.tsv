@@ -1,0 +1,487 @@
+STE_NAME16	Year	Occupation	Sex	workers
+New South Wales	2006		F	22520
+New South Wales	2006		M	32958
+New South Wales	2006	Clerical and administrative workers	F	342353
+New South Wales	2006	Clerical and administrative workers	M	105598
+New South Wales	2006	Community and personal service workers	F	166977
+New South Wales	2006	Community and personal service workers	M	82600
+New South Wales	2006	Labourers	F	98100
+New South Wales	2006	Labourers	M	179444
+New South Wales	2006	Machinery operators and drivers	F	18727
+New South Wales	2006	Machinery operators and drivers	M	168407
+New South Wales	2006	Managers	F	137247
+New South Wales	2006	Managers	M	259213
+New South Wales	2006	Professionals	F	323519
+New South Wales	2006	Professionals	M	292761
+New South Wales	2006	Sales workers	F	171302
+New South Wales	2006	Sales workers	M	110985
+New South Wales	2006	Technicians and trades workers	F	58244
+New South Wales	2006	Technicians and trades workers	M	338475
+New South Wales	2011		F	23151
+New South Wales	2011		M	34759
+New South Wales	2011	Clerical and administrative workers	F	359086
+New South Wales	2011	Clerical and administrative workers	M	114052
+New South Wales	2011	Community and personal service workers	F	200760
+New South Wales	2011	Community and personal service workers	M	96909
+New South Wales	2011	Labourers	F	93568
+New South Wales	2011	Labourers	M	179558
+New South Wales	2011	Machinery operators and drivers	F	18809
+New South Wales	2011	Machinery operators and drivers	M	180628
+New South Wales	2011	Managers	F	149210
+New South Wales	2011	Managers	M	269125
+New South Wales	2011	Professionals	F	379832
+New South Wales	2011	Professionals	M	333717
+New South Wales	2011	Sales workers	F	176888
+New South Wales	2011	Sales workers	M	113607
+New South Wales	2011	Technicians and trades workers	F	62614
+New South Wales	2011	Technicians and trades workers	M	352057
+New South Wales	2016		F	25568
+New South Wales	2016		M	36937
+New South Wales	2016	Clerical and administrative workers	F	352824
+New South Wales	2016	Clerical and administrative workers	M	115157
+New South Wales	2016	Community and personal service workers	F	241506
+New South Wales	2016	Community and personal service workers	M	108753
+New South Wales	2016	Labourers	F	101060
+New South Wales	2016	Labourers	M	196828
+New South Wales	2016	Machinery operators and drivers	F	20736
+New South Wales	2016	Machinery operators and drivers	M	186100
+New South Wales	2016	Managers	F	169733
+New South Wales	2016	Managers	M	286353
+New South Wales	2016	Professionals	F	435609
+New South Wales	2016	Professionals	M	362516
+New South Wales	2016	Sales workers	F	187657
+New South Wales	2016	Sales workers	M	123753
+New South Wales	2016	Technicians and trades workers	F	66581
+New South Wales	2016	Technicians and trades workers	M	362657
+Victoria	2006		F	18395
+Victoria	2006		M	26193
+Victoria	2006	Clerical and administrative workers	F	254946
+Victoria	2006	Clerical and administrative workers	M	82471
+Victoria	2006	Community and personal service workers	F	132088
+Victoria	2006	Community and personal service workers	M	58397
+Victoria	2006	Labourers	F	83724
+Victoria	2006	Labourers	M	140819
+Victoria	2006	Machinery operators and drivers	F	18854
+Victoria	2006	Machinery operators and drivers	M	130368
+Victoria	2006	Managers	F	101926
+Victoria	2006	Managers	M	204395
+Victoria	2006	Professionals	F	250008
+Victoria	2006	Professionals	M	222294
+Victoria	2006	Sales workers	F	141192
+Victoria	2006	Sales workers	M	89183
+Victoria	2006	Technicians and trades workers	F	47779
+Victoria	2006	Technicians and trades workers	M	271411
+Victoria	2011		F	22765
+Victoria	2011		M	33458
+Victoria	2011	Clerical and administrative workers	F	272880
+Victoria	2011	Clerical and administrative workers	M	91616
+Victoria	2011	Community and personal service workers	F	164258
+Victoria	2011	Community and personal service workers	M	70122
+Victoria	2011	Labourers	F	79954
+Victoria	2011	Labourers	M	147230
+Victoria	2011	Machinery operators and drivers	F	17833
+Victoria	2011	Machinery operators and drivers	M	136709
+Victoria	2011	Managers	F	114688
+Victoria	2011	Managers	M	218238
+Victoria	2011	Professionals	F	303619
+Victoria	2011	Professionals	M	261157
+Victoria	2011	Sales workers	F	149904
+Victoria	2011	Sales workers	M	95426
+Victoria	2011	Technicians and trades workers	F	53204
+Victoria	2011	Technicians and trades workers	M	297554
+Victoria	2016		F	19134
+Victoria	2016		M	27790
+Victoria	2016	Clerical and administrative workers	F	268855
+Victoria	2016	Clerical and administrative workers	M	94359
+Victoria	2016	Community and personal service workers	F	203205
+Victoria	2016	Community and personal service workers	M	86142
+Victoria	2016	Labourers	F	85549
+Victoria	2016	Labourers	M	161881
+Victoria	2016	Machinery operators and drivers	F	17645
+Victoria	2016	Machinery operators and drivers	M	141549
+Victoria	2016	Managers	F	133394
+Victoria	2016	Managers	M	236522
+Victoria	2016	Professionals	F	349220
+Victoria	2016	Professionals	M	286999
+Victoria	2016	Sales workers	F	160845
+Victoria	2016	Sales workers	M	104297
+Victoria	2016	Technicians and trades workers	F	58163
+Victoria	2016	Technicians and trades workers	M	300585
+Queensland	2006		F	12930
+Queensland	2006		M	19164
+Queensland	2006	Clerical and administrative workers	F	212577
+Queensland	2006	Clerical and administrative workers	M	56619
+Queensland	2006	Community and personal service workers	F	116803
+Queensland	2006	Community and personal service workers	M	49591
+Queensland	2006	Labourers	F	79341
+Queensland	2006	Labourers	M	137910
+Queensland	2006	Machinery operators and drivers	F	12639
+Queensland	2006	Machinery operators and drivers	M	119476
+Queensland	2006	Managers	F	80496
+Queensland	2006	Managers	M	145199
+Queensland	2006	Professionals	F	168364
+Queensland	2006	Professionals	M	144509
+Queensland	2006	Sales workers	F	117797
+Queensland	2006	Sales workers	M	71240
+Queensland	2006	Technicians and trades workers	F	39473
+Queensland	2006	Technicians and trades workers	M	240867
+Queensland	2011		F	15274
+Queensland	2011		M	21754
+Queensland	2011	Clerical and administrative workers	F	236456
+Queensland	2011	Clerical and administrative workers	M	62868
+Queensland	2011	Community and personal service workers	F	142429
+Queensland	2011	Community and personal service workers	M	60554
+Queensland	2011	Labourers	F	78176
+Queensland	2011	Labourers	M	137056
+Queensland	2011	Machinery operators and drivers	F	13907
+Queensland	2011	Machinery operators and drivers	M	135415
+Queensland	2011	Managers	F	89790
+Queensland	2011	Managers	M	155813
+Queensland	2011	Professionals	F	213150
+Queensland	2011	Professionals	M	172438
+Queensland	2011	Sales workers	F	125390
+Queensland	2011	Sales workers	M	74247
+Queensland	2011	Technicians and trades workers	F	43223
+Queensland	2011	Technicians and trades workers	M	261338
+Queensland	2016		F	13638
+Queensland	2016		M	20957
+Queensland	2016	Clerical and administrative workers	F	228238
+Queensland	2016	Clerical and administrative workers	M	63083
+Queensland	2016	Community and personal service workers	F	171234
+Queensland	2016	Community and personal service workers	M	70722
+Queensland	2016	Labourers	F	81723
+Queensland	2016	Labourers	M	143544
+Queensland	2016	Machinery operators and drivers	F	14539
+Queensland	2016	Machinery operators and drivers	M	133094
+Queensland	2016	Managers	F	98596
+Queensland	2016	Managers	M	159911
+Queensland	2016	Professionals	F	242768
+Queensland	2016	Professionals	M	181149
+Queensland	2016	Sales workers	F	129834
+Queensland	2016	Sales workers	M	77965
+Queensland	2016	Technicians and trades workers	F	45898
+Queensland	2016	Technicians and trades workers	M	259548
+South Australia	2006		F	4017
+South Australia	2006		M	6650
+South Australia	2006	Clerical and administrative workers	F	76789
+South Australia	2006	Clerical and administrative workers	M	23451
+South Australia	2006	Community and personal service workers	F	46483
+South Australia	2006	Community and personal service workers	M	18613
+South Australia	2006	Labourers	F	32332
+South Australia	2006	Labourers	M	53552
+South Australia	2006	Machinery operators and drivers	F	3950
+South Australia	2006	Machinery operators and drivers	M	40137
+South Australia	2006	Managers	F	31096
+South Australia	2006	Managers	M	61486
+South Australia	2006	Professionals	F	68993
+South Australia	2006	Professionals	M	58156
+South Australia	2006	Sales workers	F	41275
+South Australia	2006	Sales workers	M	25169
+South Australia	2006	Technicians and trades workers	F	15492
+South Australia	2006	Technicians and trades workers	M	82253
+South Australia	2011		F	4462
+South Australia	2011		M	7696
+South Australia	2011	Clerical and administrative workers	F	81674
+South Australia	2011	Clerical and administrative workers	M	24543
+South Australia	2011	Community and personal service workers	F	55263
+South Australia	2011	Community and personal service workers	M	22437
+South Australia	2011	Labourers	F	29799
+South Australia	2011	Labourers	M	52520
+South Australia	2011	Machinery operators and drivers	F	3794
+South Australia	2011	Machinery operators and drivers	M	43275
+South Australia	2011	Managers	F	31747
+South Australia	2011	Managers	M	61550
+South Australia	2011	Professionals	F	80511
+South Australia	2011	Professionals	M	64612
+South Australia	2011	Sales workers	F	44422
+South Australia	2011	Sales workers	M	26451
+South Australia	2011	Technicians and trades workers	F	16404
+South Australia	2011	Technicians and trades workers	M	88189
+South Australia	2016		F	4586
+South Australia	2016		M	6923
+South Australia	2016	Clerical and administrative workers	F	76062
+South Australia	2016	Clerical and administrative workers	M	23478
+South Australia	2016	Community and personal service workers	F	63618
+South Australia	2016	Community and personal service workers	M	26009
+South Australia	2016	Labourers	F	29609
+South Australia	2016	Labourers	M	53241
+South Australia	2016	Machinery operators and drivers	F	3399
+South Australia	2016	Machinery operators and drivers	M	42117
+South Australia	2016	Managers	F	33836
+South Australia	2016	Managers	M	60235
+South Australia	2016	Professionals	F	86234
+South Australia	2016	Professionals	M	64852
+South Australia	2016	Sales workers	F	44558
+South Australia	2016	Sales workers	M	27204
+South Australia	2016	Technicians and trades workers	F	16672
+South Australia	2016	Technicians and trades workers	M	83461
+Western Australia	2006		F	5503
+Western Australia	2006		M	9180
+Western Australia	2006	Clerical and administrative workers	F	106582
+Western Australia	2006	Clerical and administrative workers	M	29393
+Western Australia	2006	Community and personal service workers	F	59120
+Western Australia	2006	Community and personal service workers	M	23803
+Western Australia	2006	Labourers	F	37079
+Western Australia	2006	Labourers	M	64942
+Western Australia	2006	Machinery operators and drivers	F	6707
+Western Australia	2006	Machinery operators and drivers	M	61186
+Western Australia	2006	Managers	F	39136
+Western Australia	2006	Managers	M	77898
+Western Australia	2006	Professionals	F	90270
+Western Australia	2006	Professionals	M	83690
+Western Australia	2006	Sales workers	F	56181
+Western Australia	2006	Sales workers	M	31902
+Western Australia	2006	Technicians and trades workers	F	22061
+Western Australia	2006	Technicians and trades workers	M	131506
+Western Australia	2011		F	5983
+Western Australia	2011		M	10204
+Western Australia	2011	Clerical and administrative workers	F	123835
+Western Australia	2011	Clerical and administrative workers	M	34347
+Western Australia	2011	Community and personal service workers	F	73681
+Western Australia	2011	Community and personal service workers	M	29698
+Western Australia	2011	Labourers	F	37764
+Western Australia	2011	Labourers	M	68465
+Western Australia	2011	Machinery operators and drivers	F	8826
+Western Australia	2011	Machinery operators and drivers	M	75032
+Western Australia	2011	Managers	F	45219
+Western Australia	2011	Managers	M	88582
+Western Australia	2011	Professionals	F	114832
+Western Australia	2011	Professionals	M	103522
+Western Australia	2011	Sales workers	F	61058
+Western Australia	2011	Sales workers	M	33540
+Western Australia	2011	Technicians and trades workers	F	25952
+Western Australia	2011	Technicians and trades workers	M	157351
+Western Australia	2016		F	7164
+Western Australia	2016		M	11962
+Western Australia	2016	Clerical and administrative workers	F	117227
+Western Australia	2016	Clerical and administrative workers	M	33182
+Western Australia	2016	Community and personal service workers	F	88337
+Western Australia	2016	Community and personal service workers	M	34549
+Western Australia	2016	Labourers	F	41438
+Western Australia	2016	Labourers	M	71162
+Western Australia	2016	Machinery operators and drivers	F	9326
+Western Australia	2016	Machinery operators and drivers	M	77073
+Western Australia	2016	Managers	F	50179
+Western Australia	2016	Managers	M	89176
+Western Australia	2016	Professionals	F	131093
+Western Australia	2016	Professionals	M	106140
+Western Australia	2016	Sales workers	F	65407
+Western Australia	2016	Sales workers	M	36926
+Western Australia	2016	Technicians and trades workers	F	27968
+Western Australia	2016	Technicians and trades workers	M	159429
+Tasmania	2006		F	1201
+Tasmania	2006		M	1827
+Tasmania	2006	Clerical and administrative workers	F	22036
+Tasmania	2006	Clerical and administrative workers	M	6624
+Tasmania	2006	Community and personal service workers	F	14517
+Tasmania	2006	Community and personal service workers	M	5948
+Tasmania	2006	Labourers	F	10436
+Tasmania	2006	Labourers	M	15135
+Tasmania	2006	Machinery operators and drivers	F	1292
+Tasmania	2006	Machinery operators and drivers	M	13293
+Tasmania	2006	Managers	F	8878
+Tasmania	2006	Managers	M	17413
+Tasmania	2006	Professionals	F	19869
+Tasmania	2006	Professionals	M	16021
+Tasmania	2006	Sales workers	F	12883
+Tasmania	2006	Sales workers	M	7421
+Tasmania	2006	Technicians and trades workers	F	4816
+Tasmania	2006	Technicians and trades workers	M	25143
+Tasmania	2011		F	1304
+Tasmania	2011		M	1970
+Tasmania	2011	Clerical and administrative workers	F	23197
+Tasmania	2011	Clerical and administrative workers	M	6854
+Tasmania	2011	Community and personal service workers	F	17524
+Tasmania	2011	Community and personal service workers	M	6698
+Tasmania	2011	Labourers	F	9993
+Tasmania	2011	Labourers	M	14659
+Tasmania	2011	Machinery operators and drivers	F	1118
+Tasmania	2011	Machinery operators and drivers	M	13458
+Tasmania	2011	Managers	F	9212
+Tasmania	2011	Managers	M	17758
+Tasmania	2011	Professionals	F	23014
+Tasmania	2011	Professionals	M	17129
+Tasmania	2011	Sales workers	F	13639
+Tasmania	2011	Sales workers	M	7516
+Tasmania	2011	Technicians and trades workers	F	5227
+Tasmania	2011	Technicians and trades workers	M	27035
+Tasmania	2016		F	1542
+Tasmania	2016		M	2223
+Tasmania	2016	Clerical and administrative workers	F	21526
+Tasmania	2016	Clerical and administrative workers	M	6668
+Tasmania	2016	Community and personal service workers	F	19527
+Tasmania	2016	Community and personal service workers	M	7230
+Tasmania	2016	Labourers	F	10323
+Tasmania	2016	Labourers	M	14854
+Tasmania	2016	Machinery operators and drivers	F	1002
+Tasmania	2016	Machinery operators and drivers	M	12799
+Tasmania	2016	Managers	F	9404
+Tasmania	2016	Managers	M	17059
+Tasmania	2016	Professionals	F	23765
+Tasmania	2016	Professionals	M	17011
+Tasmania	2016	Sales workers	F	13716
+Tasmania	2016	Sales workers	M	7686
+Tasmania	2016	Technicians and trades workers	F	5279
+Tasmania	2016	Technicians and trades workers	M	24958
+Northern Territory	2006		F	924
+Northern Territory	2006		M	1511
+Northern Territory	2006	Clerical and administrative workers	F	9837
+Northern Territory	2006	Clerical and administrative workers	M	2837
+Northern Territory	2006	Community and personal service workers	F	6077
+Northern Territory	2006	Community and personal service workers	M	4831
+Northern Territory	2006	Labourers	F	3491
+Northern Territory	2006	Labourers	M	6875
+Northern Territory	2006	Machinery operators and drivers	F	421
+Northern Territory	2006	Machinery operators and drivers	M	4682
+Northern Territory	2006	Managers	F	3957
+Northern Territory	2006	Managers	M	6587
+Northern Territory	2006	Professionals	F	9122
+Northern Territory	2006	Professionals	M	6719
+Northern Territory	2006	Sales workers	F	4162
+Northern Territory	2006	Sales workers	M	2271
+Northern Territory	2006	Technicians and trades workers	F	1787
+Northern Territory	2006	Technicians and trades workers	M	11084
+Northern Territory	2011		F	948
+Northern Territory	2011		M	1419
+Northern Territory	2011	Clerical and administrative workers	F	11348
+Northern Territory	2011	Clerical and administrative workers	M	3120
+Northern Territory	2011	Community and personal service workers	F	7004
+Northern Territory	2011	Community and personal service workers	M	6184
+Northern Territory	2011	Labourers	F	3244
+Northern Territory	2011	Labourers	M	6177
+Northern Territory	2011	Machinery operators and drivers	F	561
+Northern Territory	2011	Machinery operators and drivers	M	5408
+Northern Territory	2011	Managers	F	4657
+Northern Territory	2011	Managers	M	7179
+Northern Territory	2011	Professionals	F	11542
+Northern Territory	2011	Professionals	M	8096
+Northern Territory	2011	Sales workers	F	4279
+Northern Territory	2011	Sales workers	M	2395
+Northern Territory	2011	Technicians and trades workers	F	2030
+Northern Territory	2011	Technicians and trades workers	M	12875
+Northern Territory	2016		F	973
+Northern Territory	2016		M	1564
+Northern Territory	2016	Clerical and administrative workers	F	10899
+Northern Territory	2016	Clerical and administrative workers	M	3203
+Northern Territory	2016	Community and personal service workers	F	7945
+Northern Territory	2016	Community and personal service workers	M	6237
+Northern Territory	2016	Labourers	F	3310
+Northern Territory	2016	Labourers	M	6329
+Northern Territory	2016	Machinery operators and drivers	F	569
+Northern Territory	2016	Machinery operators and drivers	M	5309
+Northern Territory	2016	Managers	F	5137
+Northern Territory	2016	Managers	M	7385
+Northern Territory	2016	Professionals	F	12305
+Northern Territory	2016	Professionals	M	8350
+Northern Territory	2016	Sales workers	F	4386
+Northern Territory	2016	Sales workers	M	2633
+Northern Territory	2016	Technicians and trades workers	F	2072
+Northern Territory	2016	Technicians and trades workers	M	14109
+Australian Capital Territory	2006		F	1082
+Australian Capital Territory	2006		M	1497
+Australian Capital Territory	2006	Clerical and administrative workers	F	23596
+Australian Capital Territory	2006	Clerical and administrative workers	M	9987
+Australian Capital Territory	2006	Community and personal service workers	F	9750
+Australian Capital Territory	2006	Community and personal service workers	M	6191
+Australian Capital Territory	2006	Labourers	F	3014
+Australian Capital Territory	2006	Labourers	M	6169
+Australian Capital Territory	2006	Machinery operators and drivers	F	395
+Australian Capital Territory	2006	Machinery operators and drivers	M	3990
+Australian Capital Territory	2006	Managers	F	10870
+Australian Capital Territory	2006	Managers	M	16305
+Australian Capital Territory	2006	Professionals	F	25636
+Australian Capital Territory	2006	Professionals	M	25935
+Australian Capital Territory	2006	Sales workers	F	7945
+Australian Capital Territory	2006	Sales workers	M	5266
+Australian Capital Territory	2006	Technicians and trades workers	F	3285
+Australian Capital Territory	2006	Technicians and trades workers	M	15385
+Australian Capital Territory	2011		F	1688
+Australian Capital Territory	2011		M	2139
+Australian Capital Territory	2011	Clerical and administrative workers	F	26049
+Australian Capital Territory	2011	Clerical and administrative workers	M	11462
+Australian Capital Territory	2011	Community and personal service workers	F	11069
+Australian Capital Territory	2011	Community and personal service workers	M	7161
+Australian Capital Territory	2011	Labourers	F	2787
+Australian Capital Territory	2011	Labourers	M	6478
+Australian Capital Territory	2011	Machinery operators and drivers	F	385
+Australian Capital Territory	2011	Machinery operators and drivers	M	4292
+Australian Capital Territory	2011	Managers	F	12869
+Australian Capital Territory	2011	Managers	M	18164
+Australian Capital Territory	2011	Professionals	F	29304
+Australian Capital Territory	2011	Professionals	M	28777
+Australian Capital Territory	2011	Sales workers	F	7828
+Australian Capital Territory	2011	Sales workers	M	5536
+Australian Capital Territory	2011	Technicians and trades workers	F	3316
+Australian Capital Territory	2011	Technicians and trades workers	M	16587
+Australian Capital Territory	2016		F	2301
+Australian Capital Territory	2016		M	2830
+Australian Capital Territory	2016	Clerical and administrative workers	F	24044
+Australian Capital Territory	2016	Clerical and administrative workers	M	10620
+Australian Capital Territory	2016	Community and personal service workers	F	13269
+Australian Capital Territory	2016	Community and personal service workers	M	8424
+Australian Capital Territory	2016	Labourers	F	3221
+Australian Capital Territory	2016	Labourers	M	7133
+Australian Capital Territory	2016	Machinery operators and drivers	F	357
+Australian Capital Territory	2016	Machinery operators and drivers	M	4332
+Australian Capital Territory	2016	Managers	F	13929
+Australian Capital Territory	2016	Managers	M	18854
+Australian Capital Territory	2016	Professionals	F	32204
+Australian Capital Territory	2016	Professionals	M	30517
+Australian Capital Territory	2016	Sales workers	F	8203
+Australian Capital Territory	2016	Sales workers	M	5760
+Australian Capital Territory	2016	Technicians and trades workers	F	3384
+Australian Capital Territory	2016	Technicians and trades workers	M	16257
+Other Territories	2006		F	7
+Other Territories	2006		M	23
+Other Territories	2006	Clerical and administrative workers	F	84
+Other Territories	2006	Clerical and administrative workers	M	29
+Other Territories	2006	Community and personal service workers	F	77
+Other Territories	2006	Community and personal service workers	M	39
+Other Territories	2006	Labourers	F	42
+Other Territories	2006	Labourers	M	113
+Other Territories	2006	Machinery operators and drivers	F	5
+Other Territories	2006	Machinery operators and drivers	M	93
+Other Territories	2006	Managers	F	35
+Other Territories	2006	Managers	M	133
+Other Territories	2006	Professionals	F	83
+Other Territories	2006	Professionals	M	73
+Other Territories	2006	Sales workers	F	19
+Other Territories	2006	Sales workers	M	6
+Other Territories	2006	Technicians and trades workers	F	26
+Other Territories	2006	Technicians and trades workers	M	175
+Other Territories	2011		F	9
+Other Territories	2011		M	24
+Other Territories	2011	Clerical and administrative workers	F	115
+Other Territories	2011	Clerical and administrative workers	M	38
+Other Territories	2011	Community and personal service workers	F	87
+Other Territories	2011	Community and personal service workers	M	52
+Other Territories	2011	Labourers	F	68
+Other Territories	2011	Labourers	M	99
+Other Territories	2011	Machinery operators and drivers	F	9
+Other Territories	2011	Machinery operators and drivers	M	96
+Other Territories	2011	Managers	F	49
+Other Territories	2011	Managers	M	119
+Other Territories	2011	Professionals	F	105
+Other Territories	2011	Professionals	M	86
+Other Territories	2011	Sales workers	F	20
+Other Territories	2011	Sales workers	M	5
+Other Territories	2011	Technicians and trades workers	F	18
+Other Territories	2011	Technicians and trades workers	M	179
+Other Territories	2016		F	12
+Other Territories	2016		M	43
+Other Territories	2016	Clerical and administrative workers	F	200
+Other Territories	2016	Clerical and administrative workers	M	52
+Other Territories	2016	Community and personal service workers	F	187
+Other Territories	2016	Community and personal service workers	M	112
+Other Territories	2016	Labourers	F	132
+Other Territories	2016	Labourers	M	172
+Other Territories	2016	Machinery operators and drivers	F	16
+Other Territories	2016	Machinery operators and drivers	M	152
+Other Territories	2016	Managers	F	140
+Other Territories	2016	Managers	M	203
+Other Territories	2016	Professionals	F	146
+Other Territories	2016	Professionals	M	103
+Other Territories	2016	Sales workers	F	104
+Other Territories	2016	Sales workers	M	29
+Other Territories	2016	Technicians and trades workers	F	54
+Other Territories	2016	Technicians and trades workers	M	324

@@ -1,0 +1,2149 @@
+SA3_NAME16	Year	Sex	persons
+Queanbeyan	2006	F	24492
+Queanbeyan	2006	M	24578
+Queanbeyan	2011	F	26660
+Queanbeyan	2011	M	26852
+Queanbeyan	2016	F	28501
+Queanbeyan	2016	M	28828
+Snowy Mountains	2006	F	8988
+Snowy Mountains	2006	M	9503
+Snowy Mountains	2011	F	9193
+Snowy Mountains	2011	M	9736
+Snowy Mountains	2016	F	9354
+Snowy Mountains	2016	M	10013
+South Coast	2006	F	33612
+South Coast	2006	M	32459
+South Coast	2011	F	34514
+South Coast	2011	M	33368
+South Coast	2016	F	36029
+South Coast	2016	M	34606
+Goulburn - Mulwaree	2006	F	15858
+Goulburn - Mulwaree	2006	M	16220
+Goulburn - Mulwaree	2011	F	16426
+Goulburn - Mulwaree	2011	M	16675
+Goulburn - Mulwaree	2016	F	17572
+Goulburn - Mulwaree	2016	M	17989
+Young - Yass	2006	F	16300
+Young - Yass	2006	M	15933
+Young - Yass	2011	F	17412
+Young - Yass	2011	M	16983
+Young - Yass	2016	F	18257
+Young - Yass	2016	M	17678
+Gosford	2006	F	82094
+Gosford	2006	M	76838
+Gosford	2011	F	84435
+Gosford	2011	M	78677
+Gosford	2016	F	87173
+Gosford	2016	M	81880
+Wyong	2006	F	71921
+Wyong	2006	M	67105
+Wyong	2011	F	77052
+Wyong	2011	M	72027
+Wyong	2016	F	81803
+Wyong	2016	M	76884
+Bathurst	2006	F	20246
+Bathurst	2006	M	20625
+Bathurst	2011	F	21568
+Bathurst	2011	M	21984
+Bathurst	2016	F	23152
+Bathurst	2016	M	23445
+Lachlan Valley	2006	F	27883
+Lachlan Valley	2006	M	27683
+Lachlan Valley	2011	F	27541
+Lachlan Valley	2011	M	27254
+Lachlan Valley	2016	F	27879
+Lachlan Valley	2016	M	27462
+Lithgow - Mudgee	2006	F	21103
+Lithgow - Mudgee	2006	M	21435
+Lithgow - Mudgee	2011	F	21621
+Lithgow - Mudgee	2011	M	22300
+Lithgow - Mudgee	2016	F	23085
+Lithgow - Mudgee	2016	M	23530
+Orange	2006	F	25851
+Orange	2006	M	24850
+Orange	2011	F	27683
+Orange	2011	M	26789
+Orange	2016	F	29346
+Orange	2016	M	28264
+Clarence Valley	2006	F	24069
+Clarence Valley	2006	M	23600
+Clarence Valley	2011	F	24962
+Clarence Valley	2011	M	24276
+Clarence Valley	2016	F	25357
+Clarence Valley	2016	M	24907
+Coffs Harbour	2006	F	39901
+Coffs Harbour	2006	M	37903
+Coffs Harbour	2011	F	41846
+Coffs Harbour	2011	M	39511
+Coffs Harbour	2016	F	44344
+Coffs Harbour	2016	M	41677
+Bourke - Cobar - Coonamble	2006	F	12660
+Bourke - Cobar - Coonamble	2006	M	13973
+Bourke - Cobar - Coonamble	2011	F	12229
+Bourke - Cobar - Coonamble	2011	M	13064
+Bourke - Cobar - Coonamble	2016	F	11834
+Bourke - Cobar - Coonamble	2016	M	12314
+Broken Hill and Far West	2006	F	11164
+Broken Hill and Far West	2006	M	10865
+Broken Hill and Far West	2011	F	10750
+Broken Hill and Far West	2011	M	10454
+Broken Hill and Far West	2016	F	10251
+Broken Hill and Far West	2016	M	9965
+Dubbo	2006	F	33597
+Dubbo	2006	M	32225
+Dubbo	2011	F	34105
+Dubbo	2011	M	32991
+Dubbo	2016	F	35213
+Dubbo	2016	M	34198
+Lower Hunter	2006	F	38215
+Lower Hunter	2006	M	38256
+Lower Hunter	2011	F	40830
+Lower Hunter	2011	M	41157
+Lower Hunter	2016	F	43765
+Lower Hunter	2016	M	43911
+Maitland	2006	F	29828
+Maitland	2006	M	28534
+Maitland	2011	F	32754
+Maitland	2011	M	31455
+Maitland	2016	F	37948
+Maitland	2016	M	36217
+Port Stephens	2006	F	31788
+Port Stephens	2006	M	30924
+Port Stephens	2011	F	34248
+Port Stephens	2011	M	33257
+Port Stephens	2016	F	36092
+Port Stephens	2016	M	35289
+Upper Hunter	2006	F	13867
+Upper Hunter	2006	M	14344
+Upper Hunter	2011	F	14516
+Upper Hunter	2011	M	15030
+Upper Hunter	2016	F	14984
+Upper Hunter	2016	M	15216
+Dapto - Port Kembla	2006	F	35744
+Dapto - Port Kembla	2006	M	34920
+Dapto - Port Kembla	2011	F	36461
+Dapto - Port Kembla	2011	M	35457
+Dapto - Port Kembla	2016	F	38356
+Dapto - Port Kembla	2016	M	37002
+Illawarra Catchment Reserve	2006	F	0
+Illawarra Catchment Reserve	2006	M	0
+Illawarra Catchment Reserve	2011	F	7
+Illawarra Catchment Reserve	2011	M	6
+Illawarra Catchment Reserve	2016	F	3
+Illawarra Catchment Reserve	2016	M	4
+Kiama - Shellharbour	2006	F	40403
+Kiama - Shellharbour	2006	M	38914
+Kiama - Shellharbour	2011	F	42613
+Kiama - Shellharbour	2011	M	40922
+Kiama - Shellharbour	2016	F	45907
+Kiama - Shellharbour	2016	M	43931
+Wollongong	2006	F	57363
+Wollongong	2006	M	56180
+Wollongong	2011	F	60727
+Wollongong	2011	M	59798
+Wollongong	2016	F	64742
+Wollongong	2016	M	63552
+Great Lakes	2006	F	14670
+Great Lakes	2006	M	14052
+Great Lakes	2011	F	15282
+Great Lakes	2011	M	14565
+Great Lakes	2016	F	16017
+Great Lakes	2016	M	15252
+Kempsey - Nambucca	2006	F	22723
+Kempsey - Nambucca	2006	M	22559
+Kempsey - Nambucca	2011	F	23599
+Kempsey - Nambucca	2011	M	23226
+Kempsey - Nambucca	2016	F	24242
+Kempsey - Nambucca	2016	M	23882
+Lord Howe Island	2006	F	170
+Lord Howe Island	2006	M	172
+Lord Howe Island	2011	F	186
+Lord Howe Island	2011	M	176
+Lord Howe Island	2016	F	191
+Lord Howe Island	2016	M	192
+Port Macquarie	2006	F	35518
+Port Macquarie	2006	M	32915
+Port Macquarie	2011	F	37766
+Port Macquarie	2011	M	34943
+Port Macquarie	2016	F	40861
+Port Macquarie	2016	M	37704
+Taree - Gloucester	2006	F	25518
+Taree - Gloucester	2006	M	24424
+Taree - Gloucester	2011	F	26305
+Taree - Gloucester	2011	M	25054
+Taree - Gloucester	2016	F	27598
+Taree - Gloucester	2016	M	26263
+Albury	2006	F	28604
+Albury	2006	M	27289
+Albury	2011	F	29512
+Albury	2011	M	27926
+Albury	2016	F	31508
+Albury	2016	M	29757
+Lower Murray	2006	F	6314
+Lower Murray	2006	M	6734
+Lower Murray	2011	F	6022
+Lower Murray	2011	M	6402
+Lower Murray	2016	F	6110
+Lower Murray	2016	M	6438
+Upper Murray exc. Albury	2006	F	20249
+Upper Murray exc. Albury	2006	M	20426
+Upper Murray exc. Albury	2011	F	20235
+Upper Murray exc. Albury	2011	M	20220
+Upper Murray exc. Albury	2016	F	21120
+Upper Murray exc. Albury	2016	M	20862
+Armidale	2006	F	17879
+Armidale	2006	M	16888
+Armidale	2011	F	18544
+Armidale	2011	M	17401
+Armidale	2016	F	19135
+Armidale	2016	M	17957
+Inverell - Tenterfield	2006	F	18803
+Inverell - Tenterfield	2006	M	18558
+Inverell - Tenterfield	2011	F	19067
+Inverell - Tenterfield	2011	M	18696
+Inverell - Tenterfield	2016	F	19439
+Inverell - Tenterfield	2016	M	18905
+Moree - Narrabri	2006	F	12948
+Moree - Narrabri	2006	M	13450
+Moree - Narrabri	2011	F	12676
+Moree - Narrabri	2011	M	13011
+Moree - Narrabri	2016	F	12756
+Moree - Narrabri	2016	M	12868
+Tamworth - Gunnedah	2006	F	37651
+Tamworth - Gunnedah	2006	M	36213
+Tamworth - Gunnedah	2011	F	39007
+Tamworth - Gunnedah	2011	M	37798
+Tamworth - Gunnedah	2016	F	40969
+Tamworth - Gunnedah	2016	M	39531
+Lake Macquarie - East	2006	F	58652
+Lake Macquarie - East	2006	M	56037
+Lake Macquarie - East	2011	F	59919
+Lake Macquarie - East	2011	M	56952
+Lake Macquarie - East	2016	F	61519
+Lake Macquarie - East	2016	M	58500
+Lake Macquarie - West	2006	F	34100
+Lake Macquarie - West	2006	M	32857
+Lake Macquarie - West	2011	F	35717
+Lake Macquarie - West	2011	M	34288
+Lake Macquarie - West	2016	F	38477
+Lake Macquarie - West	2016	M	36735
+Newcastle	2006	F	75856
+Newcastle	2006	M	72458
+Newcastle	2011	F	79051
+Newcastle	2011	M	76686
+Newcastle	2016	F	83082
+Newcastle	2016	M	80798
+Richmond Valley - Coastal	2006	F	37044
+Richmond Valley - Coastal	2006	M	35090
+Richmond Valley - Coastal	2011	F	37700
+Richmond Valley - Coastal	2011	M	35524
+Richmond Valley - Coastal	2016	F	40460
+Richmond Valley - Coastal	2016	M	37820
+Richmond Valley - Hinterland	2006	F	34640
+Richmond Valley - Hinterland	2006	M	33231
+Richmond Valley - Hinterland	2011	F	35234
+Richmond Valley - Hinterland	2011	M	34051
+Richmond Valley - Hinterland	2016	F	35614
+Richmond Valley - Hinterland	2016	M	34334
+Tweed Valley	2006	F	40697
+Tweed Valley	2006	M	38626
+Tweed Valley	2011	F	44091
+Tweed Valley	2011	M	41011
+Tweed Valley	2016	F	47261
+Tweed Valley	2016	M	44109
+Griffith - Murrumbidgee (West)	2006	F	23210
+Griffith - Murrumbidgee (West)	2006	M	23676
+Griffith - Murrumbidgee (West)	2011	F	23199
+Griffith - Murrumbidgee (West)	2011	M	23394
+Griffith - Murrumbidgee (West)	2016	F	24040
+Griffith - Murrumbidgee (West)	2016	M	24100
+Tumut - Tumbarumba	2006	F	7067
+Tumut - Tumbarumba	2006	M	7379
+Tumut - Tumbarumba	2011	F	6994
+Tumut - Tumbarumba	2011	M	7329
+Tumut - Tumbarumba	2016	F	7135
+Tumut - Tumbarumba	2016	M	7301
+Wagga Wagga	2006	F	43851
+Wagga Wagga	2006	M	43017
+Wagga Wagga	2011	F	45051
+Wagga Wagga	2011	M	44144
+Wagga Wagga	2016	F	47032
+Wagga Wagga	2016	M	46322
+Shoalhaven	2006	F	44945
+Shoalhaven	2006	M	43461
+Shoalhaven	2011	F	47014
+Shoalhaven	2011	M	45611
+Shoalhaven	2016	F	50286
+Shoalhaven	2016	M	49202
+Southern Highlands	2006	F	21975
+Southern Highlands	2006	M	20301
+Southern Highlands	2011	F	23115
+Southern Highlands	2011	M	21271
+Southern Highlands	2016	F	24988
+Southern Highlands	2016	M	22878
+Baulkham Hills	2006	F	64408
+Baulkham Hills	2006	M	61352
+Baulkham Hills	2011	F	68370
+Baulkham Hills	2011	M	65453
+Baulkham Hills	2016	F	73420
+Baulkham Hills	2016	M	70323
+Dural - Wisemans Ferry	2006	F	12359
+Dural - Wisemans Ferry	2006	M	12279
+Dural - Wisemans Ferry	2011	F	12774
+Dural - Wisemans Ferry	2011	M	12559
+Dural - Wisemans Ferry	2016	F	13164
+Dural - Wisemans Ferry	2016	M	13063
+Hawkesbury	2006	F	11586
+Hawkesbury	2006	M	11898
+Hawkesbury	2011	F	11841
+Hawkesbury	2011	M	12232
+Hawkesbury	2016	F	12171
+Hawkesbury	2016	M	12418
+Rouse Hill - McGraths Hill	2006	F	12722
+Rouse Hill - McGraths Hill	2006	M	12932
+Rouse Hill - McGraths Hill	2011	F	13410
+Rouse Hill - McGraths Hill	2011	M	13771
+Rouse Hill - McGraths Hill	2016	F	16587
+Rouse Hill - McGraths Hill	2016	M	16594
+Blacktown	2006	F	59106
+Blacktown	2006	M	58047
+Blacktown	2011	F	63031
+Blacktown	2011	M	61987
+Blacktown	2016	F	67314
+Blacktown	2016	M	67432
+Blacktown - North	2006	F	29714
+Blacktown - North	2006	M	30282
+Blacktown - North	2011	F	37122
+Blacktown - North	2011	M	37656
+Blacktown - North	2016	F	46244
+Blacktown - North	2016	M	46581
+Mount Druitt	2006	F	49161
+Mount Druitt	2006	M	47610
+Mount Druitt	2011	F	52630
+Mount Druitt	2011	M	51100
+Mount Druitt	2016	F	57145
+Mount Druitt	2016	M	54923
+Botany	2006	F	18189
+Botany	2006	M	17798
+Botany	2011	F	19863
+Botany	2011	M	19490
+Botany	2016	F	23441
+Botany	2016	M	23254
+Marrickville - Sydenham - Petersham	2006	F	23981
+Marrickville - Sydenham - Petersham	2006	M	23825
+Marrickville - Sydenham - Petersham	2011	F	25338
+Marrickville - Sydenham - Petersham	2011	M	25275
+Marrickville - Sydenham - Petersham	2016	F	27635
+Marrickville - Sydenham - Petersham	2016	M	26974
+Sydney Inner City	2006	F	75439
+Sydney Inner City	2006	M	85432
+Sydney Inner City	2011	F	82482
+Sydney Inner City	2011	M	92088
+Sydney Inner City	2016	F	103409
+Sydney Inner City	2016	M	110837
+Eastern Suburbs - North	2006	F	59954
+Eastern Suburbs - North	2006	M	55660
+Eastern Suburbs - North	2011	F	62316
+Eastern Suburbs - North	2011	M	58238
+Eastern Suburbs - North	2016	F	66053
+Eastern Suburbs - North	2016	M	60329
+Eastern Suburbs - South	2006	F	60738
+Eastern Suburbs - South	2006	M	59147
+Eastern Suburbs - South	2011	F	65625
+Eastern Suburbs - South	2011	M	63369
+Eastern Suburbs - South	2016	F	71477
+Eastern Suburbs - South	2016	M	69175
+Bankstown	2006	F	74904
+Bankstown	2006	M	72570
+Bankstown	2011	F	80837
+Bankstown	2011	M	78233
+Bankstown	2016	F	87005
+Bankstown	2016	M	84425
+Canterbury	2006	F	58741
+Canterbury	2006	M	58784
+Canterbury	2011	F	62359
+Canterbury	2011	M	63066
+Canterbury	2016	F	66782
+Canterbury	2016	M	68285
+Hurstville	2006	F	56856
+Hurstville	2006	M	53445
+Hurstville	2011	F	60051
+Hurstville	2011	M	56553
+Hurstville	2016	F	65311
+Hurstville	2016	M	61881
+Kogarah - Rockdale	2006	F	58818
+Kogarah - Rockdale	2006	M	56872
+Kogarah - Rockdale	2011	F	62039
+Kogarah - Rockdale	2011	M	60468
+Kogarah - Rockdale	2016	F	69567
+Kogarah - Rockdale	2016	M	68158
+Canada Bay	2006	F	33565
+Canada Bay	2006	M	30963
+Canada Bay	2011	F	38219
+Canada Bay	2011	M	35939
+Canada Bay	2016	F	44427
+Canada Bay	2016	M	40933
+Leichhardt	2006	F	25440
+Leichhardt	2006	M	23337
+Leichhardt	2011	F	27470
+Leichhardt	2011	M	24725
+Leichhardt	2016	F	29222
+Leichhardt	2016	M	26847
+Strathfield - Burwood - Ashfield	2006	F	66175
+Strathfield - Burwood - Ashfield	2006	M	63620
+Strathfield - Burwood - Ashfield	2011	F	69924
+Strathfield - Burwood - Ashfield	2011	M	67286
+Strathfield - Burwood - Ashfield	2016	F	77214
+Strathfield - Burwood - Ashfield	2016	M	74655
+Chatswood - Lane Cove	2006	F	48838
+Chatswood - Lane Cove	2006	M	45818
+Chatswood - Lane Cove	2011	F	51815
+Chatswood - Lane Cove	2011	M	48380
+Chatswood - Lane Cove	2016	F	57917
+Chatswood - Lane Cove	2016	M	54326
+Hornsby	2006	F	37303
+Hornsby	2006	M	35620
+Hornsby	2011	F	38987
+Hornsby	2011	M	37551
+Hornsby	2016	F	41106
+Hornsby	2016	M	39495
+Ku-ring-gai	2006	F	52905
+Ku-ring-gai	2006	M	48638
+Ku-ring-gai	2011	F	57180
+Ku-ring-gai	2011	M	52395
+Ku-ring-gai	2016	F	61555
+Ku-ring-gai	2016	M	56821
+North Sydney - Mosman	2006	F	44244
+North Sydney - Mosman	2006	M	39167
+North Sydney - Mosman	2011	F	46564
+North Sydney - Mosman	2011	M	41791
+North Sydney - Mosman	2016	F	49999
+North Sydney - Mosman	2016	M	44137
+Manly	2006	F	19044
+Manly	2006	M	18065
+Manly	2011	F	20339
+Manly	2011	M	19408
+Manly	2016	F	21508
+Manly	2016	M	20384
+Pittwater	2006	F	27511
+Pittwater	2006	M	26644
+Pittwater	2011	F	29244
+Pittwater	2011	M	27912
+Pittwater	2016	F	30973
+Pittwater	2016	M	29464
+Warringah	2006	F	68191
+Warringah	2006	M	65648
+Warringah	2011	F	71632
+Warringah	2011	M	69113
+Warringah	2016	F	76889
+Warringah	2016	M	73652
+Camden	2006	F	22818
+Camden	2006	M	21665
+Camden	2011	F	26755
+Camden	2011	M	25476
+Camden	2016	F	32147
+Camden	2016	M	30366
+Campbelltown (NSW)	2006	F	73352
+Campbelltown (NSW)	2006	M	71069
+Campbelltown (NSW)	2011	F	75178
+Campbelltown (NSW)	2011	M	71982
+Campbelltown (NSW)	2016	F	80559
+Campbelltown (NSW)	2016	M	77837
+Wollondilly	2006	F	17292
+Wollondilly	2006	M	17469
+Wollondilly	2011	F	18216
+Wollondilly	2011	M	18188
+Wollondilly	2016	F	20633
+Wollondilly	2016	M	20523
+Blue Mountains	2006	F	38037
+Blue Mountains	2006	M	35811
+Blue Mountains	2011	F	39122
+Blue Mountains	2011	M	36572
+Blue Mountains	2016	F	39690
+Blue Mountains	2016	M	37005
+Blue Mountains - South	2006	F	0
+Blue Mountains - South	2006	M	0
+Blue Mountains - South	2011	F	6
+Blue Mountains - South	2011	M	3
+Blue Mountains - South	2016	F	0
+Blue Mountains - South	2016	M	3
+Penrith	2006	F	60500
+Penrith	2006	M	58653
+Penrith	2011	F	63495
+Penrith	2011	M	61179
+Penrith	2016	F	71130
+Penrith	2016	M	68559
+Richmond - Windsor	2006	F	17728
+Richmond - Windsor	2006	M	17458
+Richmond - Windsor	2011	F	18035
+Richmond - Windsor	2011	M	17714
+Richmond - Windsor	2016	F	18420
+Richmond - Windsor	2016	M	18125
+St Marys	2006	F	25515
+St Marys	2006	M	25302
+St Marys	2011	F	26193
+St Marys	2011	M	25871
+St Marys	2016	F	27218
+St Marys	2016	M	26779
+Auburn	2006	F	31713
+Auburn	2006	M	34402
+Auburn	2011	F	35855
+Auburn	2011	M	38569
+Auburn	2016	F	41916
+Auburn	2016	M	47751
+Carlingford	2006	F	28380
+Carlingford	2006	M	27287
+Carlingford	2011	F	30217
+Carlingford	2011	M	29380
+Carlingford	2016	F	33846
+Carlingford	2016	M	32730
+Merrylands - Guildford	2006	F	62037
+Merrylands - Guildford	2006	M	61546
+Merrylands - Guildford	2011	F	68276
+Merrylands - Guildford	2011	M	67633
+Merrylands - Guildford	2016	F	75028
+Merrylands - Guildford	2016	M	76237
+Parramatta	2006	F	54892
+Parramatta	2006	M	55523
+Parramatta	2011	F	62058
+Parramatta	2011	M	62717
+Parramatta	2016	F	70032
+Parramatta	2016	M	70860
+Pennant Hills - Epping	2006	F	21156
+Pennant Hills - Epping	2006	M	19887
+Pennant Hills - Epping	2011	F	22163
+Pennant Hills - Epping	2011	M	20842
+Pennant Hills - Epping	2016	F	24319
+Pennant Hills - Epping	2016	M	23273
+Ryde - Hunters Hill	2006	F	58727
+Ryde - Hunters Hill	2006	M	55294
+Ryde - Hunters Hill	2011	F	61468
+Ryde - Hunters Hill	2011	M	58368
+Ryde - Hunters Hill	2016	F	68967
+Ryde - Hunters Hill	2016	M	65567
+Bringelly - Green Valley	2006	F	37533
+Bringelly - Green Valley	2006	M	37249
+Bringelly - Green Valley	2011	F	40431
+Bringelly - Green Valley	2011	M	39913
+Bringelly - Green Valley	2016	F	51805
+Bringelly - Green Valley	2016	M	51000
+Fairfield	2006	F	85502
+Fairfield	2006	M	83578
+Fairfield	2011	F	89104
+Fairfield	2011	M	86534
+Fairfield	2016	F	94386
+Fairfield	2016	M	91412
+Liverpool	2006	F	47043
+Liverpool	2006	M	46546
+Liverpool	2011	F	52509
+Liverpool	2011	M	51684
+Liverpool	2016	F	59155
+Liverpool	2016	M	58200
+Cronulla - Miranda - Caringbah	2006	F	51644
+Cronulla - Miranda - Caringbah	2006	M	49469
+Cronulla - Miranda - Caringbah	2011	F	53649
+Cronulla - Miranda - Caringbah	2011	M	50721
+Cronulla - Miranda - Caringbah	2016	F	56362
+Cronulla - Miranda - Caringbah	2016	M	53481
+Sutherland - Menai - Heathcote	2006	F	52669
+Sutherland - Menai - Heathcote	2006	M	51130
+Sutherland - Menai - Heathcote	2011	F	53772
+Sutherland - Menai - Heathcote	2011	M	52132
+Sutherland - Menai - Heathcote	2016	F	55109
+Sutherland - Menai - Heathcote	2016	M	52930
+Migratory - Offshore - Shipping (NSW)	2006	F	7
+Migratory - Offshore - Shipping (NSW)	2006	M	37
+Migratory - Offshore - Shipping (NSW)	2011	F	55
+Migratory - Offshore - Shipping (NSW)	2011	M	56
+Migratory - Offshore - Shipping (NSW)	2016	F	239
+Migratory - Offshore - Shipping (NSW)	2016	M	171
+No usual address (NSW)	2006	F	4248
+No usual address (NSW)	2006	M	5924
+No usual address (NSW)	2011	F	5327
+No usual address (NSW)	2011	M	7593
+No usual address (NSW)	2016	F	4939
+No usual address (NSW)	2016	M	7351
+Ballarat	2006	F	45644
+Ballarat	2006	M	42350
+Ballarat	2011	F	49611
+Ballarat	2011	M	45974
+Ballarat	2016	F	53854
+Ballarat	2016	M	49961
+Creswick - Daylesford - Ballan	2006	F	12602
+Creswick - Daylesford - Ballan	2006	M	12438
+Creswick - Daylesford - Ballan	2011	F	13473
+Creswick - Daylesford - Ballan	2011	M	13290
+Creswick - Daylesford - Ballan	2016	F	14358
+Creswick - Daylesford - Ballan	2016	M	13951
+Maryborough - Pyrenees	2006	F	11492
+Maryborough - Pyrenees	2006	M	11593
+Maryborough - Pyrenees	2011	F	11825
+Maryborough - Pyrenees	2011	M	12062
+Maryborough - Pyrenees	2016	F	12481
+Maryborough - Pyrenees	2016	M	12887
+Bendigo	2006	F	41232
+Bendigo	2006	M	37824
+Bendigo	2011	F	44650
+Bendigo	2011	M	41431
+Bendigo	2016	F	48916
+Bendigo	2016	M	45463
+Heathcote - Castlemaine - Kyneton	2006	F	20528
+Heathcote - Castlemaine - Kyneton	2006	M	20109
+Heathcote - Castlemaine - Kyneton	2011	F	21958
+Heathcote - Castlemaine - Kyneton	2011	M	21469
+Heathcote - Castlemaine - Kyneton	2016	F	23889
+Heathcote - Castlemaine - Kyneton	2016	M	23406
+Loddon - Elmore	2006	F	6284
+Loddon - Elmore	2006	M	6435
+Loddon - Elmore	2011	F	5502
+Loddon - Elmore	2011	M	5685
+Loddon - Elmore	2016	F	5590
+Loddon - Elmore	2016	M	5828
+Barwon - West	2006	F	6898
+Barwon - West	2006	M	7130
+Barwon - West	2011	F	8250
+Barwon - West	2011	M	8366
+Barwon - West	2016	F	9411
+Barwon - West	2016	M	9609
+Geelong	2006	F	83841
+Geelong	2006	M	79544
+Geelong	2011	F	89042
+Geelong	2011	M	84416
+Geelong	2016	F	96854
+Geelong	2016	M	91328
+Surf Coast - Bellarine Peninsula	2006	F	27554
+Surf Coast - Bellarine Peninsula	2006	M	26304
+Surf Coast - Bellarine Peninsula	2011	F	31162
+Surf Coast - Bellarine Peninsula	2011	M	29427
+Surf Coast - Bellarine Peninsula	2016	F	36852
+Surf Coast - Bellarine Peninsula	2016	M	34873
+Upper Goulburn Valley	2006	F	23092
+Upper Goulburn Valley	2006	M	23429
+Upper Goulburn Valley	2011	F	24894
+Upper Goulburn Valley	2011	M	25018
+Upper Goulburn Valley	2016	F	26890
+Upper Goulburn Valley	2016	M	26952
+Wangaratta - Benalla	2006	F	22381
+Wangaratta - Benalla	2006	M	21172
+Wangaratta - Benalla	2011	F	22738
+Wangaratta - Benalla	2011	M	21496
+Wangaratta - Benalla	2016	F	23797
+Wangaratta - Benalla	2016	M	22303
+Wodonga - Alpine	2006	F	31566
+Wodonga - Alpine	2006	M	30993
+Wodonga - Alpine	2011	F	32873
+Wodonga - Alpine	2011	M	32269
+Wodonga - Alpine	2016	F	35580
+Wodonga - Alpine	2016	M	34667
+Baw Baw	2006	F	19286
+Baw Baw	2006	M	18373
+Baw Baw	2011	F	21923
+Baw Baw	2011	M	21060
+Baw Baw	2016	F	25004
+Baw Baw	2016	M	23621
+Gippsland - East	2006	F	20414
+Gippsland - East	2006	M	19766
+Gippsland - East	2011	F	21448
+Gippsland - East	2011	M	20850
+Gippsland - East	2016	F	22974
+Gippsland - East	2016	M	22174
+Gippsland - South West	2006	F	26748
+Gippsland - South West	2006	M	25629
+Gippsland - South West	2011	F	28995
+Gippsland - South West	2011	M	28025
+Gippsland - South West	2016	F	31626
+Gippsland - South West	2016	M	30038
+Latrobe Valley	2006	F	35231
+Latrobe Valley	2006	M	33632
+Latrobe Valley	2011	F	36944
+Latrobe Valley	2011	M	35273
+Latrobe Valley	2016	F	37398
+Latrobe Valley	2016	M	35700
+Wellington	2006	F	19782
+Wellington	2006	M	20149
+Wellington	2011	F	20604
+Wellington	2011	M	20729
+Wellington	2016	F	21238
+Wellington	2016	M	21631
+Brunswick - Coburg	2006	F	37414
+Brunswick - Coburg	2006	M	35395
+Brunswick - Coburg	2011	F	40442
+Brunswick - Coburg	2011	M	38452
+Brunswick - Coburg	2016	F	44532
+Brunswick - Coburg	2016	M	41727
+Darebin - South	2006	F	23781
+Darebin - South	2006	M	22131
+Darebin - South	2011	F	25247
+Darebin - South	2011	M	23312
+Darebin - South	2016	F	27481
+Darebin - South	2016	M	24589
+Essendon	2006	F	29513
+Essendon	2006	M	27414
+Essendon	2011	F	31534
+Essendon	2011	M	29394
+Essendon	2016	F	34534
+Essendon	2016	M	32066
+Melbourne City	2006	F	37642
+Melbourne City	2006	M	38498
+Melbourne City	2011	F	46848
+Melbourne City	2011	M	46769
+Melbourne City	2016	F	69825
+Melbourne City	2016	M	66144
+Port Phillip	2006	F	42860
+Port Phillip	2006	M	42239
+Port Phillip	2011	F	46059
+Port Phillip	2011	M	45321
+Port Phillip	2016	F	51563
+Port Phillip	2016	M	49309
+Stonnington - West	2006	F	26835
+Stonnington - West	2006	M	25060
+Stonnington - West	2011	F	27819
+Stonnington - West	2011	M	25958
+Stonnington - West	2016	F	32911
+Stonnington - West	2016	M	29556
+Yarra	2006	F	35721
+Yarra	2006	M	34420
+Yarra	2011	F	38332
+Yarra	2011	M	36499
+Yarra	2016	F	45041
+Yarra	2016	M	42415
+Boroondara	2006	F	80518
+Boroondara	2006	M	73933
+Boroondara	2011	F	82686
+Boroondara	2011	M	76500
+Boroondara	2016	F	87085
+Boroondara	2016	M	80145
+Manningham - West	2006	F	43689
+Manningham - West	2006	M	40874
+Manningham - West	2011	F	44418
+Manningham - West	2011	M	41487
+Manningham - West	2016	F	46853
+Manningham - West	2016	M	43519
+Whitehorse - West	2006	F	47327
+Whitehorse - West	2006	M	42643
+Whitehorse - West	2011	F	49376
+Whitehorse - West	2011	M	45542
+Whitehorse - West	2016	F	52920
+Whitehorse - West	2016	M	49118
+Bayside	2006	F	46296
+Bayside	2006	M	41642
+Bayside	2011	F	47972
+Bayside	2011	M	43842
+Bayside	2016	F	50862
+Bayside	2016	M	46229
+Glen Eira	2006	F	67174
+Glen Eira	2006	M	63416
+Glen Eira	2011	F	70875
+Glen Eira	2011	M	67191
+Glen Eira	2016	F	76673
+Glen Eira	2016	M	71759
+Kingston	2006	F	52755
+Kingston	2006	M	49176
+Kingston	2011	F	56149
+Kingston	2011	M	52816
+Kingston	2016	F	60527
+Kingston	2016	M	56283
+Stonnington - East	2006	F	19877
+Stonnington - East	2006	M	18114
+Stonnington - East	2011	F	20544
+Stonnington - East	2011	M	18823
+Stonnington - East	2016	F	21548
+Stonnington - East	2016	M	19816
+Banyule	2006	F	59053
+Banyule	2006	M	55812
+Banyule	2011	F	60878
+Banyule	2011	M	57426
+Banyule	2016	F	62644
+Banyule	2016	M	59222
+Darebin - North	2006	F	42060
+Darebin - North	2006	M	40094
+Darebin - North	2011	F	44772
+Darebin - North	2011	M	43143
+Darebin - North	2016	F	48341
+Darebin - North	2016	M	46313
+Nillumbik - Kinglake	2006	F	32138
+Nillumbik - Kinglake	2006	M	31771
+Nillumbik - Kinglake	2011	F	32180
+Nillumbik - Kinglake	2011	M	31734
+Nillumbik - Kinglake	2016	F	32886
+Nillumbik - Kinglake	2016	M	32237
+Whittlesea - Wallan	2006	F	68301
+Whittlesea - Wallan	2006	M	67323
+Whittlesea - Wallan	2011	F	84068
+Whittlesea - Wallan	2011	M	82838
+Whittlesea - Wallan	2016	F	108009
+Whittlesea - Wallan	2016	M	105705
+Keilor	2006	F	27804
+Keilor	2006	M	26384
+Keilor	2011	F	28062
+Keilor	2011	M	26770
+Keilor	2016	F	30038
+Keilor	2016	M	28526
+Macedon Ranges	2006	F	11976
+Macedon Ranges	2006	M	11887
+Macedon Ranges	2011	F	13419
+Macedon Ranges	2011	M	13217
+Macedon Ranges	2016	F	14868
+Macedon Ranges	2016	M	14703
+Moreland - North	2006	F	32003
+Moreland - North	2006	M	30138
+Moreland - North	2011	F	34275
+Moreland - North	2011	M	33333
+Moreland - North	2016	F	38103
+Moreland - North	2016	M	37406
+Sunbury	2006	F	17438
+Sunbury	2006	M	16597
+Sunbury	2011	F	18762
+Sunbury	2011	M	18090
+Sunbury	2016	F	20156
+Sunbury	2016	M	19212
+Tullamarine - Broadmeadows	2006	F	58059
+Tullamarine - Broadmeadows	2006	M	57430
+Tullamarine - Broadmeadows	2011	F	66645
+Tullamarine - Broadmeadows	2011	M	65913
+Tullamarine - Broadmeadows	2016	F	80126
+Tullamarine - Broadmeadows	2016	M	80228
+Knox	2006	F	74898
+Knox	2006	M	71840
+Knox	2011	F	75907
+Knox	2011	M	73431
+Knox	2016	F	78814
+Knox	2016	M	75341
+Manningham - East	2006	F	12834
+Manningham - East	2006	M	12576
+Manningham - East	2011	F	12891
+Manningham - East	2011	M	12613
+Manningham - East	2016	F	13153
+Manningham - East	2016	M	12834
+Maroondah	2006	F	51093
+Maroondah	2006	M	47693
+Maroondah	2011	F	53231
+Maroondah	2011	M	50184
+Maroondah	2016	F	56755
+Maroondah	2016	M	53179
+Whitehorse - East	2006	F	28709
+Whitehorse - East	2006	M	26790
+Whitehorse - East	2011	F	29510
+Whitehorse - East	2011	M	27623
+Whitehorse - East	2016	F	31482
+Whitehorse - East	2016	M	29289
+Yarra Ranges	2006	F	70433
+Yarra Ranges	2006	M	69169
+Yarra Ranges	2011	F	72630
+Yarra Ranges	2011	M	71076
+Yarra Ranges	2016	F	75331
+Yarra Ranges	2016	M	73430
+Cardinia	2006	F	28756
+Cardinia	2006	M	28348
+Cardinia	2011	F	37549
+Cardinia	2011	M	36788
+Cardinia	2016	F	47843
+Cardinia	2016	M	46442
+Casey - North	2006	F	57472
+Casey - North	2006	M	56232
+Casey - North	2011	F	62585
+Casey - North	2011	M	61433
+Casey - North	2016	F	65939
+Casey - North	2016	M	65181
+Casey - South	2006	F	50727
+Casey - South	2006	M	50521
+Casey - South	2011	F	64339
+Casey - South	2011	M	64023
+Casey - South	2016	F	84335
+Casey - South	2016	M	83842
+Dandenong	2006	F	78995
+Dandenong	2006	M	79216
+Dandenong	2011	F	83731
+Dandenong	2011	M	85337
+Dandenong	2016	F	91729
+Dandenong	2016	M	94898
+Monash	2006	F	78332
+Monash	2006	M	76407
+Monash	2011	F	82045
+Monash	2011	M	80185
+Monash	2016	F	88955
+Monash	2016	M	86102
+Brimbank	2006	F	80324
+Brimbank	2006	M	79103
+Brimbank	2011	F	87179
+Brimbank	2011	M	87243
+Brimbank	2016	F	92780
+Brimbank	2016	M	93039
+Hobsons Bay	2006	F	39206
+Hobsons Bay	2006	M	37970
+Hobsons Bay	2011	F	40127
+Hobsons Bay	2011	M	39284
+Hobsons Bay	2016	F	42936
+Hobsons Bay	2016	M	41066
+Maribyrnong	2006	F	31282
+Maribyrnong	2006	M	31857
+Maribyrnong	2011	F	35243
+Maribyrnong	2011	M	36395
+Maribyrnong	2016	F	40883
+Maribyrnong	2016	M	41405
+Melton - Bacchus Marsh	2006	F	46457
+Melton - Bacchus Marsh	2006	M	45868
+Melton - Bacchus Marsh	2011	F	62859
+Melton - Bacchus Marsh	2011	M	61704
+Melton - Bacchus Marsh	2016	F	77773
+Melton - Bacchus Marsh	2016	M	75666
+Wyndham	2006	F	58703
+Wyndham	2006	M	58278
+Wyndham	2011	F	83111
+Wyndham	2011	M	82912
+Wyndham	2016	F	110525
+Wyndham	2016	M	111366
+Frankston	2006	F	60436
+Frankston	2006	M	57370
+Frankston	2011	F	64609
+Frankston	2011	M	61853
+Frankston	2016	F	68727
+Frankston	2016	M	65418
+Mornington Peninsula	2006	F	70087
+Mornington Peninsula	2006	M	66396
+Mornington Peninsula	2011	F	74566
+Mornington Peninsula	2011	M	70042
+Mornington Peninsula	2016	F	80125
+Mornington Peninsula	2016	M	74875
+Grampians	2006	F	29950
+Grampians	2006	M	29446
+Grampians	2011	F	29764
+Grampians	2011	M	29487
+Grampians	2016	F	29334
+Grampians	2016	M	29485
+Mildura	2006	F	25431
+Mildura	2006	M	24384
+Mildura	2011	F	26004
+Mildura	2011	M	24975
+Mildura	2016	F	27398
+Mildura	2016	M	26481
+Murray River - Swan Hill	2006	F	19328
+Murray River - Swan Hill	2006	M	19457
+Murray River - Swan Hill	2011	F	18523
+Murray River - Swan Hill	2011	M	18677
+Murray River - Swan Hill	2016	F	18583
+Murray River - Swan Hill	2016	M	18753
+Campaspe	2006	F	18133
+Campaspe	2006	M	18075
+Campaspe	2011	F	18451
+Campaspe	2011	M	18099
+Campaspe	2016	F	18841
+Campaspe	2016	M	18368
+Moira	2006	F	13564
+Moira	2006	M	13519
+Moira	2011	F	14139
+Moira	2011	M	13984
+Moira	2016	F	14598
+Moira	2016	M	14514
+Shepparton	2006	F	28901
+Shepparton	2006	M	28188
+Shepparton	2011	F	30456
+Shepparton	2011	M	29768
+Shepparton	2016	F	32036
+Shepparton	2016	M	31618
+Glenelg - Southern Grampians	2006	F	18297
+Glenelg - Southern Grampians	2006	M	18095
+Glenelg - Southern Grampians	2011	F	18154
+Glenelg - Southern Grampians	2011	M	17838
+Glenelg - Southern Grampians	2016	F	18013
+Glenelg - Southern Grampians	2016	M	17543
+Colac - Corangamite	2006	F	18515
+Colac - Corangamite	2006	M	18392
+Colac - Corangamite	2011	F	18333
+Colac - Corangamite	2011	M	18359
+Colac - Corangamite	2016	F	18460
+Colac - Corangamite	2016	M	18574
+Warrnambool	2006	F	23527
+Warrnambool	2006	M	22320
+Warrnambool	2011	F	24584
+Warrnambool	2011	M	23391
+Warrnambool	2016	F	25720
+Warrnambool	2016	M	24386
+Migratory - Offshore - Shipping (Vic.)	2006	F	3
+Migratory - Offshore - Shipping (Vic.)	2006	M	49
+Migratory - Offshore - Shipping (Vic.)	2011	F	0
+Migratory - Offshore - Shipping (Vic.)	2011	M	36
+Migratory - Offshore - Shipping (Vic.)	2016	F	4
+Migratory - Offshore - Shipping (Vic.)	2016	M	28
+No usual address (Vic.)	2006	F	2798
+No usual address (Vic.)	2006	M	3598
+No usual address (Vic.)	2011	F	3636
+No usual address (Vic.)	2011	M	4672
+No usual address (Vic.)	2016	F	3238
+No usual address (Vic.)	2016	M	4331
+Capalaba	2006	F	34683
+Capalaba	2006	M	33663
+Capalaba	2011	F	35451
+Capalaba	2011	M	34494
+Capalaba	2016	F	36245
+Capalaba	2016	M	35328
+Cleveland - Stradbroke	2006	F	33789
+Cleveland - Stradbroke	2006	M	32117
+Cleveland - Stradbroke	2011	F	39112
+Cleveland - Stradbroke	2011	M	37048
+Cleveland - Stradbroke	2016	F	42443
+Cleveland - Stradbroke	2016	M	40373
+Wynnum - Manly	2006	F	29642
+Wynnum - Manly	2006	M	27909
+Wynnum - Manly	2011	F	33215
+Wynnum - Manly	2011	M	31812
+Wynnum - Manly	2016	F	35184
+Wynnum - Manly	2016	M	33520
+Bald Hills - Everton Park	2006	F	17872
+Bald Hills - Everton Park	2006	M	16637
+Bald Hills - Everton Park	2011	F	19481
+Bald Hills - Everton Park	2011	M	18285
+Bald Hills - Everton Park	2016	F	21153
+Bald Hills - Everton Park	2016	M	19642
+Chermside	2006	F	32013
+Chermside	2006	M	29020
+Chermside	2011	F	34181
+Chermside	2011	M	31710
+Chermside	2016	F	35801
+Chermside	2016	M	33274
+Nundah	2006	F	15357
+Nundah	2006	M	14828
+Nundah	2011	F	17215
+Nundah	2011	M	17353
+Nundah	2016	F	19436
+Nundah	2016	M	19235
+Sandgate	2006	F	25258
+Sandgate	2006	M	23426
+Sandgate	2011	F	27258
+Sandgate	2011	M	25569
+Sandgate	2016	F	29879
+Sandgate	2016	M	28107
+Carindale	2006	F	22769
+Carindale	2006	M	21228
+Carindale	2011	F	24286
+Carindale	2011	M	22726
+Carindale	2016	F	26013
+Carindale	2016	M	24168
+Holland Park - Yeronga	2006	F	30678
+Holland Park - Yeronga	2006	M	29417
+Holland Park - Yeronga	2011	F	32868
+Holland Park - Yeronga	2011	M	32317
+Holland Park - Yeronga	2016	F	35929
+Holland Park - Yeronga	2016	M	35048
+Mt Gravatt	2006	F	31511
+Mt Gravatt	2006	M	29740
+Mt Gravatt	2011	F	33631
+Mt Gravatt	2011	M	32031
+Mt Gravatt	2016	F	36702
+Mt Gravatt	2016	M	34500
+Nathan	2006	F	17390
+Nathan	2006	M	16991
+Nathan	2011	F	18351
+Nathan	2011	M	18167
+Nathan	2016	F	19518
+Nathan	2016	M	19349
+Rocklea - Acacia Ridge	2006	F	22508
+Rocklea - Acacia Ridge	2006	M	22197
+Rocklea - Acacia Ridge	2011	F	27123
+Rocklea - Acacia Ridge	2011	M	26517
+Rocklea - Acacia Ridge	2016	F	30050
+Rocklea - Acacia Ridge	2016	M	29486
+Sunnybank	2006	F	21903
+Sunnybank	2006	M	21271
+Sunnybank	2011	F	23258
+Sunnybank	2011	M	22812
+Sunnybank	2016	F	24990
+Sunnybank	2016	M	24813
+Centenary	2006	F	16426
+Centenary	2006	M	15378
+Centenary	2011	F	16409
+Centenary	2011	M	15652
+Centenary	2016	F	16634
+Centenary	2016	M	15898
+Kenmore - Brookfield - Moggill	2006	F	20712
+Kenmore - Brookfield - Moggill	2006	M	19691
+Kenmore - Brookfield - Moggill	2011	F	22311
+Kenmore - Brookfield - Moggill	2011	M	21313
+Kenmore - Brookfield - Moggill	2016	F	23125
+Kenmore - Brookfield - Moggill	2016	M	22244
+Sherwood - Indooroopilly	2006	F	23135
+Sherwood - Indooroopilly	2006	M	21575
+Sherwood - Indooroopilly	2011	F	24163
+Sherwood - Indooroopilly	2011	M	23133
+Sherwood - Indooroopilly	2016	F	26301
+Sherwood - Indooroopilly	2016	M	24776
+The Gap - Enoggera	2006	F	22819
+The Gap - Enoggera	2006	M	21482
+The Gap - Enoggera	2011	F	24061
+The Gap - Enoggera	2011	M	23308
+The Gap - Enoggera	2016	F	25569
+The Gap - Enoggera	2016	M	24441
+Brisbane Inner	2006	F	24780
+Brisbane Inner	2006	M	26764
+Brisbane Inner	2011	F	27511
+Brisbane Inner	2011	M	30074
+Brisbane Inner	2016	F	32966
+Brisbane Inner	2016	M	34616
+Brisbane Inner - East	2006	F	17058
+Brisbane Inner - East	2006	M	16643
+Brisbane Inner - East	2011	F	18739
+Brisbane Inner - East	2011	M	18836
+Brisbane Inner - East	2016	F	20616
+Brisbane Inner - East	2016	M	19980
+Brisbane Inner - North	2006	F	35653
+Brisbane Inner - North	2006	M	33525
+Brisbane Inner - North	2011	F	38202
+Brisbane Inner - North	2011	M	37076
+Brisbane Inner - North	2016	F	43701
+Brisbane Inner - North	2016	M	42463
+Brisbane Inner - West	2006	F	25972
+Brisbane Inner - West	2006	M	24622
+Brisbane Inner - West	2011	F	27321
+Brisbane Inner - West	2011	M	26221
+Brisbane Inner - West	2016	F	28347
+Brisbane Inner - West	2016	M	27520
+Cairns - North	2006	F	19927
+Cairns - North	2006	M	19553
+Cairns - North	2011	F	24058
+Cairns - North	2011	M	23161
+Cairns - North	2016	F	26752
+Cairns - North	2016	M	25904
+Cairns - South	2006	F	42136
+Cairns - South	2006	M	42269
+Cairns - South	2011	F	47650
+Cairns - South	2011	M	47085
+Cairns - South	2016	F	51102
+Cairns - South	2016	M	49689
+Innisfail - Cassowary Coast	2006	F	16419
+Innisfail - Cassowary Coast	2006	M	17282
+Innisfail - Cassowary Coast	2011	F	16234
+Innisfail - Cassowary Coast	2011	M	17231
+Innisfail - Cassowary Coast	2016	F	16888
+Innisfail - Cassowary Coast	2016	M	17846
+Port Douglas - Daintree	2006	F	4870
+Port Douglas - Daintree	2006	M	5284
+Port Douglas - Daintree	2011	F	5256
+Port Douglas - Daintree	2011	M	5532
+Port Douglas - Daintree	2016	F	5712
+Port Douglas - Daintree	2016	M	5894
+Tablelands (East) - Kuranda	2006	F	17853
+Tablelands (East) - Kuranda	2006	M	17518
+Tablelands (East) - Kuranda	2011	F	19366
+Tablelands (East) - Kuranda	2011	M	18867
+Tablelands (East) - Kuranda	2016	F	20467
+Tablelands (East) - Kuranda	2016	M	19927
+Darling Downs (West) - Maranoa	2006	F	19743
+Darling Downs (West) - Maranoa	2006	M	20691
+Darling Downs (West) - Maranoa	2011	F	21086
+Darling Downs (West) - Maranoa	2011	M	22327
+Darling Downs (West) - Maranoa	2016	F	21434
+Darling Downs (West) - Maranoa	2016	M	22627
+Darling Downs - East	2006	F	18890
+Darling Downs - East	2006	M	19356
+Darling Downs - East	2011	F	19893
+Darling Downs - East	2011	M	20472
+Darling Downs - East	2016	F	20847
+Darling Downs - East	2016	M	21275
+Granite Belt	2006	F	18297
+Granite Belt	2006	M	17888
+Granite Belt	2011	F	19616
+Granite Belt	2011	M	18884
+Granite Belt	2016	F	20293
+Granite Belt	2016	M	19805
+Central Highlands (Qld)	2006	F	12664
+Central Highlands (Qld)	2006	M	14661
+Central Highlands (Qld)	2011	F	13823
+Central Highlands (Qld)	2011	M	15839
+Central Highlands (Qld)	2016	F	13734
+Central Highlands (Qld)	2016	M	15225
+Rockhampton	2006	F	50539
+Rockhampton	2006	M	50635
+Rockhampton	2011	F	54586
+Rockhampton	2011	M	54750
+Rockhampton	2016	F	57970
+Rockhampton	2016	M	58025
+Biloela	2006	F	7049
+Biloela	2006	M	7603
+Biloela	2011	F	6978
+Biloela	2011	M	7481
+Biloela	2016	F	6928
+Biloela	2016	M	7388
+Gladstone	2006	F	24638
+Gladstone	2006	M	26120
+Gladstone	2011	F	27794
+Gladstone	2011	M	30095
+Gladstone	2016	F	29989
+Gladstone	2016	M	31647
+Broadbeach - Burleigh	2006	F	27958
+Broadbeach - Burleigh	2006	M	27117
+Broadbeach - Burleigh	2011	F	29754
+Broadbeach - Burleigh	2011	M	28168
+Broadbeach - Burleigh	2016	F	31838
+Broadbeach - Burleigh	2016	M	29800
+Coolangatta	2006	F	24560
+Coolangatta	2006	M	24025
+Coolangatta	2011	F	25625
+Coolangatta	2011	M	24472
+Coolangatta	2016	F	27315
+Coolangatta	2016	M	25873
+Gold Coast - North	2006	F	28730
+Gold Coast - North	2006	M	26796
+Gold Coast - North	2011	F	31035
+Gold Coast - North	2011	M	28567
+Gold Coast - North	2016	F	34584
+Gold Coast - North	2016	M	31315
+Gold Coast Hinterland	2006	F	8101
+Gold Coast Hinterland	2006	M	8092
+Gold Coast Hinterland	2011	F	8664
+Gold Coast Hinterland	2011	M	8469
+Gold Coast Hinterland	2016	F	9405
+Gold Coast Hinterland	2016	M	9100
+Mudgeeraba - Tallebudgera	2006	F	13645
+Mudgeeraba - Tallebudgera	2006	M	13253
+Mudgeeraba - Tallebudgera	2011	F	15916
+Mudgeeraba - Tallebudgera	2011	M	15162
+Mudgeeraba - Tallebudgera	2016	F	17108
+Mudgeeraba - Tallebudgera	2016	M	16276
+Nerang	2006	F	27990
+Nerang	2006	M	26939
+Nerang	2011	F	32034
+Nerang	2011	M	30637
+Nerang	2016	F	34423
+Nerang	2016	M	32870
+Ormeau - Oxenford	2006	F	32888
+Ormeau - Oxenford	2006	M	32444
+Ormeau - Oxenford	2011	F	47493
+Ormeau - Oxenford	2011	M	46566
+Ormeau - Oxenford	2016	F	61474
+Ormeau - Oxenford	2016	M	59411
+Robina	2006	F	21290
+Robina	2006	M	19469
+Robina	2011	F	23698
+Robina	2011	M	21495
+Robina	2016	F	26094
+Robina	2016	M	23385
+Southport	2006	F	25420
+Southport	2006	M	24271
+Southport	2011	F	27994
+Southport	2011	M	26556
+Southport	2016	F	30204
+Southport	2016	M	28686
+Surfers Paradise	2006	F	16180
+Surfers Paradise	2006	M	17017
+Surfers Paradise	2011	F	17386
+Surfers Paradise	2011	M	17939
+Surfers Paradise	2016	F	20397
+Surfers Paradise	2016	M	20438
+Forest Lake - Oxley	2006	F	29038
+Forest Lake - Oxley	2006	M	28699
+Forest Lake - Oxley	2011	F	31622
+Forest Lake - Oxley	2011	M	31957
+Forest Lake - Oxley	2016	F	35875
+Forest Lake - Oxley	2016	M	36354
+Ipswich Hinterland	2006	F	24548
+Ipswich Hinterland	2006	M	25111
+Ipswich Hinterland	2011	F	28049
+Ipswich Hinterland	2011	M	28900
+Ipswich Hinterland	2016	F	31100
+Ipswich Hinterland	2016	M	31626
+Ipswich Inner	2006	F	43623
+Ipswich Inner	2006	M	42369
+Ipswich Inner	2011	F	48066
+Ipswich Inner	2011	M	46843
+Ipswich Inner	2016	F	52966
+Ipswich Inner	2016	M	51240
+Springfield - Redbank	2006	F	24064
+Springfield - Redbank	2006	M	24255
+Springfield - Redbank	2011	F	33304
+Springfield - Redbank	2011	M	33056
+Springfield - Redbank	2016	F	42323
+Springfield - Redbank	2016	M	41587
+Beaudesert	2006	F	5421
+Beaudesert	2006	M	5454
+Beaudesert	2011	F	6305
+Beaudesert	2011	M	6076
+Beaudesert	2016	F	7084
+Beaudesert	2016	M	6825
+Beenleigh	2006	F	16522
+Beenleigh	2006	M	16167
+Beenleigh	2011	F	19141
+Beenleigh	2011	M	18619
+Beenleigh	2016	F	20993
+Beenleigh	2016	M	19935
+Browns Plains	2006	F	33069
+Browns Plains	2006	M	32752
+Browns Plains	2011	F	36566
+Browns Plains	2011	M	36146
+Browns Plains	2016	F	40423
+Browns Plains	2016	M	39393
+Jimboomba	2006	F	15440
+Jimboomba	2006	M	15772
+Jimboomba	2011	F	18404
+Jimboomba	2011	M	18941
+Jimboomba	2016	F	22686
+Jimboomba	2016	M	22905
+Loganlea - Carbrook	2006	F	24846
+Loganlea - Carbrook	2006	M	24320
+Loganlea - Carbrook	2011	F	27960
+Loganlea - Carbrook	2011	M	26922
+Loganlea - Carbrook	2016	F	30477
+Loganlea - Carbrook	2016	M	29301
+Springwood - Kingston	2006	F	36446
+Springwood - Kingston	2006	M	35535
+Springwood - Kingston	2011	F	38001
+Springwood - Kingston	2011	M	37354
+Springwood - Kingston	2016	F	38904
+Springwood - Kingston	2016	M	38367
+Bowen Basin - North	2006	F	14718
+Bowen Basin - North	2006	M	17477
+Bowen Basin - North	2011	F	16089
+Bowen Basin - North	2011	M	19389
+Bowen Basin - North	2016	F	15578
+Bowen Basin - North	2016	M	17917
+Mackay	2006	F	49537
+Mackay	2006	M	51484
+Mackay	2011	F	54562
+Mackay	2011	M	58238
+Mackay	2016	F	56713
+Mackay	2016	M	58256
+Whitsunday	2006	F	7948
+Whitsunday	2006	M	9009
+Whitsunday	2011	F	8830
+Whitsunday	2011	M	9703
+Whitsunday	2016	F	10227
+Whitsunday	2016	M	10993
+Bribie - Beachmere	2006	F	14005
+Bribie - Beachmere	2006	M	13350
+Bribie - Beachmere	2011	F	15707
+Bribie - Beachmere	2011	M	14824
+Bribie - Beachmere	2016	F	17028
+Bribie - Beachmere	2016	M	16008
+Caboolture	2006	F	23722
+Caboolture	2006	M	22874
+Caboolture	2011	F	30258
+Caboolture	2011	M	28960
+Caboolture	2016	F	34549
+Caboolture	2016	M	32914
+Caboolture Hinterland	2006	F	4581
+Caboolture Hinterland	2006	M	5492
+Caboolture Hinterland	2011	F	5350
+Caboolture Hinterland	2011	M	5942
+Caboolture Hinterland	2016	F	6094
+Caboolture Hinterland	2016	M	7137
+Narangba - Burpengary	2006	F	26431
+Narangba - Burpengary	2006	M	25965
+Narangba - Burpengary	2011	F	29643
+Narangba - Burpengary	2011	M	28784
+Narangba - Burpengary	2016	F	31973
+Narangba - Burpengary	2016	M	30908
+Redcliffe	2006	F	26728
+Redcliffe	2006	M	24697
+Redcliffe	2011	F	29150
+Redcliffe	2011	M	27142
+Redcliffe	2016	F	31127
+Redcliffe	2016	M	28342
+The Hills District	2006	F	36473
+The Hills District	2006	M	36085
+The Hills District	2011	F	40463
+The Hills District	2011	M	40050
+The Hills District	2016	F	43439
+The Hills District	2016	M	42751
+North Lakes	2006	F	17472
+North Lakes	2006	M	16811
+North Lakes	2011	F	26456
+North Lakes	2011	M	25117
+North Lakes	2016	F	36820
+North Lakes	2016	M	34738
+Strathpine	2006	F	17366
+Strathpine	2006	M	16932
+Strathpine	2011	F	17869
+Strathpine	2011	M	17481
+Strathpine	2016	F	18887
+Strathpine	2016	M	18328
+Far North	2006	F	13221
+Far North	2006	M	14722
+Far North	2011	F	13917
+Far North	2011	M	15962
+Far North	2016	F	15249
+Far North	2016	M	17144
+Outback - North	2006	F	14570
+Outback - North	2006	M	16374
+Outback - North	2011	F	15361
+Outback - North	2011	M	17771
+Outback - North	2016	F	14206
+Outback - North	2016	M	15448
+Outback - South	2006	F	9600
+Outback - South	2006	M	10031
+Outback - South	2011	F	9808
+Outback - South	2011	M	10104
+Outback - South	2016	F	8787
+Outback - South	2016	M	8871
+Buderim	2006	F	21562
+Buderim	2006	M	19346
+Buderim	2011	F	24096
+Buderim	2011	M	21644
+Buderim	2016	F	28829
+Buderim	2016	M	25658
+Caloundra	2006	F	31813
+Caloundra	2006	M	29590
+Caloundra	2011	F	36298
+Caloundra	2011	M	33744
+Caloundra	2016	F	41750
+Caloundra	2016	M	38763
+Maroochy	2006	F	24201
+Maroochy	2006	M	23461
+Maroochy	2011	F	26338
+Maroochy	2011	M	24746
+Maroochy	2016	F	29136
+Maroochy	2016	M	27171
+Noosa	2006	F	16551
+Noosa	2006	M	15590
+Noosa	2011	F	18653
+Noosa	2011	M	17241
+Noosa	2016	F	21381
+Noosa	2016	M	19778
+Sunshine Coast Hinterland	2006	F	20854
+Sunshine Coast Hinterland	2006	M	20354
+Sunshine Coast Hinterland	2011	F	23557
+Sunshine Coast Hinterland	2011	M	22743
+Sunshine Coast Hinterland	2016	F	25267
+Sunshine Coast Hinterland	2016	M	24316
+Nambour	2006	F	17199
+Nambour	2006	M	16735
+Nambour	2011	F	19162
+Nambour	2011	M	18436
+Nambour	2016	F	21836
+Nambour	2016	M	20793
+Noosa Hinterland	2006	F	9532
+Noosa Hinterland	2006	M	9471
+Noosa Hinterland	2011	F	10168
+Noosa Hinterland	2011	M	10091
+Noosa Hinterland	2016	F	11016
+Noosa Hinterland	2016	M	10837
+Toowoomba	2006	F	67000
+Toowoomba	2006	M	62906
+Toowoomba	2011	F	72381
+Toowoomba	2011	M	67840
+Toowoomba	2016	F	77279
+Toowoomba	2016	M	72238
+Charters Towers - Ayr - Ingham	2006	F	20872
+Charters Towers - Ayr - Ingham	2006	M	21168
+Charters Towers - Ayr - Ingham	2011	F	21466
+Charters Towers - Ayr - Ingham	2011	M	21904
+Charters Towers - Ayr - Ingham	2016	F	20926
+Charters Towers - Ayr - Ingham	2016	M	21295
+Townsville	2006	F	76874
+Townsville	2006	M	77762
+Townsville	2011	F	87387
+Townsville	2011	M	87144
+Townsville	2016	F	93430
+Townsville	2016	M	93377
+Bundaberg	2006	F	39981
+Bundaberg	2006	M	38411
+Bundaberg	2011	F	43141
+Bundaberg	2011	M	41596
+Bundaberg	2016	F	44744
+Bundaberg	2016	M	43025
+Burnett	2006	F	22323
+Burnett	2006	M	22608
+Burnett	2011	F	23683
+Burnett	2011	M	23791
+Burnett	2016	F	24279
+Burnett	2016	M	24791
+Gympie - Cooloola	2006	F	20987
+Gympie - Cooloola	2006	M	20878
+Gympie - Cooloola	2011	F	22992
+Gympie - Cooloola	2011	M	22698
+Gympie - Cooloola	2016	F	24947
+Gympie - Cooloola	2016	M	24538
+Hervey Bay	2006	F	23416
+Hervey Bay	2006	M	22086
+Hervey Bay	2011	F	27514
+Hervey Bay	2011	M	25323
+Hervey Bay	2016	F	29509
+Hervey Bay	2016	M	27170
+Maryborough	2006	F	19323
+Maryborough	2006	M	19520
+Maryborough	2011	F	21152
+Maryborough	2011	M	21370
+Maryborough	2016	F	22261
+Maryborough	2016	M	22633
+Migratory - Offshore - Shipping (Qld)	2006	F	11
+Migratory - Offshore - Shipping (Qld)	2006	M	83
+Migratory - Offshore - Shipping (Qld)	2011	F	193
+Migratory - Offshore - Shipping (Qld)	2011	M	275
+Migratory - Offshore - Shipping (Qld)	2016	F	87
+Migratory - Offshore - Shipping (Qld)	2016	M	66
+No usual address (Qld)	2006	F	5542
+No usual address (Qld)	2006	M	7268
+No usual address (Qld)	2011	F	5396
+No usual address (Qld)	2011	M	7153
+No usual address (Qld)	2016	F	5572
+No usual address (Qld)	2016	M	6937
+Adelaide City	2006	F	7907
+Adelaide City	2006	M	8750
+Adelaide City	2011	F	9493
+Adelaide City	2011	M	10149
+Adelaide City	2016	F	10753
+Adelaide City	2016	M	11310
+Adelaide Hills	2006	F	32257
+Adelaide Hills	2006	M	31683
+Adelaide Hills	2011	F	34401
+Adelaide Hills	2011	M	33658
+Adelaide Hills	2016	F	36486
+Adelaide Hills	2016	M	35406
+Burnside	2006	F	22266
+Burnside	2006	M	19688
+Burnside	2011	F	22272
+Burnside	2011	M	19921
+Burnside	2016	F	23185
+Burnside	2016	M	20723
+Campbelltown (SA)	2006	F	24096
+Campbelltown (SA)	2006	M	22419
+Campbelltown (SA)	2011	F	25120
+Campbelltown (SA)	2011	M	23378
+Campbelltown (SA)	2016	F	25962
+Campbelltown (SA)	2016	M	24561
+Norwood - Payneham - St Peters	2006	F	17749
+Norwood - Payneham - St Peters	2006	M	15986
+Norwood - Payneham - St Peters	2011	F	18168
+Norwood - Payneham - St Peters	2011	M	16720
+Norwood - Payneham - St Peters	2016	F	18425
+Norwood - Payneham - St Peters	2016	M	16931
+Prospect - Walkerville	2006	F	13384
+Prospect - Walkerville	2006	M	12877
+Prospect - Walkerville	2011	F	13657
+Prospect - Walkerville	2011	M	13298
+Prospect - Walkerville	2016	F	14103
+Prospect - Walkerville	2016	M	13969
+Unley	2006	F	19229
+Unley	2006	M	16771
+Unley	2011	F	19509
+Unley	2011	M	17334
+Unley	2016	F	19949
+Unley	2016	M	17771
+Gawler - Two Wells	2006	F	14422
+Gawler - Two Wells	2006	M	13857
+Gawler - Two Wells	2011	F	16163
+Gawler - Two Wells	2011	M	15479
+Gawler - Two Wells	2016	F	17627
+Gawler - Two Wells	2016	M	17011
+Playford	2006	F	35604
+Playford	2006	M	35013
+Playford	2011	F	40244
+Playford	2011	M	39625
+Playford	2016	F	45495
+Playford	2016	M	44657
+Port Adelaide - East	2006	F	27734
+Port Adelaide - East	2006	M	27481
+Port Adelaide - East	2011	F	30385
+Port Adelaide - East	2011	M	30552
+Port Adelaide - East	2016	F	33924
+Port Adelaide - East	2016	M	34132
+Salisbury	2006	F	58735
+Salisbury	2006	M	58135
+Salisbury	2011	F	64151
+Salisbury	2011	M	63511
+Salisbury	2016	F	68540
+Salisbury	2016	M	68093
+Tea Tree Gully	2006	F	46940
+Tea Tree Gully	2006	M	45138
+Tea Tree Gully	2011	F	46665
+Tea Tree Gully	2011	M	44872
+Tea Tree Gully	2016	F	47900
+Tea Tree Gully	2016	M	45709
+Holdfast Bay	2006	F	16943
+Holdfast Bay	2006	M	15093
+Holdfast Bay	2011	F	17347
+Holdfast Bay	2011	M	15724
+Holdfast Bay	2016	F	17649
+Holdfast Bay	2016	M	16055
+Marion	2006	F	41535
+Marion	2006	M	38436
+Marion	2011	F	43669
+Marion	2011	M	40653
+Marion	2016	F	46763
+Marion	2016	M	43304
+Mitcham	2006	F	31582
+Mitcham	2006	M	29323
+Mitcham	2011	F	31855
+Mitcham	2011	M	29804
+Mitcham	2016	F	32919
+Mitcham	2016	M	30612
+Onkaparinga	2006	F	76501
+Onkaparinga	2006	M	74187
+Onkaparinga	2011	F	81782
+Onkaparinga	2011	M	79036
+Onkaparinga	2016	F	85772
+Onkaparinga	2016	M	82270
+Charles Sturt	2006	F	50172
+Charles Sturt	2006	M	47800
+Charles Sturt	2011	F	52209
+Charles Sturt	2011	M	50021
+Charles Sturt	2016	F	55539
+Charles Sturt	2016	M	53158
+Port Adelaide - West	2006	F	26872
+Port Adelaide - West	2006	M	25679
+Port Adelaide - West	2011	F	28588
+Port Adelaide - West	2011	M	28017
+Port Adelaide - West	2016	F	29543
+Port Adelaide - West	2016	M	28424
+West Torrens	2006	F	27906
+West Torrens	2006	M	26815
+West Torrens	2011	F	29554
+West Torrens	2011	M	28268
+West Torrens	2016	F	31290
+West Torrens	2016	M	29790
+Barossa	2006	F	15622
+Barossa	2006	M	15814
+Barossa	2011	F	16579
+Barossa	2011	M	16619
+Barossa	2016	F	17770
+Barossa	2016	M	17726
+Lower North	2006	F	10560
+Lower North	2006	M	10682
+Lower North	2011	F	10950
+Lower North	2011	M	11104
+Lower North	2016	F	11192
+Lower North	2016	M	11351
+Mid North	2006	F	13859
+Mid North	2006	M	13608
+Mid North	2011	F	13690
+Mid North	2011	M	13573
+Mid North	2016	F	13741
+Mid North	2016	M	13531
+Yorke Peninsula	2006	F	11345
+Yorke Peninsula	2006	M	11297
+Yorke Peninsula	2011	F	11996
+Yorke Peninsula	2011	M	12004
+Yorke Peninsula	2016	F	12458
+Yorke Peninsula	2016	M	12746
+Eyre Peninsula and South West	2006	F	26929
+Eyre Peninsula and South West	2006	M	27953
+Eyre Peninsula and South West	2011	F	27886
+Eyre Peninsula and South West	2011	M	28512
+Eyre Peninsula and South West	2016	F	27993
+Eyre Peninsula and South West	2016	M	28616
+Outback - North and East	2006	F	12794
+Outback - North and East	2006	M	14171
+Outback - North and East	2011	F	13063
+Outback - North and East	2011	M	15129
+Outback - North and East	2016	F	12350
+Outback - North and East	2016	M	13857
+Fleurieu - Kangaroo Island	2006	F	20969
+Fleurieu - Kangaroo Island	2006	M	20170
+Fleurieu - Kangaroo Island	2011	F	23809
+Fleurieu - Kangaroo Island	2011	M	22543
+Fleurieu - Kangaroo Island	2016	F	25925
+Fleurieu - Kangaroo Island	2016	M	24473
+Limestone Coast	2006	F	30994
+Limestone Coast	2006	M	31218
+Limestone Coast	2011	F	31432
+Limestone Coast	2011	M	31642
+Limestone Coast	2016	F	31942
+Limestone Coast	2016	M	32852
+Murray and Mallee	2006	F	33100
+Murray and Mallee	2006	M	33663
+Murray and Mallee	2011	F	33430
+Murray and Mallee	2011	M	34294
+Murray and Mallee	2016	F	34327
+Murray and Mallee	2016	M	35223
+Migratory - Offshore - Shipping (SA)	2006	F	0
+Migratory - Offshore - Shipping (SA)	2006	M	7
+Migratory - Offshore - Shipping (SA)	2011	F	0
+Migratory - Offshore - Shipping (SA)	2011	M	5
+Migratory - Offshore - Shipping (SA)	2016	F	0
+Migratory - Offshore - Shipping (SA)	2016	M	6
+No usual address (SA)	2006	F	1125
+No usual address (SA)	2006	M	1494
+No usual address (SA)	2011	F	1287
+No usual address (SA)	2011	M	1778
+No usual address (SA)	2016	F	1129
+No usual address (SA)	2016	M	1734
+Augusta - Margaret River - Busselton	2006	F	17985
+Augusta - Margaret River - Busselton	2006	M	17717
+Augusta - Margaret River - Busselton	2011	F	21402
+Augusta - Margaret River - Busselton	2011	M	20644
+Augusta - Margaret River - Busselton	2016	F	25875
+Augusta - Margaret River - Busselton	2016	M	24996
+Bunbury	2006	F	40867
+Bunbury	2006	M	40995
+Bunbury	2011	F	46980
+Bunbury	2011	M	47410
+Bunbury	2016	F	51838
+Bunbury	2016	M	50811
+Manjimup	2006	F	10266
+Manjimup	2006	M	10352
+Manjimup	2011	F	10774
+Manjimup	2011	M	10900
+Manjimup	2016	F	11437
+Manjimup	2016	M	11377
+Mandurah	2006	F	34028
+Mandurah	2006	M	32830
+Mandurah	2011	F	42424
+Mandurah	2011	M	40871
+Mandurah	2016	F	49590
+Mandurah	2016	M	47146
+Cottesloe - Claremont	2006	F	32360
+Cottesloe - Claremont	2006	M	30017
+Cottesloe - Claremont	2011	F	33153
+Cottesloe - Claremont	2011	M	30981
+Cottesloe - Claremont	2016	F	34711
+Cottesloe - Claremont	2016	M	32922
+Perth City	2006	F	39589
+Perth City	2006	M	40178
+Perth City	2011	F	45467
+Perth City	2011	M	46749
+Perth City	2016	F	50984
+Perth City	2016	M	50688
+Bayswater - Bassendean	2006	F	35129
+Bayswater - Bassendean	2006	M	34736
+Bayswater - Bassendean	2011	F	38107
+Bayswater - Bassendean	2011	M	38237
+Bayswater - Bassendean	2016	F	40499
+Bayswater - Bassendean	2016	M	39944
+Mundaring	2006	F	18909
+Mundaring	2006	M	19592
+Mundaring	2011	F	19681
+Mundaring	2011	M	20733
+Mundaring	2016	F	20184
+Mundaring	2016	M	21848
+Swan	2006	F	44510
+Swan	2006	M	43972
+Swan	2011	F	51802
+Swan	2011	M	51334
+Swan	2016	F	64736
+Swan	2016	M	63808
+Joondalup	2006	F	75671
+Joondalup	2006	M	74004
+Joondalup	2011	F	77045
+Joondalup	2011	M	75373
+Joondalup	2016	F	78041
+Joondalup	2016	M	76684
+Stirling	2006	F	82583
+Stirling	2006	M	77868
+Stirling	2011	F	90795
+Stirling	2011	M	87634
+Stirling	2016	F	98391
+Stirling	2016	M	94036
+Wanneroo	2006	F	55949
+Wanneroo	2006	M	54993
+Wanneroo	2011	F	76867
+Wanneroo	2011	M	75236
+Wanneroo	2016	F	95067
+Wanneroo	2016	M	92891
+Armadale	2006	F	25497
+Armadale	2006	M	25046
+Armadale	2011	F	31253
+Armadale	2011	M	31042
+Armadale	2016	F	40002
+Armadale	2016	M	39594
+Belmont - Victoria Park	2006	F	27399
+Belmont - Victoria Park	2006	M	27378
+Belmont - Victoria Park	2011	F	31205
+Belmont - Victoria Park	2011	M	32599
+Belmont - Victoria Park	2016	F	34707
+Belmont - Victoria Park	2016	M	36010
+Canning	2006	F	41090
+Canning	2006	M	39334
+Canning	2011	F	44622
+Canning	2011	M	44141
+Canning	2016	F	46908
+Canning	2016	M	46691
+Gosnells	2006	F	45726
+Gosnells	2006	M	45847
+Gosnells	2011	F	52832
+Gosnells	2011	M	53754
+Gosnells	2016	F	58066
+Gosnells	2016	M	60000
+Kalamunda	2006	F	24960
+Kalamunda	2006	M	24577
+Kalamunda	2011	F	27030
+Kalamunda	2011	M	26533
+Kalamunda	2016	F	28995
+Kalamunda	2016	M	28458
+Serpentine - Jarrahdale	2006	F	6353
+Serpentine - Jarrahdale	2006	M	6713
+Serpentine - Jarrahdale	2011	F	8754
+Serpentine - Jarrahdale	2011	M	9050
+Serpentine - Jarrahdale	2016	F	13241
+Serpentine - Jarrahdale	2016	M	13631
+South Perth	2006	F	19637
+South Perth	2006	M	18807
+South Perth	2011	F	20865
+South Perth	2011	M	19941
+South Perth	2016	F	21466
+South Perth	2016	M	20580
+Cockburn	2006	F	36236
+Cockburn	2006	M	35826
+Cockburn	2011	F	43860
+Cockburn	2011	M	43552
+Cockburn	2016	F	51705
+Cockburn	2016	M	50322
+Fremantle	2006	F	16010
+Fremantle	2006	M	15648
+Fremantle	2011	F	17211
+Fremantle	2011	M	16418
+Fremantle	2016	F	18920
+Fremantle	2016	M	17684
+Kwinana	2006	F	11188
+Kwinana	2006	M	12001
+Kwinana	2011	F	14356
+Kwinana	2011	M	14872
+Kwinana	2016	F	18948
+Kwinana	2016	M	19970
+Melville	2006	F	50026
+Melville	2006	M	45561
+Melville	2011	F	50984
+Melville	2011	M	47387
+Melville	2016	F	52076
+Melville	2016	M	48603
+Rockingham	2006	F	42406
+Rockingham	2006	M	41904
+Rockingham	2011	F	52253
+Rockingham	2011	M	51853
+Rockingham	2016	F	63083
+Rockingham	2016	M	62028
+Albany	2006	F	26250
+Albany	2006	M	26346
+Albany	2011	F	27789
+Albany	2011	M	27569
+Albany	2016	F	29530
+Albany	2016	M	29638
+Wheat Belt - North	2006	F	24533
+Wheat Belt - North	2006	M	25882
+Wheat Belt - North	2011	F	25891
+Wheat Belt - North	2011	M	27475
+Wheat Belt - North	2016	F	26872
+Wheat Belt - North	2016	M	29063
+Wheat Belt - South	2006	F	9745
+Wheat Belt - South	2006	M	10103
+Wheat Belt - South	2011	F	9853
+Wheat Belt - South	2011	M	10859
+Wheat Belt - South	2016	F	9889
+Wheat Belt - South	2016	M	10355
+Kimberley	2006	F	14206
+Kimberley	2006	M	15091
+Kimberley	2011	F	16286
+Kimberley	2011	M	18511
+Kimberley	2016	F	17207
+Kimberley	2016	M	17158
+East Pilbara	2006	F	8285
+East Pilbara	2006	M	10215
+East Pilbara	2011	F	10378
+East Pilbara	2011	M	16614
+East Pilbara	2016	F	10274
+East Pilbara	2016	M	14781
+West Pilbara	2006	F	10203
+West Pilbara	2006	M	12298
+West Pilbara	2011	F	12630
+West Pilbara	2011	M	20268
+West Pilbara	2016	F	13133
+West Pilbara	2016	M	21369
+Esperance	2006	F	7268
+Esperance	2006	M	7647
+Esperance	2011	F	7689
+Esperance	2011	M	7917
+Esperance	2016	F	7861
+Esperance	2016	M	8108
+Gascoyne	2006	F	4266
+Gascoyne	2006	M	4626
+Gascoyne	2011	F	4448
+Gascoyne	2011	M	4846
+Gascoyne	2016	F	4491
+Gascoyne	2016	M	4995
+Goldfields	2006	F	17451
+Goldfields	2006	M	19529
+Goldfields	2011	F	19265
+Goldfields	2011	M	22550
+Goldfields	2016	F	18295
+Goldfields	2016	M	20800
+Mid West	2006	F	23797
+Mid West	2006	M	24742
+Mid West	2011	F	26013
+Mid West	2011	M	27643
+Mid West	2016	F	26517
+Mid West	2016	M	27497
+Migratory - Offshore - Shipping (WA)	2006	F	26
+Migratory - Offshore - Shipping (WA)	2006	M	314
+Migratory - Offshore - Shipping (WA)	2011	F	33
+Migratory - Offshore - Shipping (WA)	2011	M	381
+Migratory - Offshore - Shipping (WA)	2016	F	26
+Migratory - Offshore - Shipping (WA)	2016	M	408
+No usual address (WA)	2006	F	2541
+No usual address (WA)	2006	M	3442
+No usual address (WA)	2011	F	3010
+No usual address (WA)	2011	M	4285
+No usual address (WA)	2016	F	2415
+No usual address (WA)	2016	M	3532
+Brighton	2006	F	7490
+Brighton	2006	M	7199
+Brighton	2011	F	8248
+Brighton	2011	M	7761
+Brighton	2016	F	8723
+Brighton	2016	M	8344
+Hobart - North East	2006	F	24253
+Hobart - North East	2006	M	22892
+Hobart - North East	2011	F	25420
+Hobart - North East	2011	M	24223
+Hobart - North East	2016	F	27114
+Hobart - North East	2016	M	25488
+Hobart - North West	2006	F	25964
+Hobart - North West	2006	M	23989
+Hobart - North West	2011	F	26500
+Hobart - North West	2011	M	24751
+Hobart - North West	2016	F	27416
+Hobart - North West	2016	M	25739
+Hobart - South and West	2006	F	14650
+Hobart - South and West	2006	M	13568
+Hobart - South and West	2011	F	16113
+Hobart - South and West	2011	M	14981
+Hobart - South and West	2016	F	17106
+Hobart - South and West	2016	M	15774
+Hobart Inner	2006	F	24538
+Hobart Inner	2006	M	23164
+Hobart Inner	2011	F	24976
+Hobart Inner	2011	M	23826
+Hobart Inner	2016	F	25920
+Hobart Inner	2016	M	24640
+Sorell - Dodges Ferry	2006	F	6960
+Sorell - Dodges Ferry	2006	M	6885
+Sorell - Dodges Ferry	2011	F	7509
+Sorell - Dodges Ferry	2011	M	7338
+Sorell - Dodges Ferry	2016	F	8140
+Sorell - Dodges Ferry	2016	M	7945
+Launceston	2006	F	39402
+Launceston	2006	M	36339
+Launceston	2011	F	40954
+Launceston	2011	M	38088
+Launceston	2016	F	41960
+Launceston	2016	M	38958
+Meander Valley - West Tamar	2006	F	11007
+Meander Valley - West Tamar	2006	M	10894
+Meander Valley - West Tamar	2011	F	11188
+Meander Valley - West Tamar	2011	M	10822
+Meander Valley - West Tamar	2016	F	11302
+Meander Valley - West Tamar	2016	M	11142
+North East	2006	F	17952
+North East	2006	M	18333
+North East	2011	F	18149
+North East	2011	M	18363
+North East	2016	F	18451
+North East	2016	M	18670
+Central Highlands (Tas.)	2006	F	5167
+Central Highlands (Tas.)	2006	M	5680
+Central Highlands (Tas.)	2011	F	5439
+Central Highlands (Tas.)	2011	M	5900
+Central Highlands (Tas.)	2016	F	5354
+Central Highlands (Tas.)	2016	M	5876
+Huon - Bruny Island	2006	F	8155
+Huon - Bruny Island	2006	M	8463
+Huon - Bruny Island	2011	F	8850
+Huon - Bruny Island	2011	M	9092
+Huon - Bruny Island	2016	F	9520
+Huon - Bruny Island	2016	M	9623
+South East Coast	2006	F	3158
+South East Coast	2006	M	3271
+South East Coast	2011	F	3194
+South East Coast	2011	M	3320
+South East Coast	2016	F	3297
+South East Coast	2016	M	3451
+Burnie - Ulverstone	2006	F	24338
+Burnie - Ulverstone	2006	M	22749
+Burnie - Ulverstone	2011	F	24814
+Burnie - Ulverstone	2011	M	23155
+Burnie - Ulverstone	2016	F	24578
+Burnie - Ulverstone	2016	M	22949
+Devonport	2006	F	20816
+Devonport	2006	M	20004
+Devonport	2011	F	22136
+Devonport	2011	M	21088
+Devonport	2016	F	22840
+Devonport	2016	M	21409
+West Coast	2006	F	8811
+West Coast	2006	M	9417
+West Coast	2011	F	8686
+West Coast	2011	M	9267
+West Coast	2016	F	8342
+West Coast	2016	M	8901
+Migratory - Offshore - Shipping (Tas.)	2006	F	10
+Migratory - Offshore - Shipping (Tas.)	2006	M	78
+Migratory - Offshore - Shipping (Tas.)	2011	F	36
+Migratory - Offshore - Shipping (Tas.)	2011	M	82
+Migratory - Offshore - Shipping (Tas.)	2016	F	21
+Migratory - Offshore - Shipping (Tas.)	2016	M	49
+No usual address (Tas.)	2006	F	413
+No usual address (Tas.)	2006	M	460
+No usual address (Tas.)	2011	F	460
+No usual address (Tas.)	2011	M	613
+No usual address (Tas.)	2016	F	393
+No usual address (Tas.)	2016	M	524
+Darwin City	2006	F	8882
+Darwin City	2006	M	10552
+Darwin City	2011	F	10499
+Darwin City	2011	M	12270
+Darwin City	2016	F	12047
+Darwin City	2016	M	13789
+Darwin Suburbs	2006	F	23447
+Darwin Suburbs	2006	M	24274
+Darwin Suburbs	2011	F	24964
+Darwin Suburbs	2011	M	26609
+Darwin Suburbs	2016	F	26679
+Darwin Suburbs	2016	M	27084
+Litchfield	2006	F	6833
+Litchfield	2006	M	8360
+Litchfield	2011	F	8491
+Litchfield	2011	M	10125
+Litchfield	2016	F	9520
+Litchfield	2016	M	14009
+Palmerston	2006	F	11742
+Palmerston	2006	M	11892
+Palmerston	2011	F	13730
+Palmerston	2011	M	13886
+Palmerston	2016	F	16698
+Palmerston	2016	M	16997
+Alice Springs	2006	F	17775
+Alice Springs	2006	M	17565
+Alice Springs	2011	F	17821
+Alice Springs	2011	M	18244
+Alice Springs	2016	F	18179
+Alice Springs	2016	M	17900
+Barkly	2006	F	2597
+Barkly	2006	M	2792
+Barkly	2011	F	2845
+Barkly	2011	M	2876
+Barkly	2016	F	2640
+Barkly	2016	M	2892
+Daly - Tiwi - West Arnhem	2006	F	6611
+Daly - Tiwi - West Arnhem	2006	M	7201
+Daly - Tiwi - West Arnhem	2011	F	7525
+Daly - Tiwi - West Arnhem	2011	M	8226
+Daly - Tiwi - West Arnhem	2016	F	7832
+Daly - Tiwi - West Arnhem	2016	M	8272
+East Arnhem	2006	F	6371
+East Arnhem	2006	M	6878
+East Arnhem	2011	F	6813
+East Arnhem	2011	M	7205
+East Arnhem	2016	F	6439
+East Arnhem	2016	M	6577
+Katherine	2006	F	8389
+Katherine	2006	M	8731
+Katherine	2011	F	8862
+Katherine	2011	M	8963
+Katherine	2016	F	9062
+Katherine	2016	M	9648
+Migratory - Offshore - Shipping (NT)	2006	F	17
+Migratory - Offshore - Shipping (NT)	2006	M	78
+Migratory - Offshore - Shipping (NT)	2011	F	19
+Migratory - Offshore - Shipping (NT)	2011	M	90
+Migratory - Offshore - Shipping (NT)	2016	F	14
+Migratory - Offshore - Shipping (NT)	2016	M	61
+No usual address (NT)	2006	F	863
+No usual address (NT)	2006	M	1043
+No usual address (NT)	2011	F	850
+No usual address (NT)	2011	M	1017
+No usual address (NT)	2016	F	1157
+No usual address (NT)	2016	M	1332
+Belconnen	2006	F	42770
+Belconnen	2006	M	41617
+Belconnen	2011	F	46787
+Belconnen	2011	M	45681
+Belconnen	2016	F	48640
+Belconnen	2016	M	47409
+Canberra East	2006	F	450
+Canberra East	2006	M	655
+Canberra East	2011	F	484
+Canberra East	2011	M	977
+Canberra East	2016	F	515
+Canberra East	2016	M	1062
+Gungahlin	2006	F	16213
+Gungahlin	2006	M	15451
+Gungahlin	2011	F	23957
+Gungahlin	2011	M	23346
+Gungahlin	2016	F	35920
+Gungahlin	2016	M	35222
+North Canberra	2006	F	20843
+North Canberra	2006	M	21103
+North Canberra	2011	F	23720
+North Canberra	2011	M	24312
+North Canberra	2016	F	26554
+North Canberra	2016	M	26449
+South Canberra	2006	F	11659
+South Canberra	2006	M	11070
+South Canberra	2011	F	12354
+South Canberra	2011	M	11840
+South Canberra	2016	F	13930
+South Canberra	2016	M	13082
+Tuggeranong	2006	F	44214
+Tuggeranong	2006	M	42904
+Tuggeranong	2011	F	44100
+Tuggeranong	2011	M	42802
+Tuggeranong	2016	F	43512
+Tuggeranong	2016	M	41642
+Weston Creek	2006	F	11355
+Weston Creek	2006	M	10710
+Weston Creek	2011	F	11648
+Weston Creek	2011	M	11109
+Weston Creek	2016	F	11893
+Weston Creek	2016	M	11090
+Woden Valley	2006	F	16402
+Woden Valley	2006	M	15591
+Woden Valley	2011	F	16889
+Woden Valley	2011	M	16072
+Woden Valley	2016	F	17839
+Woden Valley	2016	M	16921
+Molonglo	2006	F	0
+Molonglo	2006	M	0
+Molonglo	2011	F	4
+Molonglo	2011	M	3
+Molonglo	2016	F	2341
+Molonglo	2016	M	2236
+Urriarra - Namadgi	2006	F	145
+Urriarra - Namadgi	2006	M	187
+Urriarra - Namadgi	2011	F	224
+Urriarra - Namadgi	2011	M	265
+Urriarra - Namadgi	2016	F	288
+Urriarra - Namadgi	2016	M	312
+Migratory - Offshore - Shipping (ACT)	2006	F	0
+Migratory - Offshore - Shipping (ACT)	2006	M	0
+Migratory - Offshore - Shipping (ACT)	2011	F	0
+Migratory - Offshore - Shipping (ACT)	2011	M	0
+Migratory - Offshore - Shipping (ACT)	2016	F	0
+Migratory - Offshore - Shipping (ACT)	2016	M	0
+No usual address (ACT)	2006	F	337
+No usual address (ACT)	2006	M	371
+No usual address (ACT)	2011	F	305
+No usual address (ACT)	2011	M	328
+No usual address (ACT)	2016	F	228
+No usual address (ACT)	2016	M	312
+Christmas Island	2006	F	585
+Christmas Island	2006	M	767
+Christmas Island	2011	F	607
+Christmas Island	2011	M	1465
+Christmas Island	2016	F	712
+Christmas Island	2016	M	1130
+Cocos (Keeling) Islands	2006	F	292
+Cocos (Keeling) Islands	2006	M	278
+Cocos (Keeling) Islands	2011	F	268
+Cocos (Keeling) Islands	2011	M	287
+Cocos (Keeling) Islands	2016	F	273
+Cocos (Keeling) Islands	2016	M	268
+Jervis Bay	2006	F	171
+Jervis Bay	2006	M	200
+Jervis Bay	2011	F	167
+Jervis Bay	2011	M	213
+Jervis Bay	2016	F	172
+Jervis Bay	2016	M	216
+Norfolk Island	2006	F	0
+Norfolk Island	2006	M	0
+Norfolk Island	2011	F	0
+Norfolk Island	2011	M	0
+Norfolk Island	2016	F	930
+Norfolk Island	2016	M	819
+Migratory - Offshore - Shipping (OT)	2006	F	0
+Migratory - Offshore - Shipping (OT)	2006	M	0
+Migratory - Offshore - Shipping (OT)	2011	F	0
+Migratory - Offshore - Shipping (OT)	2011	M	0
+Migratory - Offshore - Shipping (OT)	2016	F	0
+Migratory - Offshore - Shipping (OT)	2016	M	3
+No usual address (OT)	2006	F	4
+No usual address (OT)	2006	M	22
+No usual address (OT)	2011	F	19
+No usual address (OT)	2011	M	7
+No usual address (OT)	2016	F	28
+No usual address (OT)	2016	M	21

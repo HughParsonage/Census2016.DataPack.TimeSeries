@@ -1,0 +1,325 @@
+STE_NAME16	Year	EduInstitutionType	Sex	students
+New South Wales	2006		F	298354
+New South Wales	2006		M	302300
+New South Wales	2006	Infants/Primary	F	266492
+New South Wales	2006	Infants/Primary	M	280652
+New South Wales	2006	Pre-school	F	54273
+New South Wales	2006	Pre-school	M	59750
+New South Wales	2006	Secondary	F	217837
+New South Wales	2006	Secondary	M	220377
+New South Wales	2006	Technical or Further Educational Institution	F	81541
+New South Wales	2006	Technical or Further Educational Institution	M	79278
+New South Wales	2006	University or other tertiary	F	133106
+New South Wales	2006	University or other tertiary	M	105932
+New South Wales	2011		F	266074
+New South Wales	2011		M	271090
+New South Wales	2011	Infants/Primary	F	266863
+New South Wales	2011	Infants/Primary	M	282485
+New South Wales	2011	Pre-school	F	60747
+New South Wales	2011	Pre-school	M	65859
+New South Wales	2011	Secondary	F	223848
+New South Wales	2011	Secondary	M	228081
+New South Wales	2011	Technical or Further Educational Institution	F	88303
+New South Wales	2011	Technical or Further Educational Institution	M	79703
+New South Wales	2011	University or other tertiary	F	170142
+New South Wales	2011	University or other tertiary	M	132927
+New South Wales	2016		F	304379
+New South Wales	2016		M	294555
+New South Wales	2016	Infants/Primary	F	295536
+New South Wales	2016	Infants/Primary	M	311633
+New South Wales	2016	Pre-school	F	62969
+New South Wales	2016	Pre-school	M	69074
+New South Wales	2016	Secondary	F	230771
+New South Wales	2016	Secondary	M	236087
+New South Wales	2016	Technical or Further Educational Institution	F	78196
+New South Wales	2016	Technical or Further Educational Institution	M	65909
+New South Wales	2016	University or other tertiary	F	208318
+New South Wales	2016	University or other tertiary	M	167817
+Victoria	2006		F	217927
+Victoria	2006		M	210983
+Victoria	2006	Infants/Primary	F	195168
+Victoria	2006	Infants/Primary	M	205926
+Victoria	2006	Pre-school	F	37622
+Victoria	2006	Pre-school	M	40473
+Victoria	2006	Secondary	F	166678
+Victoria	2006	Secondary	M	166884
+Victoria	2006	Technical or Further Educational Institution	F	50128
+Victoria	2006	Technical or Further Educational Institution	M	52176
+Victoria	2006	University or other tertiary	F	111178
+Victoria	2006	University or other tertiary	M	87841
+Victoria	2011		F	205318
+Victoria	2011		M	201429
+Victoria	2011	Infants/Primary	F	200345
+Victoria	2011	Infants/Primary	M	210669
+Victoria	2011	Pre-school	F	43215
+Victoria	2011	Pre-school	M	46597
+Victoria	2011	Secondary	F	171768
+Victoria	2011	Secondary	M	173698
+Victoria	2011	Technical or Further Educational Institution	F	58912
+Victoria	2011	Technical or Further Educational Institution	M	59036
+Victoria	2011	University or other tertiary	F	140404
+Victoria	2011	University or other tertiary	M	106146
+Victoria	2016		F	244152
+Victoria	2016		M	228540
+Victoria	2016	Infants/Primary	F	228296
+Victoria	2016	Infants/Primary	M	240402
+Victoria	2016	Pre-school	F	45587
+Victoria	2016	Pre-school	M	49380
+Victoria	2016	Secondary	F	180457
+Victoria	2016	Secondary	M	183685
+Victoria	2016	Technical or Further Educational Institution	F	52733
+Victoria	2016	Technical or Further Educational Institution	M	50951
+Victoria	2016	University or other tertiary	F	181094
+Victoria	2016	University or other tertiary	M	143954
+Queensland	2006		F	168890
+Queensland	2006		M	177179
+Queensland	2006	Infants/Primary	F	169763
+Queensland	2006	Infants/Primary	M	178753
+Queensland	2006	Pre-school	F	28119
+Queensland	2006	Pre-school	M	30623
+Queensland	2006	Secondary	F	118086
+Queensland	2006	Secondary	M	118600
+Queensland	2006	Technical or Further Educational Institution	F	38333
+Queensland	2006	Technical or Further Educational Institution	M	29775
+Queensland	2006	University or other tertiary	F	80715
+Queensland	2006	University or other tertiary	M	57128
+Queensland	2011		F	163098
+Queensland	2011		M	177537
+Queensland	2011	Infants/Primary	F	184225
+Queensland	2011	Infants/Primary	M	195551
+Queensland	2011	Pre-school	F	24436
+Queensland	2011	Pre-school	M	26181
+Queensland	2011	Secondary	F	127929
+Queensland	2011	Secondary	M	130624
+Queensland	2011	Technical or Further Educational Institution	F	45876
+Queensland	2011	Technical or Further Educational Institution	M	33361
+Queensland	2011	University or other tertiary	F	103391
+Queensland	2011	University or other tertiary	M	70041
+Queensland	2016		F	199015
+Queensland	2016		M	199386
+Queensland	2016	Infants/Primary	F	195251
+Queensland	2016	Infants/Primary	M	205259
+Queensland	2016	Pre-school	F	27216
+Queensland	2016	Pre-school	M	29424
+Queensland	2016	Secondary	F	145862
+Queensland	2016	Secondary	M	152283
+Queensland	2016	Technical or Further Educational Institution	F	46138
+Queensland	2016	Technical or Further Educational Institution	M	30849
+Queensland	2016	University or other tertiary	F	125146
+Queensland	2016	University or other tertiary	M	88080
+South Australia	2006		F	58469
+South Australia	2006		M	57062
+South Australia	2006	Infants/Primary	F	68074
+South Australia	2006	Infants/Primary	M	71438
+South Australia	2006	Pre-school	F	8991
+South Australia	2006	Pre-school	M	9585
+South Australia	2006	Secondary	F	43403
+South Australia	2006	Secondary	M	43896
+South Australia	2006	Technical or Further Educational Institution	F	17717
+South Australia	2006	Technical or Further Educational Institution	M	15026
+South Australia	2006	University or other tertiary	F	30559
+South Australia	2006	University or other tertiary	M	23169
+South Australia	2011		F	54821
+South Australia	2011		M	54969
+South Australia	2011	Infants/Primary	F	66409
+South Australia	2011	Infants/Primary	M	70127
+South Australia	2011	Pre-school	F	10089
+South Australia	2011	Pre-school	M	10493
+South Australia	2011	Secondary	F	45272
+South Australia	2011	Secondary	M	45680
+South Australia	2011	Technical or Further Educational Institution	F	19275
+South Australia	2011	Technical or Further Educational Institution	M	15570
+South Australia	2011	University or other tertiary	F	37795
+South Australia	2011	University or other tertiary	M	28157
+South Australia	2016		F	59550
+South Australia	2016		M	58386
+South Australia	2016	Infants/Primary	F	69685
+South Australia	2016	Infants/Primary	M	73621
+South Australia	2016	Pre-school	F	9880
+South Australia	2016	Pre-school	M	10412
+South Australia	2016	Secondary	F	45996
+South Australia	2016	Secondary	M	47262
+South Australia	2016	Technical or Further Educational Institution	F	17943
+South Australia	2016	Technical or Further Educational Institution	M	13445
+South Australia	2016	University or other tertiary	F	44621
+South Australia	2016	University or other tertiary	M	34162
+Western Australia	2006		F	90008
+Western Australia	2006		M	98095
+Western Australia	2006	Infants/Primary	F	82395
+Western Australia	2006	Infants/Primary	M	87478
+Western Australia	2006	Pre-school	F	13162
+Western Australia	2006	Pre-school	M	14012
+Western Australia	2006	Secondary	F	58013
+Western Australia	2006	Secondary	M	58347
+Western Australia	2006	Technical or Further Educational Institution	F	20882
+Western Australia	2006	Technical or Further Educational Institution	M	19889
+Western Australia	2006	University or other tertiary	F	41740
+Western Australia	2006	University or other tertiary	M	31356
+Western Australia	2011		F	88391
+Western Australia	2011		M	106001
+Western Australia	2011	Infants/Primary	F	91886
+Western Australia	2011	Infants/Primary	M	96741
+Western Australia	2011	Pre-school	F	15790
+Western Australia	2011	Pre-school	M	16635
+Western Australia	2011	Secondary	F	61113
+Western Australia	2011	Secondary	M	62572
+Western Australia	2011	Technical or Further Educational Institution	F	25447
+Western Australia	2011	Technical or Further Educational Institution	M	23310
+Western Australia	2011	University or other tertiary	F	52600
+Western Australia	2011	University or other tertiary	M	39343
+Western Australia	2016		F	103820
+Western Australia	2016		M	112369
+Western Australia	2016	Infants/Primary	F	102235
+Western Australia	2016	Infants/Primary	M	107654
+Western Australia	2016	Pre-school	F	14605
+Western Australia	2016	Pre-school	M	15645
+Western Australia	2016	Secondary	F	77271
+Western Australia	2016	Secondary	M	79743
+Western Australia	2016	Technical or Further Educational Institution	F	25197
+Western Australia	2016	Technical or Further Educational Institution	M	21640
+Western Australia	2016	University or other tertiary	F	60290
+Western Australia	2016	University or other tertiary	M	46521
+Tasmania	2006		F	19646
+Tasmania	2006		M	18665
+Tasmania	2006	Infants/Primary	F	21244
+Tasmania	2006	Infants/Primary	M	22535
+Tasmania	2006	Pre-school	F	1968
+Tasmania	2006	Pre-school	M	2056
+Tasmania	2006	Secondary	F	14897
+Tasmania	2006	Secondary	M	15020
+Tasmania	2006	Technical or Further Educational Institution	F	6605
+Tasmania	2006	Technical or Further Educational Institution	M	5837
+Tasmania	2006	University or other tertiary	F	8145
+Tasmania	2006	University or other tertiary	M	6019
+Tasmania	2011		F	17416
+Tasmania	2011		M	17076
+Tasmania	2011	Infants/Primary	F	20516
+Tasmania	2011	Infants/Primary	M	21552
+Tasmania	2011	Pre-school	F	2029
+Tasmania	2011	Pre-school	M	2186
+Tasmania	2011	Secondary	F	14629
+Tasmania	2011	Secondary	M	14975
+Tasmania	2011	Technical or Further Educational Institution	F	6800
+Tasmania	2011	Technical or Further Educational Institution	M	6066
+Tasmania	2011	University or other tertiary	F	9755
+Tasmania	2011	University or other tertiary	M	6779
+Tasmania	2016		F	21069
+Tasmania	2016		M	20071
+Tasmania	2016	Infants/Primary	F	21298
+Tasmania	2016	Infants/Primary	M	22482
+Tasmania	2016	Pre-school	F	1803
+Tasmania	2016	Pre-school	M	1933
+Tasmania	2016	Secondary	F	14430
+Tasmania	2016	Secondary	M	15019
+Tasmania	2016	Technical or Further Educational Institution	F	5789
+Tasmania	2016	Technical or Further Educational Institution	M	4837
+Tasmania	2016	University or other tertiary	F	10609
+Tasmania	2016	University or other tertiary	M	7641
+Northern Territory	2006		F	12867
+Northern Territory	2006		M	15248
+Northern Territory	2006	Infants/Primary	F	9550
+Northern Territory	2006	Infants/Primary	M	10149
+Northern Territory	2006	Pre-school	F	1330
+Northern Territory	2006	Pre-school	M	1487
+Northern Territory	2006	Secondary	F	4938
+Northern Territory	2006	Secondary	M	5045
+Northern Territory	2006	Technical or Further Educational Institution	F	1141
+Northern Territory	2006	Technical or Further Educational Institution	M	1058
+Northern Territory	2006	University or other tertiary	F	3712
+Northern Territory	2006	University or other tertiary	M	2106
+Northern Territory	2011		F	12084
+Northern Territory	2011		M	15790
+Northern Territory	2011	Infants/Primary	F	9774
+Northern Territory	2011	Infants/Primary	M	10138
+Northern Territory	2011	Pre-school	F	1630
+Northern Territory	2011	Pre-school	M	1708
+Northern Territory	2011	Secondary	F	6167
+Northern Territory	2011	Secondary	M	6441
+Northern Territory	2011	Technical or Further Educational Institution	F	1412
+Northern Territory	2011	Technical or Further Educational Institution	M	1318
+Northern Territory	2011	University or other tertiary	F	4355
+Northern Territory	2011	University or other tertiary	M	2323
+Northern Territory	2016		F	14746
+Northern Territory	2016		M	18249
+Northern Territory	2016	Infants/Primary	F	9844
+Northern Territory	2016	Infants/Primary	M	10512
+Northern Territory	2016	Pre-school	F	1841
+Northern Territory	2016	Pre-school	M	1869
+Northern Territory	2016	Secondary	F	6475
+Northern Territory	2016	Secondary	M	6738
+Northern Territory	2016	Technical or Further Educational Institution	F	1737
+Northern Territory	2016	Technical or Further Educational Institution	M	1308
+Northern Territory	2016	University or other tertiary	F	5103
+Northern Territory	2016	University or other tertiary	M	2946
+Australian Capital Territory	2006		F	10888
+Australian Capital Territory	2006		M	11427
+Australian Capital Territory	2006	Infants/Primary	F	13242
+Australian Capital Territory	2006	Infants/Primary	M	13697
+Australian Capital Territory	2006	Pre-school	F	2124
+Australian Capital Territory	2006	Pre-school	M	2199
+Australian Capital Territory	2006	Secondary	F	11284
+Australian Capital Territory	2006	Secondary	M	11692
+Australian Capital Territory	2006	Technical or Further Educational Institution	F	4488
+Australian Capital Territory	2006	Technical or Further Educational Institution	M	4128
+Australian Capital Territory	2006	University or other tertiary	F	12081
+Australian Capital Territory	2006	University or other tertiary	M	10630
+Australian Capital Territory	2011		F	10099
+Australian Capital Territory	2011		M	11212
+Australian Capital Territory	2011	Infants/Primary	F	13535
+Australian Capital Territory	2011	Infants/Primary	M	14174
+Australian Capital Territory	2011	Pre-school	F	2412
+Australian Capital Territory	2011	Pre-school	M	2785
+Australian Capital Territory	2011	Secondary	F	11420
+Australian Capital Territory	2011	Secondary	M	11694
+Australian Capital Territory	2011	Technical or Further Educational Institution	F	4718
+Australian Capital Territory	2011	Technical or Further Educational Institution	M	4462
+Australian Capital Territory	2011	University or other tertiary	F	15010
+Australian Capital Territory	2011	University or other tertiary	M	13329
+Australian Capital Territory	2016		F	13273
+Australian Capital Territory	2016		M	13017
+Australian Capital Territory	2016	Infants/Primary	F	15882
+Australian Capital Territory	2016	Infants/Primary	M	16944
+Australian Capital Territory	2016	Pre-school	F	2791
+Australian Capital Territory	2016	Pre-school	M	3109
+Australian Capital Territory	2016	Secondary	F	11918
+Australian Capital Territory	2016	Secondary	M	12269
+Australian Capital Territory	2016	Technical or Further Educational Institution	F	4329
+Australian Capital Territory	2016	Technical or Further Educational Institution	M	3835
+Australian Capital Territory	2016	University or other tertiary	F	18265
+Australian Capital Territory	2016	University or other tertiary	M	16021
+Other Territories	2006		F	106
+Other Territories	2006		M	169
+Other Territories	2006	Infants/Primary	F	107
+Other Territories	2006	Infants/Primary	M	123
+Other Territories	2006	Pre-school	F	24
+Other Territories	2006	Pre-school	M	18
+Other Territories	2006	Secondary	F	78
+Other Territories	2006	Secondary	M	62
+Other Territories	2006	Technical or Further Educational Institution	F	20
+Other Territories	2006	Technical or Further Educational Institution	M	10
+Other Territories	2006	University or other tertiary	F	13
+Other Territories	2006	University or other tertiary	M	10
+Other Territories	2011		F	96
+Other Territories	2011		M	861
+Other Territories	2011	Infants/Primary	F	103
+Other Territories	2011	Infants/Primary	M	104
+Other Territories	2011	Pre-school	F	15
+Other Territories	2011	Pre-school	M	23
+Other Territories	2011	Secondary	F	63
+Other Territories	2011	Secondary	M	71
+Other Territories	2011	Technical or Further Educational Institution	F	16
+Other Territories	2011	Technical or Further Educational Institution	M	6
+Other Territories	2011	University or other tertiary	F	19
+Other Territories	2011	University or other tertiary	M	12
+Other Territories	2016		F	273
+Other Territories	2016		M	555
+Other Territories	2016	Infants/Primary	F	167
+Other Territories	2016	Infants/Primary	M	177
+Other Territories	2016	Pre-school	F	34
+Other Territories	2016	Pre-school	M	44
+Other Territories	2016	Secondary	F	130
+Other Territories	2016	Secondary	M	118
+Other Territories	2016	Technical or Further Educational Institution	F	14
+Other Territories	2016	Technical or Further Educational Institution	M	19
+Other Territories	2016	University or other tertiary	F	24
+Other Territories	2016	University or other tertiary	M	18

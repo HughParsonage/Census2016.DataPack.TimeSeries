@@ -1,0 +1,433 @@
+STE_NAME16	Year	NonSchoolQualification	Sex	persons
+New South Wales	2006		F	2343807
+New South Wales	2006		M	2070698
+New South Wales	2006	Certificate nfd	F	66597
+New South Wales	2006	Certificate nfd	M	34152
+New South Wales	2006	Certificate I and II Level	F	43276
+New South Wales	2006	Certificate I and II Level	M	20741
+New South Wales	2006	Certificate III and IV Level	F	184157
+New South Wales	2006	Certificate III and IV Level	M	534320
+New South Wales	2006	Advanced Diploma and Diploma	F	227797
+New South Wales	2006	Advanced Diploma and Diploma	M	159856
+New South Wales	2006	Bachelor	F	343088
+New South Wales	2006	Bachelor	M	291940
+New South Wales	2006	Graduate Diploma and Graduate Certificate	F	41329
+New South Wales	2006	Graduate Diploma and Graduate Certificate	M	24503
+New South Wales	2006	Postgraduate	F	70675
+New South Wales	2006	Postgraduate	M	92241
+New South Wales	2011		F	2290252
+New South Wales	2011		M	2069845
+New South Wales	2011	Certificate nfd	F	65149
+New South Wales	2011	Certificate nfd	M	32805
+New South Wales	2011	Certificate I and II Level	F	46185
+New South Wales	2011	Certificate I and II Level	M	22783
+New South Wales	2011	Certificate III and IV Level	F	243504
+New South Wales	2011	Certificate III and IV Level	M	576279
+New South Wales	2011	Advanced Diploma and Diploma	F	267669
+New South Wales	2011	Advanced Diploma and Diploma	M	194390
+New South Wales	2011	Bachelor	F	433551
+New South Wales	2011	Bachelor	M	353785
+New South Wales	2011	Graduate Diploma and Graduate Certificate	F	51453
+New South Wales	2011	Graduate Diploma and Graduate Certificate	M	31164
+New South Wales	2011	Postgraduate	F	111019
+New South Wales	2011	Postgraduate	M	127829
+New South Wales	2016		F	2279747
+New South Wales	2016		M	2131673
+New South Wales	2016	Certificate nfd	F	85464
+New South Wales	2016	Certificate nfd	M	49518
+New South Wales	2016	Certificate I and II Level	F	44517
+New South Wales	2016	Certificate I and II Level	M	22406
+New South Wales	2016	Certificate III and IV Level	F	287068
+New South Wales	2016	Certificate III and IV Level	M	611985
+New South Wales	2016	Advanced Diploma and Diploma	F	318103
+New South Wales	2016	Advanced Diploma and Diploma	M	225035
+New South Wales	2016	Bachelor	F	543936
+New South Wales	2016	Bachelor	M	432949
+New South Wales	2016	Graduate Diploma and Graduate Certificate	F	64998
+New South Wales	2016	Graduate Diploma and Graduate Certificate	M	38346
+New South Wales	2016	Postgraduate	F	170384
+New South Wales	2016	Postgraduate	M	174102
+Victoria	2006		F	1782324
+Victoria	2006		M	1565354
+Victoria	2006	Certificate nfd	F	36447
+Victoria	2006	Certificate nfd	M	19919
+Victoria	2006	Certificate I and II Level	F	25146
+Victoria	2006	Certificate I and II Level	M	12413
+Victoria	2006	Certificate III and IV Level	F	133900
+Victoria	2006	Certificate III and IV Level	M	382590
+Victoria	2006	Advanced Diploma and Diploma	F	163909
+Victoria	2006	Advanced Diploma and Diploma	M	125735
+Victoria	2006	Bachelor	F	276925
+Victoria	2006	Bachelor	M	225590
+Victoria	2006	Graduate Diploma and Graduate Certificate	F	47146
+Victoria	2006	Graduate Diploma and Graduate Certificate	M	26904
+Victoria	2006	Postgraduate	F	46212
+Victoria	2006	Postgraduate	M	61910
+Victoria	2011		F	1768490
+Victoria	2011		M	1599654
+Victoria	2011	Certificate nfd	F	38949
+Victoria	2011	Certificate nfd	M	20545
+Victoria	2011	Certificate I and II Level	F	28782
+Victoria	2011	Certificate I and II Level	M	14723
+Victoria	2011	Certificate III and IV Level	F	182996
+Victoria	2011	Certificate III and IV Level	M	428198
+Victoria	2011	Advanced Diploma and Diploma	F	205163
+Victoria	2011	Advanced Diploma and Diploma	M	159595
+Victoria	2011	Bachelor	F	355699
+Victoria	2011	Bachelor	M	285513
+Victoria	2011	Graduate Diploma and Graduate Certificate	F	61224
+Victoria	2011	Graduate Diploma and Graduate Certificate	M	34133
+Victoria	2011	Postgraduate	F	80120
+Victoria	2011	Postgraduate	M	90256
+Victoria	2016		F	1808259
+Victoria	2016		M	1675372
+Victoria	2016	Certificate nfd	F	48977
+Victoria	2016	Certificate nfd	M	31307
+Victoria	2016	Certificate I and II Level	F	28371
+Victoria	2016	Certificate I and II Level	M	15649
+Victoria	2016	Certificate III and IV Level	F	223341
+Victoria	2016	Certificate III and IV Level	M	470796
+Victoria	2016	Advanced Diploma and Diploma	F	255598
+Victoria	2016	Advanced Diploma and Diploma	M	191424
+Victoria	2016	Bachelor	F	445493
+Victoria	2016	Bachelor	M	352775
+Victoria	2016	Graduate Diploma and Graduate Certificate	F	77681
+Victoria	2016	Graduate Diploma and Graduate Certificate	M	41542
+Victoria	2016	Postgraduate	F	130829
+Victoria	2016	Postgraduate	M	129212
+Queensland	2006		F	1452473
+Queensland	2006		M	1287863
+Queensland	2006	Certificate nfd	F	30362
+Queensland	2006	Certificate nfd	M	16375
+Queensland	2006	Certificate I and II Level	F	23334
+Queensland	2006	Certificate I and II Level	M	12404
+Queensland	2006	Certificate III and IV Level	F	120380
+Queensland	2006	Certificate III and IV Level	M	351394
+Queensland	2006	Advanced Diploma and Diploma	F	116936
+Queensland	2006	Advanced Diploma and Diploma	M	87102
+Queensland	2006	Bachelor	F	176555
+Queensland	2006	Bachelor	M	132773
+Queensland	2006	Graduate Diploma and Graduate Certificate	F	22712
+Queensland	2006	Graduate Diploma and Graduate Certificate	M	13468
+Queensland	2006	Postgraduate	F	26399
+Queensland	2006	Postgraduate	M	33999
+Queensland	2011		F	1485429
+Queensland	2011		M	1350660
+Queensland	2011	Certificate nfd	F	33577
+Queensland	2011	Certificate nfd	M	17635
+Queensland	2011	Certificate I and II Level	F	30138
+Queensland	2011	Certificate I and II Level	M	16638
+Queensland	2011	Certificate III and IV Level	F	172923
+Queensland	2011	Certificate III and IV Level	M	416073
+Queensland	2011	Advanced Diploma and Diploma	F	151932
+Queensland	2011	Advanced Diploma and Diploma	M	108845
+Queensland	2011	Bachelor	F	234481
+Queensland	2011	Bachelor	M	170290
+Queensland	2011	Graduate Diploma and Graduate Certificate	F	31606
+Queensland	2011	Graduate Diploma and Graduate Certificate	M	17870
+Queensland	2011	Postgraduate	F	44434
+Queensland	2011	Postgraduate	M	50210
+Queensland	2016		F	1489229
+Queensland	2016		M	1382828
+Queensland	2016	Certificate nfd	F	43337
+Queensland	2016	Certificate nfd	M	28329
+Queensland	2016	Certificate I and II Level	F	29113
+Queensland	2016	Certificate I and II Level	M	17904
+Queensland	2016	Certificate III and IV Level	F	224130
+Queensland	2016	Certificate III and IV Level	M	464294
+Queensland	2016	Advanced Diploma and Diploma	F	194814
+Queensland	2016	Advanced Diploma and Diploma	M	135808
+Queensland	2016	Bachelor	F	290053
+Queensland	2016	Bachelor	M	202370
+Queensland	2016	Graduate Diploma and Graduate Certificate	F	43400
+Queensland	2016	Graduate Diploma and Graduate Certificate	M	23342
+Queensland	2016	Postgraduate	F	67232
+Queensland	2016	Postgraduate	M	67014
+South Australia	2006		F	567183
+South Australia	2006		M	494913
+South Australia	2006	Certificate nfd	F	12922
+South Australia	2006	Certificate nfd	M	8249
+South Australia	2006	Certificate I and II Level	F	9638
+South Australia	2006	Certificate I and II Level	M	5702
+South Australia	2006	Certificate III and IV Level	F	47570
+South Australia	2006	Certificate III and IV Level	M	128495
+South Australia	2006	Advanced Diploma and Diploma	F	44494
+South Australia	2006	Advanced Diploma and Diploma	M	35204
+South Australia	2006	Bachelor	F	67675
+South Australia	2006	Bachelor	M	53298
+South Australia	2006	Graduate Diploma and Graduate Certificate	F	10058
+South Australia	2006	Graduate Diploma and Graduate Certificate	M	6044
+South Australia	2006	Postgraduate	F	9591
+South Australia	2006	Postgraduate	M	13304
+South Australia	2011		F	550951
+South Australia	2011		M	495717
+South Australia	2011	Certificate nfd	F	13453
+South Australia	2011	Certificate nfd	M	8067
+South Australia	2011	Certificate I and II Level	F	11621
+South Australia	2011	Certificate I and II Level	M	6762
+South Australia	2011	Certificate III and IV Level	F	63041
+South Australia	2011	Certificate III and IV Level	M	142808
+South Australia	2011	Advanced Diploma and Diploma	F	54304
+South Australia	2011	Advanced Diploma and Diploma	M	41386
+South Australia	2011	Bachelor	F	86554
+South Australia	2011	Bachelor	M	65635
+South Australia	2011	Graduate Diploma and Graduate Certificate	F	12938
+South Australia	2011	Graduate Diploma and Graduate Certificate	M	7331
+South Australia	2011	Postgraduate	F	16489
+South Australia	2011	Postgraduate	M	19511
+South Australia	2016		F	532835
+South Australia	2016		M	493711
+South Australia	2016	Certificate nfd	F	15979
+South Australia	2016	Certificate nfd	M	11244
+South Australia	2016	Certificate I and II Level	F	11938
+South Australia	2016	Certificate I and II Level	M	7688
+South Australia	2016	Certificate III and IV Level	F	77770
+South Australia	2016	Certificate III and IV Level	M	153873
+South Australia	2016	Advanced Diploma and Diploma	F	66159
+South Australia	2016	Advanced Diploma and Diploma	M	48941
+South Australia	2016	Bachelor	F	104390
+South Australia	2016	Bachelor	M	75993
+South Australia	2016	Graduate Diploma and Graduate Certificate	F	16155
+South Australia	2016	Graduate Diploma and Graduate Certificate	M	8979
+South Australia	2016	Postgraduate	F	25426
+South Australia	2016	Postgraduate	M	25568
+Western Australia	2006		F	707932
+Western Australia	2006		M	634875
+Western Australia	2006	Certificate nfd	F	18324
+Western Australia	2006	Certificate nfd	M	8365
+Western Australia	2006	Certificate I and II Level	F	11256
+Western Australia	2006	Certificate I and II Level	M	5935
+Western Australia	2006	Certificate III and IV Level	F	57922
+Western Australia	2006	Certificate III and IV Level	M	172698
+Western Australia	2006	Advanced Diploma and Diploma	F	66585
+Western Australia	2006	Advanced Diploma and Diploma	M	49576
+Western Australia	2006	Bachelor	F	94950
+Western Australia	2006	Bachelor	M	78296
+Western Australia	2006	Graduate Diploma and Graduate Certificate	F	13089
+Western Australia	2006	Graduate Diploma and Graduate Certificate	M	7611
+Western Australia	2006	Postgraduate	F	12905
+Western Australia	2006	Postgraduate	M	18766
+Western Australia	2011		F	739272
+Western Australia	2011		M	688004
+Western Australia	2011	Certificate nfd	F	19489
+Western Australia	2011	Certificate nfd	M	8791
+Western Australia	2011	Certificate I and II Level	F	14272
+Western Australia	2011	Certificate I and II Level	M	7721
+Western Australia	2011	Certificate III and IV Level	F	84291
+Western Australia	2011	Certificate III and IV Level	M	215531
+Western Australia	2011	Advanced Diploma and Diploma	F	83474
+Western Australia	2011	Advanced Diploma and Diploma	M	62809
+Western Australia	2011	Bachelor	F	130666
+Western Australia	2011	Bachelor	M	103736
+Western Australia	2011	Graduate Diploma and Graduate Certificate	F	18793
+Western Australia	2011	Graduate Diploma and Graduate Certificate	M	10689
+Western Australia	2011	Postgraduate	F	22734
+Western Australia	2011	Postgraduate	M	28894
+Western Australia	2016		F	761062
+Western Australia	2016		M	717740
+Western Australia	2016	Certificate nfd	F	25451
+Western Australia	2016	Certificate nfd	M	14614
+Western Australia	2016	Certificate I and II Level	F	16110
+Western Australia	2016	Certificate I and II Level	M	9329
+Western Australia	2016	Certificate III and IV Level	F	103483
+Western Australia	2016	Certificate III and IV Level	M	238718
+Western Australia	2016	Advanced Diploma and Diploma	F	100181
+Western Australia	2016	Advanced Diploma and Diploma	M	77449
+Western Australia	2016	Bachelor	F	168006
+Western Australia	2016	Bachelor	M	127017
+Western Australia	2016	Graduate Diploma and Graduate Certificate	F	25052
+Western Australia	2016	Graduate Diploma and Graduate Certificate	M	13535
+Western Australia	2016	Postgraduate	F	36649
+Western Australia	2016	Postgraduate	M	40017
+Tasmania	2006		F	182005
+Tasmania	2006		M	158432
+Tasmania	2006	Certificate nfd	F	3888
+Tasmania	2006	Certificate nfd	M	1835
+Tasmania	2006	Certificate I and II Level	F	3347
+Tasmania	2006	Certificate I and II Level	M	1649
+Tasmania	2006	Certificate III and IV Level	F	15357
+Tasmania	2006	Certificate III and IV Level	M	41811
+Tasmania	2006	Advanced Diploma and Diploma	F	12773
+Tasmania	2006	Advanced Diploma and Diploma	M	9879
+Tasmania	2006	Bachelor	F	20327
+Tasmania	2006	Bachelor	M	14535
+Tasmania	2006	Graduate Diploma and Graduate Certificate	F	2684
+Tasmania	2006	Graduate Diploma and Graduate Certificate	M	1628
+Tasmania	2006	Postgraduate	F	2719
+Tasmania	2006	Postgraduate	M	3614
+Tasmania	2011		F	175166
+Tasmania	2011		M	155571
+Tasmania	2011	Certificate nfd	F	3608
+Tasmania	2011	Certificate nfd	M	1669
+Tasmania	2011	Certificate I and II Level	F	4298
+Tasmania	2011	Certificate I and II Level	M	2053
+Tasmania	2011	Certificate III and IV Level	F	21452
+Tasmania	2011	Certificate III and IV Level	M	47899
+Tasmania	2011	Advanced Diploma and Diploma	F	15168
+Tasmania	2011	Advanced Diploma and Diploma	M	11441
+Tasmania	2011	Bachelor	F	24555
+Tasmania	2011	Bachelor	M	16968
+Tasmania	2011	Graduate Diploma and Graduate Certificate	F	3844
+Tasmania	2011	Graduate Diploma and Graduate Certificate	M	2125
+Tasmania	2011	Postgraduate	F	4586
+Tasmania	2011	Postgraduate	M	4949
+Tasmania	2016		F	167857
+Tasmania	2016		M	153193
+Tasmania	2016	Certificate nfd	F	5587
+Tasmania	2016	Certificate nfd	M	3039
+Tasmania	2016	Certificate I and II Level	F	4377
+Tasmania	2016	Certificate I and II Level	M	2290
+Tasmania	2016	Certificate III and IV Level	F	24333
+Tasmania	2016	Certificate III and IV Level	M	49936
+Tasmania	2016	Advanced Diploma and Diploma	F	18429
+Tasmania	2016	Advanced Diploma and Diploma	M	13058
+Tasmania	2016	Bachelor	F	28018
+Tasmania	2016	Bachelor	M	18908
+Tasmania	2016	Graduate Diploma and Graduate Certificate	F	4883
+Tasmania	2016	Graduate Diploma and Graduate Certificate	M	2643
+Tasmania	2016	Postgraduate	F	6998
+Tasmania	2016	Postgraduate	M	6411
+Northern Territory	2006		F	70219
+Northern Territory	2006		M	71212
+Northern Territory	2006	Certificate nfd	F	1266
+Northern Territory	2006	Certificate nfd	M	708
+Northern Territory	2006	Certificate I and II Level	F	1494
+Northern Territory	2006	Certificate I and II Level	M	833
+Northern Territory	2006	Certificate III and IV Level	F	5224
+Northern Territory	2006	Certificate III and IV Level	M	15494
+Northern Territory	2006	Advanced Diploma and Diploma	F	4677
+Northern Territory	2006	Advanced Diploma and Diploma	M	3800
+Northern Territory	2006	Bachelor	F	7808
+Northern Territory	2006	Bachelor	M	5103
+Northern Territory	2006	Graduate Diploma and Graduate Certificate	F	1421
+Northern Territory	2006	Graduate Diploma and Graduate Certificate	M	773
+Northern Territory	2006	Postgraduate	F	1423
+Northern Territory	2006	Postgraduate	M	1449
+Northern Territory	2011		F	71747
+Northern Territory	2011		M	74609
+Northern Territory	2011	Certificate nfd	F	1014
+Northern Territory	2011	Certificate nfd	M	747
+Northern Territory	2011	Certificate I and II Level	F	1718
+Northern Territory	2011	Certificate I and II Level	M	1125
+Northern Territory	2011	Certificate III and IV Level	F	7594
+Northern Territory	2011	Certificate III and IV Level	M	18547
+Northern Territory	2011	Advanced Diploma and Diploma	F	5797
+Northern Territory	2011	Advanced Diploma and Diploma	M	4858
+Northern Territory	2011	Bachelor	F	10372
+Northern Territory	2011	Bachelor	M	6590
+Northern Territory	2011	Graduate Diploma and Graduate Certificate	F	1943
+Northern Territory	2011	Graduate Diploma and Graduate Certificate	M	980
+Northern Territory	2011	Postgraduate	F	2243
+Northern Territory	2011	Postgraduate	M	2063
+Northern Territory	2016		F	72804
+Northern Territory	2016		M	76973
+Northern Territory	2016	Certificate nfd	F	1742
+Northern Territory	2016	Certificate nfd	M	1386
+Northern Territory	2016	Certificate I and II Level	F	1585
+Northern Territory	2016	Certificate I and II Level	M	1176
+Northern Territory	2016	Certificate III and IV Level	F	8751
+Northern Territory	2016	Certificate III and IV Level	M	20843
+Northern Territory	2016	Advanced Diploma and Diploma	F	6939
+Northern Territory	2016	Advanced Diploma and Diploma	M	5922
+Northern Territory	2016	Bachelor	F	12600
+Northern Territory	2016	Bachelor	M	8299
+Northern Territory	2016	Graduate Diploma and Graduate Certificate	F	2407
+Northern Territory	2016	Graduate Diploma and Graduate Certificate	M	1108
+Northern Territory	2016	Postgraduate	F	3438
+Northern Territory	2016	Postgraduate	M	2863
+Australian Capital Territory	2006		F	99009
+Australian Capital Territory	2006		M	89719
+Australian Capital Territory	2006	Certificate nfd	F	3387
+Australian Capital Territory	2006	Certificate nfd	M	1505
+Australian Capital Territory	2006	Certificate I and II Level	F	1811
+Australian Capital Territory	2006	Certificate I and II Level	M	1059
+Australian Capital Territory	2006	Certificate III and IV Level	F	7918
+Australian Capital Territory	2006	Certificate III and IV Level	M	18892
+Australian Capital Territory	2006	Advanced Diploma and Diploma	F	12497
+Australian Capital Territory	2006	Advanced Diploma and Diploma	M	9545
+Australian Capital Territory	2006	Bachelor	F	27252
+Australian Capital Territory	2006	Bachelor	M	24411
+Australian Capital Territory	2006	Graduate Diploma and Graduate Certificate	F	5428
+Australian Capital Territory	2006	Graduate Diploma and Graduate Certificate	M	3748
+Australian Capital Territory	2006	Postgraduate	F	7080
+Australian Capital Territory	2006	Postgraduate	M	10775
+Australian Capital Territory	2011		F	99513
+Australian Capital Territory	2011		M	93669
+Australian Capital Territory	2011	Certificate nfd	F	2929
+Australian Capital Territory	2011	Certificate nfd	M	1374
+Australian Capital Territory	2011	Certificate I and II Level	F	1932
+Australian Capital Territory	2011	Certificate I and II Level	M	1179
+Australian Capital Territory	2011	Certificate III and IV Level	F	10329
+Australian Capital Territory	2011	Certificate III and IV Level	M	21372
+Australian Capital Territory	2011	Advanced Diploma and Diploma	F	14585
+Australian Capital Territory	2011	Advanced Diploma and Diploma	M	11499
+Australian Capital Territory	2011	Bachelor	F	33453
+Australian Capital Territory	2011	Bachelor	M	28500
+Australian Capital Territory	2011	Graduate Diploma and Graduate Certificate	F	6705
+Australian Capital Territory	2011	Graduate Diploma and Graduate Certificate	M	4450
+Australian Capital Territory	2011	Postgraduate	F	11031
+Australian Capital Territory	2011	Postgraduate	M	14704
+Australian Capital Territory	2016		F	103659
+Australian Capital Territory	2016		M	100421
+Australian Capital Territory	2016	Certificate nfd	F	3637
+Australian Capital Territory	2016	Certificate nfd	M	1763
+Australian Capital Territory	2016	Certificate I and II Level	F	1812
+Australian Capital Territory	2016	Certificate I and II Level	M	1186
+Australian Capital Territory	2016	Certificate III and IV Level	F	12529
+Australian Capital Territory	2016	Certificate III and IV Level	M	22699
+Australian Capital Territory	2016	Advanced Diploma and Diploma	F	16476
+Australian Capital Territory	2016	Advanced Diploma and Diploma	M	13283
+Australian Capital Territory	2016	Bachelor	F	39359
+Australian Capital Territory	2016	Bachelor	M	32332
+Australian Capital Territory	2016	Graduate Diploma and Graduate Certificate	F	8136
+Australian Capital Territory	2016	Graduate Diploma and Graduate Certificate	M	5280
+Australian Capital Territory	2016	Postgraduate	F	16045
+Australian Capital Territory	2016	Postgraduate	M	18775
+Other Territories	2006		F	828
+Other Territories	2006		M	909
+Other Territories	2006	Certificate nfd	F	22
+Other Territories	2006	Certificate nfd	M	15
+Other Territories	2006	Certificate I and II Level	F	17
+Other Territories	2006	Certificate I and II Level	M	11
+Other Territories	2006	Certificate III and IV Level	F	53
+Other Territories	2006	Certificate III and IV Level	M	189
+Other Territories	2006	Advanced Diploma and Diploma	F	39
+Other Territories	2006	Advanced Diploma and Diploma	M	53
+Other Territories	2006	Bachelor	F	71
+Other Territories	2006	Bachelor	M	64
+Other Territories	2006	Graduate Diploma and Graduate Certificate	F	13
+Other Territories	2006	Graduate Diploma and Graduate Certificate	M	6
+Other Territories	2006	Postgraduate	F	9
+Other Territories	2006	Postgraduate	M	14
+Other Territories	2011		F	747
+Other Territories	2011		M	1569
+Other Territories	2011	Certificate nfd	F	10
+Other Territories	2011	Certificate nfd	M	5
+Other Territories	2011	Certificate I and II Level	F	22
+Other Territories	2011	Certificate I and II Level	M	12
+Other Territories	2011	Certificate III and IV Level	F	90
+Other Territories	2011	Certificate III and IV Level	M	198
+Other Territories	2011	Advanced Diploma and Diploma	F	61
+Other Territories	2011	Advanced Diploma and Diploma	M	67
+Other Territories	2011	Bachelor	F	94
+Other Territories	2011	Bachelor	M	81
+Other Territories	2011	Graduate Diploma and Graduate Certificate	F	26
+Other Territories	2011	Graduate Diploma and Graduate Certificate	M	11
+Other Territories	2011	Postgraduate	F	11
+Other Territories	2011	Postgraduate	M	24
+Other Territories	2016		F	1440
+Other Territories	2016		M	1645
+Other Territories	2016	Certificate nfd	F	60
+Other Territories	2016	Certificate nfd	M	38
+Other Territories	2016	Certificate I and II Level	F	30
+Other Territories	2016	Certificate I and II Level	M	27
+Other Territories	2016	Certificate III and IV Level	F	148
+Other Territories	2016	Certificate III and IV Level	M	462
+Other Territories	2016	Advanced Diploma and Diploma	F	171
+Other Territories	2016	Advanced Diploma and Diploma	M	100
+Other Territories	2016	Bachelor	F	195
+Other Territories	2016	Bachelor	M	135
+Other Territories	2016	Graduate Diploma and Graduate Certificate	F	33
+Other Territories	2016	Graduate Diploma and Graduate Certificate	M	22
+Other Territories	2016	Postgraduate	F	43
+Other Territories	2016	Postgraduate	M	33

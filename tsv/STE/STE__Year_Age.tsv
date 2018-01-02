@@ -1,0 +1,298 @@
+STE_NAME16	Year	Age	persons
+New South Wales	2006	0-4	420434
+New South Wales	2006	5-14	878484
+New South Wales	2006	15-19	439863
+New South Wales	2006	20-24	431855
+New South Wales	2006	25-34	891043
+New South Wales	2006	35-44	957841
+New South Wales	2006	45-54	904334
+New South Wales	2006	55-64	719546
+New South Wales	2006	65-74	465325
+New South Wales	2006	75-84	328797
+New South Wales	2006	85+	111653
+New South Wales	2011	0-4	458736
+New South Wales	2011	5-14	873778
+New South Wales	2011	15-19	443415
+New South Wales	2011	20-24	449684
+New South Wales	2011	25-34	941495
+New South Wales	2011	35-44	971627
+New South Wales	2011	45-54	950453
+New South Wales	2011	55-64	810293
+New South Wales	2011	65-74	541688
+New South Wales	2011	75-84	336754
+New South Wales	2011	85+	139732
+New South Wales	2016	0-4	465135
+New South Wales	2016	5-14	921195
+New South Wales	2016	15-19	448425
+New South Wales	2016	20-24	489673
+New South Wales	2016	25-34	1067524
+New South Wales	2016	35-44	1002886
+New South Wales	2016	45-54	977984
+New South Wales	2016	55-64	889763
+New South Wales	2016	65-74	677020
+New South Wales	2016	75-84	373115
+New South Wales	2016	85+	167506
+Victoria	2006	0-4	305939
+Victoria	2006	5-14	644447
+Victoria	2006	15-19	335183
+Victoria	2006	20-24	338711
+Victoria	2006	25-34	677880
+Victoria	2006	35-44	741352
+Victoria	2006	45-54	679517
+Victoria	2006	55-64	534487
+Victoria	2006	65-74	345528
+Victoria	2006	75-84	245510
+Victoria	2006	85+	83872
+Victoria	2011	0-4	344733
+Victoria	2011	5-14	654062
+Victoria	2011	15-19	345338
+Victoria	2011	20-24	375108
+Victoria	2011	25-34	760878
+Victoria	2011	35-44	774615
+Victoria	2011	45-54	726475
+Victoria	2011	55-64	611249
+Victoria	2011	65-74	402224
+Victoria	2011	75-84	254360
+Victoria	2011	85+	104994
+Victoria	2016	0-4	371220
+Victoria	2016	5-14	709702
+Victoria	2016	15-19	356340
+Victoria	2016	20-24	413792
+Victoria	2016	25-34	889190
+Victoria	2016	35-44	805920
+Victoria	2016	45-54	780420
+Victoria	2016	55-64	677453
+Victoria	2016	65-74	509599
+Victoria	2016	75-84	285006
+Victoria	2016	85+	127993
+Queensland	2006	0-4	257076
+Queensland	2006	5-14	549461
+Queensland	2006	15-19	270300
+Queensland	2006	20-24	268905
+Queensland	2006	25-34	523600
+Queensland	2006	35-44	575567
+Queensland	2006	45-54	539185
+Queensland	2006	55-64	437547
+Queensland	2006	65-74	259428
+Queensland	2006	75-84	166808
+Queensland	2006	85+	56657
+Queensland	2011	0-4	297895
+Queensland	2011	5-14	577967
+Queensland	2011	15-19	293919
+Queensland	2011	20-24	293845
+Queensland	2011	25-34	587406
+Queensland	2011	35-44	620749
+Queensland	2011	45-54	590885
+Queensland	2011	55-64	501089
+Queensland	2011	65-74	322643
+Queensland	2011	75-84	176544
+Queensland	2011	85+	69799
+Queensland	2016	0-4	296466
+Queensland	2016	5-14	616236
+Queensland	2016	15-19	296287
+Queensland	2016	20-24	316860
+Queensland	2016	25-34	646694
+Queensland	2016	35-44	628124
+Queensland	2016	45-54	631705
+Queensland	2016	55-64	552886
+Queensland	2016	65-74	422601
+Queensland	2016	75-84	209818
+Queensland	2016	85+	85528
+South Australia	2006	0-4	87332
+South Australia	2006	5-14	193494
+South Australia	2006	15-19	100757
+South Australia	2006	20-24	100106
+South Australia	2006	25-34	185748
+South Australia	2006	35-44	219062
+South Australia	2006	45-54	216887
+South Australia	2006	55-64	177822
+South Australia	2006	65-74	115099
+South Australia	2006	75-84	87436
+South Australia	2006	85+	30594
+South Australia	2011	0-4	96143
+South Australia	2011	5-14	190790
+South Australia	2011	15-19	103248
+South Australia	2011	20-24	105588
+South Australia	2011	25-34	202321
+South Australia	2011	35-44	216374
+South Australia	2011	45-54	224945
+South Australia	2011	55-64	199607
+South Australia	2011	65-74	133202
+South Australia	2011	75-84	86193
+South Australia	2011	85+	38155
+South Australia	2016	0-4	97072
+South Australia	2016	5-14	195930
+South Australia	2016	15-19	100686
+South Australia	2016	20-24	107986
+South Australia	2016	25-34	218107
+South Australia	2016	35-44	209468
+South Australia	2016	45-54	226891
+South Australia	2016	55-64	213923
+South Australia	2016	65-74	168852
+South Australia	2016	75-84	93258
+South Australia	2016	85+	44479
+Western Australia	2006	0-4	124812
+Western Australia	2006	5-14	271622
+Western Australia	2006	15-19	139994
+Western Australia	2006	20-24	136019
+Western Australia	2006	25-34	261434
+Western Australia	2006	35-44	296643
+Western Australia	2006	45-54	279698
+Western Australia	2006	55-64	213305
+Western Australia	2006	65-74	126940
+Western Australia	2006	75-84	81133
+Western Australia	2006	85+	27477
+Western Australia	2011	0-4	151263
+Western Australia	2011	5-14	288809
+Western Australia	2011	15-19	148209
+Western Australia	2011	20-24	159011
+Western Australia	2011	25-34	324101
+Western Australia	2011	35-44	328256
+Western Australia	2011	45-54	310229
+Western Australia	2011	55-64	254424
+Western Australia	2011	65-74	152543
+Western Australia	2011	75-84	88116
+Western Australia	2011	85+	34217
+Western Australia	2016	0-4	161727
+Western Australia	2016	5-14	314955
+Western Australia	2016	15-19	149997
+Western Australia	2016	20-24	160332
+Western Australia	2016	25-34	379178
+Western Australia	2016	35-44	345038
+Western Australia	2016	45-54	334959
+Western Australia	2016	55-64	282042
+Western Australia	2016	65-74	199669
+Western Australia	2016	75-84	104095
+Western Australia	2016	85+	42420
+Tasmania	2006	0-4	28662
+Tasmania	2006	5-14	65364
+Tasmania	2006	15-19	32821
+Tasmania	2006	20-24	28945
+Tasmania	2006	25-34	54040
+Tasmania	2006	35-44	66898
+Tasmania	2006	45-54	70028
+Tasmania	2006	55-64	58580
+Tasmania	2006	65-74	37454
+Tasmania	2006	75-84	25152
+Tasmania	2006	85+	8539
+Tasmania	2011	0-4	31184
+Tasmania	2011	5-14	62688
+Tasmania	2011	15-19	32687
+Tasmania	2011	20-24	29578
+Tasmania	2011	25-34	55283
+Tasmania	2011	35-44	64852
+Tasmania	2011	45-54	71555
+Tasmania	2011	55-64	66823
+Tasmania	2011	65-74	44764
+Tasmania	2011	75-84	25697
+Tasmania	2011	85+	10247
+Tasmania	2016	0-4	28469
+Tasmania	2016	5-14	61739
+Tasmania	2016	15-19	31078
+Tasmania	2016	20-24	29865
+Tasmania	2016	25-34	58034
+Tasmania	2016	35-44	59830
+Tasmania	2016	45-54	70050
+Tasmania	2016	55-64	72160
+Tasmania	2016	65-74	57381
+Tasmania	2016	75-84	29604
+Tasmania	2016	85+	11767
+Northern Territory	2006	0-4	15866
+Northern Territory	2006	5-14	31740
+Northern Territory	2006	15-19	14283
+Northern Territory	2006	20-24	15084
+Northern Territory	2006	25-34	32056
+Northern Territory	2006	35-44	31152
+Northern Territory	2006	45-54	26475
+Northern Territory	2006	55-64	16953
+Northern Territory	2006	65-74	6315
+Northern Territory	2006	75-84	2371
+Northern Territory	2006	85+	594
+Northern Territory	2011	0-4	17119
+Northern Territory	2011	5-14	32022
+Northern Territory	2011	15-19	14819
+Northern Territory	2011	20-24	16840
+Northern Territory	2011	25-34	36556
+Northern Territory	2011	35-44	33161
+Northern Territory	2011	45-54	28577
+Northern Territory	2011	55-64	20754
+Northern Territory	2011	65-74	8567
+Northern Territory	2011	75-84	2833
+Northern Territory	2011	85+	693
+Northern Territory	2016	0-4	17630
+Northern Territory	2016	5-14	31845
+Northern Territory	2016	15-19	14077
+Northern Territory	2016	20-24	16644
+Northern Territory	2016	25-34	43036
+Northern Territory	2016	35-44	34630
+Northern Territory	2016	45-54	31310
+Northern Territory	2016	55-64	23296
+Northern Territory	2016	65-74	11661
+Northern Territory	2016	75-84	3771
+Northern Territory	2016	85+	938
+Australian Capital Territory	2006	0-4	20126
+Australian Capital Territory	2006	5-14	41803
+Australian Capital Territory	2006	15-19	23584
+Australian Capital Territory	2006	20-24	27578
+Australian Capital Territory	2006	25-34	50301
+Australian Capital Territory	2006	35-44	48918
+Australian Capital Territory	2006	45-54	46006
+Australian Capital Territory	2006	55-64	34154
+Australian Capital Territory	2006	65-74	17245
+Australian Capital Territory	2006	75-84	10868
+Australian Capital Territory	2006	85+	3446
+Australian Capital Territory	2011	0-4	23843
+Australian Capital Territory	2011	5-14	42496
+Australian Capital Territory	2011	15-19	23998
+Australian Capital Territory	2011	20-24	30752
+Australian Capital Territory	2011	25-34	58248
+Australian Capital Territory	2011	35-44	52928
+Australian Capital Territory	2011	45-54	48008
+Australian Capital Territory	2011	55-64	38784
+Australian Capital Territory	2011	65-74	21663
+Australian Capital Territory	2011	75-84	11666
+Australian Capital Territory	2011	85+	4830
+Australian Capital Territory	2016	0-4	26795
+Australian Capital Territory	2016	5-14	47684
+Australian Capital Territory	2016	15-19	24507
+Australian Capital Territory	2016	20-24	31430
+Australian Capital Territory	2016	25-34	66119
+Australian Capital Territory	2016	35-44	58407
+Australian Capital Territory	2016	45-54	50989
+Australian Capital Territory	2016	55-64	41506
+Australian Capital Territory	2016	65-74	29453
+Australian Capital Territory	2016	75-84	14363
+Australian Capital Territory	2016	85+	6158
+Other Territories	2006	0-4	154
+Other Territories	2006	5-14	396
+Other Territories	2006	15-19	121
+Other Territories	2006	20-24	155
+Other Territories	2006	25-34	289
+Other Territories	2006	35-44	412
+Other Territories	2006	45-54	376
+Other Territories	2006	55-64	276
+Other Territories	2006	65-74	103
+Other Territories	2006	75-84	16
+Other Territories	2006	85+	11
+Other Territories	2011	0-4	142
+Other Territories	2011	5-14	360
+Other Territories	2011	15-19	164
+Other Territories	2011	20-24	273
+Other Territories	2011	25-34	723
+Other Territories	2011	35-44	445
+Other Territories	2011	45-54	426
+Other Territories	2011	55-64	344
+Other Territories	2011	65-74	120
+Other Territories	2011	75-84	32
+Other Territories	2011	85+	3
+Other Territories	2016	0-4	262
+Other Territories	2016	5-14	547
+Other Territories	2016	15-19	215
+Other Territories	2016	20-24	210
+Other Territories	2016	25-34	573
+Other Territories	2016	35-44	642
+Other Territories	2016	45-54	711
+Other Territories	2016	55-64	709
+Other Territories	2016	65-74	478
+Other Territories	2016	75-84	182
+Other Territories	2016	85+	58

@@ -1,0 +1,82 @@
+STE_NAME16	Year	AustCitizen	Sex	persons
+New South Wales	2006	0		933215
+New South Wales	2006	1	F	2863787
+New South Wales	2006	1	M	2752172
+New South Wales	2011	0		1003385
+New South Wales	2011	1	F	3013500
+New South Wales	2011	1	M	2900771
+New South Wales	2016	0		1294115
+New South Wales	2016	1	F	3145454
+New South Wales	2016	1	M	3040659
+Victoria	2006	0		674681
+Victoria	2006	1	F	2179341
+Victoria	2006	1	M	2078400
+Victoria	2011	0		804461
+Victoria	2011	1	F	2323975
+Victoria	2011	1	M	2225603
+Victoria	2016	0		1088495
+Victoria	2016	1	F	2467552
+Victoria	2016	1	M	2370577
+Queensland	2006	0		542480
+Queensland	2006	1	F	1706733
+Queensland	2006	1	M	1655318
+Queensland	2011	0		671209
+Queensland	2011	1	F	1859408
+Queensland	2011	1	M	1802120
+Queensland	2016	0		811868
+Queensland	2016	1	F	1974180
+Queensland	2016	1	M	1917145
+South Australia	2006	0		177980
+South Australia	2006	1	F	681666
+South Australia	2006	1	M	654694
+South Australia	2011	0		207230
+South Australia	2011	1	F	707194
+South Australia	2011	1	M	682145
+South Australia	2016	0		241146
+South Australia	2016	1	F	729288
+South Australia	2016	1	M	706219
+Western Australia	2006	0		324184
+Western Australia	2006	1	F	827170
+Western Australia	2006	1	M	807733
+Western Australia	2011	0		433229
+Western Australia	2011	1	F	909749
+Western Australia	2011	1	M	896193
+Western Australia	2016	0		519737
+Western Australia	2016	1	F	982368
+Western Australia	2016	1	M	972305
+Tasmania	2006	0		44033
+Tasmania	2006	1	F	221374
+Tasmania	2006	1	M	211074
+Tasmania	2011	0		44855
+Tasmania	2011	1	F	230664
+Tasmania	2011	1	M	219832
+Tasmania	2016	0		56110
+Tasmania	2016	1	F	232315
+Tasmania	2016	1	M	221540
+Northern Territory	2006	0		28760
+Northern Territory	2006	1	F	80461
+Northern Territory	2006	1	M	83678
+Northern Territory	2011	0		36866
+Northern Territory	2011	1	F	85780
+Northern Territory	2011	1	M	89297
+Northern Territory	2016	0		48864
+Northern Territory	2016	1	F	87634
+Northern Territory	2016	1	M	92335
+Australian Capital Territory	2006	0		33890
+Australian Capital Territory	2006	1	F	147596
+Australian Capital Territory	2006	1	M	142548
+Australian Capital Territory	2011	0		43465
+Australian Capital Territory	2011	1	F	158961
+Australian Capital Territory	2011	1	M	154792
+Australian Capital Territory	2016	0		61448
+Australian Capital Territory	2016	1	F	170301
+Australian Capital Territory	2016	1	M	165648
+Other Territories	2006	0		497
+Other Territories	2006	1	F	851
+Other Territories	2006	1	M	972
+Other Territories	2011	0		1196
+Other Territories	2011	1	F	841
+Other Territories	2011	1	M	992
+Other Territories	2016	0		1279
+Other Territories	2016	1	F	1594
+Other Territories	2016	1	M	1714

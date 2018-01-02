@@ -1,0 +1,6931 @@
+SA2_NAME16	Year	medianMortgageRepaymentMonthly
+Braidwood	2006	999
+Karabar	2006	1343
+Queanbeyan	2006	1233
+Queanbeyan - East	2006	1300
+Queanbeyan Region	2006	1647
+Queanbeyan West - Jerrabomberra	2006	1733
+Bombala	2006	800
+Cooma	2006	960
+Cooma Region	2006	1000
+Jindabyne - Berridale	2006	1300
+Batemans Bay	2006	1105
+Batemans Bay - South	2006	1192
+Bega - Tathra	2006	1005
+Bega-Eden Hinterland	2006	921
+Broulee - Tomakin	2006	1083
+Deua - Wadbilliga	2006	0
+Eden	2006	1000
+Eurobodalla Hinterland	2006	977
+Merimbula - Tura Beach	2006	1192
+Moruya - Tuross Head	2006	1071
+Narooma - Bermagui	2006	1040
+Goulburn	2006	1115
+Goulburn Region	2006	1192
+Yass	2006	1209
+Yass Region	2006	1560
+Young	2006	997
+Young Region	2006	800
+Avoca Beach - Copacabana	2006	1600
+Box Head - MacMasters Beach	2006	1625
+Calga - Kulnura	2006	1517
+Erina - Green Point	2006	1625
+Gosford - Springfield	2006	1517
+Kariong	2006	1525
+Kincumber - Picketts Valley	2006	1408
+Narara	2006	1485
+Niagara Park - Lisarow	2006	1517
+Point Clare - Koolewong	2006	1500
+Saratoga - Davistown	2006	1591
+Terrigal - North Avoca	2006	1733
+Umina - Booker Bay - Patonga	2006	1400
+Wamberal - Forresters Beach	2006	1647
+Woy Woy - Blackwall	2006	1500
+Wyoming	2006	1486
+Bateau Bay - Killarney Vale	2006	1500
+Blue Haven - San Remo	2006	1408
+Budgewoi - Buff Point - Halekulani	2006	1300
+Chittaway Bay - Tumbi Umbi	2006	1460
+Gorokan - Kanwal - Charmhaven	2006	1300
+Jilliby - Yarramalong	2006	1733
+Lake Munmorah - Mannering Park	2006	1300
+Ourimbah - Fountaindale	2006	1600
+Summerland Point - Gwandalan	2006	1300
+The Entrance	2006	1482
+Toukley - Norah Head	2006	1473
+Tuggerah - Kangy Angy	2006	1600
+Warnervale - Wadalba	2006	1863
+Wyong	2006	1343
+Bathurst	2006	1213
+Bathurst - East	2006	1387
+Bathurst Region	2006	1300
+Oberon	2006	1127
+Condobolin	2006	758
+Cowra	2006	953
+Cowra Region	2006	867
+Forbes	2006	873
+Grenfell	2006	726
+Parkes (NSW)	2006	1021
+Parkes Region	2006	807
+West Wyalong	2006	784
+Lithgow	2006	1083
+Lithgow Region	2006	1200
+Mudgee	2006	1200
+Mudgee Region - East	2006	889
+Mudgee Region - West	2006	1000
+Wollangambe - Wollemi	2006	0
+Blayney	2006	1083
+Orange	2006	1121
+Orange - North	2006	1350
+Orange Region	2006	1250
+Grafton	2006	973
+Grafton Region	2006	867
+Maclean - Yamba - Iluka	2006	1083
+Bellingen	2006	1083
+Coffs Harbour - North	2006	1213
+Coffs Harbour - South	2006	1083
+Coramba - Nana Glen - Bucca	2006	1083
+Dorrigo	2006	812
+Korora - Emerald Beach	2006	1300
+Sawtell - Boambee	2006	1192
+Urunga	2006	1028
+Woolgoolga - Arrawarra	2006	1000
+Bourke - Brewarrina	2006	650
+Cobar	2006	900
+Coonamble	2006	620
+Nyngan - Warren	2006	821
+Walgett - Lightning Ridge	2006	607
+Broken Hill	2006	650
+Far West	2006	737
+Coonabarabran	2006	693
+Dubbo - East	2006	1213
+Dubbo - South	2006	1192
+Dubbo - West	2006	1101
+Dubbo Region	2006	1192
+Gilgandra	2006	867
+Narromine	2006	867
+Wellington	2006	867
+Branxton - Greta - Pokolbin	2006	1300
+Cessnock	2006	1170
+Cessnock Region	2006	1200
+Dungog	2006	1200
+Kurri Kurri - Abermain	2006	1083
+Singleton	2006	1400
+Singleton Region	2006	1403
+Maitland	2006	1300
+Maitland - East	2006	1300
+Maitland - North	2006	1406
+Maitland - West	2006	1300
+Thornton - Millers Forest	2006	1329
+Anna Bay	2006	1333
+Lemon Tree Passage - Tanilba Bay	2006	1083
+Nelson Bay Peninsula	2006	1338
+Raymond Terrace	2006	1186
+Seaham - Woodville	2006	1400
+Tea Gardens - Hawks Nest	2006	1200
+Williamtown - Medowie - Karuah	2006	1343
+Muswellbrook	2006	1300
+Muswellbrook Region	2006	1200
+Scone	2006	1200
+Scone Region	2006	1040
+Dapto - Avondale	2006	1387
+Horsley - Kembla Grange	2006	1600
+Port Kembla Industrial	2006	0
+Unanderra - Mount Kembla	2006	1500
+Berkeley - Lake Heights - Cringila	2006	1300
+Port Kembla - Warrawong	2006	1300
+Windang - Primbee	2006	1500
+Illawarra Catchment Reserve	2006	0
+Albion Park - Macquarie Pass	2006	1600
+Albion Park Rail	2006	1339
+Kiama	2006	1517
+Kiama Downs - Minnamurra	2006	1400
+Kiama Hinterland - Gerringong	2006	1400
+Shellharbour - Flinders	2006	1733
+Shellharbour - Oak Flats	2006	1387
+Warilla	2006	1300
+Balgownie - Fairy Meadow	2006	1551
+Corrimal - Tarrawanna - Bellambi	2006	1500
+Figtree - Keiraville	2006	1517
+Helensburgh	2006	1857
+Thirroul - Austinmer - Coalcliff	2006	1733
+Woonona - Bulli - Russell Vale	2006	1704
+Wollongong - East	2006	1625
+Wollongong - West	2006	1517
+Bulahdelah - Stroud	2006	1000
+Forster	2006	1300
+Forster-Tuncurry Region	2006	1000
+Tuncurry	2006	1170
+Kempsey	2006	960
+Kempsey Region	2006	867
+Macksville - Scotts Head	2006	953
+Nambucca Heads	2006	999
+Nambucca Heads Region	2006	867
+South West Rocks	2006	1164
+Lord Howe Island	2006	1083
+Laurieton - Bonny Hills	2006	1172
+Port Macquarie - East	2006	1300
+Port Macquarie - West	2006	1300
+Port Macquarie Region	2006	1083
+Wauchope	2006	1192
+Gloucester	2006	1078
+Old Bar - Manning Point - Red Head	2006	1300
+Taree	2006	1012
+Taree Region	2006	1000
+Wingham	2006	1000
+Albury - East	2006	1270
+Albury - North	2006	1083
+Albury - South	2006	1153
+Albury Region	2006	1000
+Lavington	2006	1083
+Hay	2006	693
+Wentworth - Buronga	2006	900
+Wentworth-Balranald Region	2006	780
+Corowa	2006	1000
+Corowa Region	2006	997
+Deniliquin	2006	867
+Deniliquin Region	2006	870
+Moama	2006	1237
+Tocumwal - Finley - Jerilderie	2006	867
+Armidale	2006	1040
+Armidale Region - North	2006	854
+Armidale Region - South	2006	867
+Walcha	2006	852
+Glen Innes	2006	780
+Inverell	2006	867
+Inverell Region - East	2006	700
+Inverell Region - West	2006	728
+Tenterfield	2006	789
+Moree	2006	1083
+Moree Region	2006	910
+Narrabri	2006	996
+Narrabri Region	2006	900
+Gunnedah	2006	867
+Gunnedah Region	2006	813
+Quirindi	2006	758
+Tamworth - East	2006	1100
+Tamworth - North	2006	1100
+Tamworth - West	2006	1000
+Tamworth Region	2006	1018
+Belmont - Bennetts Green	2006	1387
+Belmont South - Blacksmiths	2006	1300
+Charlestown - Dudley	2006	1300
+Glendale - Cardiff - Hillsborough	2006	1300
+Mount Hutton - Windale	2006	1328
+Redhead	2006	1500
+Swansea - Caves Beach	2006	1300
+Valentine - Eleebana	2006	1350
+Warners Bay - Boolaroo	2006	1300
+Bolton Point - Teralba	2006	1236
+Bonnells Bay - Silverwater	2006	1300
+Edgeworth - Cameron Park	2006	1300
+Morisset - Cooranbong	2006	1360
+Toronto - Awaba	2006	1300
+Wangi Wangi - Rathmines	2006	1300
+West Wallsend - Barnsley - Killingworth	2006	1170
+Adamstown - Kotara	2006	1300
+Beresfield - Hexham	2006	1083
+Hamilton - Broadmeadow	2006	1473
+Lambton - New Lambton	2006	1385
+Maryland - Fletcher - Minmi	2006	1430
+Mayfield - Warabrook	2006	1300
+Merewether - The Junction	2006	1625
+Newcastle - Cooks Hill	2006	1733
+Newcastle Port - Kooragang	2006	0
+Shortland - Jesmond	2006	1083
+Stockton - Fullerton Cove	2006	1210
+Wallsend - Elermore Vale	2006	1282
+Waratah - North Lambton	2006	1300
+Wickham - Carrington - Tighes Hill	2006	1300
+Ballina	2006	1200
+Ballina Region	2006	1257
+Bangalow	2006	1300
+Brunswick Heads - Ocean Shores	2006	1127
+Byron Bay	2006	1320
+Evans Head	2006	1000
+Lennox Head - Skennars Head	2006	1387
+Mullumbimby	2006	1100
+Casino	2006	910
+Casino Region	2006	867
+Goonellabah	2006	1100
+Kyogle	2006	850
+Lismore	2006	996
+Lismore Region	2006	1083
+Kingscliff - Fingal Head	2006	1394
+Murwillumbah	2006	1140
+Murwillumbah Region	2006	1100
+Pottsville	2006	1213
+Tweed Heads	2006	1300
+Banora Point	2006	1341
+Terranora - North Tumblegum	2006	1500
+Tweed Heads South	2006	1300
+Griffith (NSW)	2006	1300
+Griffith Region	2006	1083
+Leeton	2006	1083
+Narrandera	2006	780
+Tumbarumba	2006	800
+Tumut	2006	1083
+Tumut Region	2006	1000
+Cootamundra	2006	849
+Gundagai	2006	888
+Junee	2006	867
+Temora	2006	867
+Wagga Wagga - East	2006	1200
+Wagga Wagga - North	2006	1083
+Wagga Wagga - South	2006	1159
+Wagga Wagga - West	2006	1083
+Wagga Wagga Region	2006	988
+Berry - Kangaroo Valley	2006	1444
+Callala Bay - Currarong	2006	1257
+Culburra Beach	2006	1083
+Ettrema - Sassafras - Budawang	2006	0
+Huskisson - Vincentia	2006	1300
+North Nowra - Bomaderry	2006	1200
+Nowra	2006	1300
+St Georges Basin - Erowal Bay	2006	1083
+Sussex Inlet - Berrara	2006	1083
+Tomerong - Wandandian - Woollamia	2006	1127
+Ulladulla	2006	1127
+Ulladulla Region	2006	1083
+Bowral	2006	1700
+Hill Top - Colo Vale	2006	1484
+Mittagong	2006	1500
+Moss Vale - Berrima	2006	1375
+Robertson - Fitzroy Falls	2006	1600
+Southern Highlands	2006	1517
+Baulkham Hills (East)	2006	1950
+Baulkham Hills (West) - Bella Vista	2006	2000
+Glenhaven	2006	2167
+West Pennant Hills	2006	2167
+Castle Hill - Central	2006	2000
+Castle Hill - East	2006	2000
+Castle Hill - North	2006	2000
+Castle Hill - South	2006	2000
+Castle Hill - West	2006	2316
+Cherrybrook	2006	2000
+Kellyville	2006	2167
+Dural - Kenthurst - Wisemans Ferry	2006	2167
+Galston - Laughtondale	2006	2000
+Bilpin - Colo - St Albans	2006	1577
+Kurrajong Heights - Ebenezer	2006	1727
+Pitt Town - McGraths Hill	2006	1733
+Rouse Hill - Beaumont Hills	2006	2236
+Blacktown (East) - Kings Park	2006	1600
+Blacktown (North) - Marayong	2006	1600
+Doonside - Woodcroft	2006	1702
+Lalor Park - Kings Langley	2006	1625
+Seven Hills - Toongabbie	2006	1700
+Blacktown (South)	2006	1629
+Blacktown (West)	2006	1560
+Glenwood	2006	2114
+Parklea - Kellyville Ridge	2006	2383
+Riverstone - Marsden Park	2006	1600
+Acacia Gardens	2006	2253
+Quakers Hill	2006	1800
+Bidwill - Hebersham - Emerton	2006	1300
+Glendenning - Dean Park	2006	1718
+Hassall Grove - Plumpton	2006	1700
+Lethbridge Park - Tregear	2006	1213
+Mount Druitt - Whalan	2006	1400
+Prospect Reservoir	2006	0
+Rooty Hill - Minchinbury	2006	1733
+Banksmeadow	2006	0
+Botany	2006	2158
+Mascot - Eastlakes	2006	1923
+Pagewood - Hillsdale - Daceyville	2006	1733
+Port Botany Industrial	2006	0
+Sydney Airport	2006	0
+Marrickville	2006	1800
+Petersham - Stanmore	2006	2000
+Sydenham - Tempe - St Peters	2006	1997
+Darlinghurst	2006	2100
+Erskineville - Alexandria	2006	2167
+Glebe - Forest Lodge	2006	2226
+Newtown - Camperdown - Darlington	2006	2167
+Potts Point - Woolloomooloo	2006	2000
+Pyrmont - Ultimo	2006	2150
+Redfern - Chippendale	2006	2015
+Surry Hills	2006	2104
+Sydney - Haymarket - The Rocks	2006	2167
+Waterloo - Beaconsfield	2006	2167
+Bondi - Tamarama - Bronte	2006	2327
+Bondi Beach - North Bondi	2006	2200
+Bondi Junction - Waverly	2006	2396
+Centennial Park	2006	0
+Double Bay - Bellevue Hill	2006	2700
+Dover Heights	2006	2500
+Paddington - Moore Park	2006	2500
+Rose Bay - Vaucluse - Watsons Bay	2006	3000
+Woollahra	2006	2817
+Coogee - Clovelly	2006	2200
+Malabar - La Perouse - Chifley	2006	2000
+Kensington (NSW)	2006	2058
+Kingsford	2006	2000
+Maroubra - North	2006	2171
+Maroubra - South	2006	2167
+Maroubra - West	2006	2156
+Randwick - North	2006	2167
+Randwick - South	2006	2000
+Bass Hill - Georges Hall	2006	1705
+Chullora	2006	0
+Condell Park	2006	1733
+Greenacre - Mount Lewis	2006	1700
+Padstow	2006	1733
+Panania - Milperra - Picnic Point	2006	1733
+Revesby	2006	1806
+Yagoona - Birrong	2006	1600
+Bankstown - North	2006	1517
+Bankstown - South	2006	1517
+Belmore - Belfield	2006	1663
+Canterbury (South) - Campsie	2006	1517
+Kingsgrove (North) - Earlwood	2006	1950
+Punchbowl	2006	1625
+Roselands	2006	1733
+Lakemba	2006	1285
+Wiley Park	2006	1300
+Hurstville	2006	1733
+Mortdale - Penshurst	2006	1733
+Narwee - Beverly Hills	2006	1700
+Oatley - Hurstville Grove	2006	2000
+Peakhurst - Lugarno	2006	1950
+Riverwood	2006	1532
+South Hurstville - Blakehurst	2006	1950
+Arncliffe - Bardwell Valley	2006	1950
+Bexley	2006	1733
+Kingsgrove (South) - Bardwell Park	2006	1842
+Kogarah	2006	1820
+Kogarah Bay - Carlton - Allawah	2006	1787
+Monterey - Brighton-le-Sands - Kyeemagh	2006	1900
+Rockdale - Banksia	2006	1800
+Sans Souci - Ramsgate	2006	2000
+Concord - Mortlake - Cabarita	2006	2167
+Concord West - North Strathfield	2006	2037
+Drummoyne - Rodd Point	2006	2200
+Five Dock - Abbotsford	2006	2167
+Balmain	2006	2600
+Leichhardt - Annandale	2006	2275
+Lilyfield - Rozelle	2006	2500
+Ashfield	2006	1733
+Burwood - Croydon	2006	1855
+Canterbury (North) - Ashbury	2006	1733
+Croydon Park - Enfield	2006	1820
+Dulwich Hill - Lewisham	2006	1820
+Haberfield - Summer Hill	2006	1950
+Homebush	2006	1896
+Strathfield	2006	2167
+Strathfield South	2006	1997
+Chatswood (East) - Artarmon	2006	2223
+Chatswood (West) - Lane Cove North	2006	2080
+Lane Cove - Greenwich	2006	2383
+St Leonards - Naremburn	2006	2383
+Willoughby - Castle Cove - Northbridge	2006	2600
+Asquith - Mount Colah	2006	1850
+Berowra - Brooklyn - Cowan	2006	1800
+Normanhurst - Thornleigh - Westleigh	2006	2000
+Hornsby - East	2006	1764
+Hornsby - West	2006	1855
+Waitara - Wahroonga (West)	2006	2089
+Gordon - Killara	2006	2556
+Lindfield - Roseville	2006	2600
+Pymble	2006	2427
+St Ives	2006	2600
+Turramurra	2006	2275
+Wahroonga (East) - Warrawee	2006	2500
+Cremorne - Cammeray	2006	2500
+Crows Nest - Waverton	2006	2167
+Mosman	2006	2600
+Neutral Bay - Kirribilli	2006	2377
+North Sydney - Lavender Bay	2006	2527
+Balgowlah - Clontarf - Seaforth	2006	2600
+Manly - Fairlight	2006	2300
+Avalon - Palm Beach	2006	2167
+Bayview - Elanora Heights	2006	2167
+Newport - Bilgola	2006	2200
+Warriewood - Mona Vale	2006	2167
+Beacon Hill - Narraweena	2006	2100
+Cromer	2006	2000
+Dee Why - North Curl Curl	2006	2000
+Forestville - Killarney Heights	2006	2200
+Frenchs Forest - Belrose	2006	2167
+Freshwater - Brookvale	2006	2167
+Manly Vale - Allambie Heights	2006	2093
+Narrabeen - Collaroy	2006	2100
+Terrey Hills - Duffys Forest	2006	2167
+Camden - Ellis Lane	2006	1733
+Elderslie - Harrington Park	2006	1928
+Mount Annan - Currans Hill	2006	1800
+Bradbury - Wedderburn	2006	1517
+Campbelltown - Woodbine	2006	1600
+Claymore - Eagle Vale - Raby	2006	1500
+Holsworthy Military Area	2006	0
+Ingleburn - Denham Court	2006	1533
+Leumeah - Minto Heights	2006	1430
+Macquarie Fields - Glenfield	2006	1408
+Minto - St Andrews	2006	1500
+Rosemeadow - Glen Alpine	2006	1517
+Bargo	2006	1700
+Douglas Park - Appin	2006	1733
+Picton - Tahmoor - Buxton	2006	1642
+The Oaks - Oakdale	2006	1742
+Blackheath - Megalong Valley	2006	1300
+Blaxland - Warrimoo - Lapstone	2006	1600
+Blue Mountains - North	2006	0
+Katoomba - Leura	2006	1300
+Lawson - Hazelbrook - Linden	2006	1408
+Springwood - Winmalee	2006	1517
+Wentworth Falls	2006	1477
+Blue Mountains - South	2006	0
+Cambridge Park	2006	1500
+Castlereagh - Cranebrook	2006	1625
+Emu Plains - Leonay	2006	1600
+Glenmore Park - Regentville	2006	1861
+Jamisontown - South Penrith	2006	1457
+Kingswood - Werrington	2006	1459
+Mulgoa - Luddenham - Orchard Hills	2006	1853
+Penrith	2006	1450
+Warragamba - Silverdale	2006	1647
+Richmond - Clarendon	2006	1500
+Windsor - Bligh Park	2006	1562
+Yarramundi - Londonderry	2006	1781
+Erskine Park	2006	1582
+St Clair	2006	1517
+Colyton - Oxley Park	2006	1500
+St Marys - North St Marys	2006	1400
+Homebush Bay - Silverwater	2006	2250
+Rookwood Cemetery	2006	0
+Auburn - Central	2006	1647
+Auburn - North	2006	1300
+Auburn - South	2006	1517
+Berala	2006	1500
+Lidcombe	2006	1733
+Regents Park	2006	1538
+Carlingford	2006	1800
+Ermington - Rydalmere	2006	1889
+Oatlands - Dundas Valley	2006	1800
+Chester Hill - Sefton	2006	1517
+Fairfield - East	2006	1500
+Granville - Clyde	2006	1517
+Greystanes - Pemulwuy	2006	1733
+Guildford - South Granville	2006	1700
+Guildford West - Merrylands West	2006	1517
+Merrylands - Holroyd	2006	1625
+Smithfield Industrial	2006	0
+Yennora Industrial	2006	0
+North Parramatta	2006	1600
+North Rocks	2006	1924
+Northmead	2006	1733
+Parramatta - Rosehill	2006	1500
+Toongabbie - Constitution Hill	2006	1690
+Winston Hills	2006	1870
+Pendle Hill - Girraween	2006	1733
+Wentworthville - Westmead	2006	1733
+Epping - North Epping	2006	2000
+Pennant Hills - Cheltenham	2006	2100
+Eastwood - Denistone	2006	1913
+Gladesville - Huntleys Point	2006	2056
+Hunters Hill - Woolwich	2006	3000
+Macquarie Park - Marsfield	2006	1810
+North Ryde - East Ryde	2006	2000
+West Ryde - Meadowbank	2006	1733
+Putney	2006	2167
+Ryde	2006	1900
+Ashcroft - Busby - Miller	2006	1326
+Austral - Greendale	2006	1882
+Cobbitty - Leppington	2006	1733
+Badgerys Creek	2006	2084
+Cecil Hills	2006	1800
+Green Valley	2006	1700
+Hinchinbrook	2006	1733
+Hoxton Park - Carnes Hill - Horningsea Park	2006	1950
+West Hoxton - Middleton Grange	2006	2017
+Bonnyrigg Heights - Bonnyrigg	2006	1600
+Bossley Park - Abbotsbury	2006	1629
+Cabramatta - Lansvale	2006	1192
+Cabramatta West - Mount Pritchard	2006	1495
+Canley Vale - Canley Heights	2006	1300
+Edensor Park	2006	1603
+Fairfield	2006	1473
+Fairfield - West	2006	1600
+Greenfield Park - Prairiewood	2006	1517
+Horsley Park - Kemps Creek	2006	2000
+Smithfield - Wetherill Park	2006	1517
+St Johns Park - Wakeley	2006	1517
+Wetherill Park Industrial	2006	0
+Casula	2006	1900
+Chipping Norton - Moorebank	2006	1733
+Holsworthy - Wattle Grove	2006	1798
+Liverpool	2006	1400
+Lurnea - Cartwright	2006	1400
+Prestons - Edmondson Park	2006	2072
+Warwick Farm	2006	1192
+Gymea - Grays Point	2006	2000
+Miranda - Yowie Bay	2006	1950
+Sylvania - Taren Point	2006	2000
+Caringbah	2006	1812
+Caringbah South	2006	2167
+Cronulla - Kurnell - Bundeena	2006	1907
+Lilli Pilli - Port Hacking - Dolans Bay	2006	2557
+Woolaware - Burraneer	2006	2167
+Heathcote - Waterfall	2006	1762
+Illawong - Alfords Point	2006	1819
+Menai - Lucas Heights - Woronora	2006	1842
+Oyster Bay - Como - Jannali	2006	2000
+Royal National Park	2006	0
+Sutherland - Kirrawee	2006	1900
+Engadine	2006	1900
+Loftus - Yarrawarrah	2006	1863
+Woronora Heights	2006	1855
+Migratory - Offshore - Shipping (NSW)	2006	0
+No usual address (NSW)	2006	0
+Alfredton	2006	1200
+Ballarat	2006	1127
+Ballarat - North	2006	1055
+Ballarat - South	2006	975
+Buninyong	2006	1083
+Delacombe	2006	1083
+Smythes Creek	2006	1083
+Wendouree - Miners Rest	2006	932
+Bacchus Marsh Region	2006	1083
+Creswick - Clunes	2006	867
+Daylesford	2006	975
+Gordon (Vic.)	2006	975
+Avoca	2006	650
+Beaufort	2006	780
+Golden Plains - North	2006	802
+Maryborough (Vic.)	2006	715
+Maryborough Region	2006	650
+Bendigo	2006	867
+California Gully - Eaglehawk	2006	867
+East Bendigo - Kennington	2006	1083
+Flora Hill - Spring Gully	2006	1000
+Kangaroo Flat - Golden Square	2006	975
+Maiden Gully	2006	1116
+Strathfieldsaye	2006	1200
+White Hills - Ascot	2006	1083
+Bendigo Region - South	2006	1061
+Castlemaine	2006	867
+Castlemaine Region	2006	867
+Heathcote	2006	785
+Kyneton	2006	1083
+Woodend	2006	1200
+Bendigo Region - North	2006	882
+Loddon	2006	594
+Bannockburn	2006	1387
+Golden Plains - South	2006	1083
+Winchelsea	2006	1127
+Belmont	2006	1083
+Corio - Norlane	2006	867
+Geelong	2006	1127
+Geelong West - Hamlyn Heights	2006	1107
+Grovedale	2006	1200
+Highton	2006	1300
+Lara	2006	1270
+Leopold	2006	1192
+Newcomb - Moolap	2006	1000
+Newtown (Vic.)	2006	1300
+North Geelong - Bell Park	2006	1083
+Clifton Springs	2006	1110
+Lorne - Anglesea	2006	1200
+Ocean Grove - Barwon Heads	2006	1200
+Portarlington	2006	1083
+Point Lonsdale - Queenscliff	2006	1013
+Torquay	2006	1300
+Alexandra	2006	895
+Euroa	2006	800
+Kilmore - Broadford	2006	1191
+Mansfield (Vic.)	2006	1000
+Nagambie	2006	867
+Seymour	2006	867
+Seymour Region	2006	1083
+Upper Yarra Valley	2006	613
+Yea	2006	943
+Benalla	2006	888
+Benalla Region	2006	867
+Rutherglen	2006	1000
+Wangaratta	2006	953
+Wangaratta Region	2006	953
+Beechworth	2006	1043
+Bright - Mount Beauty	2006	975
+Chiltern - Indigo Valley	2006	1083
+Myrtleford	2006	910
+Towong	2006	867
+West Wodonga	2006	1200
+Wodonga	2006	1127
+Yackandandah	2006	1192
+Drouin	2006	1060
+Mount Baw Baw Region	2006	986
+Trafalgar (Vic.)	2006	899
+Warragul	2006	1083
+Alps - East	2006	0
+Bairnsdale	2006	919
+Bruthen - Omeo	2006	867
+Lake King	2006	0
+Lakes Entrance	2006	953
+Orbost	2006	711
+Paynesville	2006	975
+Foster	2006	867
+French Island	2006	815
+Korumburra	2006	975
+Leongatha	2006	1000
+Phillip Island	2006	1083
+Wilsons Promontory	2006	0
+Wonthaggi - Inverloch	2006	975
+Churchill	2006	867
+Moe - Newborough	2006	758
+Morwell	2006	737
+Traralgon	2006	996
+Yallourn North - Glengarry	2006	867
+Alps - West	2006	0
+Longford - Loch Sport	2006	960
+Maffra	2006	867
+Rosedale	2006	935
+Sale	2006	886
+Yarram	2006	867
+Brunswick	2006	1512
+Brunswick East	2006	1488
+Brunswick West	2006	1350
+Coburg	2006	1436
+Pascoe Vale South	2006	1430
+Alphington - Fairfield	2006	1500
+Northcote	2006	1517
+Thornbury	2006	1428
+Ascot Vale	2006	1600
+Essendon - Aberfeldie	2006	1517
+Flemington	2006	1517
+Moonee Ponds	2006	1662
+Carlton	2006	1800
+Docklands	2006	2184
+East Melbourne	2006	1950
+Flemington Racecourse	2006	0
+Kensington (Vic.)	2006	1733
+Melbourne	2006	1602
+North Melbourne	2006	1733
+Parkville	2006	1560
+South Yarra - West	2006	1733
+Southbank	2006	1765
+West Melbourne	2006	0
+Albert Park	2006	2007
+Elwood	2006	1700
+Port Melbourne	2006	2129
+Port Melbourne Industrial	2006	0
+South Melbourne	2006	2000
+St Kilda	2006	1602
+St Kilda East	2006	1517
+Armadale	2006	1930
+Prahran - Windsor	2006	1739
+South Yarra - East	2006	1896
+Toorak	2006	2366
+Abbotsford	2006	1685
+Carlton North - Princes Hill	2006	1733
+Collingwood	2006	1700
+Fitzroy	2006	1842
+Fitzroy North	2006	1700
+Richmond (Vic.)	2006	1800
+Yarra - North	2006	1733
+Ashburton (Vic.)	2006	1711
+Balwyn	2006	1800
+Balwyn North	2006	1750
+Camberwell	2006	1836
+Glen Iris - East	2006	1800
+Hawthorn	2006	1842
+Hawthorn East	2006	1950
+Kew	2006	2000
+Kew East	2006	1800
+Surrey Hills (West) - Canterbury	2006	1950
+Bulleen	2006	1517
+Doncaster	2006	1500
+Templestowe	2006	1700
+Templestowe Lower	2006	1582
+Doncaster East (North)	2006	1517
+Doncaster East (South)	2006	1500
+Blackburn	2006	1447
+Blackburn South	2006	1400
+Box Hill	2006	1500
+Box Hill North	2006	1443
+Burwood	2006	1500
+Burwood East	2006	1400
+Surrey Hills (East) - Mont Albert	2006	1733
+Beaumaris	2006	1800
+Brighton (Vic.)	2006	2167
+Brighton East	2006	2000
+Cheltenham - Highett (West)	2006	1517
+Hampton	2006	1800
+Sandringham - Black Rock	2006	2000
+Bentleigh - McKinnon	2006	1547
+Carnegie	2006	1495
+Caulfield - North	2006	1800
+Caulfield - South	2006	1733
+Elsternwick	2006	1703
+Hughesdale	2006	1500
+Murrumbeena	2006	1517
+Ormond - Glen Huntly	2006	1500
+Bentleigh East (North)	2006	1517
+Bentleigh East (South)	2006	1500
+Aspendale Gardens - Waterways	2006	1500
+Braeside	2006	0
+Carrum - Patterson Lakes	2006	1409
+Chelsea - Bonbeach	2006	1300
+Chelsea Heights	2006	1213
+Cheltenham - Highett (East)	2006	1400
+Edithvale - Aspendale	2006	1300
+Mentone	2006	1400
+Moorabbin - Heatherton	2006	1600
+Moorabbin Airport	2006	0
+Mordialloc - Parkdale	2006	1500
+Malvern - Glen Iris	2006	1972
+Malvern East	2006	1945
+Bundoora - East	2006	1300
+Greensborough	2006	1300
+Heidelberg - Rosanna	2006	1500
+Heidelberg West	2006	1200
+Ivanhoe	2006	1549
+Ivanhoe East - Eaglemont	2006	1790
+Montmorency - Briar Hill	2006	1300
+Viewbank - Yallambie	2006	1387
+Watsonia	2006	1300
+Kingsbury	2006	1517
+Reservoir - East	2006	1200
+Reservoir - West	2006	1300
+Preston - East	2006	1300
+Preston - West	2006	1300
+Eltham	2006	1408
+Hurstbridge	2006	1300
+Kinglake	2006	1192
+Panton Hill - St Andrews	2006	1408
+Plenty - Yarrambat	2006	1517
+Research - North Warrandyte	2006	1560
+Wattle Glen - Diamond Creek	2006	1400
+Bundoora - North	2006	1626
+Bundoora - West	2006	1200
+Lalor	2006	1083
+Mill Park - North	2006	1254
+Mill Park - South	2006	1179
+Thomastown	2006	1100
+Wallan	2006	1300
+Whittlesea	2006	1465
+Doreen	2006	1800
+Epping - East	2006	1300
+Epping - South	2006	1200
+Epping - West	2006	1200
+Mernda	2006	1200
+South Morang (North)	2006	1800
+South Morang (South)	2006	1460
+Wollert	2006	1000
+Airport West	2006	1300
+Essendon Airport	2006	0
+Keilor	2006	1300
+Keilor East	2006	1300
+Niddrie - Essendon West	2006	1424
+Strathmore	2006	1517
+Gisborne	2006	1372
+Macedon	2006	1300
+Riddells Creek	2006	1300
+Romsey	2006	1200
+Coburg North	2006	1238
+Fawkner	2006	1200
+Pascoe Vale	2006	1350
+Glenroy	2006	1200
+Gowanbrae	2006	1647
+Hadfield	2006	1218
+Sunbury	2006	1300
+Sunbury - South	2006	1238
+Broadmeadows	2006	948
+Campbellfield - Coolaroo	2006	1028
+Gladstone Park - Westmeadows	2006	1213
+Greenvale - Bulla	2006	1473
+Meadow Heights	2006	1083
+Melbourne Airport	2006	2200
+Roxburgh Park - Somerton	2006	1430
+Tullamarine	2006	1192
+Craigieburn - Central	2006	1213
+Craigieburn - North	2006	1690
+Craigieburn - South	2006	1300
+Craigieburn - West	2006	1621
+Mickleham - Yuroke	2006	1733
+Bayswater	2006	1150
+Knoxfield - Scoresby	2006	1200
+Lysterfield	2006	1517
+Rowville - Central	2006	1300
+Rowville - North	2006	1517
+Rowville - South	2006	1500
+Wantirna	2006	1300
+Wantirna South	2006	1300
+Boronia	2006	1148
+Ferntree Gully (North)	2006	1164
+Ferntree Gully (South) - Upper Ferntree Gully	2006	1200
+The Basin	2006	1170
+Donvale - Park Orchards	2006	1600
+Warrandyte - Wonga Park	2006	1700
+Bayswater North	2006	1200
+Croydon Hills - Warranwood	2006	1300
+Ringwood	2006	1220
+Ringwood East	2006	1237
+Ringwood North	2006	1305
+Croydon - East	2006	1200
+Croydon - West	2006	1200
+Croydon South	2006	1200
+Forest Hill	2006	1300
+Mitcham (Vic.)	2006	1348
+Nunawading	2006	1300
+Vermont	2006	1395
+Vermont South	2006	1400
+Belgrave - Selby	2006	1200
+Chirnside Park	2006	1300
+Healesville - Yarra Glen	2006	1127
+Kilsyth	2006	1160
+Lilydale - Coldstream	2006	1300
+Monbulk - Silvan	2006	1213
+Montrose	2006	1222
+Mooroolbark	2006	1250
+Mount Dandenong - Olinda	2006	1300
+Mount Evelyn	2006	1200
+Upwey - Tecoma	2006	1194
+Wandin - Seville	2006	1205
+Yarra Valley	2006	1040
+Beaconsfield - Officer	2006	1572
+Bunyip - Garfield	2006	1270
+Emerald - Cockatoo	2006	1200
+Koo Wee Rup	2006	1122
+Pakenham - North	2006	1200
+Pakenham - South	2006	1376
+Berwick - North	2006	1300
+Berwick - South	2006	1517
+Doveton	2006	932
+Hallam	2006	1196
+Narre Warren North	2006	1517
+Endeavour Hills - North	2006	1200
+Endeavour Hills - South	2006	1200
+Narre Warren - North East	2006	1213
+Narre Warren - South West	2006	1150
+Cranbourne	2006	1083
+Cranbourne East	2006	1517
+Cranbourne North	2006	1127
+Cranbourne South	2006	1400
+Cranbourne West	2006	1283
+Hampton Park - Lynbrook	2006	1148
+Lynbrook - Lyndhurst	2006	1600
+Pearcedale - Tooradin	2006	1200
+Narre Warren South (East)	2006	1569
+Narre Warren South (West)	2006	1456
+Clarinda - Oakleigh South	2006	1300
+Clayton South	2006	1200
+Dandenong	2006	1000
+Dandenong North	2006	1083
+Dingley Village	2006	1430
+Keysborough	2006	1300
+Noble Park North	2006	1083
+Springvale	2006	1083
+Springvale South	2006	1060
+Noble Park - East	2006	1003
+Noble Park - West	2006	1083
+Ashwood - Chadstone	2006	1562
+Clayton	2006	1300
+Glen Waverley - East	2006	1500
+Glen Waverley - West	2006	1500
+Mount Waverley - North	2006	1420
+Mount Waverley - South	2006	1500
+Mulgrave	2006	1300
+Oakleigh - Huntingdale	2006	1390
+Wheelers Hill	2006	1500
+Ardeer - Albion	2006	1083
+Cairnlea	2006	1702
+Deer Park - Derrimut	2006	1200
+Delahey	2006	1140
+Keilor Downs	2006	1200
+Kings Park (Vic.)	2006	1040
+St Albans - North	2006	1000
+St Albans - South	2006	1000
+Sunshine	2006	1100
+Sunshine North	2006	1083
+Sunshine West	2006	1083
+Sydenham	2006	1300
+Taylors Lakes	2006	1300
+Altona	2006	1300
+Altona Meadows	2006	1185
+Altona North	2006	1300
+Newport	2006	1500
+Seabrook	2006	1300
+Williamstown	2006	1700
+Braybrook	2006	1200
+Footscray	2006	1300
+Maribyrnong	2006	1600
+Seddon - Kingsville	2006	1560
+West Footscray - Tottenham	2006	1300
+Yarraville	2006	1600
+Bacchus Marsh	2006	1200
+Hillside	2006	1430
+Melton	2006	1083
+Melton South	2006	1000
+Melton West	2006	1250
+Rockbank - Mount Cottrell	2006	1059
+Taylors Hill	2006	1733
+Burnside	2006	1400
+Burnside Heights	2006	1913
+Caroline Springs	2006	1538
+Hoppers Crossing - North	2006	1250
+Hoppers Crossing - South	2006	1083
+Laverton	2006	867
+Tarneit	2006	1633
+Truganina	2006	1600
+Werribee - South	2006	1252
+Wyndham Vale	2006	1260
+Point Cook - East	2006	2054
+Point Cook - North	2006	1733
+Point Cook - South	2006	2074
+Werribee - East	2006	1100
+Werribee - West	2006	1127
+Carrum Downs	2006	1200
+Frankston	2006	1083
+Frankston North	2006	953
+Frankston South	2006	1375
+Langwarrin	2006	1300
+Seaford (Vic.)	2006	1083
+Skye - Sandhurst	2006	1500
+Dromana	2006	1192
+Flinders	2006	1404
+Hastings - Somers	2006	1170
+Mornington	2006	1300
+Mount Eliza	2006	1517
+Mount Martha	2006	1450
+Point Nepean	2006	1150
+Rosebud - McCrae	2006	1083
+Somerville	2006	1213
+Ararat	2006	780
+Ararat Region	2006	756
+Horsham	2006	953
+Horsham Region	2006	758
+Nhill Region	2006	573
+St Arnaud	2006	650
+Stawell	2006	758
+West Wimmera	2006	589
+Yarriambiack	2006	520
+Irymple	2006	1083
+Merbein	2006	911
+Mildura Region	2006	802
+Red Cliffs	2006	867
+Mildura - North	2006	1000
+Mildura - South	2006	1100
+Buloke	2006	520
+Gannawarra	2006	802
+Kerang	2006	700
+Robinvale	2006	864
+Swan Hill	2006	953
+Swan Hill Region	2006	800
+Echuca	2006	1109
+Kyabram	2006	997
+Lockington - Gunbower	2006	1032
+Rochester	2006	867
+Rushworth	2006	823
+Cobram	2006	1000
+Moira	2006	867
+Numurkah	2006	910
+Yarrawonga	2006	1083
+Mooroopna	2006	980
+Shepparton - North	2006	1083
+Shepparton - South	2006	1083
+Shepparton Region - East	2006	1100
+Shepparton Region - West	2006	1000
+Glenelg (Vic.)	2006	840
+Hamilton (Vic.)	2006	845
+Portland	2006	900
+Southern Grampians	2006	758
+Camperdown	2006	758
+Colac	2006	910
+Colac Region	2006	867
+Corangamite - North	2006	767
+Corangamite - South	2006	1000
+Otway	2006	1014
+Moyne - East	2006	867
+Moyne - West	2006	975
+Warrnambool - North	2006	1083
+Warrnambool - South	2006	1050
+Migratory - Offshore - Shipping (Vic.)	2006	0
+No usual address (Vic.)	2006	0
+Alexandra Hills	2006	1300
+Belmont - Gumdale	2006	1517
+Birkdale	2006	1324
+Capalaba	2006	1300
+Thorneside	2006	1213
+Wellington Point	2006	1500
+Cleveland	2006	1517
+Ormiston	2006	1460
+Redland Bay	2006	1600
+Sheldon - Mount Cotton	2006	1600
+Thornlands	2006	1600
+Victoria Point	2006	1335
+Redland Islands	2006	867
+Brisbane Port - Lytton	2006	0
+Manly - Lota	2006	1500
+Manly West	2006	1408
+Murarrie	2006	1517
+Tingalpa	2006	1300
+Wakerley	2006	1800
+Wynnum	2006	1517
+Wynnum West - Hemmant	2006	1300
+Bald Hills	2006	1220
+Bridgeman Downs	2006	1600
+Carseldine	2006	1400
+Everton Park	2006	1300
+McDowall	2006	1408
+Aspley	2006	1350
+Chermside	2006	1300
+Chermside West	2006	1300
+Geebung	2006	1300
+Kedron - Gordon Park	2006	1484
+Stafford	2006	1394
+Stafford Heights	2006	1300
+Wavell Heights	2006	1500
+Boondall	2006	1213
+Brisbane Airport	2006	0
+Eagle Farm - Pinkenba	2006	867
+Northgate - Virginia	2006	1445
+Nudgee - Banyo	2006	1200
+Nundah	2006	1300
+Bracken Ridge	2006	1300
+Brighton (Qld)	2006	1200
+Deagon	2006	1083
+Sandgate - Shorncliffe	2006	1408
+Taigum - Fitzgibbon	2006	1300
+Zillmere	2006	1213
+Camp Hill	2006	1600
+Cannon Hill	2006	1487
+Carina	2006	1400
+Carina Heights	2006	1300
+Carindale	2006	1600
+Annerley	2006	1387
+Coorparoo	2006	1500
+Fairfield - Dutton Park	2006	1408
+Greenslopes	2006	1480
+Holland Park	2006	1525
+Holland Park West	2006	1500
+Woolloongabba	2006	1600
+Yeronga	2006	1500
+Eight Mile Plains	2006	1406
+Macgregor (Qld)	2006	1300
+Mansfield (Qld)	2006	1331
+Mount Gravatt	2006	1430
+Rochedale - Burbank	2006	1517
+Upper Mount Gravatt	2006	1400
+Wishart	2006	1300
+Coopers Plains	2006	1200
+Moorooka	2006	1360
+Robertson	2006	1590
+Salisbury - Nathan	2006	1300
+Tarragindi	2006	1500
+Algester	2006	1235
+Calamvale - Stretton	2006	1452
+Pallara - Willawong	2006	1733
+Parkinson - Drewvale	2006	1625
+Rocklea - Acacia Ridge	2006	1127
+Kuraby	2006	1426
+Runcorn	2006	1300
+Sunnybank	2006	1228
+Sunnybank Hills	2006	1300
+Jindalee - Mount Ommaney	2006	1408
+Middle Park - Jamboree Heights	2006	1301
+Riverhills	2006	1322
+Seventeen Mile Rocks - Sinnamon Park	2006	1517
+Westlake	2006	1511
+Bellbowrie - Moggill	2006	1600
+Brookfield - Kenmore Hills	2006	1800
+Chapel Hill	2006	1517
+Fig Tree Pocket	2006	1950
+Kenmore	2006	1517
+Pinjarra Hills - Pullenvale	2006	2000
+Chelmer - Graceville	2006	1733
+Corinda	2006	1440
+Indooroopilly	2006	1517
+Sherwood	2006	1690
+St Lucia	2006	1712
+Taringa	2006	1500
+Enoggera	2006	1300
+Enoggera Reservoir	2006	1270
+Keperra	2006	1300
+Mitchelton	2006	1463
+Mount Coot-tha	2006	0
+The Gap	2006	1500
+Upper Kedron - Ferny Grove	2006	1300
+Brisbane City	2006	2000
+Fortitude Valley	2006	1636
+Highgate Hill	2006	1560
+Kangaroo Point	2006	1733
+New Farm	2006	1647
+South Brisbane	2006	1733
+Spring Hill	2006	1517
+West End	2006	1517
+Balmoral	2006	1733
+Bulimba	2006	1934
+East Brisbane	2006	1600
+Hawthorne	2006	1950
+Morningside - Seven Hills	2006	1568
+Norman Park	2006	1810
+Albion	2006	1577
+Alderley	2006	1500
+Ascot	2006	1811
+Clayfield	2006	1517
+Grange	2006	1697
+Hamilton (Qld)	2006	1775
+Hendra	2006	1950
+Kelvin Grove - Herston	2006	1625
+Newmarket	2006	1660
+Newstead - Bowen Hills	2006	1800
+Wilston	2006	1733
+Windsor	2006	1733
+Wooloowin - Lutwyche	2006	1600
+Ashgrove	2006	1700
+Auchenflower	2006	1623
+Bardon	2006	1750
+Paddington - Milton	2006	1755
+Red Hill (Qld)	2006	1950
+Toowong	2006	1647
+Brinsmead	2006	1363
+Clifton Beach - Kewarra Beach	2006	1407
+Freshwater - Stratford	2006	1300
+Redlynch	2006	1387
+Trinity Beach - Smithfield	2006	1300
+Yorkeys Knob - Machans Beach	2006	1083
+Bentley Park	2006	1300
+Cairns City	2006	1347
+Earlville - Bayview Heights	2006	1257
+Edmonton	2006	1200
+Gordonvale - Trinity	2006	1235
+Kanimbla - Mooroobool	2006	1238
+Lamb Range	2006	0
+Manoora	2006	986
+Manunda	2006	991
+Mount Sheridan	2006	1300
+Westcourt - Bungalow	2006	1083
+White Rock	2006	1083
+Whitfield - Edge Hill	2006	1300
+Woree	2006	1051
+Babinda	2006	900
+Innisfail	2006	867
+Johnstone	2006	867
+Tully	2006	962
+Wooroonooran	2006	0
+Yarrabah	2006	0
+Daintree	2006	1083
+Port Douglas	2006	1343
+Atherton	2006	1040
+Herberton	2006	737
+Kuranda	2006	1083
+Malanda - Yungaburra	2006	967
+Mareeba	2006	975
+Balonne	2006	867
+Chinchilla	2006	867
+Goondiwindi	2006	1083
+Inglewood - Waggamba	2006	741
+Miles - Wandoan	2006	670
+Roma	2006	914
+Roma Region	2006	700
+Tara	2006	541
+Crows Nest - Rosalie	2006	867
+Jondaryan	2006	995
+Millmerran	2006	745
+Pittsworth	2006	975
+Wambo	2006	889
+Clifton - Greenmount	2006	923
+Southern Downs - East	2006	917
+Southern Downs - West	2006	910
+Stanthorpe	2006	867
+Stanthorpe Region	2006	867
+Warwick	2006	953
+Central Highlands - East	2006	1083
+Central Highlands - West	2006	953
+Emerald	2006	1508
+Berserker	2006	845
+Bouldercombe	2006	867
+Emu Park	2006	1100
+Frenchville - Mount Archer	2006	1072
+Glenlee - Rockyview	2006	1200
+Gracemere	2006	1000
+Lakes Creek	2006	900
+Mount Morgan	2006	542
+Norman Gardens	2006	1166
+Park Avenue	2006	867
+Parkhurst - Kawana	2006	1083
+Rockhampton - West	2006	910
+Rockhampton City	2006	758
+Rockhampton Region - East	2006	884
+Rockhampton Region - North	2006	1083
+Rockhampton Region - West	2006	1083
+Shoalwater Bay	2006	0
+The Range - Allenstown	2006	1081
+Yeppoon	2006	1254
+Banana	2006	888
+Biloela	2006	1040
+Agnes Water - Miriam Vale	2006	867
+Boyne Island - Tannum Sands	2006	1391
+Callemondah	2006	0
+Clinton - New Auckland	2006	1300
+Gladstone	2006	1083
+Gladstone Hinterland	2006	1200
+Kin Kora - Sun Valley	2006	1150
+South Trees	2006	1300
+Telina - Toolooa	2006	1172
+West Gladstone	2006	1083
+Broadbeach Waters	2006	1768
+Burleigh Heads	2006	1426
+Burleigh Waters	2006	1430
+Mermaid Beach - Broadbeach	2006	1517
+Mermaid Waters	2006	1517
+Miami	2006	1500
+Coolangatta	2006	1404
+Currumbin - Tugun	2006	1300
+Currumbin Waters	2006	1387
+Elanora	2006	1452
+Palm Beach	2006	1400
+Arundel	2006	1560
+Biggera Waters	2006	1300
+Coombabah	2006	1300
+Labrador	2006	1273
+Paradise Point - Hollywell	2006	1614
+Runaway Bay	2006	1625
+Guanaba - Springbrook	2006	1300
+Tamborine - Canungra	2006	1300
+Currumbin Valley - Tallebudgera	2006	1517
+Mudgeeraba - Bonogin	2006	1517
+Reedy Creek - Andrews	2006	1517
+Carrara	2006	1450
+Highland Park	2006	1430
+Nerang - Mount Nathan	2006	1343
+Pacific Pines - Gaven	2006	1700
+Worongary - Tallai	2006	1600
+Coomera	2006	1733
+Helensvale	2006	1549
+Hope Island	2006	1994
+Jacobs Well - Alberton	2006	1300
+Ormeau - Yatala	2006	1647
+Oxenford - Maudsland	2006	1510
+Pimpama	2006	1500
+Upper Coomera - Willow Vale	2006	1733
+Clear Island Waters	2006	1733
+Merrimac	2006	1387
+Robina	2006	1600
+Varsity Lakes	2006	1517
+Ashmore	2006	1408
+Molendinar	2006	1570
+Parkwood	2006	1451
+Southport - North	2006	1300
+Southport - South	2006	1400
+Benowa	2006	1733
+Bundall	2006	1972
+Main Beach	2006	1871
+Surfers Paradise	2006	1600
+Darra - Sumner	2006	1040
+Durack	2006	1126
+Forest Lake - Doolandella	2006	1400
+Inala - Richlands	2006	1000
+Oxley (Qld)	2006	1300
+Wacol	2006	939
+Boonah	2006	1000
+Esk	2006	867
+Lake Manchester - England Creek	2006	0
+Lockyer Valley - East	2006	975
+Lowood	2006	1037
+Rosewood	2006	1055
+Brassall	2006	1097
+Bundamba	2006	997
+Churchill - Yamanto	2006	1083
+Ipswich - Central	2006	1083
+Ipswich - East	2006	1010
+Ipswich - North	2006	1300
+Karalee - Barellan Point	2006	1345
+Karana Downs	2006	1387
+Leichhardt - One Mile	2006	1000
+North Ipswich - Tivoli	2006	997
+Raceview	2006	1127
+Ripley	2006	1300
+Riverview	2006	925
+Bellbird Park - Brookwater	2006	1200
+Camira - Gailes	2006	1148
+Carole Park	2006	0
+Collingwood Park - Redbank	2006	1238
+Goodna	2006	1083
+New Chum	2006	832
+Redbank Plains	2006	1000
+Springfield	2006	1500
+Springfield Lakes	2006	1700
+Beaudesert	2006	1085
+Beenleigh	2006	1083
+Eagleby	2006	988
+Edens Landing - Holmview	2006	1248
+Mount Warren Park	2006	1298
+Wolffdene - Bahrs Scrub	2006	1408
+Boronia Heights - Park Ridge	2006	1200
+Browns Plains	2006	1083
+Chambers Flat - Logan Reserve	2006	1400
+Crestmead	2006	1083
+Greenbank Military Camp	2006	0
+Hillcrest	2006	1200
+Marsden	2006	1083
+Munruben - Park Ridge South	2006	1387
+Regents Park - Heritage Park	2006	1300
+Greenbank	2006	1500
+Jimboomba	2006	1387
+Logan Village	2006	1350
+Bethania - Waterford	2006	1127
+Cornubia - Carbrook	2006	1500
+Loganholme - Tanah Merah	2006	1300
+Loganlea	2006	1127
+Shailer Park	2006	1300
+Waterford West	2006	1127
+Daisy Hill	2006	1300
+Kingston (Qld.)	2006	953
+Logan Central	2006	867
+Rochedale South - Priestdale	2006	1200
+Slacks Creek	2006	1000
+Springwood	2006	1223
+Underwood	2006	1300
+Woodridge	2006	867
+Bowen	2006	1054
+Broadsound - Nebo	2006	975
+Clermont	2006	964
+Collinsville	2006	805
+Moranbah	2006	1300
+Andergrove - Beaconsfield	2006	1300
+East Mackay	2006	1300
+Eimeo - Rural View	2006	1517
+Eungella Hinterland	2006	0
+Mackay	2006	1083
+Mackay Harbour	2006	0
+Mount Pleasant - Glenella	2006	1506
+North Mackay	2006	1148
+Ooralea - Bakers Creek	2006	1200
+Pioneer Valley	2006	1200
+Sarina	2006	1200
+Seaforth - Calen	2006	1203
+Shoal Point - Bucasia	2006	1473
+Slade Point	2006	1251
+South Mackay	2006	1200
+Walkerston - Eton	2006	1300
+West Mackay	2006	1300
+Airlie - Whitsundays	2006	1473
+Cape Conway	2006	0
+Proserpine	2006	1083
+Beachmere - Sandstone Point	2006	1192
+Bribie Island	2006	1200
+Burpengary - East	2006	1400
+Caboolture	2006	1192
+Caboolture - South	2006	1083
+Elimbah	2006	1300
+Morayfield - East	2006	1127
+Wamuran	2006	1300
+Kilcoy	2006	910
+Woodford - D'Aguilar	2006	1083
+Burpengary	2006	1207
+Deception Bay	2006	1198
+Morayfield	2006	1300
+Narangba	2006	1500
+Upper Caboolture	2006	1300
+Clontarf	2006	1200
+Margate - Woody Point	2006	1190
+Redcliffe	2006	1200
+Rothwell - Kippa-Ring	2006	1192
+Scarborough - Newport - Moreton Island	2006	1387
+Albany Creek	2006	1387
+Cashmere	2006	1573
+Dayboro	2006	1500
+Eatons Hill	2006	1517
+The Hills District	2006	1320
+Samford Valley	2006	1625
+Dakabin - Kallangur	2006	1200
+Murrumba Downs - Griffin	2006	1405
+North Lakes - Mango Hill	2006	1571
+Bray Park	2006	1200
+Lawnton	2006	1200
+Petrie	2006	1300
+Strathpine - Brendale	2006	1083
+Aurukun	2006	0
+Cape York	2006	867
+Croydon - Etheridge	2006	553
+Kowanyama - Pormpuraaw	2006	0
+Northern Peninsula	2006	0
+Tablelands	2006	975
+Torres	2006	1083
+Torres Strait Islands	2006	0
+Weipa	2006	1473
+Carpentaria	2006	850
+Mount Isa	2006	1083
+Mount Isa Region	2006	997
+Northern Highlands	2006	607
+Barcaldine - Blackall	2006	542
+Charleville	2006	650
+Far Central West	2006	650
+Far South West	2006	542
+Longreach	2006	867
+Buderim - North	2006	1387
+Buderim - South	2006	1517
+Mountain Creek	2006	1387
+Sippy Downs	2006	1600
+Aroona - Currimundi	2006	1300
+Buddina - Minyama	2006	1500
+Caloundra - Kings Beach	2006	1300
+Caloundra - West	2006	1500
+Golden Beach - Pelican Waters	2006	1500
+Moffat Beach - Battery Hill	2006	1300
+Parrearra - Warana	2006	1517
+Wurtulla - Birtinya	2006	1322
+Coolum Beach	2006	1300
+Marcoola - Mudjimba	2006	1322
+Maroochydore - Kuluin	2006	1235
+Mooloolaba - Alexandra Headland	2006	1347
+Noosa Heads	2006	1647
+Noosaville	2006	1476
+Sunshine Beach	2006	1311
+Tewantin	2006	1300
+Peregian Beach - Marcus Beach	2006	1300
+Peregian Springs	2006	2000
+Beerwah	2006	1140
+Caloundra Hinterland	2006	1083
+Glass House Mountains	2006	1200
+Landsborough	2006	1300
+Maroochy Hinterland	2006	1083
+Palmwoods	2006	1300
+Bli Bli	2006	1300
+Diddillibah - Rosemount	2006	1350
+Eumundi - Yandina	2006	1200
+Nambour	2006	1109
+Noosa Hinterland	2006	1200
+Cambooya - Wyreema	2006	1150
+Darling Heights	2006	1083
+Drayton - Harristown	2006	1016
+Gatton	2006	975
+Gowrie (Qld)	2006	1064
+Highfields	2006	1300
+Lockyer Valley - West	2006	1005
+Middle Ridge	2006	1300
+Newtown (Qld)	2006	975
+North Toowoomba - Harlaxton	2006	953
+Rangeville	2006	1200
+Toowoomba - Central	2006	1083
+Toowoomba - East	2006	1200
+Toowoomba - West	2006	1300
+Wilsonton	2006	1000
+Ayr	2006	867
+Burdekin	2006	831
+Charters Towers	2006	867
+Dalrymple	2006	1000
+Ingham	2006	800
+Ingham Region	2006	864
+Palm Island	2006	0
+Aitkenvale	2006	1083
+Annandale	2006	1408
+Belgian Gardens - Pallarenda	2006	1300
+Bohle Plains	2006	1300
+Condon - Rasmussen	2006	1170
+Cranbrook	2006	1083
+Deeragun	2006	1250
+Douglas	2006	1517
+Garbutt - West End	2006	1083
+Gulliver - Currajong - Vincent	2006	1083
+Heatley	2006	1103
+Hermit Park - Rosslea	2006	1127
+Hyde Park - Pimlico	2006	1200
+Kelso	2006	1200
+Kirwan - East	2006	1100
+Kirwan - West	2006	1360
+Magnetic Island	2006	1207
+Mount Louisa	2006	1300
+Mundingburra	2006	1170
+Northern Beaches	2006	1083
+Oonoonba	2006	1300
+South Townsville - Railway Estate	2006	1127
+Townsville - South	2006	1083
+Townsville City - North Ward	2006	1517
+Wulguru - Roseneath	2006	1083
+Ashfield - Kepnock	2006	938
+Bargara - Burnett Heads	2006	1040
+Branyan - Kensington	2006	1083
+Bundaberg	2006	867
+Bundaberg East - Kalkie	2006	1000
+Bundaberg North - Gooburrum	2006	953
+Bundaberg Region - North	2006	867
+Bundaberg Region - South	2006	867
+Millbank - Avoca	2006	1000
+Svensson Heights - Norville	2006	867
+Walkervale - Avenell Heights	2006	890
+Gayndah - Mundubbera	2006	741
+Gin Gin	2006	650
+Kingaroy	2006	1000
+Kingaroy Region - North	2006	758
+Kingaroy Region - South	2006	888
+Monto - Eidsvold	2006	650
+Nanango	2006	700
+North Burnett	2006	0
+Cooloola	2006	975
+Gympie - North	2006	867
+Gympie - South	2006	1083
+Gympie Region	2006	870
+Kilkivan	2006	775
+Booral - River Heads	2006	1030
+Craignish - Dundowran Beach	2006	1248
+Pialba - Eli Waters	2006	1127
+Point Vernon	2006	1127
+Torquay - Scarness - Kawungan	2006	1083
+Urangan - Wondunna	2006	1083
+Burrum - Fraser	2006	900
+Granville	2006	928
+Maryborough (Qld)	2006	867
+Maryborough Region - South	2006	767
+Tinana	2006	1018
+Migratory - Offshore - Shipping (Qld)	2006	0
+No usual address (Qld)	2006	0
+Adelaide	2006	1486
+North Adelaide	2006	1600
+Adelaide Hills	2006	1089
+Aldgate - Stirling	2006	1213
+Hahndorf - Echunga	2006	1150
+Lobethal - Woodside	2006	1053
+Mount Barker	2006	1181
+Mount Barker Region	2006	1000
+Nairne	2006	1100
+Uraidla - Summertown	2006	1213
+Burnside - Wattle Park	2006	1400
+Glenside - Beaumont	2006	1530
+Toorak Gardens	2006	1500
+Athelstone	2006	1083
+Paradise - Newton	2006	1083
+Rostrevor - Magill	2006	1166
+Norwood (SA)	2006	1408
+Payneham - Felixstow	2006	1200
+St Peters - Marden	2006	1322
+Nailsworth - Broadview	2006	1200
+Prospect	2006	1300
+Walkerville	2006	1473
+Goodwood - Millswood	2006	1300
+Unley - Parkside	2006	1408
+Gawler - North	2006	1104
+Gawler - South	2006	1040
+Lewiston - Two Wells	2006	1083
+Craigmore - Blakeview	2006	1083
+Davoren Park	2006	823
+Elizabeth	2006	693
+Elizabeth East	2006	867
+Munno Para West - Angle Vale	2006	1213
+One Tree Hill	2006	1200
+Smithfield - Elizabeth North	2006	700
+Virginia - Waterloo Corner	2006	1000
+Enfield - Blair Athol	2006	1000
+Northgate - Oakden - Gilles Plains	2006	1127
+Windsor Gardens	2006	1083
+Dry Creek - North	2006	1237
+Ingle Farm	2006	1000
+Para Hills	2006	975
+Parafield	2006	0
+Parafield Gardens	2006	910
+Paralowie	2006	961
+Salisbury	2006	867
+Salisbury East	2006	975
+Salisbury North	2006	867
+Mawson Lakes - Globe Derby Park	2006	1517
+Pooraka - Cavan	2006	910
+Golden Grove	2006	1200
+Greenwith	2006	1213
+Highbury - Dernancourt	2006	1100
+Hope Valley - Modbury	2006	968
+Modbury Heights	2006	1040
+Redwood Park	2006	1050
+St Agnes - Ridgehaven	2006	1000
+Brighton (SA)	2006	1196
+Glenelg (SA)	2006	1300
+Edwardstown	2006	1083
+Hallett Cove	2006	1083
+Marino - Seaview Downs	2006	1154
+Mitchell Park	2006	1083
+Morphettville	2006	1083
+Sheidow Park - Trott Park	2006	1108
+Warradale	2006	1083
+Belair	2006	1200
+Bellevue Heights	2006	1175
+Blackwood	2006	1200
+Colonel Light Gardens	2006	1200
+Mitcham (SA)	2006	1400
+Panorama	2006	1083
+Aberfoyle Park	2006	1083
+Aldinga	2006	975
+Christie Downs	2006	867
+Christies Beach	2006	874
+Clarendon	2006	1300
+Coromandel Valley	2006	1209
+Flagstaff Hill	2006	1192
+Hackham - Onkaparinga Hills	2006	975
+Hackham West - Huntfield Heights	2006	800
+Happy Valley	2006	1083
+Happy Valley Reservoir	2006	0
+Lonsdale	2006	0
+McLaren Vale	2006	1100
+Morphett Vale - East	2006	880
+Morphett Vale - West	2006	867
+Reynella	2006	953
+Seaford (SA)	2006	1000
+Willunga	2006	1083
+Woodcroft	2006	1083
+Beverley	2006	1083
+Flinders Park	2006	1083
+Henley Beach	2006	1269
+Hindmarsh - Brompton	2006	1139
+Royal Park - Hendon - Albert Park	2006	1080
+Seaton - Grange	2006	1083
+West Lakes	2006	1170
+Woodville - Cheltenham	2006	1018
+Dry Creek - South	2006	0
+Largs Bay - Semaphore	2006	1083
+North Haven	2006	1083
+Port Adelaide	2006	997
+The Parks	2006	1083
+Torrens Island	2006	0
+Adelaide Airport	2006	0
+Fulham	2006	1170
+Lockleys	2006	1200
+Plympton	2006	1100
+Richmond (SA)	2006	1192
+West Beach	2006	1200
+Barossa - Angaston	2006	1001
+Light	2006	900
+Lyndoch	2006	1083
+Mallala	2006	780
+Nuriootpa	2006	1083
+Tanunda	2006	1083
+Clare	2006	867
+Gilbert Valley	2006	780
+Goyder	2006	600
+Wakefield - Barunga West	2006	628
+Jamestown	2006	600
+Peterborough - Mount Remarkable	2006	498
+Port Pirie	2006	650
+Port Pirie Region	2006	650
+Kadina	2006	780
+Moonta	2006	757
+Wallaroo	2006	650
+Yorke Peninsula - North	2006	650
+Yorke Peninsula - South	2006	693
+Ceduna	2006	800
+Eyre Peninsula	2006	802
+Kimba - Cleve - Franklin Harbour	2006	650
+Le Hunte - Elliston	2006	650
+Port Lincoln	2006	1000
+West Coast (SA)	2006	758
+Western	2006	0
+Whyalla	2006	737
+Whyalla - North	2006	0
+APY Lands	2006	0
+Coober Pedy	2006	477
+Quorn - Lake Gilles	2006	650
+Outback	2006	400
+Port Augusta	2006	700
+Roxby Downs	2006	1300
+Goolwa - Port Elliot	2006	867
+Kangaroo Island	2006	780
+Strathalbyn	2006	1083
+Strathalbyn Region	2006	1068
+Victor Harbor	2006	975
+Yankalilla	2006	867
+Grant	2006	953
+Kingston - Robe	2006	850
+Millicent	2006	780
+Naracoorte	2006	780
+Naracoorte Region	2006	867
+Penola	2006	650
+Tatiara	2006	774
+Wattle Range	2006	802
+Mount Gambier - East	2006	951
+Mount Gambier - West	2006	910
+Barmera	2006	867
+Berri	2006	867
+Karoonda - Lameroo	2006	542
+Loxton	2006	808
+Loxton Region	2006	800
+Mannum	2006	693
+Murray Bridge	2006	823
+Murray Bridge Region	2006	867
+Renmark	2006	780
+Renmark Region	2006	867
+The Coorong	2006	650
+Waikerie	2006	737
+Migratory - Offshore - Shipping (SA)	2006	0
+No usual address (SA)	2006	0
+Augusta	2006	1166
+Busselton	2006	1196
+Busselton Region	2006	1329
+Margaret River	2006	1300
+Australind - Leschenault	2006	1200
+Capel	2006	1100
+College Grove - Carey Park	2006	1083
+Collie	2006	867
+Dardanup	2006	1170
+Davenport	2006	0
+Eaton - Pelican Point	2006	1200
+Harvey	2006	1083
+East Bunbury - Glen Iris	2006	1083
+Waroona	2006	1083
+Dalyellup	2006	1456
+Gelorup - Stratham	2006	1300
+South Bunbury - Bunbury	2006	1185
+Withers - Usher	2006	1000
+Bridgetown - Boyup Brook	2006	867
+Donnybrook - Balingup	2006	1051
+Manjimup	2006	867
+Pemberton	2006	867
+Dawesville - Bouvard	2006	1300
+Falcon - Wannanup	2006	1200
+Greenfields	2006	1029
+Halls Head - Erskine	2006	1302
+Mandurah	2006	997
+Mandurah - East	2006	1300
+Mandurah - North	2006	1378
+Mandurah - South	2006	1083
+Pinjarra	2006	1083
+City Beach	2006	2167
+Claremont (WA)	2006	1813
+Cottesloe	2006	2167
+Floreat	2006	1950
+Mosman Park - Peppermint Grove	2006	2000
+Nedlands - Dalkeith - Crawley	2006	2167
+Swanbourne - Mount Claremont	2006	2000
+Kings Park (WA)	2006	0
+Mount Hawthorn - Leederville	2006	1549
+Mount Lawley - Inglewood	2006	1518
+North Perth	2006	1628
+Perth City	2006	1618
+Subiaco - Shenton Park	2006	1770
+Wembley - West Leederville - Glendalough	2006	1400
+Bassendean - Eden Hill - Ashfield	2006	1100
+Bayswater - Embleton - Bedford	2006	1300
+Maylands	2006	1298
+Morley	2006	1100
+Noranda	2006	1300
+Chidlow	2006	1179
+Glen Forrest - Darlington	2006	1300
+Helena Valley - Koongamia	2006	1127
+Malmalling - Reservoir	2006	0
+Mundaring	2006	1213
+Swan View - Greenmount - Midvale	2006	1083
+Avon Valley National Park	2006	0
+Ballajura	2006	1127
+Beechboro	2006	1148
+Bullsbrook	2006	1257
+Ellenbrook	2006	1408
+Gidgegannup	2006	1408
+Hazelmere - Guildford	2006	1200
+Lockridge - Kiara	2006	1083
+Malaga	2006	0
+Melaleuca - Lexia	2006	0
+Middle Swan - Herne Hill	2006	1083
+Midland - Guildford	2006	1083
+Stratton - Jane Brook	2006	1200
+The Vines	2006	1517
+Walyunga National Park	2006	0
+Craigie - Beldon	2006	1083
+Currambine - Kinross	2006	1365
+Duncraig	2006	1300
+Greenwood - Warwick	2006	1192
+Heathridge - Connolly	2006	1192
+Hillarys	2006	1500
+Iluka - Burns Beach	2006	1733
+Joondalup - Edgewater	2006	1257
+Kingsley	2006	1200
+Mullaloo - Kallaroo	2006	1400
+Ocean Reef	2006	1500
+Padbury	2006	1118
+Sorrento - Marmion	2006	1517
+Woodvale	2006	1300
+Balcatta - Hamersley	2006	1192
+Balga - Mirrabooka	2006	910
+Dianella	2006	1300
+Herdsman	2006	0
+Innaloo - Doubleview	2006	1517
+Karrinyup - Gwelup - Carine	2006	1500
+Nollamara - Westminster	2006	1105
+Osborne Park Industrial	2006	0
+Scarborough	2006	1400
+Stirling - Osborne Park	2006	1300
+Trigg - North Beach - Watermans Bay	2006	1600
+Tuart Hill - Joondanna	2006	1224
+Wembley Downs - Churchlands - Woodlands	2006	1517
+Yokine - Coolbinia - Menora	2006	1300
+Alexander Heights - Koondoola	2006	1083
+Butler - Merriwa - Ridgewood	2006	1343
+Carramar	2006	1400
+Clarkson	2006	1200
+Girrawheen	2006	867
+Madeley - Darch - Landsdale	2006	1517
+Marangaroo	2006	1083
+Mindarie - Quinns Rocks - Jindalee	2006	1500
+Neerabup National Park	2006	0
+Tapping - Ashby - Sinagra	2006	1600
+Wanneroo	2006	1300
+Alkimos - Eglinton	2006	0
+Carabooda - Pinjar	2006	1450
+Two Rocks	2006	1170
+Yanchep	2006	1160
+Armadale - Wungong - Brookdale	2006	867
+Ashendon - Lesley	2006	0
+Camillo - Champion Lakes	2006	867
+Forrestdale - Harrisdale - Piara Waters	2006	1100
+Kelmscott	2006	1018
+Mount Nasura - Mount Richon - Bedfordale	2006	1250
+Roleystone	2006	1300
+Seville Grove	2006	1083
+Belmont - Ascot - Redcliffe	2006	1250
+East Victoria Park - Carlisle	2006	1315
+Kewdale Commercial	2006	0
+Perth Airport	2006	0
+Rivervale - Kewdale - Cloverdale	2006	1200
+Victoria Park - Lathlain - Burswood	2006	1370
+Bentley - Wilson - St James	2006	1213
+Canning Vale - West	2006	1400
+Canning Vale Commercial	2006	0
+Cannington - Queens Park	2006	1180
+Parkwood - Ferndale - Lynwood	2006	1083
+Riverton - Shelley - Rossmoyne	2006	1300
+Welshpool	2006	0
+Willetton	2006	1200
+Beckenham - Kenwick - Langford	2006	1000
+Canning Vale - East	2006	1473
+Gosnells	2006	997
+Huntingdale - Southern River	2006	1257
+Maddington - Orange Grove - Martin	2006	975
+Thornlie	2006	1083
+Forrestfield - Wattle Grove	2006	1200
+High Wycombe	2006	1148
+Kalamunda - Maida Vale - Gooseberry Hill	2006	1300
+Lesmurdie - Bickley - Carmel	2006	1235
+Byford	2006	1300
+Mundijong	2006	1464
+Serpentine - Jarrahdale	2006	1300
+Como	2006	1400
+Manning - Waterford	2006	1517
+South Perth - Kensington	2006	1700
+Banjup	2006	1400
+Bibra Industrial	2006	0
+Bibra Lake	2006	0
+Coogee	2006	1300
+Coolbellup	2006	1127
+Hamilton Hill	2006	1106
+Henderson	2006	0
+North Coogee	2006	0
+South Lake - Cockburn Central	2006	1192
+Spearwood	2006	1100
+Success - Hammond Park	2006	1517
+Yangebup	2006	1127
+Beeliar - Wattleup	2006	1340
+Jandakot	2006	1600
+East Fremantle	2006	1614
+Fremantle	2006	1517
+Fremantle - South	2006	1300
+O'Connor (WA)	2006	0
+Bertram - Wellard (West)	2006	1473
+Calista	2006	867
+Hope Valley - Postans	2006	1060
+Kwinana Industrial	2006	0
+Parmelia - Orelia	2006	953
+Casuarina - Wandi	2006	1400
+Applecross - Ardross	2006	1820
+Bateman	2006	1213
+Bicton - Palmyra	2006	1400
+Booragoon	2006	1600
+Bull Creek	2006	1268
+Leeming	2006	1300
+Melville	2006	1500
+Murdoch - Kardinya	2006	1300
+Willagee	2006	1300
+Winthrop	2006	1595
+Baldivis	2006	1560
+Cooloongup	2006	975
+Port Kennedy	2006	1300
+Rockingham	2006	1083
+Rockingham Lakes	2006	0
+Safety Bay - Shoalwater	2006	1083
+Singleton - Golden Bay - Secret Harbour	2006	1450
+Waikiki	2006	1176
+Warnbro	2006	1127
+Albany	2006	1083
+Albany Region	2006	1042
+Bayonet Head - Lower King	2006	1000
+Denmark	2006	1000
+Gnowangerup	2006	600
+Katanning	2006	650
+Kojonup	2006	650
+Little Grove - Elleker	2006	1083
+McKail - Willyung	2006	1018
+Plantagenet	2006	795
+Stirling Range National Park	2006	0
+Chittering	2006	1202
+Cunderdin	2006	525
+Dowerin	2006	600
+Gingin - Dandaragan	2006	1050
+Merredin	2006	650
+Moora	2006	607
+Mukinbudin	2006	580
+Northam	2006	867
+Toodyay	2006	1018
+York - Beverley	2006	867
+Brookton	2006	650
+Kulin	2006	566
+Murray	2006	960
+Narrogin	2006	758
+Wagin	2006	692
+Broome	2006	1733
+Derby - West Kimberley	2006	921
+Halls Creek	2006	735
+Kununurra	2006	1300
+Roebuck	2006	1408
+East Pilbara	2006	1647
+Newman	2006	360
+Port Hedland	2006	1341
+South Hedland	2006	975
+Ashburton (WA)	2006	253
+Karratha	2006	1701
+Roebourne	2006	1117
+Esperance	2006	1025
+Esperance Region	2006	975
+Carnarvon	2006	867
+Exmouth	2006	1177
+Boulder	2006	1083
+Kalgoorlie	2006	1200
+Kalgoorlie - North	2006	1300
+Kalgoorlie Airport	2006	0
+Kambalda - Coolgardie - Norseman	2006	690
+Leinster - Leonora	2006	695
+Trafalgar (WA)	2006	0
+Geraldton	2006	887
+Geraldton - East	2006	893
+Geraldton - North	2006	1127
+Geraldton - South	2006	1192
+Irwin	2006	1083
+Meekatharra	2006	433
+Morawa	2006	524
+Northampton - Mullewa - Greenough	2006	978
+Migratory - Offshore - Shipping (WA)	2006	0
+No usual address (WA)	2006	0
+Bridgewater - Gagebrook	2006	650
+Brighton - Pontville	2006	1040
+Old Beach - Otago	2006	1110
+Bellerive - Rosny	2006	1010
+Cambridge	2006	1083
+Geilston Bay - Risdon	2006	1020
+Howrah - Tranmere	2006	1083
+Lindisfarne - Rose Bay	2006	1083
+Mornington - Warrane	2006	701
+Risdon Vale	2006	650
+Rokeby	2006	702
+South Arm	2006	997
+Austins Ferry - Granton	2006	1083
+Berriedale - Chigwell	2006	867
+Claremont (Tas.)	2006	867
+Derwent Park - Lutana	2006	780
+Glenorchy	2006	867
+Montrose - Rosetta	2006	975
+Moonah	2006	867
+New Norfolk	2006	800
+West Moonah	2006	927
+Kingston - Huntingfield	2006	1083
+Kingston Beach - Blackmans Bay	2006	1083
+Margate - Snug	2006	1036
+Mount Wellington	2006	0
+Taroona - Bonnet Hill	2006	1105
+Hobart	2006	1300
+Lenah Valley - Mount Stuart	2006	1083
+Mount Nelson - Dynnyrne	2006	1144
+New Town	2006	1144
+Sandy Bay	2006	1400
+South Hobart - Fern Tree	2006	1040
+West Hobart	2006	1133
+Dodges Ferry - Lewisham	2006	789
+Sorell - Richmond	2006	956
+Invermay	2006	867
+Kings Meadows - Punchbowl	2006	867
+Launceston	2006	1083
+Legana	2006	950
+Mowbray	2006	737
+Newnham - Mayfield	2006	799
+Newstead	2006	1004
+Norwood (Tas.)	2006	1000
+Prospect Vale - Blackstone	2006	1083
+Ravenswood	2006	607
+Riverside	2006	953
+South Launceston	2006	910
+Summerhill - Prospect	2006	904
+Trevallyn	2006	965
+Waverley - St Leonards	2006	737
+West Launceston	2006	962
+Youngtown - Relbia	2006	1003
+Beauty Point - Beaconsfield	2006	802
+Deloraine	2006	693
+Grindelwald - Lanena	2006	962
+Hadspen - Carrick	2006	964
+Westbury	2006	867
+Dilston - Lilydale	2006	950
+George Town	2006	758
+Longford	2006	802
+Northern Midlands	2006	620
+Perth - Evandale	2006	948
+St Helens - Scamander	2006	650
+Flinders and Cape Barren Islands	2006	774
+Scottsdale - Bridport	2006	758
+Central Highlands	2006	650
+Derwent Valley	2006	780
+Southern Midlands	2006	758
+Wilderness - East	2006	0
+Bruny Island - Kettering	2006	782
+Cygnet	2006	693
+Geeveston - Dover	2006	693
+Huonville - Franklin	2006	867
+Forestier - Tasman	2006	650
+Triabunna - Bicheno	2006	758
+Acton - Upper Burnie	2006	650
+Burnie - Ulverstone Region	2006	867
+Burnie - Wivenhoe	2006	650
+Parklands - Camdale	2006	867
+Penguin - Sulphur Creek	2006	789
+Romaine - Havenview	2006	867
+Somerset	2006	758
+Ulverstone	2006	758
+West Ulverstone	2006	836
+Wynyard	2006	769
+Devonport	2006	850
+East Devonport	2006	801
+Latrobe	2006	867
+Miandetta - Don	2006	953
+Port Sorell	2006	910
+Quoiba - Spreyton	2006	892
+Sheffield - Railton	2006	709
+Turners Beach - Forth	2006	900
+King Island	2006	609
+North West	2006	758
+Smithton	2006	749
+Waratah	2006	800
+West Coast (Tas.)	2006	500
+Wilderness - West	2006	0
+Migratory - Offshore - Shipping (Tas.)	2006	0
+No usual address (Tas.)	2006	0
+Darwin Airport	2006	0
+Darwin City	2006	1500
+East Point	2006	0
+Fannie Bay - The Gardens	2006	1580
+Larrakeyah	2006	1717
+Ludmilla - The Narrows	2006	1300
+Parap	2006	1408
+Stuart Park	2006	1482
+Woolner - Bayview - Winnellie	2006	2000
+Alawa	2006	1300
+Anula	2006	1300
+Berrimah	2006	2167
+Brinkin - Nakara	2006	1350
+Buffalo Creek	2006	0
+Charles Darwin	2006	0
+Coconut Grove	2006	1300
+East Arm	2006	0
+Jingili	2006	1394
+Karama	2006	1235
+Leanyer	2006	1387
+Lyons (NT)	2006	0
+Malak - Marrara	2006	1300
+Millner	2006	1105
+Moil	2006	1347
+Nightcliff	2006	1348
+Rapid Creek	2006	1300
+Tiwi	2006	1300
+Wagaman	2006	1300
+Wanguri	2006	1352
+Wulagi	2006	1354
+Howard Springs	2006	1404
+Humpty Doo	2006	1300
+Koolpinyah	2006	0
+Virginia	2006	1489
+Weddell	2006	1127
+Bakewell	2006	1300
+Driver	2006	1213
+Durack - Marlow Lagoon	2006	1733
+Gray	2006	1192
+Moulden	2006	1127
+Palmerston - North	2006	1517
+Palmerston - South	2006	0
+Rosebery - Bellamack	2006	1690
+Woodroffe	2006	1300
+Charles	2006	1300
+East Side	2006	1209
+Flynn (NT)	2006	1233
+Larapinta	2006	1300
+Mount Johns	2006	1300
+Petermann - Simpson	2006	1834
+Ross	2006	1509
+Sandover - Plenty	2006	0
+Tanami	2006	0
+Yuendumu - Anmatjere	2006	0
+Barkly	2006	0
+Tennant Creek	2006	650
+Alligator	2006	867
+Daly	2006	638
+Thamarrurr	2006	0
+Tiwi Islands	2006	0
+West Arnhem	2006	0
+Anindilyakwa	2006	0
+East Arnhem	2006	0
+Nhulunbuy	2006	1145
+Elsey	2006	823
+Gulf	2006	1083
+Katherine	2006	1083
+Victoria River	2006	0
+Migratory - Offshore - Shipping (NT)	2006	0
+No usual address (NT)	2006	0
+Aranda	2006	1706
+Belconnen	2006	1300
+Bruce	2006	1733
+Charnwood	2006	1244
+Cook	2006	1450
+Dunlop	2006	1700
+Evatt	2006	1400
+Florey	2006	1250
+Flynn (ACT)	2006	1452
+Fraser	2006	1500
+Giralang	2006	1300
+Gooromon	2006	0
+Hawker	2006	1636
+Higgins	2006	1300
+Holt	2006	1300
+Kaleen	2006	1300
+Latham	2006	1300
+Lawson	2006	0
+Macgregor (ACT)	2006	1408
+Macquarie	2006	1300
+McKellar	2006	1408
+Melba	2006	1338
+Page	2006	1300
+Scullin	2006	1200
+Spence	2006	1387
+Weetangera	2006	1603
+Molonglo Corridor	2006	0
+West Belconnen	2006	0
+Hume	2006	0
+Kowen	2006	0
+Canberra East	2006	909
+Canberra Airport	2006	0
+Majura	2006	2500
+Amaroo	2006	1733
+Bonner	2006	0
+Casey	2006	0
+Crace	2006	0
+Forde	2006	0
+Franklin	2006	0
+Gungahlin	2006	2000
+Hall	2006	1217
+Harrison	2006	2335
+Mitchell	2006	0
+Ngunnawal	2006	1408
+Nicholls	2006	1755
+Palmerston	2006	1442
+Gungahlin - East	2006	0
+Gungahlin - West	2006	0
+Jacka	2006	0
+Kenny	2006	0
+Moncrieff	2006	0
+Taylor	2006	0
+Throsby	2006	0
+Acton	2006	0
+Ainslie	2006	1733
+Braddon	2006	1733
+Civic	2006	1557
+Dickson	2006	1343
+Downer	2006	1500
+Hackett	2006	1517
+Lyneham	2006	1408
+O'Connor (ACT)	2006	1700
+Turner	2006	1767
+Watson	2006	1517
+Black Mountain	2006	0
+Campbell	2006	1900
+Duntroon	2006	0
+Parkes (ACT) - North	2006	0
+Reid	2006	1733
+Russell	2006	0
+Deakin	2006	2022
+Forrest	2006	2817
+Griffith (ACT)	2006	1842
+Lake Burley Griffin	2006	0
+Narrabundah	2006	1625
+Parkes (ACT) - South	2006	0
+Red Hill (ACT)	2006	2159
+Yarralumla	2006	2164
+Barton	2006	2069
+Fyshwick	2006	0
+Kingston (ACT)	2006	1840
+Banks	2006	1600
+Bonython	2006	1356
+Calwell	2006	1408
+Chisholm	2006	1300
+Conder	2006	1517
+Fadden	2006	1517
+Gilmore	2006	1300
+Gordon (ACT)	2006	1500
+Gowrie (ACT)	2006	1408
+Greenway	2006	1300
+Isabella Plains	2006	1300
+Kambah	2006	1343
+Macarthur	2006	1399
+Monash	2006	1304
+Mount Taylor	2006	0
+Oxley (ACT)	2006	1300
+Richardson	2006	1300
+Theodore	2006	1452
+Tuggeranong	2006	0
+Wanniassa	2006	1343
+Tuggeranong - West	2006	0
+Chapman	2006	1600
+Duffy	2006	1600
+Fisher	2006	1387
+Holder	2006	1482
+Rivett	2006	1347
+Stirling	2006	1430
+Waramanga	2006	1365
+Weston	2006	1400
+Scrivener	2006	0
+Chifley	2006	1461
+Curtin	2006	1517
+Farrer	2006	1517
+Garran	2006	1733
+Hughes	2006	1600
+Isaacs	2006	1600
+Lyons (ACT)	2006	1356
+Mawson	2006	1343
+O'Malley	2006	2000
+Pearce	2006	1544
+Phillip	2006	1363
+Torrens	2006	1517
+Arboretum	2006	0
+Coombs	2006	0
+Denman Prospect	2006	0
+Molonglo	2006	0
+Molonglo - North	2006	0
+Wright	2006	0
+ACT - South West	2006	1874
+Namadgi	2006	2334
+Migratory - Offshore - Shipping (ACT)	2006	0
+No usual address (ACT)	2006	0
+Christmas Island	2006	1083
+Cocos (Keeling) Islands	2006	568
+Jervis Bay	2006	0
+Norfolk Island	2006	0
+Migratory - Offshore - Shipping (OT)	2006	0
+No usual address (OT)	2006	0
+Braidwood	2011	1517
+Karabar	2011	1950
+Queanbeyan	2011	1755
+Queanbeyan - East	2011	1900
+Queanbeyan Region	2011	2200
+Queanbeyan West - Jerrabomberra	2011	2383
+Bombala	2011	999
+Cooma	2011	1242
+Cooma Region	2011	1380
+Jindabyne - Berridale	2011	1600
+Batemans Bay	2011	1517
+Batemans Bay - South	2011	1500
+Bega - Tathra	2011	1300
+Bega-Eden Hinterland	2011	1200
+Broulee - Tomakin	2011	1517
+Deua - Wadbilliga	2011	650
+Eden	2011	1398
+Eurobodalla Hinterland	2011	1300
+Merimbula - Tura Beach	2011	1500
+Moruya - Tuross Head	2011	1300
+Narooma - Bermagui	2011	1300
+Goulburn	2011	1500
+Goulburn Region	2011	1600
+Yass	2011	1764
+Yass Region	2011	2100
+Young	2011	1300
+Young Region	2011	953
+Avoca Beach - Copacabana	2011	2167
+Box Head - MacMasters Beach	2011	2000
+Calga - Kulnura	2011	1950
+Erina - Green Point	2011	2000
+Gosford - Springfield	2011	1733
+Kariong	2011	1998
+Kincumber - Picketts Valley	2011	1950
+Narara	2011	1754
+Niagara Park - Lisarow	2011	1842
+Point Clare - Koolewong	2011	2000
+Saratoga - Davistown	2011	2000
+Terrigal - North Avoca	2011	2167
+Umina - Booker Bay - Patonga	2011	1800
+Wamberal - Forresters Beach	2011	2167
+Woy Woy - Blackwall	2011	1800
+Wyoming	2011	1777
+Bateau Bay - Killarney Vale	2011	1781
+Blue Haven - San Remo	2011	1651
+Budgewoi - Buff Point - Halekulani	2011	1698
+Chittaway Bay - Tumbi Umbi	2011	1820
+Gorokan - Kanwal - Charmhaven	2011	1560
+Jilliby - Yarramalong	2011	2286
+Lake Munmorah - Mannering Park	2011	1625
+Ourimbah - Fountaindale	2011	1900
+Summerland Point - Gwandalan	2011	1700
+The Entrance	2011	1800
+Toukley - Norah Head	2011	1733
+Tuggerah - Kangy Angy	2011	1850
+Warnervale - Wadalba	2011	2167
+Wyong	2011	1680
+Bathurst	2011	1551
+Bathurst - East	2011	1777
+Bathurst Region	2011	1600
+Oberon	2011	1481
+Condobolin	2011	867
+Cowra	2011	1127
+Cowra Region	2011	1083
+Forbes	2011	1127
+Grenfell	2011	900
+Parkes (NSW)	2011	1387
+Parkes Region	2011	867
+West Wyalong	2011	1000
+Lithgow	2011	1352
+Lithgow Region	2011	1517
+Mudgee	2011	1733
+Mudgee Region - East	2011	1083
+Mudgee Region - West	2011	1380
+Wollangambe - Wollemi	2011	0
+Blayney	2011	1434
+Orange	2011	1473
+Orange - North	2011	1800
+Orange Region	2011	1538
+Grafton	2011	1300
+Grafton Region	2011	1213
+Maclean - Yamba - Iluka	2011	1467
+Bellingen	2011	1350
+Coffs Harbour - North	2011	1600
+Coffs Harbour - South	2011	1616
+Coramba - Nana Glen - Bucca	2011	1517
+Dorrigo	2011	1083
+Korora - Emerald Beach	2011	1733
+Sawtell - Boambee	2011	1581
+Urunga	2011	1408
+Woolgoolga - Arrawarra	2011	1500
+Bourke - Brewarrina	2011	867
+Cobar	2011	1300
+Coonamble	2011	810
+Nyngan - Warren	2011	979
+Walgett - Lightning Ridge	2011	806
+Broken Hill	2011	969
+Far West	2011	455
+Coonabarabran	2011	910
+Dubbo - East	2011	1517
+Dubbo - South	2011	1517
+Dubbo - West	2011	1300
+Dubbo Region	2011	1555
+Gilgandra	2011	975
+Narromine	2011	1083
+Wellington	2011	1100
+Branxton - Greta - Pokolbin	2011	1800
+Cessnock	2011	1517
+Cessnock Region	2011	1625
+Dungog	2011	1582
+Kurri Kurri - Abermain	2011	1495
+Singleton	2011	2000
+Singleton Region	2011	2000
+Maitland	2011	1600
+Maitland - East	2011	1733
+Maitland - North	2011	2000
+Maitland - West	2011	1733
+Thornton - Millers Forest	2011	1768
+Anna Bay	2011	1810
+Lemon Tree Passage - Tanilba Bay	2011	1517
+Nelson Bay Peninsula	2011	1733
+Raymond Terrace	2011	1517
+Seaham - Woodville	2011	1842
+Tea Gardens - Hawks Nest	2011	1613
+Williamtown - Medowie - Karuah	2011	1749
+Muswellbrook	2011	1733
+Muswellbrook Region	2011	1822
+Scone	2011	1800
+Scone Region	2011	1400
+Dapto - Avondale	2011	1733
+Horsley - Kembla Grange	2011	2000
+Port Kembla Industrial	2011	0
+Unanderra - Mount Kembla	2011	1850
+Berkeley - Lake Heights - Cringila	2011	1621
+Port Kembla - Warrawong	2011	1647
+Windang - Primbee	2011	1837
+Illawarra Catchment Reserve	2011	0
+Albion Park - Macquarie Pass	2011	1993
+Albion Park Rail	2011	1733
+Kiama	2011	2073
+Kiama Downs - Minnamurra	2011	1950
+Kiama Hinterland - Gerringong	2011	1950
+Shellharbour - Flinders	2011	2167
+Shellharbour - Oak Flats	2011	1796
+Warilla	2011	1700
+Balgownie - Fairy Meadow	2011	2000
+Corrimal - Tarrawanna - Bellambi	2011	1950
+Figtree - Keiraville	2011	2000
+Helensburgh	2011	2400
+Thirroul - Austinmer - Coalcliff	2011	2167
+Woonona - Bulli - Russell Vale	2011	2167
+Wollongong - East	2011	1907
+Wollongong - West	2011	1800
+Bulahdelah - Stroud	2011	1300
+Forster	2011	1517
+Forster-Tuncurry Region	2011	1300
+Tuncurry	2011	1363
+Kempsey	2011	1300
+Kempsey Region	2011	1200
+Macksville - Scotts Head	2011	1200
+Nambucca Heads	2011	1387
+Nambucca Heads Region	2011	1192
+South West Rocks	2011	1517
+Lord Howe Island	2011	1354
+Laurieton - Bonny Hills	2011	1517
+Port Macquarie - East	2011	1733
+Port Macquarie - West	2011	1717
+Port Macquarie Region	2011	1415
+Wauchope	2011	1571
+Gloucester	2011	1500
+Old Bar - Manning Point - Red Head	2011	1517
+Taree	2011	1300
+Taree Region	2011	1300
+Wingham	2011	1300
+Albury - East	2011	1600
+Albury - North	2011	1300
+Albury - South	2011	1517
+Albury Region	2011	1300
+Lavington	2011	1300
+Hay	2011	997
+Wentworth - Buronga	2011	1200
+Wentworth-Balranald Region	2011	893
+Corowa	2011	1300
+Corowa Region	2011	1300
+Deniliquin	2011	1083
+Deniliquin Region	2011	867
+Moama	2011	1517
+Tocumwal - Finley - Jerilderie	2011	1083
+Armidale	2011	1450
+Armidale Region - North	2011	1115
+Armidale Region - South	2011	1300
+Walcha	2011	1062
+Glen Innes	2011	1083
+Inverell	2011	1251
+Inverell Region - East	2011	916
+Inverell Region - West	2011	945
+Tenterfield	2011	1083
+Moree	2011	1300
+Moree Region	2011	1000
+Narrabri	2011	1387
+Narrabri Region	2011	1083
+Gunnedah	2011	1300
+Gunnedah Region	2011	1083
+Quirindi	2011	1127
+Tamworth - East	2011	1430
+Tamworth - North	2011	1495
+Tamworth - West	2011	1400
+Tamworth Region	2011	1353
+Belmont - Bennetts Green	2011	1907
+Belmont South - Blacksmiths	2011	1733
+Charlestown - Dudley	2011	1800
+Glendale - Cardiff - Hillsborough	2011	1735
+Mount Hutton - Windale	2011	1733
+Redhead	2011	2000
+Swansea - Caves Beach	2011	1733
+Valentine - Eleebana	2011	1950
+Warners Bay - Boolaroo	2011	1733
+Bolton Point - Teralba	2011	1603
+Bonnells Bay - Silverwater	2011	1686
+Edgeworth - Cameron Park	2011	1820
+Morisset - Cooranbong	2011	1733
+Toronto - Awaba	2011	1689
+Wangi Wangi - Rathmines	2011	1800
+West Wallsend - Barnsley - Killingworth	2011	1603
+Adamstown - Kotara	2011	1950
+Beresfield - Hexham	2011	1430
+Hamilton - Broadmeadow	2011	1950
+Lambton - New Lambton	2011	1800
+Maryland - Fletcher - Minmi	2011	1912
+Mayfield - Warabrook	2011	1733
+Merewether - The Junction	2011	2167
+Newcastle - Cooks Hill	2011	2148
+Newcastle Port - Kooragang	2011	0
+Shortland - Jesmond	2011	1517
+Stockton - Fullerton Cove	2011	1907
+Wallsend - Elermore Vale	2011	1704
+Waratah - North Lambton	2011	1733
+Wickham - Carrington - Tighes Hill	2011	1751
+Ballina	2011	1647
+Ballina Region	2011	1649
+Bangalow	2011	1647
+Brunswick Heads - Ocean Shores	2011	1636
+Byron Bay	2011	1800
+Evans Head	2011	1400
+Lennox Head - Skennars Head	2011	1950
+Mullumbimby	2011	1517
+Casino	2011	1300
+Casino Region	2011	1180
+Goonellabah	2011	1517
+Kyogle	2011	1152
+Lismore	2011	1400
+Lismore Region	2011	1489
+Kingscliff - Fingal Head	2011	2052
+Murwillumbah	2011	1689
+Murwillumbah Region	2011	1517
+Pottsville	2011	1908
+Tweed Heads	2011	1733
+Banora Point	2011	1850
+Terranora - North Tumblegum	2011	2108
+Tweed Heads South	2011	1733
+Griffith (NSW)	2011	1563
+Griffith Region	2011	1213
+Leeton	2011	1300
+Narrandera	2011	1000
+Tumbarumba	2011	1170
+Tumut	2011	1430
+Tumut Region	2011	1300
+Cootamundra	2011	1083
+Gundagai	2011	1200
+Junee	2011	1161
+Temora	2011	1083
+Wagga Wagga - East	2011	1600
+Wagga Wagga - North	2011	1647
+Wagga Wagga - South	2011	1603
+Wagga Wagga - West	2011	1436
+Wagga Wagga Region	2011	1300
+Berry - Kangaroo Valley	2011	1733
+Callala Bay - Currarong	2011	1555
+Culburra Beach	2011	1517
+Ettrema - Sassafras - Budawang	2011	0
+Huskisson - Vincentia	2011	1602
+North Nowra - Bomaderry	2011	1517
+Nowra	2011	1560
+St Georges Basin - Erowal Bay	2011	1343
+Sussex Inlet - Berrara	2011	1300
+Tomerong - Wandandian - Woollamia	2011	1600
+Ulladulla	2011	1408
+Ulladulla Region	2011	1300
+Bowral	2011	2000
+Hill Top - Colo Vale	2011	1785
+Mittagong	2011	1800
+Moss Vale - Berrima	2011	1733
+Robertson - Fitzroy Falls	2011	2000
+Southern Highlands	2011	1800
+Baulkham Hills (East)	2011	2400
+Baulkham Hills (West) - Bella Vista	2011	2500
+Glenhaven	2011	2682
+West Pennant Hills	2011	2800
+Castle Hill - Central	2011	2500
+Castle Hill - East	2011	2500
+Castle Hill - North	2011	2600
+Castle Hill - South	2011	2500
+Castle Hill - West	2011	3000
+Cherrybrook	2011	2500
+Kellyville	2011	2600
+Dural - Kenthurst - Wisemans Ferry	2011	2600
+Galston - Laughtondale	2011	2500
+Bilpin - Colo - St Albans	2011	1997
+Kurrajong Heights - Ebenezer	2011	2167
+Pitt Town - McGraths Hill	2011	2238
+Rouse Hill - Beaumont Hills	2011	2753
+Blacktown (East) - Kings Park	2011	1857
+Blacktown (North) - Marayong	2011	2000
+Doonside - Woodcroft	2011	2100
+Lalor Park - Kings Langley	2011	2058
+Seven Hills - Toongabbie	2011	2052
+Blacktown (South)	2011	1950
+Blacktown (West)	2011	2000
+Glenwood	2011	2500
+Parklea - Kellyville Ridge	2011	2860
+Riverstone - Marsden Park	2011	2080
+Acacia Gardens	2011	2500
+Quakers Hill	2011	2167
+Bidwill - Hebersham - Emerton	2011	1550
+Glendenning - Dean Park	2011	2000
+Hassall Grove - Plumpton	2011	2050
+Lethbridge Park - Tregear	2011	1733
+Mount Druitt - Whalan	2011	1625
+Prospect Reservoir	2011	0
+Rooty Hill - Minchinbury	2011	2100
+Banksmeadow	2011	0
+Botany	2011	2600
+Mascot - Eastlakes	2011	2400
+Pagewood - Hillsdale - Daceyville	2011	2253
+Port Botany Industrial	2011	0
+Sydney Airport	2011	0
+Marrickville	2011	2330
+Petersham - Stanmore	2011	2600
+Sydenham - Tempe - St Peters	2011	2600
+Darlinghurst	2011	2600
+Erskineville - Alexandria	2011	2600
+Glebe - Forest Lodge	2011	2688
+Newtown - Camperdown - Darlington	2011	2600
+Potts Point - Woolloomooloo	2011	2291
+Pyrmont - Ultimo	2011	2600
+Redfern - Chippendale	2011	2427
+Surry Hills	2011	2500
+Sydney - Haymarket - The Rocks	2011	2600
+Waterloo - Beaconsfield	2011	2500
+Bondi - Tamarama - Bronte	2011	3000
+Bondi Beach - North Bondi	2011	3000
+Bondi Junction - Waverly	2011	3000
+Centennial Park	2011	0
+Double Bay - Bellevue Hill	2011	3033
+Dover Heights	2011	3000
+Paddington - Moore Park	2011	3000
+Rose Bay - Vaucluse - Watsons Bay	2011	3300
+Woollahra	2011	3000
+Coogee - Clovelly	2011	2800
+Malabar - La Perouse - Chifley	2011	2600
+Kensington (NSW)	2011	2500
+Kingsford	2011	2500
+Maroubra - North	2011	2704
+Maroubra - South	2011	2600
+Maroubra - West	2011	2500
+Randwick - North	2011	2600
+Randwick - South	2011	2700
+Bass Hill - Georges Hall	2011	2100
+Chullora	2011	0
+Condell Park	2011	2167
+Greenacre - Mount Lewis	2011	2100
+Padstow	2011	2167
+Panania - Milperra - Picnic Point	2011	2250
+Revesby	2011	2174
+Yagoona - Birrong	2011	2000
+Bankstown - North	2011	1700
+Bankstown - South	2011	1733
+Belmore - Belfield	2011	2069
+Canterbury (South) - Campsie	2011	1863
+Kingsgrove (North) - Earlwood	2011	2500
+Punchbowl	2011	1950
+Roselands	2011	2167
+Lakemba	2011	1469
+Wiley Park	2011	1600
+Hurstville	2011	2000
+Mortdale - Penshurst	2011	2080
+Narwee - Beverly Hills	2011	2070
+Oatley - Hurstville Grove	2011	2400
+Peakhurst - Lugarno	2011	2383
+Riverwood	2011	2000
+South Hurstville - Blakehurst	2011	2167
+Arncliffe - Bardwell Valley	2011	2315
+Bexley	2011	2167
+Kingsgrove (South) - Bardwell Park	2011	2407
+Kogarah	2011	2080
+Kogarah Bay - Carlton - Allawah	2011	2167
+Monterey - Brighton-le-Sands - Kyeemagh	2011	2248
+Rockdale - Banksia	2011	2167
+Sans Souci - Ramsgate	2011	2383
+Concord - Mortlake - Cabarita	2011	2664
+Concord West - North Strathfield	2011	2500
+Drummoyne - Rodd Point	2011	2956
+Five Dock - Abbotsford	2011	2800
+Balmain	2011	3136
+Leichhardt - Annandale	2011	2990
+Lilyfield - Rozelle	2011	3032
+Ashfield	2011	2080
+Burwood - Croydon	2011	2167
+Canterbury (North) - Ashbury	2011	2167
+Croydon Park - Enfield	2011	2167
+Dulwich Hill - Lewisham	2011	2275
+Haberfield - Summer Hill	2011	2383
+Homebush	2011	2055
+Strathfield	2011	2500
+Strathfield South	2011	2300
+Chatswood (East) - Artarmon	2011	2600
+Chatswood (West) - Lane Cove North	2011	2600
+Lane Cove - Greenwich	2011	3000
+St Leonards - Naremburn	2011	2718
+Willoughby - Castle Cove - Northbridge	2011	3250
+Asquith - Mount Colah	2011	2383
+Berowra - Brooklyn - Cowan	2011	2383
+Normanhurst - Thornleigh - Westleigh	2011	2600
+Hornsby - East	2011	2100
+Hornsby - West	2011	2236
+Waitara - Wahroonga (West)	2011	2300
+Gordon - Killara	2011	3000
+Lindfield - Roseville	2011	3033
+Pymble	2011	3000
+St Ives	2011	3050
+Turramurra	2011	3000
+Wahroonga (East) - Warrawee	2011	3100
+Cremorne - Cammeray	2011	3000
+Crows Nest - Waverton	2011	2600
+Mosman	2011	3200
+Neutral Bay - Kirribilli	2011	2700
+North Sydney - Lavender Bay	2011	2876
+Balgowlah - Clontarf - Seaforth	2011	3200
+Manly - Fairlight	2011	3000
+Avalon - Palm Beach	2011	3000
+Bayview - Elanora Heights	2011	3000
+Newport - Bilgola	2011	3000
+Warriewood - Mona Vale	2011	2870
+Beacon Hill - Narraweena	2011	2817
+Cromer	2011	2600
+Dee Why - North Curl Curl	2011	2400
+Forestville - Killarney Heights	2011	2817
+Frenchs Forest - Belrose	2011	3000
+Freshwater - Brookvale	2011	2703
+Manly Vale - Allambie Heights	2011	2600
+Narrabeen - Collaroy	2011	2600
+Terrey Hills - Duffys Forest	2011	2817
+Camden - Ellis Lane	2011	2167
+Elderslie - Harrington Park	2011	2341
+Mount Annan - Currans Hill	2011	2167
+Bradbury - Wedderburn	2011	1798
+Campbelltown - Woodbine	2011	1900
+Claymore - Eagle Vale - Raby	2011	1842
+Holsworthy Military Area	2011	0
+Ingleburn - Denham Court	2011	1829
+Leumeah - Minto Heights	2011	1820
+Macquarie Fields - Glenfield	2011	1744
+Minto - St Andrews	2011	1800
+Rosemeadow - Glen Alpine	2011	1800
+Bargo	2011	2000
+Douglas Park - Appin	2011	2167
+Picton - Tahmoor - Buxton	2011	2000
+The Oaks - Oakdale	2011	2167
+Blackheath - Megalong Valley	2011	1517
+Blaxland - Warrimoo - Lapstone	2011	2050
+Blue Mountains - North	2011	1842
+Katoomba - Leura	2011	1603
+Lawson - Hazelbrook - Linden	2011	1733
+Springwood - Winmalee	2011	1982
+Wentworth Falls	2011	1863
+Blue Mountains - South	2011	0
+Cambridge Park	2011	1894
+Castlereagh - Cranebrook	2011	2000
+Emu Plains - Leonay	2011	2131
+Glenmore Park - Regentville	2011	2200
+Jamisontown - South Penrith	2011	1972
+Kingswood - Werrington	2011	1780
+Mulgoa - Luddenham - Orchard Hills	2011	2275
+Penrith	2011	1726
+Warragamba - Silverdale	2011	2000
+Richmond - Clarendon	2011	1950
+Windsor - Bligh Park	2011	1974
+Yarramundi - Londonderry	2011	2167
+Erskine Park	2011	2000
+St Clair	2011	2000
+Colyton - Oxley Park	2011	1834
+St Marys - North St Marys	2011	1733
+Homebush Bay - Silverwater	2011	2500
+Rookwood Cemetery	2011	0
+Auburn - Central	2011	1820
+Auburn - North	2011	1523
+Auburn - South	2011	2000
+Berala	2011	1733
+Lidcombe	2011	2058
+Regents Park	2011	1950
+Carlingford	2011	2209
+Ermington - Rydalmere	2011	2368
+Oatlands - Dundas Valley	2011	2300
+Chester Hill - Sefton	2011	1950
+Fairfield - East	2011	1733
+Granville - Clyde	2011	1922
+Greystanes - Pemulwuy	2011	2383
+Guildford - South Granville	2011	1995
+Guildford West - Merrylands West	2011	1960
+Merrylands - Holroyd	2011	2000
+Smithfield Industrial	2011	0
+Yennora Industrial	2011	0
+North Parramatta	2011	1950
+North Rocks	2011	2470
+Northmead	2011	2167
+Parramatta - Rosehill	2011	1770
+Toongabbie - Constitution Hill	2011	2100
+Winston Hills	2011	2356
+Pendle Hill - Girraween	2011	2100
+Wentworthville - Westmead	2011	2000
+Epping - North Epping	2011	2398
+Pennant Hills - Cheltenham	2011	2600
+Eastwood - Denistone	2011	2300
+Gladesville - Huntleys Point	2011	2500
+Hunters Hill - Woolwich	2011	3414
+Macquarie Park - Marsfield	2011	2200
+North Ryde - East Ryde	2011	2600
+West Ryde - Meadowbank	2011	2167
+Putney	2011	3000
+Ryde	2011	2300
+Ashcroft - Busby - Miller	2011	1650
+Austral - Greendale	2011	2167
+Cobbitty - Leppington	2011	2167
+Badgerys Creek	2011	0
+Cecil Hills	2011	2167
+Green Valley	2011	2000
+Hinchinbrook	2011	2080
+Hoxton Park - Carnes Hill - Horningsea Park	2011	2340
+West Hoxton - Middleton Grange	2011	2500
+Bonnyrigg Heights - Bonnyrigg	2011	1950
+Bossley Park - Abbotsbury	2011	2049
+Cabramatta - Lansvale	2011	1300
+Cabramatta West - Mount Pritchard	2011	1800
+Canley Vale - Canley Heights	2011	1637
+Edensor Park	2011	2000
+Fairfield	2011	1647
+Fairfield - West	2011	1950
+Greenfield Park - Prairiewood	2011	2000
+Horsley Park - Kemps Creek	2011	2625
+Smithfield - Wetherill Park	2011	1950
+St Johns Park - Wakeley	2011	2000
+Wetherill Park Industrial	2011	0
+Casula	2011	2167
+Chipping Norton - Moorebank	2011	2167
+Holsworthy - Wattle Grove	2011	2242
+Liverpool	2011	1600
+Lurnea - Cartwright	2011	1750
+Prestons - Edmondson Park	2011	2407
+Warwick Farm	2011	1404
+Gymea - Grays Point	2011	2500
+Miranda - Yowie Bay	2011	2300
+Sylvania - Taren Point	2011	2500
+Caringbah	2011	2275
+Caringbah South	2011	2700
+Cronulla - Kurnell - Bundeena	2011	2238
+Lilli Pilli - Port Hacking - Dolans Bay	2011	3250
+Woolaware - Burraneer	2011	2800
+Heathcote - Waterfall	2011	2221
+Illawong - Alfords Point	2011	2383
+Menai - Lucas Heights - Woronora	2011	2383
+Oyster Bay - Como - Jannali	2011	2600
+Royal National Park	2011	0
+Sutherland - Kirrawee	2011	2200
+Engadine	2011	2400
+Loftus - Yarrawarrah	2011	2383
+Woronora Heights	2011	2383
+Migratory - Offshore - Shipping (NSW)	2011	0
+No usual address (NSW)	2011	0
+Alfredton	2011	1565
+Ballarat	2011	1430
+Ballarat - North	2011	1300
+Ballarat - South	2011	1278
+Buninyong	2011	1517
+Delacombe	2011	1430
+Smythes Creek	2011	1558
+Wendouree - Miners Rest	2011	1300
+Bacchus Marsh Region	2011	1517
+Creswick - Clunes	2011	1144
+Daylesford	2011	1300
+Gordon (Vic.)	2011	1322
+Avoca	2011	867
+Beaufort	2011	1083
+Golden Plains - North	2011	1230
+Maryborough (Vic.)	2011	888
+Maryborough Region	2011	867
+Bendigo	2011	1153
+California Gully - Eaglehawk	2011	1170
+East Bendigo - Kennington	2011	1365
+Flora Hill - Spring Gully	2011	1300
+Kangaroo Flat - Golden Square	2011	1300
+Maiden Gully	2011	1603
+Strathfieldsaye	2011	1625
+White Hills - Ascot	2011	1500
+Bendigo Region - South	2011	1517
+Castlemaine	2011	1243
+Castlemaine Region	2011	1179
+Heathcote	2011	1170
+Kyneton	2011	1482
+Woodend	2011	1703
+Bendigo Region - North	2011	1192
+Loddon	2011	758
+Bannockburn	2011	1762
+Golden Plains - South	2011	1400
+Winchelsea	2011	1517
+Belmont	2011	1500
+Corio - Norlane	2011	1192
+Geelong	2011	1500
+Geelong West - Hamlyn Heights	2011	1517
+Grovedale	2011	1603
+Highton	2011	1733
+Lara	2011	1665
+Leopold	2011	1560
+Newcomb - Moolap	2011	1332
+Newtown (Vic.)	2011	1800
+North Geelong - Bell Park	2011	1473
+Clifton Springs	2011	1500
+Lorne - Anglesea	2011	1600
+Ocean Grove - Barwon Heads	2011	1733
+Portarlington	2011	1504
+Point Lonsdale - Queenscliff	2011	1478
+Torquay	2011	2000
+Alexandra	2011	1294
+Euroa	2011	1083
+Kilmore - Broadford	2011	1538
+Mansfield (Vic.)	2011	1300
+Nagambie	2011	1237
+Seymour	2011	1170
+Seymour Region	2011	1500
+Upper Yarra Valley	2011	1000
+Yea	2011	1337
+Benalla	2011	1213
+Benalla Region	2011	1100
+Rutherglen	2011	1300
+Wangaratta	2011	1300
+Wangaratta Region	2011	1300
+Beechworth	2011	1419
+Bright - Mount Beauty	2011	1300
+Chiltern - Indigo Valley	2011	1300
+Myrtleford	2011	1300
+Towong	2011	1083
+West Wodonga	2011	1500
+Wodonga	2011	1473
+Yackandandah	2011	1517
+Drouin	2011	1508
+Mount Baw Baw Region	2011	1300
+Trafalgar (Vic.)	2011	1300
+Warragul	2011	1408
+Alps - East	2011	0
+Bairnsdale	2011	1300
+Bruthen - Omeo	2011	1200
+Lake King	2011	0
+Lakes Entrance	2011	1300
+Orbost	2011	1012
+Paynesville	2011	1300
+Foster	2011	1144
+French Island	2011	1564
+Korumburra	2011	1315
+Leongatha	2011	1300
+Phillip Island	2011	1402
+Wilsons Promontory	2011	0
+Wonthaggi - Inverloch	2011	1300
+Churchill	2011	1192
+Moe - Newborough	2011	1083
+Morwell	2011	975
+Traralgon	2011	1365
+Yallourn North - Glengarry	2011	1200
+Alps - West	2011	0
+Longford - Loch Sport	2011	1083
+Maffra	2011	1200
+Rosedale	2011	1300
+Sale	2011	1300
+Yarram	2011	1083
+Brunswick	2011	2093
+Brunswick East	2011	2100
+Brunswick West	2011	1990
+Coburg	2011	1993
+Pascoe Vale South	2011	1950
+Alphington - Fairfield	2011	2000
+Northcote	2011	2000
+Thornbury	2011	1950
+Ascot Vale	2011	2167
+Essendon - Aberfeldie	2011	2164
+Flemington	2011	2000
+Moonee Ponds	2011	2167
+Carlton	2011	1842
+Docklands	2011	2600
+East Melbourne	2011	2383
+Flemington Racecourse	2011	2100
+Kensington (Vic.)	2011	2167
+Melbourne	2011	1980
+North Melbourne	2011	2167
+Parkville	2011	2167
+South Yarra - West	2011	2167
+Southbank	2011	2300
+West Melbourne	2011	0
+Albert Park	2011	2600
+Elwood	2011	2167
+Port Melbourne	2011	2550
+Port Melbourne Industrial	2011	0
+South Melbourne	2011	2500
+St Kilda	2011	2080
+St Kilda East	2011	2000
+Armadale	2011	2500
+Prahran - Windsor	2011	2259
+South Yarra - East	2011	2201
+Toorak	2011	2700
+Abbotsford	2011	2300
+Carlton North - Princes Hill	2011	2312
+Collingwood	2011	2200
+Fitzroy	2011	2200
+Fitzroy North	2011	2167
+Richmond (Vic.)	2011	2359
+Yarra - North	2011	2200
+Ashburton (Vic.)	2011	2200
+Balwyn	2011	2400
+Balwyn North	2011	2200
+Camberwell	2011	2500
+Glen Iris - East	2011	2500
+Hawthorn	2011	2275
+Hawthorn East	2011	2383
+Kew	2011	2500
+Kew East	2011	2383
+Surrey Hills (West) - Canterbury	2011	2500
+Bulleen	2011	2061
+Doncaster	2011	2000
+Templestowe	2011	2167
+Templestowe Lower	2011	2080
+Doncaster East (North)	2011	2000
+Doncaster East (South)	2011	1993
+Blackburn	2011	1950
+Blackburn South	2011	1950
+Box Hill	2011	2000
+Box Hill North	2011	2000
+Burwood	2011	1950
+Burwood East	2011	1800
+Surrey Hills (East) - Mont Albert	2011	2230
+Beaumaris	2011	2382
+Brighton (Vic.)	2011	3000
+Brighton East	2011	2500
+Cheltenham - Highett (West)	2011	2167
+Hampton	2011	2400
+Sandringham - Black Rock	2011	2500
+Bentleigh - McKinnon	2011	2150
+Carnegie	2011	2000
+Caulfield - North	2011	2200
+Caulfield - South	2011	2300
+Elsternwick	2011	2167
+Hughesdale	2011	2000
+Murrumbeena	2011	2000
+Ormond - Glen Huntly	2011	2000
+Bentleigh East (North)	2011	2035
+Bentleigh East (South)	2011	2100
+Aspendale Gardens - Waterways	2011	2100
+Braeside	2011	0
+Carrum - Patterson Lakes	2011	1950
+Chelsea - Bonbeach	2011	1842
+Chelsea Heights	2011	1772
+Cheltenham - Highett (East)	2011	1950
+Edithvale - Aspendale	2011	1900
+Mentone	2011	2000
+Moorabbin - Heatherton	2011	2100
+Moorabbin Airport	2011	0
+Mordialloc - Parkdale	2011	2000
+Malvern - Glen Iris	2011	2500
+Malvern East	2011	2400
+Bundoora - East	2011	1800
+Greensborough	2011	1800
+Heidelberg - Rosanna	2011	2000
+Heidelberg West	2011	1770
+Ivanhoe	2011	2167
+Ivanhoe East - Eaglemont	2011	2300
+Montmorency - Briar Hill	2011	1863
+Viewbank - Yallambie	2011	1900
+Watsonia	2011	1733
+Kingsbury	2011	2000
+Reservoir - East	2011	1700
+Reservoir - West	2011	1733
+Preston - East	2011	1949
+Preston - West	2011	1800
+Eltham	2011	1950
+Hurstbridge	2011	1733
+Kinglake	2011	1640
+Panton Hill - St Andrews	2011	2000
+Plenty - Yarrambat	2011	2000
+Research - North Warrandyte	2011	2000
+Wattle Glen - Diamond Creek	2011	1950
+Bundoora - North	2011	2000
+Bundoora - West	2011	1700
+Lalor	2011	1600
+Mill Park - North	2011	1600
+Mill Park - South	2011	1560
+Thomastown	2011	1517
+Wallan	2011	1733
+Whittlesea	2011	1800
+Doreen	2011	2167
+Epping - East	2011	1733
+Epping - South	2011	1517
+Epping - West	2011	2145
+Mernda	2011	2167
+South Morang (North)	2011	2167
+South Morang (South)	2011	1913
+Wollert	2011	2383
+Airport West	2011	1800
+Essendon Airport	2011	0
+Keilor	2011	1800
+Keilor East	2011	1800
+Niddrie - Essendon West	2011	2000
+Strathmore	2011	2100
+Gisborne	2011	1900
+Macedon	2011	1950
+Riddells Creek	2011	1733
+Romsey	2011	1600
+Coburg North	2011	1863
+Fawkner	2011	1647
+Pascoe Vale	2011	1950
+Glenroy	2011	1733
+Gowanbrae	2011	2000
+Hadfield	2011	1733
+Sunbury	2011	1700
+Sunbury - South	2011	1600
+Broadmeadows	2011	1300
+Campbellfield - Coolaroo	2011	1360
+Gladstone Park - Westmeadows	2011	1668
+Greenvale - Bulla	2011	2000
+Meadow Heights	2011	1400
+Melbourne Airport	2011	0
+Roxburgh Park - Somerton	2011	1733
+Tullamarine	2011	1635
+Craigieburn - Central	2011	1560
+Craigieburn - North	2011	2037
+Craigieburn - South	2011	1733
+Craigieburn - West	2011	2110
+Mickleham - Yuroke	2011	2167
+Bayswater	2011	1650
+Knoxfield - Scoresby	2011	1733
+Lysterfield	2011	2000
+Rowville - Central	2011	1733
+Rowville - North	2011	1957
+Rowville - South	2011	1900
+Wantirna	2011	1800
+Wantirna South	2011	1733
+Boronia	2011	1625
+Ferntree Gully (North)	2011	1647
+Ferntree Gully (South) - Upper Ferntree Gully	2011	1707
+The Basin	2011	1642
+Donvale - Park Orchards	2011	2166
+Warrandyte - Wonga Park	2011	2037
+Bayswater North	2011	1702
+Croydon Hills - Warranwood	2011	1800
+Ringwood	2011	1733
+Ringwood East	2011	1778
+Ringwood North	2011	1807
+Croydon - East	2011	1681
+Croydon - West	2011	1733
+Croydon South	2011	1733
+Forest Hill	2011	1800
+Mitcham (Vic.)	2011	1891
+Nunawading	2011	1990
+Vermont	2011	1900
+Vermont South	2011	1900
+Belgrave - Selby	2011	1660
+Chirnside Park	2011	1733
+Healesville - Yarra Glen	2011	1600
+Kilsyth	2011	1603
+Lilydale - Coldstream	2011	1733
+Monbulk - Silvan	2011	1600
+Montrose	2011	1728
+Mooroolbark	2011	1733
+Mount Dandenong - Olinda	2011	1800
+Mount Evelyn	2011	1690
+Upwey - Tecoma	2011	1700
+Wandin - Seville	2011	1600
+Yarra Valley	2011	1365
+Beaconsfield - Officer	2011	2000
+Bunyip - Garfield	2011	1664
+Emerald - Cockatoo	2011	1647
+Koo Wee Rup	2011	1600
+Pakenham - North	2011	1717
+Pakenham - South	2011	1820
+Berwick - North	2011	1733
+Berwick - South	2011	2000
+Doveton	2011	1300
+Hallam	2011	1600
+Narre Warren North	2011	2167
+Endeavour Hills - North	2011	1647
+Endeavour Hills - South	2011	1700
+Narre Warren - North East	2011	1600
+Narre Warren - South West	2011	1548
+Cranbourne	2011	1560
+Cranbourne East	2011	1980
+Cranbourne North	2011	1800
+Cranbourne South	2011	2167
+Cranbourne West	2011	1614
+Hampton Park - Lynbrook	2011	1517
+Lynbrook - Lyndhurst	2011	2167
+Pearcedale - Tooradin	2011	1647
+Narre Warren South (East)	2011	1950
+Narre Warren South (West)	2011	1800
+Clarinda - Oakleigh South	2011	1733
+Clayton South	2011	1733
+Dandenong	2011	1500
+Dandenong North	2011	1517
+Dingley Village	2011	1857
+Keysborough	2011	1800
+Noble Park North	2011	1517
+Springvale	2011	1500
+Springvale South	2011	1517
+Noble Park - East	2011	1500
+Noble Park - West	2011	1500
+Ashwood - Chadstone	2011	2133
+Clayton	2011	1800
+Glen Waverley - East	2011	2000
+Glen Waverley - West	2011	2000
+Mount Waverley - North	2011	2000
+Mount Waverley - South	2011	2000
+Mulgrave	2011	1950
+Oakleigh - Huntingdale	2011	1972
+Wheelers Hill	2011	2000
+Ardeer - Albion	2011	1517
+Cairnlea	2011	2000
+Deer Park - Derrimut	2011	1900
+Delahey	2011	1517
+Keilor Downs	2011	1500
+Kings Park (Vic.)	2011	1300
+St Albans - North	2011	1326
+St Albans - South	2011	1400
+Sunshine	2011	1600
+Sunshine North	2011	1408
+Sunshine West	2011	1500
+Sydenham	2011	1679
+Taylors Lakes	2011	1600
+Altona	2011	1844
+Altona Meadows	2011	1500
+Altona North	2011	1904
+Newport	2011	2100
+Seabrook	2011	1700
+Williamstown	2011	2167
+Braybrook	2011	1733
+Footscray	2011	1950
+Maribyrnong	2011	2167
+Seddon - Kingsville	2011	2133
+West Footscray - Tottenham	2011	1842
+Yarraville	2011	2167
+Bacchus Marsh	2011	1597
+Hillside	2011	1838
+Melton	2011	1475
+Melton South	2011	1495
+Melton West	2011	1625
+Rockbank - Mount Cottrell	2011	1331
+Taylors Hill	2011	2123
+Burnside	2011	1733
+Burnside Heights	2011	2167
+Caroline Springs	2011	2000
+Hoppers Crossing - North	2011	1517
+Hoppers Crossing - South	2011	1450
+Laverton	2011	1517
+Tarneit	2011	2000
+Truganina	2011	2000
+Werribee - South	2011	1600
+Wyndham Vale	2011	1720
+Point Cook - East	2011	2500
+Point Cook - North	2011	2167
+Point Cook - South	2011	2300
+Werribee - East	2011	1408
+Werribee - West	2011	1517
+Carrum Downs	2011	1600
+Frankston	2011	1517
+Frankston North	2011	1300
+Frankston South	2011	1837
+Langwarrin	2011	1733
+Seaford (Vic.)	2011	1569
+Skye - Sandhurst	2011	2000
+Dromana	2011	1625
+Flinders	2011	1888
+Hastings - Somers	2011	1570
+Mornington	2011	1733
+Mount Eliza	2011	2167
+Mount Martha	2011	1950
+Point Nepean	2011	1517
+Rosebud - McCrae	2011	1517
+Somerville	2011	1603
+Ararat	2011	1083
+Ararat Region	2011	984
+Horsham	2011	1200
+Horsham Region	2011	1000
+Nhill Region	2011	758
+St Arnaud	2011	867
+Stawell	2011	975
+West Wimmera	2011	715
+Yarriambiack	2011	650
+Irymple	2011	1300
+Merbein	2011	1167
+Mildura Region	2011	867
+Red Cliffs	2011	1083
+Mildura - North	2011	1200
+Mildura - South	2011	1387
+Buloke	2011	716
+Gannawarra	2011	1000
+Kerang	2011	930
+Robinvale	2011	1083
+Swan Hill	2011	1300
+Swan Hill Region	2011	975
+Echuca	2011	1430
+Kyabram	2011	1213
+Lockington - Gunbower	2011	1300
+Rochester	2011	1096
+Rushworth	2011	953
+Cobram	2011	1300
+Moira	2011	1083
+Numurkah	2011	1083
+Yarrawonga	2011	1395
+Mooroopna	2011	1257
+Shepparton - North	2011	1408
+Shepparton - South	2011	1365
+Shepparton Region - East	2011	1322
+Shepparton Region - West	2011	1300
+Glenelg (Vic.)	2011	1000
+Hamilton (Vic.)	2011	1091
+Portland	2011	1300
+Southern Grampians	2011	949
+Camperdown	2011	1083
+Colac	2011	1300
+Colac Region	2011	1192
+Corangamite - North	2011	953
+Corangamite - South	2011	1127
+Otway	2011	1200
+Moyne - East	2011	1200
+Moyne - West	2011	1300
+Warrnambool - North	2011	1504
+Warrnambool - South	2011	1452
+Migratory - Offshore - Shipping (Vic.)	2011	0
+No usual address (Vic.)	2011	0
+Alexandra Hills	2011	1950
+Belmont - Gumdale	2011	2300
+Birkdale	2011	1952
+Capalaba	2011	1950
+Thorneside	2011	1820
+Wellington Point	2011	2080
+Cleveland	2011	2052
+Ormiston	2011	2119
+Redland Bay	2011	2200
+Sheldon - Mount Cotton	2011	2383
+Thornlands	2011	2200
+Victoria Point	2011	1975
+Redland Islands	2011	1192
+Brisbane Port - Lytton	2011	0
+Manly - Lota	2011	2167
+Manly West	2011	2150
+Murarrie	2011	2200
+Tingalpa	2011	1950
+Wakerley	2011	2600
+Wynnum	2011	2167
+Wynnum West - Hemmant	2011	2000
+Bald Hills	2011	1950
+Bridgeman Downs	2011	2167
+Carseldine	2011	2100
+Everton Park	2011	1980
+McDowall	2011	2000
+Aspley	2011	2000
+Chermside	2011	2000
+Chermside West	2011	2015
+Geebung	2011	1950
+Kedron - Gordon Park	2011	2167
+Stafford	2011	2099
+Stafford Heights	2011	2000
+Wavell Heights	2011	2167
+Boondall	2011	1842
+Brisbane Airport	2011	2800
+Eagle Farm - Pinkenba	2011	1517
+Northgate - Virginia	2011	2167
+Nudgee - Banyo	2011	2000
+Nundah	2011	2000
+Bracken Ridge	2011	1950
+Brighton (Qld)	2011	1950
+Deagon	2011	1800
+Sandgate - Shorncliffe	2011	2000
+Taigum - Fitzgibbon	2011	1900
+Zillmere	2011	1828
+Camp Hill	2011	2301
+Cannon Hill	2011	2200
+Carina	2011	2058
+Carina Heights	2011	2156
+Carindale	2011	2165
+Annerley	2011	2000
+Coorparoo	2011	2167
+Fairfield - Dutton Park	2011	2100
+Greenslopes	2011	2100
+Holland Park	2011	2167
+Holland Park West	2011	2167
+Woolloongabba	2011	2185
+Yeronga	2011	2102
+Eight Mile Plains	2011	2011
+Macgregor (Qld)	2011	2069
+Mansfield (Qld)	2011	1993
+Mount Gravatt	2011	2167
+Rochedale - Burbank	2011	2167
+Upper Mount Gravatt	2011	2000
+Wishart	2011	1918
+Coopers Plains	2011	1733
+Moorooka	2011	2000
+Robertson	2011	2000
+Salisbury - Nathan	2011	1950
+Tarragindi	2011	2119
+Algester	2011	1900
+Calamvale - Stretton	2011	2015
+Pallara - Willawong	2011	2500
+Parkinson - Drewvale	2011	2167
+Rocklea - Acacia Ridge	2011	1715
+Kuraby	2011	2000
+Runcorn	2011	1733
+Sunnybank	2011	1811
+Sunnybank Hills	2011	2000
+Jindalee - Mount Ommaney	2011	2000
+Middle Park - Jamboree Heights	2011	1950
+Riverhills	2011	2000
+Seventeen Mile Rocks - Sinnamon Park	2011	2167
+Westlake	2011	2095
+Bellbowrie - Moggill	2011	2200
+Brookfield - Kenmore Hills	2011	2500
+Chapel Hill	2011	2167
+Fig Tree Pocket	2011	2600
+Kenmore	2011	2112
+Pinjarra Hills - Pullenvale	2011	2700
+Chelmer - Graceville	2011	2200
+Corinda	2011	2119
+Indooroopilly	2011	2167
+Sherwood	2011	2280
+St Lucia	2011	2184
+Taringa	2011	2058
+Enoggera	2011	2001
+Enoggera Reservoir	2011	0
+Keperra	2011	2000
+Mitchelton	2011	2167
+Mount Coot-tha	2011	0
+The Gap	2011	2167
+Upper Kedron - Ferny Grove	2011	1950
+Brisbane City	2011	2492
+Fortitude Valley	2011	2200
+Highgate Hill	2011	2000
+Kangaroo Point	2011	2167
+New Farm	2011	2167
+South Brisbane	2011	2300
+Spring Hill	2011	2167
+West End	2011	2300
+Balmoral	2011	2500
+Bulimba	2011	2600
+East Brisbane	2011	2300
+Hawthorne	2011	2600
+Morningside - Seven Hills	2011	2300
+Norman Park	2011	2400
+Albion	2011	2167
+Alderley	2011	2200
+Ascot	2011	2300
+Clayfield	2011	2167
+Grange	2011	2371
+Hamilton (Qld)	2011	2600
+Hendra	2011	2600
+Kelvin Grove - Herston	2011	2167
+Newmarket	2011	2221
+Newstead - Bowen Hills	2011	2492
+Wilston	2011	2200
+Windsor	2011	2400
+Wooloowin - Lutwyche	2011	2211
+Ashgrove	2011	2380
+Auchenflower	2011	2184
+Bardon	2011	2500
+Paddington - Milton	2011	2500
+Red Hill (Qld)	2011	2532
+Toowong	2011	2167
+Brinsmead	2011	1904
+Clifton Beach - Kewarra Beach	2011	1950
+Freshwater - Stratford	2011	1700
+Redlynch	2011	1950
+Trinity Beach - Smithfield	2011	1900
+Yorkeys Knob - Machans Beach	2011	1517
+Bentley Park	2011	1820
+Cairns City	2011	1733
+Earlville - Bayview Heights	2011	1733
+Edmonton	2011	1733
+Gordonvale - Trinity	2011	1733
+Kanimbla - Mooroobool	2011	1733
+Lamb Range	2011	0
+Manoora	2011	1387
+Manunda	2011	1300
+Mount Sheridan	2011	1774
+Westcourt - Bungalow	2011	1509
+White Rock	2011	1549
+Whitfield - Edge Hill	2011	1733
+Woree	2011	1452
+Babinda	2011	1357
+Innisfail	2011	1300
+Johnstone	2011	1347
+Tully	2011	1352
+Wooroonooran	2011	0
+Yarrabah	2011	0
+Daintree	2011	1517
+Port Douglas	2011	1757
+Atherton	2011	1517
+Herberton	2011	1164
+Kuranda	2011	1625
+Malanda - Yungaburra	2011	1336
+Mareeba	2011	1517
+Balonne	2011	1200
+Chinchilla	2011	1560
+Goondiwindi	2011	1517
+Inglewood - Waggamba	2011	894
+Miles - Wandoan	2011	1018
+Roma	2011	1517
+Roma Region	2011	1083
+Tara	2011	748
+Crows Nest - Rosalie	2011	1200
+Jondaryan	2011	1300
+Millmerran	2011	1106
+Pittsworth	2011	1473
+Wambo	2011	1430
+Clifton - Greenmount	2011	1257
+Southern Downs - East	2011	1300
+Southern Downs - West	2011	1232
+Stanthorpe	2011	1300
+Stanthorpe Region	2011	1140
+Warwick	2011	1300
+Central Highlands - East	2011	1733
+Central Highlands - West	2011	1600
+Emerald	2011	2167
+Berserker	2011	1430
+Bouldercombe	2011	1517
+Emu Park	2011	1733
+Frenchville - Mount Archer	2011	1733
+Glenlee - Rockyview	2011	1950
+Gracemere	2011	1915
+Lakes Creek	2011	1517
+Mount Morgan	2011	919
+Norman Gardens	2011	1800
+Park Avenue	2011	1517
+Parkhurst - Kawana	2011	1700
+Rockhampton - West	2011	1500
+Rockhampton City	2011	1200
+Rockhampton Region - East	2011	1660
+Rockhampton Region - North	2011	1600
+Rockhampton Region - West	2011	1558
+Shoalwater Bay	2011	0
+The Range - Allenstown	2011	1600
+Yeppoon	2011	2000
+Banana	2011	1450
+Biloela	2011	1733
+Agnes Water - Miriam Vale	2011	1344
+Boyne Island - Tannum Sands	2011	2167
+Callemondah	2011	0
+Clinton - New Auckland	2011	2167
+Gladstone	2011	1733
+Gladstone Hinterland	2011	2080
+Kin Kora - Sun Valley	2011	1907
+South Trees	2011	0
+Telina - Toolooa	2011	2134
+West Gladstone	2011	1733
+Broadbeach Waters	2011	2383
+Burleigh Heads	2011	2000
+Burleigh Waters	2011	2000
+Mermaid Beach - Broadbeach	2011	1950
+Mermaid Waters	2011	2000
+Miami	2011	2000
+Coolangatta	2011	1940
+Currumbin - Tugun	2011	1950
+Currumbin Waters	2011	1950
+Elanora	2011	1950
+Palm Beach	2011	2000
+Arundel	2011	2000
+Biggera Waters	2011	1889
+Coombabah	2011	1863
+Labrador	2011	1733
+Paradise Point - Hollywell	2011	2200
+Runaway Bay	2011	2167
+Guanaba - Springbrook	2011	1820
+Tamborine - Canungra	2011	1923
+Currumbin Valley - Tallebudgera	2011	2167
+Mudgeeraba - Bonogin	2011	2145
+Reedy Creek - Andrews	2011	2200
+Carrara	2011	1993
+Highland Park	2011	1993
+Nerang - Mount Nathan	2011	1950
+Pacific Pines - Gaven	2011	2232
+Worongary - Tallai	2011	2167
+Coomera	2011	2500
+Helensvale	2011	2167
+Hope Island	2011	2613
+Jacobs Well - Alberton	2011	2167
+Ormeau - Yatala	2011	2383
+Oxenford - Maudsland	2011	2100
+Pimpama	2011	2340
+Upper Coomera - Willow Vale	2011	2361
+Clear Island Waters	2011	2167
+Merrimac	2011	1850
+Robina	2011	2000
+Varsity Lakes	2011	2167
+Ashmore	2011	1950
+Molendinar	2011	2000
+Parkwood	2011	1981
+Southport - North	2011	1733
+Southport - South	2011	1842
+Benowa	2011	2167
+Bundall	2011	2400
+Main Beach	2011	2167
+Surfers Paradise	2011	1950
+Darra - Sumner	2011	1733
+Durack	2011	1733
+Forest Lake - Doolandella	2011	2000
+Inala - Richlands	2011	1517
+Oxley (Qld)	2011	2000
+Wacol	2011	1500
+Boonah	2011	1517
+Esk	2011	1210
+Lake Manchester - England Creek	2011	0
+Lockyer Valley - East	2011	1517
+Lowood	2011	1560
+Rosewood	2011	1547
+Brassall	2011	1700
+Bundamba	2011	1517
+Churchill - Yamanto	2011	1517
+Ipswich - Central	2011	1690
+Ipswich - East	2011	1517
+Ipswich - North	2011	1950
+Karalee - Barellan Point	2011	2000
+Karana Downs	2011	1950
+Leichhardt - One Mile	2011	1500
+North Ipswich - Tivoli	2011	1551
+Raceview	2011	1631
+Ripley	2011	1900
+Riverview	2011	1300
+Bellbird Park - Brookwater	2011	2167
+Camira - Gailes	2011	1733
+Carole Park	2011	0
+Collingwood Park - Redbank	2011	1820
+Goodna	2011	1630
+New Chum	2011	0
+Redbank Plains	2011	1673
+Springfield	2011	2000
+Springfield Lakes	2011	2275
+Beaudesert	2011	1681
+Beenleigh	2011	1616
+Eagleby	2011	1517
+Edens Landing - Holmview	2011	1733
+Mount Warren Park	2011	1928
+Wolffdene - Bahrs Scrub	2011	2058
+Boronia Heights - Park Ridge	2011	1755
+Browns Plains	2011	1755
+Chambers Flat - Logan Reserve	2011	1772
+Crestmead	2011	1733
+Greenbank Military Camp	2011	0
+Hillcrest	2011	1733
+Marsden	2011	1733
+Munruben - Park Ridge South	2011	1846
+Regents Park - Heritage Park	2011	1860
+Greenbank	2011	2167
+Jimboomba	2011	2054
+Logan Village	2011	1950
+Bethania - Waterford	2011	1893
+Cornubia - Carbrook	2011	2054
+Loganholme - Tanah Merah	2011	1931
+Loganlea	2011	1700
+Shailer Park	2011	1952
+Waterford West	2011	1655
+Daisy Hill	2011	1950
+Kingston (Qld.)	2011	1517
+Logan Central	2011	1387
+Rochedale South - Priestdale	2011	1800
+Slacks Creek	2011	1549
+Springwood	2011	1742
+Underwood	2011	2000
+Woodridge	2011	1300
+Bowen	2011	1733
+Broadsound - Nebo	2011	1500
+Clermont	2011	1647
+Collinsville	2011	1305
+Moranbah	2011	2340
+Andergrove - Beaconsfield	2011	2149
+East Mackay	2011	2000
+Eimeo - Rural View	2011	2500
+Eungella Hinterland	2011	0
+Mackay	2011	1800
+Mackay Harbour	2011	2383
+Mount Pleasant - Glenella	2011	2264
+North Mackay	2011	1950
+Ooralea - Bakers Creek	2011	2179
+Pioneer Valley	2011	2167
+Sarina	2011	2005
+Seaforth - Calen	2011	1950
+Shoal Point - Bucasia	2011	2200
+Slade Point	2011	2000
+South Mackay	2011	1907
+Walkerston - Eton	2011	2015
+West Mackay	2011	2000
+Airlie - Whitsundays	2011	2100
+Cape Conway	2011	0
+Proserpine	2011	1680
+Beachmere - Sandstone Point	2011	1733
+Bribie Island	2011	1733
+Burpengary - East	2011	1900
+Caboolture	2011	1733
+Caboolture - South	2011	1733
+Elimbah	2011	1885
+Morayfield - East	2011	1733
+Wamuran	2011	1950
+Kilcoy	2011	1495
+Woodford - D'Aguilar	2011	1733
+Burpengary	2011	1747
+Deception Bay	2011	1733
+Morayfield	2011	1950
+Narangba	2011	2167
+Upper Caboolture	2011	1822
+Clontarf	2011	1800
+Margate - Woody Point	2011	1733
+Redcliffe	2011	1733
+Rothwell - Kippa-Ring	2011	1733
+Scarborough - Newport - Moreton Island	2011	2000
+Albany Creek	2011	1909
+Cashmere	2011	2200
+Dayboro	2011	2167
+Eatons Hill	2011	2167
+The Hills District	2011	2000
+Samford Valley	2011	2231
+Dakabin - Kallangur	2011	1800
+Murrumba Downs - Griffin	2011	2100
+North Lakes - Mango Hill	2011	2275
+Bray Park	2011	1800
+Lawnton	2011	1733
+Petrie	2011	1842
+Strathpine - Brendale	2011	1668
+Aurukun	2011	0
+Cape York	2011	1100
+Croydon - Etheridge	2011	720
+Kowanyama - Pormpuraaw	2011	0
+Northern Peninsula	2011	0
+Tablelands	2011	1287
+Torres	2011	1200
+Torres Strait Islands	2011	0
+Weipa	2011	2000
+Carpentaria	2011	764
+Mount Isa	2011	2000
+Mount Isa Region	2011	1517
+Northern Highlands	2011	708
+Barcaldine - Blackall	2011	892
+Charleville	2011	1059
+Far Central West	2011	825
+Far South West	2011	550
+Longreach	2011	1300
+Buderim - North	2011	2000
+Buderim - South	2011	2000
+Mountain Creek	2011	2080
+Sippy Downs	2011	2167
+Aroona - Currimundi	2011	1774
+Buddina - Minyama	2011	2000
+Caloundra - Kings Beach	2011	1733
+Caloundra - West	2011	2037
+Golden Beach - Pelican Waters	2011	2000
+Moffat Beach - Battery Hill	2011	1856
+Parrearra - Warana	2011	2000
+Wurtulla - Birtinya	2011	1997
+Coolum Beach	2011	1898
+Marcoola - Mudjimba	2011	1800
+Maroochydore - Kuluin	2011	1788
+Mooloolaba - Alexandra Headland	2011	1851
+Noosa Heads	2011	1810
+Noosaville	2011	1945
+Sunshine Beach	2011	1863
+Tewantin	2011	1785
+Peregian Beach - Marcus Beach	2011	1800
+Peregian Springs	2011	2167
+Beerwah	2011	1814
+Caloundra Hinterland	2011	1517
+Glass House Mountains	2011	1733
+Landsborough	2011	1950
+Maroochy Hinterland	2011	1650
+Palmwoods	2011	1881
+Bli Bli	2011	1860
+Diddillibah - Rosemount	2011	1950
+Eumundi - Yandina	2011	1733
+Nambour	2011	1733
+Noosa Hinterland	2011	1700
+Cambooya - Wyreema	2011	1667
+Darling Heights	2011	1517
+Drayton - Harristown	2011	1451
+Gatton	2011	1463
+Gowrie (Qld)	2011	1564
+Highfields	2011	1881
+Lockyer Valley - West	2011	1517
+Middle Ridge	2011	1733
+Newtown (Qld)	2011	1387
+North Toowoomba - Harlaxton	2011	1356
+Rangeville	2011	1654
+Toowoomba - Central	2011	1482
+Toowoomba - East	2011	1733
+Toowoomba - West	2011	1777
+Wilsonton	2011	1379
+Ayr	2011	1300
+Burdekin	2011	1200
+Charters Towers	2011	1345
+Dalrymple	2011	1387
+Ingham	2011	1300
+Ingham Region	2011	1200
+Palm Island	2011	0
+Aitkenvale	2011	1733
+Annandale	2011	1950
+Belgian Gardens - Pallarenda	2011	2000
+Bohle Plains	2011	2167
+Condon - Rasmussen	2011	1733
+Cranbrook	2011	1663
+Deeragun	2011	2167
+Douglas	2011	2167
+Garbutt - West End	2011	1700
+Gulliver - Currajong - Vincent	2011	1700
+Heatley	2011	1733
+Hermit Park - Rosslea	2011	1600
+Hyde Park - Pimlico	2011	1733
+Kelso	2011	1800
+Kirwan - East	2011	1733
+Kirwan - West	2011	1900
+Magnetic Island	2011	1517
+Mount Louisa	2011	2058
+Mundingburra	2011	1733
+Northern Beaches	2011	1733
+Oonoonba	2011	2000
+South Townsville - Railway Estate	2011	1800
+Townsville - South	2011	1733
+Townsville City - North Ward	2011	2167
+Wulguru - Roseneath	2011	1600
+Ashfield - Kepnock	2011	1400
+Bargara - Burnett Heads	2011	1530
+Branyan - Kensington	2011	1500
+Bundaberg	2011	1300
+Bundaberg East - Kalkie	2011	1517
+Bundaberg North - Gooburrum	2011	1343
+Bundaberg Region - North	2011	1300
+Bundaberg Region - South	2011	1300
+Millbank - Avoca	2011	1400
+Svensson Heights - Norville	2011	1395
+Walkervale - Avenell Heights	2011	1343
+Gayndah - Mundubbera	2011	1058
+Gin Gin	2011	1000
+Kingaroy	2011	1449
+Kingaroy Region - North	2011	1073
+Kingaroy Region - South	2011	1300
+Monto - Eidsvold	2011	1000
+Nanango	2011	1083
+North Burnett	2011	0
+Cooloola	2011	1343
+Gympie - North	2011	1300
+Gympie - South	2011	1543
+Gympie Region	2011	1373
+Kilkivan	2011	1192
+Booral - River Heads	2011	1500
+Craignish - Dundowran Beach	2011	1733
+Pialba - Eli Waters	2011	1600
+Point Vernon	2011	1517
+Torquay - Scarness - Kawungan	2011	1500
+Urangan - Wondunna	2011	1545
+Burrum - Fraser	2011	1300
+Granville	2011	1300
+Maryborough (Qld)	2011	1300
+Maryborough Region - South	2011	1100
+Tinana	2011	1450
+Migratory - Offshore - Shipping (Qld)	2011	0
+No usual address (Qld)	2011	0
+Adelaide	2011	1800
+North Adelaide	2011	2000
+Adelaide Hills	2011	1600
+Aldgate - Stirling	2011	1800
+Hahndorf - Echunga	2011	1700
+Lobethal - Woodside	2011	1569
+Mount Barker	2011	1679
+Mount Barker Region	2011	1505
+Nairne	2011	1600
+Uraidla - Summertown	2011	1800
+Burnside - Wattle Park	2011	2000
+Glenside - Beaumont	2011	2167
+Toorak Gardens	2011	2000
+Athelstone	2011	1570
+Paradise - Newton	2011	1517
+Rostrevor - Magill	2011	1733
+Norwood (SA)	2011	2000
+Payneham - Felixstow	2011	1660
+St Peters - Marden	2011	1950
+Nailsworth - Broadview	2011	1733
+Prospect	2011	1800
+Walkerville	2011	2000
+Goodwood - Millswood	2011	1939
+Unley - Parkside	2011	1972
+Gawler - North	2011	1582
+Gawler - South	2011	1430
+Lewiston - Two Wells	2011	1517
+Craigmore - Blakeview	2011	1473
+Davoren Park	2011	1300
+Elizabeth	2011	1000
+Elizabeth East	2011	1220
+Munno Para West - Angle Vale	2011	1700
+One Tree Hill	2011	1517
+Smithfield - Elizabeth North	2011	1083
+Virginia - Waterloo Corner	2011	1733
+Enfield - Blair Athol	2011	1517
+Northgate - Oakden - Gilles Plains	2011	1690
+Windsor Gardens	2011	1625
+Dry Creek - North	2011	0
+Ingle Farm	2011	1430
+Para Hills	2011	1469
+Parafield	2011	0
+Parafield Gardens	2011	1387
+Paralowie	2011	1350
+Salisbury	2011	1200
+Salisbury East	2011	1374
+Salisbury North	2011	1348
+Mawson Lakes - Globe Derby Park	2011	2000
+Pooraka - Cavan	2011	1408
+Golden Grove	2011	1733
+Greenwith	2011	1695
+Highbury - Dernancourt	2011	1625
+Hope Valley - Modbury	2011	1473
+Modbury Heights	2011	1500
+Redwood Park	2011	1517
+St Agnes - Ridgehaven	2011	1473
+Brighton (SA)	2011	1733
+Glenelg (SA)	2011	1900
+Edwardstown	2011	1582
+Hallett Cove	2011	1582
+Marino - Seaview Downs	2011	1800
+Mitchell Park	2011	1599
+Morphettville	2011	1663
+Sheidow Park - Trott Park	2011	1600
+Warradale	2011	1600
+Belair	2011	1858
+Bellevue Heights	2011	1664
+Blackwood	2011	1733
+Colonel Light Gardens	2011	1733
+Mitcham (SA)	2011	2000
+Panorama	2011	1600
+Aberfoyle Park	2011	1517
+Aldinga	2011	1517
+Christie Downs	2011	1387
+Christies Beach	2011	1300
+Clarendon	2011	1733
+Coromandel Valley	2011	1800
+Flagstaff Hill	2011	1700
+Hackham - Onkaparinga Hills	2011	1368
+Hackham West - Huntfield Heights	2011	1300
+Happy Valley	2011	1517
+Happy Valley Reservoir	2011	0
+Lonsdale	2011	0
+McLaren Vale	2011	1625
+Morphett Vale - East	2011	1346
+Morphett Vale - West	2011	1300
+Reynella	2011	1393
+Seaford (SA)	2011	1517
+Willunga	2011	1500
+Woodcroft	2011	1500
+Beverley	2011	1625
+Flinders Park	2011	1695
+Henley Beach	2011	1757
+Hindmarsh - Brompton	2011	1712
+Royal Park - Hendon - Albert Park	2011	1600
+Seaton - Grange	2011	1647
+West Lakes	2011	1733
+Woodville - Cheltenham	2011	1582
+Dry Creek - South	2011	0
+Largs Bay - Semaphore	2011	1600
+North Haven	2011	1543
+Port Adelaide	2011	1408
+The Parks	2011	1614
+Torrens Island	2011	0
+Adelaide Airport	2011	0
+Fulham	2011	1733
+Lockleys	2011	1675
+Plympton	2011	1625
+Richmond (SA)	2011	1733
+West Beach	2011	1792
+Barossa - Angaston	2011	1400
+Light	2011	1300
+Lyndoch	2011	1517
+Mallala	2011	1092
+Nuriootpa	2011	1457
+Tanunda	2011	1400
+Clare	2011	1300
+Gilbert Valley	2011	1100
+Goyder	2011	867
+Wakefield - Barunga West	2011	950
+Jamestown	2011	867
+Peterborough - Mount Remarkable	2011	693
+Port Pirie	2011	1000
+Port Pirie Region	2011	1083
+Kadina	2011	1083
+Moonta	2011	1090
+Wallaroo	2011	1083
+Yorke Peninsula - North	2011	997
+Yorke Peninsula - South	2011	1030
+Ceduna	2011	1257
+Eyre Peninsula	2011	1105
+Kimba - Cleve - Franklin Harbour	2011	867
+Le Hunte - Elliston	2011	780
+Port Lincoln	2011	1354
+West Coast (SA)	2011	1192
+Western	2011	0
+Whyalla	2011	1300
+Whyalla - North	2011	0
+APY Lands	2011	0
+Coober Pedy	2011	600
+Quorn - Lake Gilles	2011	1075
+Outback	2011	867
+Port Augusta	2011	1200
+Roxby Downs	2011	2350
+Goolwa - Port Elliot	2011	1198
+Kangaroo Island	2011	1127
+Strathalbyn	2011	1517
+Strathalbyn Region	2011	1517
+Victor Harbor	2011	1300
+Yankalilla	2011	1200
+Grant	2011	1270
+Kingston - Robe	2011	1116
+Millicent	2011	1034
+Naracoorte	2011	1157
+Naracoorte Region	2011	867
+Penola	2011	953
+Tatiara	2011	1000
+Wattle Range	2011	910
+Mount Gambier - East	2011	1260
+Mount Gambier - West	2011	1257
+Barmera	2011	1083
+Berri	2011	1083
+Karoonda - Lameroo	2011	676
+Loxton	2011	1127
+Loxton Region	2011	902
+Mannum	2011	1083
+Murray Bridge	2011	1200
+Murray Bridge Region	2011	1192
+Renmark	2011	1040
+Renmark Region	2011	1170
+The Coorong	2011	867
+Waikerie	2011	975
+Migratory - Offshore - Shipping (SA)	2011	0
+No usual address (SA)	2011	0
+Augusta	2011	1667
+Busselton	2011	1798
+Busselton Region	2011	2000
+Margaret River	2011	1800
+Australind - Leschenault	2011	1950
+Capel	2011	1733
+College Grove - Carey Park	2011	1517
+Collie	2011	1517
+Dardanup	2011	1907
+Davenport	2011	0
+Eaton - Pelican Point	2011	1900
+Harvey	2011	1625
+East Bunbury - Glen Iris	2011	1746
+Waroona	2011	1560
+Dalyellup	2011	2139
+Gelorup - Stratham	2011	1914
+South Bunbury - Bunbury	2011	1733
+Withers - Usher	2011	1479
+Bridgetown - Boyup Brook	2011	1300
+Donnybrook - Balingup	2011	1460
+Manjimup	2011	1300
+Pemberton	2011	1300
+Dawesville - Bouvard	2011	2000
+Falcon - Wannanup	2011	1950
+Greenfields	2011	1605
+Halls Head - Erskine	2011	2058
+Mandurah	2011	1517
+Mandurah - East	2011	2000
+Mandurah - North	2011	2167
+Mandurah - South	2011	1733
+Pinjarra	2011	1842
+City Beach	2011	3033
+Claremont (WA)	2011	2600
+Cottesloe	2011	3000
+Floreat	2011	2600
+Mosman Park - Peppermint Grove	2011	2591
+Nedlands - Dalkeith - Crawley	2011	3000
+Swanbourne - Mount Claremont	2011	2870
+Kings Park (WA)	2011	0
+Mount Hawthorn - Leederville	2011	2275
+Mount Lawley - Inglewood	2011	2189
+North Perth	2011	2400
+Perth City	2011	2383
+Subiaco - Shenton Park	2011	2400
+Wembley - West Leederville - Glendalough	2011	2037
+Bassendean - Eden Hill - Ashfield	2011	1842
+Bayswater - Embleton - Bedford	2011	2000
+Maylands	2011	2000
+Morley	2011	1800
+Noranda	2011	1950
+Chidlow	2011	1775
+Glen Forrest - Darlington	2011	1950
+Helena Valley - Koongamia	2011	1777
+Malmalling - Reservoir	2011	0
+Mundaring	2011	1950
+Swan View - Greenmount - Midvale	2011	1700
+Avon Valley National Park	2011	0
+Ballajura	2011	1733
+Beechboro	2011	1733
+Bullsbrook	2011	2000
+Ellenbrook	2011	2336
+Gidgegannup	2011	2167
+Hazelmere - Guildford	2011	1810
+Lockridge - Kiara	2011	1650
+Malaga	2011	0
+Melaleuca - Lexia	2011	0
+Middle Swan - Herne Hill	2011	1733
+Midland - Guildford	2011	1738
+Stratton - Jane Brook	2011	1753
+The Vines	2011	2400
+Walyunga National Park	2011	0
+Craigie - Beldon	2011	1800
+Currambine - Kinross	2011	2000
+Duncraig	2011	2000
+Greenwood - Warwick	2011	1900
+Heathridge - Connolly	2011	1889
+Hillarys	2011	2167
+Iluka - Burns Beach	2011	2700
+Joondalup - Edgewater	2011	1842
+Kingsley	2011	1842
+Mullaloo - Kallaroo	2011	2167
+Ocean Reef	2011	2123
+Padbury	2011	1800
+Sorrento - Marmion	2011	2167
+Woodvale	2011	1950
+Balcatta - Hamersley	2011	1907
+Balga - Mirrabooka	2011	1591
+Dianella	2011	2000
+Herdsman	2011	0
+Innaloo - Doubleview	2011	2200
+Karrinyup - Gwelup - Carine	2011	2167
+Nollamara - Westminster	2011	2000
+Osborne Park Industrial	2011	0
+Scarborough	2011	2167
+Stirling - Osborne Park	2011	2072
+Trigg - North Beach - Watermans Bay	2011	2500
+Tuart Hill - Joondanna	2011	1950
+Wembley Downs - Churchlands - Woodlands	2011	2450
+Yokine - Coolbinia - Menora	2011	2000
+Alexander Heights - Koondoola	2011	1603
+Butler - Merriwa - Ridgewood	2011	2167
+Carramar	2011	2300
+Clarkson	2011	2000
+Girrawheen	2011	1517
+Madeley - Darch - Landsdale	2011	2200
+Marangaroo	2011	1625
+Mindarie - Quinns Rocks - Jindalee	2011	2262
+Neerabup National Park	2011	0
+Tapping - Ashby - Sinagra	2011	2414
+Wanneroo	2011	2167
+Alkimos - Eglinton	2011	2383
+Carabooda - Pinjar	2011	1887
+Two Rocks	2011	1950
+Yanchep	2011	2109
+Armadale - Wungong - Brookdale	2011	1500
+Ashendon - Lesley	2011	0
+Camillo - Champion Lakes	2011	1517
+Forrestdale - Harrisdale - Piara Waters	2011	2600
+Kelmscott	2011	1647
+Mount Nasura - Mount Richon - Bedfordale	2011	1950
+Roleystone	2011	2000
+Seville Grove	2011	1885
+Belmont - Ascot - Redcliffe	2011	2000
+East Victoria Park - Carlisle	2011	2167
+Kewdale Commercial	2011	0
+Perth Airport	2011	0
+Rivervale - Kewdale - Cloverdale	2011	2000
+Victoria Park - Lathlain - Burswood	2011	2167
+Bentley - Wilson - St James	2011	1963
+Canning Vale - West	2011	2000
+Canning Vale Commercial	2011	0
+Cannington - Queens Park	2011	1978
+Parkwood - Ferndale - Lynwood	2011	1700
+Riverton - Shelley - Rossmoyne	2011	2013
+Welshpool	2011	0
+Willetton	2011	1848
+Beckenham - Kenwick - Langford	2011	1600
+Canning Vale - East	2011	2200
+Gosnells	2011	1603
+Huntingdale - Southern River	2011	2000
+Maddington - Orange Grove - Martin	2011	1600
+Thornlie	2011	1700
+Forrestfield - Wattle Grove	2011	1950
+High Wycombe	2011	1863
+Kalamunda - Maida Vale - Gooseberry Hill	2011	2000
+Lesmurdie - Bickley - Carmel	2011	2000
+Byford	2011	2167
+Mundijong	2011	2167
+Serpentine - Jarrahdale	2011	2017
+Como	2011	2100
+Manning - Waterford	2011	2249
+South Perth - Kensington	2011	2300
+Banjup	2011	2318
+Bibra Industrial	2011	0
+Bibra Lake	2011	0
+Coogee	2011	2000
+Coolbellup	2011	1745
+Hamilton Hill	2011	1750
+Henderson	2011	0
+North Coogee	2011	4750
+South Lake - Cockburn Central	2011	1777
+Spearwood	2011	1603
+Success - Hammond Park	2011	2340
+Yangebup	2011	1800
+Beeliar - Wattleup	2011	2167
+Jandakot	2011	2000
+East Fremantle	2011	2383
+Fremantle	2011	2210
+Fremantle - South	2011	2000
+O'Connor (WA)	2011	0
+Bertram - Wellard (West)	2011	2167
+Calista	2011	1561
+Hope Valley - Postans	2011	1950
+Kwinana Industrial	2011	0
+Parmelia - Orelia	2011	1517
+Casuarina - Wandi	2011	2000
+Applecross - Ardross	2011	2600
+Bateman	2011	2015
+Bicton - Palmyra	2011	2167
+Booragoon	2011	2253
+Bull Creek	2011	2000
+Leeming	2011	1842
+Melville	2011	2200
+Murdoch - Kardinya	2011	1950
+Willagee	2011	2040
+Winthrop	2011	2000
+Baldivis	2011	2357
+Cooloongup	2011	1530
+Port Kennedy	2011	1950
+Rockingham	2011	1733
+Rockingham Lakes	2011	0
+Safety Bay - Shoalwater	2011	1733
+Singleton - Golden Bay - Secret Harbour	2011	2300
+Waikiki	2011	1842
+Warnbro	2011	1733
+Albany	2011	1517
+Albany Region	2011	1600
+Bayonet Head - Lower King	2011	1625
+Denmark	2011	1492
+Gnowangerup	2011	718
+Katanning	2011	1083
+Kojonup	2011	894
+Little Grove - Elleker	2011	1528
+McKail - Willyung	2011	1636
+Plantagenet	2011	1200
+Stirling Range National Park	2011	0
+Chittering	2011	2100
+Cunderdin	2011	850
+Dowerin	2011	869
+Gingin - Dandaragan	2011	1600
+Merredin	2011	1083
+Moora	2011	921
+Mukinbudin	2011	834
+Northam	2011	1300
+Toodyay	2011	1623
+York - Beverley	2011	1300
+Brookton	2011	1083
+Kulin	2011	758
+Murray	2011	1733
+Narrogin	2011	1208
+Wagin	2011	1000
+Broome	2011	2600
+Derby - West Kimberley	2011	1625
+Halls Creek	2011	1387
+Kununurra	2011	2167
+Roebuck	2011	2817
+East Pilbara	2011	2625
+Newman	2011	360
+Port Hedland	2011	2200
+South Hedland	2011	2492
+Ashburton (WA)	2011	327
+Karratha	2011	3182
+Roebourne	2011	2376
+Esperance	2011	1571
+Esperance Region	2011	1020
+Carnarvon	2011	1517
+Exmouth	2011	2167
+Boulder	2011	1625
+Kalgoorlie	2011	2000
+Kalgoorlie - North	2011	2114
+Kalgoorlie Airport	2011	0
+Kambalda - Coolgardie - Norseman	2011	1192
+Leinster - Leonora	2011	812
+Trafalgar (WA)	2011	0
+Geraldton	2011	1482
+Geraldton - East	2011	1500
+Geraldton - North	2011	1902
+Geraldton - South	2011	1950
+Irwin	2011	1660
+Meekatharra	2011	563
+Morawa	2011	769
+Northampton - Mullewa - Greenough	2011	1400
+Migratory - Offshore - Shipping (WA)	2011	0
+No usual address (WA)	2011	0
+Bridgewater - Gagebrook	2011	1080
+Brighton - Pontville	2011	1500
+Old Beach - Otago	2011	1528
+Bellerive - Rosny	2011	1408
+Cambridge	2011	1550
+Geilston Bay - Risdon	2011	1517
+Howrah - Tranmere	2011	1733
+Lindisfarne - Rose Bay	2011	1600
+Mornington - Warrane	2011	1300
+Risdon Vale	2011	1083
+Rokeby	2011	1213
+South Arm	2011	1500
+Austins Ferry - Granton	2011	1517
+Berriedale - Chigwell	2011	1300
+Claremont (Tas.)	2011	1300
+Derwent Park - Lutana	2011	1300
+Glenorchy	2011	1300
+Montrose - Rosetta	2011	1316
+Moonah	2011	1311
+New Norfolk	2011	1170
+West Moonah	2011	1387
+Kingston - Huntingfield	2011	1589
+Kingston Beach - Blackmans Bay	2011	1517
+Margate - Snug	2011	1517
+Mount Wellington	2011	0
+Taroona - Bonnet Hill	2011	1571
+Hobart	2011	1733
+Lenah Valley - Mount Stuart	2011	1625
+Mount Nelson - Dynnyrne	2011	1733
+New Town	2011	1600
+Sandy Bay	2011	2000
+South Hobart - Fern Tree	2011	1517
+West Hobart	2011	1625
+Dodges Ferry - Lewisham	2011	1170
+Sorell - Richmond	2011	1343
+Invermay	2011	1200
+Kings Meadows - Punchbowl	2011	1300
+Launceston	2011	1517
+Legana	2011	1517
+Mowbray	2011	1200
+Newnham - Mayfield	2011	1200
+Newstead	2011	1468
+Norwood (Tas.)	2011	1408
+Prospect Vale - Blackstone	2011	1517
+Ravenswood	2011	905
+Riverside	2011	1408
+South Launceston	2011	1300
+Summerhill - Prospect	2011	1300
+Trevallyn	2011	1430
+Waverley - St Leonards	2011	1200
+West Launceston	2011	1365
+Youngtown - Relbia	2011	1500
+Beauty Point - Beaconsfield	2011	1083
+Deloraine	2011	1064
+Grindelwald - Lanena	2011	1330
+Hadspen - Carrick	2011	1300
+Westbury	2011	1200
+Dilston - Lilydale	2011	1300
+George Town	2011	1115
+Longford	2011	1257
+Northern Midlands	2011	975
+Perth - Evandale	2011	1352
+St Helens - Scamander	2011	975
+Flinders and Cape Barren Islands	2011	937
+Scottsdale - Bridport	2011	972
+Central Highlands	2011	867
+Derwent Valley	2011	1192
+Southern Midlands	2011	1157
+Wilderness - East	2011	0
+Bruny Island - Kettering	2011	1200
+Cygnet	2011	1024
+Geeveston - Dover	2011	1083
+Huonville - Franklin	2011	1300
+Forestier - Tasman	2011	910
+Triabunna - Bicheno	2011	1083
+Acton - Upper Burnie	2011	1040
+Burnie - Ulverstone Region	2011	1213
+Burnie - Wivenhoe	2011	1073
+Parklands - Camdale	2011	1300
+Penguin - Sulphur Creek	2011	1213
+Romaine - Havenview	2011	1200
+Somerset	2011	1127
+Ulverstone	2011	1192
+West Ulverstone	2011	1192
+Wynyard	2011	1200
+Devonport	2011	1213
+East Devonport	2011	1170
+Latrobe	2011	1283
+Miandetta - Don	2011	1408
+Port Sorell	2011	1300
+Quoiba - Spreyton	2011	1226
+Sheffield - Railton	2011	1100
+Turners Beach - Forth	2011	1408
+King Island	2011	1000
+North West	2011	1192
+Smithton	2011	1092
+Waratah	2011	1192
+West Coast (Tas.)	2011	780
+Wilderness - West	2011	0
+Migratory - Offshore - Shipping (Tas.)	2011	0
+No usual address (Tas.)	2011	0
+Darwin Airport	2011	0
+Darwin City	2011	2500
+East Point	2011	0
+Fannie Bay - The Gardens	2011	2383
+Larrakeyah	2011	2167
+Ludmilla - The Narrows	2011	2000
+Parap	2011	2303
+Stuart Park	2011	2167
+Woolner - Bayview - Winnellie	2011	2500
+Alawa	2011	1850
+Anula	2011	2167
+Berrimah	2011	2500
+Brinkin - Nakara	2011	2167
+Buffalo Creek	2011	0
+Charles Darwin	2011	0
+Coconut Grove	2011	1950
+East Arm	2011	0
+Jingili	2011	2167
+Karama	2011	1958
+Leanyer	2011	2167
+Lyons (NT)	2011	3484
+Malak - Marrara	2011	1950
+Millner	2011	1936
+Moil	2011	2082
+Nightcliff	2011	2000
+Rapid Creek	2011	2000
+Tiwi	2011	1950
+Wagaman	2011	2167
+Wanguri	2011	2167
+Wulagi	2011	2080
+Howard Springs	2011	2043
+Humpty Doo	2011	2184
+Koolpinyah	2011	0
+Virginia	2011	2109
+Weddell	2011	2000
+Bakewell	2011	2000
+Driver	2011	2045
+Durack - Marlow Lagoon	2011	2694
+Gray	2011	1950
+Moulden	2011	1889
+Palmerston - North	2011	2600
+Palmerston - South	2011	0
+Rosebery - Bellamack	2011	2600
+Woodroffe	2011	2142
+Charles	2011	1950
+East Side	2011	1778
+Flynn (NT)	2011	1950
+Larapinta	2011	1957
+Mount Johns	2011	1807
+Petermann - Simpson	2011	867
+Ross	2011	2167
+Sandover - Plenty	2011	711
+Tanami	2011	0
+Yuendumu - Anmatjere	2011	0
+Barkly	2011	0
+Tennant Creek	2011	969
+Alligator	2011	1408
+Daly	2011	1083
+Thamarrurr	2011	0
+Tiwi Islands	2011	542
+West Arnhem	2011	0
+Anindilyakwa	2011	345
+East Arnhem	2011	0
+Nhulunbuy	2011	1500
+Elsey	2011	975
+Gulf	2011	726
+Katherine	2011	1733
+Victoria River	2011	0
+Migratory - Offshore - Shipping (NT)	2011	0
+No usual address (NT)	2011	0
+Aranda	2011	2167
+Belconnen	2011	1984
+Bruce	2011	2167
+Charnwood	2011	1850
+Cook	2011	2000
+Dunlop	2011	2167
+Evatt	2011	2129
+Florey	2011	1900
+Flynn (ACT)	2011	1950
+Fraser	2011	2000
+Giralang	2011	2000
+Gooromon	2011	0
+Hawker	2011	2029
+Higgins	2011	1950
+Holt	2011	1907
+Kaleen	2011	1950
+Latham	2011	1955
+Lawson	2011	0
+Macgregor (ACT)	2011	2167
+Macquarie	2011	1950
+McKellar	2011	2150
+Melba	2011	2000
+Page	2011	2000
+Scullin	2011	1950
+Spence	2011	2000
+Weetangera	2011	2383
+Molonglo Corridor	2011	0
+West Belconnen	2011	0
+Hume	2011	0
+Kowen	2011	0
+Canberra East	2011	1400
+Canberra Airport	2011	0
+Majura	2011	4333
+Amaroo	2011	2167
+Bonner	2011	2342
+Casey	2011	2500
+Crace	2011	2600
+Forde	2011	2925
+Franklin	2011	2600
+Gungahlin	2011	2297
+Hall	2011	2400
+Harrison	2011	2608
+Mitchell	2011	0
+Ngunnawal	2011	2028
+Nicholls	2011	2200
+Palmerston	2011	2000
+Gungahlin - East	2011	0
+Gungahlin - West	2011	0
+Jacka	2011	0
+Kenny	2011	0
+Moncrieff	2011	0
+Taylor	2011	0
+Throsby	2011	0
+Acton	2011	0
+Ainslie	2011	2463
+Braddon	2011	2167
+Civic	2011	2600
+Dickson	2011	2137
+Downer	2011	2167
+Hackett	2011	2167
+Lyneham	2011	2000
+O'Connor (ACT)	2011	2383
+Turner	2011	2254
+Watson	2011	2167
+Black Mountain	2011	0
+Campbell	2011	2600
+Duntroon	2011	0
+Parkes (ACT) - North	2011	0
+Reid	2011	2166
+Russell	2011	0
+Deakin	2011	2600
+Forrest	2011	3017
+Griffith (ACT)	2011	2500
+Lake Burley Griffin	2011	0
+Narrabundah	2011	2253
+Parkes (ACT) - South	2011	0
+Red Hill (ACT)	2011	2871
+Yarralumla	2011	2600
+Barton	2011	2570
+Fyshwick	2011	0
+Kingston (ACT)	2011	2437
+Banks	2011	2167
+Bonython	2011	2058
+Calwell	2011	2022
+Chisholm	2011	2000
+Conder	2011	2100
+Fadden	2011	2167
+Gilmore	2011	2039
+Gordon (ACT)	2011	2058
+Gowrie (ACT)	2011	1950
+Greenway	2011	1907
+Isabella Plains	2011	1950
+Kambah	2011	1993
+Macarthur	2011	2167
+Monash	2011	1950
+Mount Taylor	2011	0
+Oxley (ACT)	2011	2000
+Richardson	2011	1848
+Theodore	2011	2167
+Tuggeranong	2011	1508
+Wanniassa	2011	2000
+Tuggeranong - West	2011	0
+Chapman	2011	2288
+Duffy	2011	2167
+Fisher	2011	2167
+Holder	2011	2000
+Rivett	2011	2000
+Stirling	2011	2167
+Waramanga	2011	2000
+Weston	2011	2167
+Scrivener	2011	0
+Chifley	2011	2072
+Curtin	2011	2151
+Farrer	2011	2200
+Garran	2011	2271
+Hughes	2011	2200
+Isaacs	2011	2300
+Lyons (ACT)	2011	2000
+Mawson	2011	2167
+O'Malley	2011	3825
+Pearce	2011	2250
+Phillip	2011	2047
+Torrens	2011	2100
+Arboretum	2011	0
+Coombs	2011	0
+Denman Prospect	2011	0
+Molonglo	2011	0
+Molonglo - North	2011	0
+Wright	2011	0
+ACT - South West	2011	2871
+Namadgi	2011	0
+Migratory - Offshore - Shipping (ACT)	2011	0
+No usual address (ACT)	2011	0
+Christmas Island	2011	1509
+Cocos (Keeling) Islands	2011	910
+Jervis Bay	2011	0
+Norfolk Island	2011	0
+Migratory - Offshore - Shipping (OT)	2011	0
+No usual address (OT)	2011	0
+Braidwood	2016	1582
+Karabar	2016	1928
+Queanbeyan	2016	1733
+Queanbeyan - East	2016	1842
+Queanbeyan Region	2016	2405
+Queanbeyan West - Jerrabomberra	2016	2167
+Bombala	2016	910
+Cooma	2016	1186
+Cooma Region	2016	1560
+Jindabyne - Berridale	2016	1500
+Batemans Bay	2016	1452
+Batemans Bay - South	2016	1517
+Bega - Tathra	2016	1400
+Bega-Eden Hinterland	2016	1278
+Broulee - Tomakin	2016	1517
+Deua - Wadbilliga	2016	0
+Eden	2016	1394
+Eurobodalla Hinterland	2016	1300
+Merimbula - Tura Beach	2016	1500
+Moruya - Tuross Head	2016	1353
+Narooma - Bermagui	2016	1300
+Goulburn	2016	1517
+Goulburn Region	2016	1600
+Yass	2016	1763
+Yass Region	2016	2024
+Young	2016	1300
+Young Region	2016	1040
+Avoca Beach - Copacabana	2016	2167
+Box Head - MacMasters Beach	2016	2000
+Calga - Kulnura	2016	1850
+Erina - Green Point	2016	2000
+Gosford - Springfield	2016	1733
+Kariong	2016	1950
+Kincumber - Picketts Valley	2016	1899
+Narara	2016	1733
+Niagara Park - Lisarow	2016	1800
+Point Clare - Koolewong	2016	1820
+Saratoga - Davistown	2016	2000
+Terrigal - North Avoca	2016	2167
+Umina - Booker Bay - Patonga	2016	1750
+Wamberal - Forresters Beach	2016	2167
+Woy Woy - Blackwall	2016	1733
+Wyoming	2016	1733
+Bateau Bay - Killarney Vale	2016	1733
+Blue Haven - San Remo	2016	1600
+Budgewoi - Buff Point - Halekulani	2016	1560
+Chittaway Bay - Tumbi Umbi	2016	1764
+Gorokan - Kanwal - Charmhaven	2016	1517
+Jilliby - Yarramalong	2016	2200
+Lake Munmorah - Mannering Park	2016	1521
+Ourimbah - Fountaindale	2016	1800
+Summerland Point - Gwandalan	2016	1600
+The Entrance	2016	1785
+Toukley - Norah Head	2016	1700
+Tuggerah - Kangy Angy	2016	1800
+Warnervale - Wadalba	2016	2037
+Wyong	2016	1603
+Bathurst	2016	1578
+Bathurst - East	2016	1785
+Bathurst Region	2016	1696
+Oberon	2016	1349
+Condobolin	2016	900
+Cowra	2016	1192
+Cowra Region	2016	1083
+Forbes	2016	1148
+Grenfell	2016	910
+Parkes (NSW)	2016	1300
+Parkes Region	2016	1000
+West Wyalong	2016	1000
+Lithgow	2016	1300
+Lithgow Region	2016	1517
+Mudgee	2016	1766
+Mudgee Region - East	2016	1192
+Mudgee Region - West	2016	1517
+Wollangambe - Wollemi	2016	0
+Blayney	2016	1500
+Orange	2016	1472
+Orange - North	2016	1733
+Orange Region	2016	1647
+Grafton	2016	1300
+Grafton Region	2016	1300
+Maclean - Yamba - Iluka	2016	1430
+Bellingen	2016	1408
+Coffs Harbour - North	2016	1603
+Coffs Harbour - South	2016	1517
+Coramba - Nana Glen - Bucca	2016	1582
+Dorrigo	2016	1083
+Korora - Emerald Beach	2016	1733
+Sawtell - Boambee	2016	1600
+Urunga	2016	1517
+Woolgoolga - Arrawarra	2016	1560
+Bourke - Brewarrina	2016	894
+Cobar	2016	1300
+Coonamble	2016	867
+Nyngan - Warren	2016	1000
+Walgett - Lightning Ridge	2016	737
+Broken Hill	2016	953
+Far West	2016	625
+Coonabarabran	2016	906
+Dubbo - East	2016	1517
+Dubbo - South	2016	1517
+Dubbo - West	2016	1452
+Dubbo Region	2016	1638
+Gilgandra	2016	1083
+Narromine	2016	1100
+Wellington	2016	1083
+Branxton - Greta - Pokolbin	2016	1820
+Cessnock	2016	1478
+Cessnock Region	2016	1690
+Dungog	2016	1662
+Kurri Kurri - Abermain	2016	1430
+Singleton	2016	1842
+Singleton Region	2016	2000
+Maitland	2016	1800
+Maitland - East	2016	1733
+Maitland - North	2016	2000
+Maitland - West	2016	1733
+Thornton - Millers Forest	2016	1760
+Anna Bay	2016	1840
+Lemon Tree Passage - Tanilba Bay	2016	1517
+Nelson Bay Peninsula	2016	1733
+Raymond Terrace	2016	1463
+Seaham - Woodville	2016	1950
+Tea Gardens - Hawks Nest	2016	1517
+Williamtown - Medowie - Karuah	2016	1733
+Muswellbrook	2016	1668
+Muswellbrook Region	2016	1943
+Scone	2016	1800
+Scone Region	2016	1517
+Dapto - Avondale	2016	1733
+Horsley - Kembla Grange	2016	1950
+Port Kembla Industrial	2016	0
+Unanderra - Mount Kembla	2016	1871
+Berkeley - Lake Heights - Cringila	2016	1625
+Port Kembla - Warrawong	2016	1625
+Windang - Primbee	2016	1733
+Illawarra Catchment Reserve	2016	0
+Albion Park - Macquarie Pass	2016	1950
+Albion Park Rail	2016	1700
+Kiama	2016	1983
+Kiama Downs - Minnamurra	2016	2000
+Kiama Hinterland - Gerringong	2016	2130
+Shellharbour - Flinders	2016	2167
+Shellharbour - Oak Flats	2016	1733
+Warilla	2016	1647
+Balgownie - Fairy Meadow	2016	2001
+Corrimal - Tarrawanna - Bellambi	2016	1950
+Figtree - Keiraville	2016	2000
+Helensburgh	2016	2288
+Thirroul - Austinmer - Coalcliff	2016	2383
+Woonona - Bulli - Russell Vale	2016	2167
+Wollongong - East	2016	1800
+Wollongong - West	2016	1842
+Bulahdelah - Stroud	2016	1365
+Forster	2016	1517
+Forster-Tuncurry Region	2016	1300
+Tuncurry	2016	1300
+Kempsey	2016	1235
+Kempsey Region	2016	1300
+Macksville - Scotts Head	2016	1300
+Nambucca Heads	2016	1270
+Nambucca Heads Region	2016	1300
+South West Rocks	2016	1500
+Lord Howe Island	2016	1867
+Laurieton - Bonny Hills	2016	1519
+Port Macquarie - East	2016	1733
+Port Macquarie - West	2016	1733
+Port Macquarie Region	2016	1517
+Wauchope	2016	1600
+Gloucester	2016	1300
+Old Bar - Manning Point - Red Head	2016	1625
+Taree	2016	1297
+Taree Region	2016	1300
+Wingham	2016	1245
+Albury - East	2016	1625
+Albury - North	2016	1300
+Albury - South	2016	1517
+Albury Region	2016	1300
+Lavington	2016	1300
+Hay	2016	979
+Wentworth - Buronga	2016	1200
+Wentworth-Balranald Region	2016	953
+Corowa	2016	1245
+Corowa Region	2016	1300
+Deniliquin	2016	1083
+Deniliquin Region	2016	997
+Moama	2016	1560
+Tocumwal - Finley - Jerilderie	2016	1083
+Armidale	2016	1452
+Armidale Region - North	2016	1189
+Armidale Region - South	2016	1408
+Walcha	2016	1073
+Glen Innes	2016	1083
+Inverell	2016	1287
+Inverell Region - East	2016	953
+Inverell Region - West	2016	1034
+Tenterfield	2016	1079
+Moree	2016	1300
+Moree Region	2016	975
+Narrabri	2016	1517
+Narrabri Region	2016	1213
+Gunnedah	2016	1517
+Gunnedah Region	2016	1213
+Quirindi	2016	1153
+Tamworth - East	2016	1461
+Tamworth - North	2016	1517
+Tamworth - West	2016	1378
+Tamworth Region	2016	1517
+Belmont - Bennetts Green	2016	1835
+Belmont South - Blacksmiths	2016	1733
+Charlestown - Dudley	2016	1800
+Glendale - Cardiff - Hillsborough	2016	1733
+Mount Hutton - Windale	2016	1733
+Redhead	2016	2037
+Swansea - Caves Beach	2016	1842
+Valentine - Eleebana	2016	2000
+Warners Bay - Boolaroo	2016	1800
+Bolton Point - Teralba	2016	1521
+Bonnells Bay - Silverwater	2016	1717
+Edgeworth - Cameron Park	2016	1880
+Morisset - Cooranbong	2016	1733
+Toronto - Awaba	2016	1701
+Wangi Wangi - Rathmines	2016	1733
+West Wallsend - Barnsley - Killingworth	2016	1690
+Adamstown - Kotara	2016	1950
+Beresfield - Hexham	2016	1370
+Hamilton - Broadmeadow	2016	2000
+Lambton - New Lambton	2016	1842
+Maryland - Fletcher - Minmi	2016	1950
+Mayfield - Warabrook	2016	1700
+Merewether - The Junction	2016	2167
+Newcastle - Cooks Hill	2016	2000
+Newcastle Port - Kooragang	2016	1972
+Shortland - Jesmond	2016	1517
+Stockton - Fullerton Cove	2016	2000
+Wallsend - Elermore Vale	2016	1699
+Waratah - North Lambton	2016	1733
+Wickham - Carrington - Tighes Hill	2016	1733
+Ballina	2016	1582
+Ballina Region	2016	1733
+Bangalow	2016	1800
+Brunswick Heads - Ocean Shores	2016	1733
+Byron Bay	2016	2000
+Evans Head	2016	1387
+Lennox Head - Skennars Head	2016	1950
+Mullumbimby	2016	1591
+Casino	2016	1300
+Casino Region	2016	1213
+Goonellabah	2016	1517
+Kyogle	2016	1181
+Lismore	2016	1300
+Lismore Region	2016	1517
+Kingscliff - Fingal Head	2016	2108
+Murwillumbah	2016	1560
+Murwillumbah Region	2016	1600
+Pottsville	2016	1777
+Tweed Heads	2016	1600
+Banora Point	2016	1733
+Terranora - North Tumblegum	2016	2000
+Tweed Heads South	2016	1560
+Griffith (NSW)	2016	1500
+Griffith Region	2016	1166
+Leeton	2016	1300
+Narrandera	2016	1000
+Tumbarumba	2016	1192
+Tumut	2016	1374
+Tumut Region	2016	1300
+Cootamundra	2016	1091
+Gundagai	2016	1170
+Junee	2016	1200
+Temora	2016	1083
+Wagga Wagga - East	2016	1530
+Wagga Wagga - North	2016	1733
+Wagga Wagga - South	2016	1517
+Wagga Wagga - West	2016	1387
+Wagga Wagga Region	2016	1300
+Berry - Kangaroo Valley	2016	1811
+Callala Bay - Currarong	2016	1517
+Culburra Beach	2016	1517
+Ettrema - Sassafras - Budawang	2016	2084
+Huskisson - Vincentia	2016	1770
+North Nowra - Bomaderry	2016	1560
+Nowra	2016	1517
+St Georges Basin - Erowal Bay	2016	1300
+Sussex Inlet - Berrara	2016	1300
+Tomerong - Wandandian - Woollamia	2016	1733
+Ulladulla	2016	1473
+Ulladulla Region	2016	1456
+Bowral	2016	2000
+Hill Top - Colo Vale	2016	1805
+Mittagong	2016	1820
+Moss Vale - Berrima	2016	1733
+Robertson - Fitzroy Falls	2016	2000
+Southern Highlands	2016	1820
+Baulkham Hills (East)	2016	2300
+Baulkham Hills (West) - Bella Vista	2016	2500
+Glenhaven	2016	2610
+West Pennant Hills	2016	2770
+Castle Hill - Central	2016	2383
+Castle Hill - East	2016	2383
+Castle Hill - North	2016	2600
+Castle Hill - South	2016	2500
+Castle Hill - West	2016	2600
+Cherrybrook	2016	2500
+Kellyville	2016	2600
+Dural - Kenthurst - Wisemans Ferry	2016	2550
+Galston - Laughtondale	2016	2600
+Bilpin - Colo - St Albans	2016	1975
+Kurrajong Heights - Ebenezer	2016	2167
+Pitt Town - McGraths Hill	2016	2398
+Rouse Hill - Beaumont Hills	2016	2630
+Blacktown (East) - Kings Park	2016	1900
+Blacktown (North) - Marayong	2016	2000
+Doonside - Woodcroft	2016	2167
+Lalor Park - Kings Langley	2016	2058
+Seven Hills - Toongabbie	2016	2134
+Blacktown (South)	2016	1950
+Blacktown (West)	2016	1950
+Glenwood	2016	2400
+Parklea - Kellyville Ridge	2016	2600
+Riverstone - Marsden Park	2016	2600
+Acacia Gardens	2016	2383
+Quakers Hill	2016	2167
+Bidwill - Hebersham - Emerton	2016	1528
+Glendenning - Dean Park	2016	1983
+Hassall Grove - Plumpton	2016	2000
+Lethbridge Park - Tregear	2016	2013
+Mount Druitt - Whalan	2016	1722
+Prospect Reservoir	2016	0
+Rooty Hill - Minchinbury	2016	2000
+Banksmeadow	2016	0
+Botany	2016	2600
+Mascot - Eastlakes	2016	2330
+Pagewood - Hillsdale - Daceyville	2016	2300
+Port Botany Industrial	2016	0
+Sydney Airport	2016	0
+Marrickville	2016	2383
+Petersham - Stanmore	2016	2600
+Sydenham - Tempe - St Peters	2016	2600
+Darlinghurst	2016	2500
+Erskineville - Alexandria	2016	2500
+Glebe - Forest Lodge	2016	2600
+Newtown - Camperdown - Darlington	2016	2600
+Potts Point - Woolloomooloo	2016	2167
+Pyrmont - Ultimo	2016	2400
+Redfern - Chippendale	2016	2492
+Surry Hills	2016	2500
+Sydney - Haymarket - The Rocks	2016	2500
+Waterloo - Beaconsfield	2016	2300
+Bondi - Tamarama - Bronte	2016	3000
+Bondi Beach - North Bondi	2016	3000
+Bondi Junction - Waverly	2016	3000
+Centennial Park	2016	0
+Double Bay - Bellevue Hill	2016	3000
+Dover Heights	2016	3000
+Paddington - Moore Park	2016	3245
+Rose Bay - Vaucluse - Watsons Bay	2016	3467
+Woollahra	2016	3100
+Coogee - Clovelly	2016	3000
+Malabar - La Perouse - Chifley	2016	2600
+Kensington (NSW)	2016	2600
+Kingsford	2016	2500
+Maroubra - North	2016	2749
+Maroubra - South	2016	2600
+Maroubra - West	2016	2500
+Randwick - North	2016	2600
+Randwick - South	2016	2747
+Bass Hill - Georges Hall	2016	2167
+Chullora	2016	2700
+Condell Park	2016	2167
+Greenacre - Mount Lewis	2016	2100
+Padstow	2016	2167
+Panania - Milperra - Picnic Point	2016	2300
+Revesby	2016	2167
+Yagoona - Birrong	2016	1996
+Bankstown - North	2016	1700
+Bankstown - South	2016	1733
+Belmore - Belfield	2016	2153
+Canterbury (South) - Campsie	2016	1950
+Kingsgrove (North) - Earlwood	2016	2461
+Punchbowl	2016	2000
+Roselands	2016	2167
+Lakemba	2016	1600
+Wiley Park	2016	1697
+Hurstville	2016	2000
+Mortdale - Penshurst	2016	2167
+Narwee - Beverly Hills	2016	2167
+Oatley - Hurstville Grove	2016	2500
+Peakhurst - Lugarno	2016	2362
+Riverwood	2016	1950
+South Hurstville - Blakehurst	2016	2200
+Arncliffe - Bardwell Valley	2016	2167
+Bexley	2016	2080
+Kingsgrove (South) - Bardwell Park	2016	2300
+Kogarah	2016	2015
+Kogarah Bay - Carlton - Allawah	2016	2167
+Monterey - Brighton-le-Sands - Kyeemagh	2016	2167
+Rockdale - Banksia	2016	2167
+Sans Souci - Ramsgate	2016	2300
+Concord - Mortlake - Cabarita	2016	2600
+Concord West - North Strathfield	2016	2200
+Drummoyne - Rodd Point	2016	2860
+Five Dock - Abbotsford	2016	2600
+Balmain	2016	3033
+Leichhardt - Annandale	2016	3000
+Lilyfield - Rozelle	2016	3013
+Ashfield	2016	2058
+Burwood - Croydon	2016	2167
+Canterbury (North) - Ashbury	2016	2253
+Croydon Park - Enfield	2016	2200
+Dulwich Hill - Lewisham	2016	2200
+Haberfield - Summer Hill	2016	2500
+Homebush	2016	2000
+Strathfield	2016	2325
+Strathfield South	2016	2300
+Chatswood (East) - Artarmon	2016	2500
+Chatswood (West) - Lane Cove North	2016	2500
+Lane Cove - Greenwich	2016	3000
+St Leonards - Naremburn	2016	2700
+Willoughby - Castle Cove - Northbridge	2016	3250
+Asquith - Mount Colah	2016	2400
+Berowra - Brooklyn - Cowan	2016	2345
+Normanhurst - Thornleigh - Westleigh	2016	2500
+Hornsby - East	2016	2000
+Hornsby - West	2016	2200
+Waitara - Wahroonga (West)	2016	2167
+Gordon - Killara	2016	3000
+Lindfield - Roseville	2016	3000
+Pymble	2016	3023
+St Ives	2016	3000
+Turramurra	2016	3000
+Wahroonga (East) - Warrawee	2016	3000
+Cremorne - Cammeray	2016	2676
+Crows Nest - Waverton	2016	2600
+Mosman	2016	3000
+Neutral Bay - Kirribilli	2016	2500
+North Sydney - Lavender Bay	2016	2600
+Balgowlah - Clontarf - Seaforth	2016	3467
+Manly - Fairlight	2016	3000
+Avalon - Palm Beach	2016	2900
+Bayview - Elanora Heights	2016	3000
+Newport - Bilgola	2016	2817
+Warriewood - Mona Vale	2016	2772
+Beacon Hill - Narraweena	2016	2817
+Cromer	2016	2750
+Dee Why - North Curl Curl	2016	2258
+Forestville - Killarney Heights	2016	3000
+Frenchs Forest - Belrose	2016	3000
+Freshwater - Brookvale	2016	2600
+Manly Vale - Allambie Heights	2016	2786
+Narrabeen - Collaroy	2016	2600
+Terrey Hills - Duffys Forest	2016	3000
+Camden - Ellis Lane	2016	2167
+Elderslie - Harrington Park	2016	2300
+Mount Annan - Currans Hill	2016	2167
+Bradbury - Wedderburn	2016	1777
+Campbelltown - Woodbine	2016	1825
+Claymore - Eagle Vale - Raby	2016	1840
+Holsworthy Military Area	2016	0
+Ingleburn - Denham Court	2016	2000
+Leumeah - Minto Heights	2016	1800
+Macquarie Fields - Glenfield	2016	1800
+Minto - St Andrews	2016	1930
+Rosemeadow - Glen Alpine	2016	1741
+Bargo	2016	2068
+Douglas Park - Appin	2016	2383
+Picton - Tahmoor - Buxton	2016	2000
+The Oaks - Oakdale	2016	2167
+Blackheath - Megalong Valley	2016	1575
+Blaxland - Warrimoo - Lapstone	2016	2058
+Blue Mountains - North	2016	0
+Katoomba - Leura	2016	1560
+Lawson - Hazelbrook - Linden	2016	1733
+Springwood - Winmalee	2016	1950
+Wentworth Falls	2016	1733
+Blue Mountains - South	2016	0
+Cambridge Park	2016	1845
+Castlereagh - Cranebrook	2016	2167
+Emu Plains - Leonay	2016	2167
+Glenmore Park - Regentville	2016	2167
+Jamisontown - South Penrith	2016	1952
+Kingswood - Werrington	2016	1900
+Mulgoa - Luddenham - Orchard Hills	2016	2500
+Penrith	2016	1733
+Warragamba - Silverdale	2016	2037
+Richmond - Clarendon	2016	1900
+Windsor - Bligh Park	2016	1907
+Yarramundi - Londonderry	2016	2275
+Erskine Park	2016	2000
+St Clair	2016	1985
+Colyton - Oxley Park	2016	1794
+St Marys - North St Marys	2016	1705
+Homebush Bay - Silverwater	2016	2167
+Rookwood Cemetery	2016	0
+Auburn - Central	2016	1800
+Auburn - North	2016	1500
+Auburn - South	2016	2000
+Berala	2016	1733
+Lidcombe	2016	2100
+Regents Park	2016	1726
+Carlingford	2016	2167
+Ermington - Rydalmere	2016	2253
+Oatlands - Dundas Valley	2016	2167
+Chester Hill - Sefton	2016	2000
+Fairfield - East	2016	1733
+Granville - Clyde	2016	1950
+Greystanes - Pemulwuy	2016	2257
+Guildford - South Granville	2016	2000
+Guildford West - Merrylands West	2016	2000
+Merrylands - Holroyd	2016	2000
+Smithfield Industrial	2016	0
+Yennora Industrial	2016	0
+North Parramatta	2016	1950
+North Rocks	2016	2400
+Northmead	2016	2167
+Parramatta - Rosehill	2016	1750
+Toongabbie - Constitution Hill	2016	2100
+Winston Hills	2016	2398
+Pendle Hill - Girraween	2016	2167
+Wentworthville - Westmead	2016	2000
+Epping - North Epping	2016	2383
+Pennant Hills - Cheltenham	2016	2671
+Eastwood - Denistone	2016	2167
+Gladesville - Huntleys Point	2016	2500
+Hunters Hill - Woolwich	2016	3500
+Macquarie Park - Marsfield	2016	2167
+North Ryde - East Ryde	2016	2500
+West Ryde - Meadowbank	2016	2167
+Putney	2016	3000
+Ryde	2016	2212
+Ashcroft - Busby - Miller	2016	1700
+Austral - Greendale	2016	2167
+Cobbitty - Leppington	2016	2600
+Badgerys Creek	2016	0
+Cecil Hills	2016	2167
+Green Valley	2016	1950
+Hinchinbrook	2016	2105
+Hoxton Park - Carnes Hill - Horningsea Park	2016	2200
+West Hoxton - Middleton Grange	2016	2383
+Bonnyrigg Heights - Bonnyrigg	2016	1950
+Bossley Park - Abbotsbury	2016	2000
+Cabramatta - Lansvale	2016	1430
+Cabramatta West - Mount Pritchard	2016	1836
+Canley Vale - Canley Heights	2016	1632
+Edensor Park	2016	2000
+Fairfield	2016	1625
+Fairfield - West	2016	1950
+Greenfield Park - Prairiewood	2016	2000
+Horsley Park - Kemps Creek	2016	2500
+Smithfield - Wetherill Park	2016	1993
+St Johns Park - Wakeley	2016	1950
+Wetherill Park Industrial	2016	0
+Casula	2016	2167
+Chipping Norton - Moorebank	2016	2299
+Holsworthy - Wattle Grove	2016	2167
+Liverpool	2016	1647
+Lurnea - Cartwright	2016	1800
+Prestons - Edmondson Park	2016	2200
+Warwick Farm	2016	1517
+Gymea - Grays Point	2016	2600
+Miranda - Yowie Bay	2016	2300
+Sylvania - Taren Point	2016	2600
+Caringbah	2016	2222
+Caringbah South	2016	3000
+Cronulla - Kurnell - Bundeena	2016	2260
+Lilli Pilli - Port Hacking - Dolans Bay	2016	3275
+Woolaware - Burraneer	2016	2700
+Heathcote - Waterfall	2016	2379
+Illawong - Alfords Point	2016	2500
+Menai - Lucas Heights - Woronora	2016	2383
+Oyster Bay - Como - Jannali	2016	2600
+Royal National Park	2016	0
+Sutherland - Kirrawee	2016	2173
+Engadine	2016	2400
+Loftus - Yarrawarrah	2016	2226
+Woronora Heights	2016	2399
+Migratory - Offshore - Shipping (NSW)	2016	0
+No usual address (NSW)	2016	0
+Alfredton	2016	1615
+Ballarat	2016	1500
+Ballarat - North	2016	1347
+Ballarat - South	2016	1257
+Buninyong	2016	1580
+Delacombe	2016	1466
+Smythes Creek	2016	1600
+Wendouree - Miners Rest	2016	1300
+Bacchus Marsh Region	2016	1571
+Creswick - Clunes	2016	1213
+Daylesford	2016	1340
+Gordon (Vic.)	2016	1497
+Avoca	2016	932
+Beaufort	2016	1105
+Golden Plains - North	2016	1300
+Maryborough (Vic.)	2016	995
+Maryborough Region	2016	921
+Bendigo	2016	1200
+California Gully - Eaglehawk	2016	1250
+East Bendigo - Kennington	2016	1400
+Flora Hill - Spring Gully	2016	1400
+Kangaroo Flat - Golden Square	2016	1300
+Maiden Gully	2016	1700
+Strathfieldsaye	2016	1733
+White Hills - Ascot	2016	1517
+Bendigo Region - South	2016	1600
+Castlemaine	2016	1300
+Castlemaine Region	2016	1300
+Heathcote	2016	1252
+Kyneton	2016	1551
+Woodend	2016	1733
+Bendigo Region - North	2016	1300
+Loddon	2016	785
+Bannockburn	2016	1772
+Golden Plains - South	2016	1517
+Winchelsea	2016	1602
+Belmont	2016	1517
+Corio - Norlane	2016	1174
+Geelong	2016	1560
+Geelong West - Hamlyn Heights	2016	1517
+Grovedale	2016	1595
+Highton	2016	1751
+Lara	2016	1700
+Leopold	2016	1582
+Newcomb - Moolap	2016	1300
+Newtown (Vic.)	2016	1918
+North Geelong - Bell Park	2016	1408
+Clifton Springs	2016	1517
+Lorne - Anglesea	2016	1700
+Ocean Grove - Barwon Heads	2016	1781
+Portarlington	2016	1517
+Point Lonsdale - Queenscliff	2016	1733
+Torquay	2016	2000
+Alexandra	2016	1300
+Euroa	2016	1083
+Kilmore - Broadford	2016	1517
+Mansfield (Vic.)	2016	1350
+Nagambie	2016	1300
+Seymour	2016	1192
+Seymour Region	2016	1517
+Upper Yarra Valley	2016	1036
+Yea	2016	1322
+Benalla	2016	1170
+Benalla Region	2016	1281
+Rutherglen	2016	1300
+Wangaratta	2016	1300
+Wangaratta Region	2016	1346
+Beechworth	2016	1430
+Bright - Mount Beauty	2016	1300
+Chiltern - Indigo Valley	2016	1300
+Myrtleford	2016	1300
+Towong	2016	1083
+West Wodonga	2016	1400
+Wodonga	2016	1473
+Yackandandah	2016	1560
+Drouin	2016	1504
+Mount Baw Baw Region	2016	1400
+Trafalgar (Vic.)	2016	1356
+Warragul	2016	1473
+Alps - East	2016	0
+Bairnsdale	2016	1300
+Bruthen - Omeo	2016	1250
+Lake King	2016	0
+Lakes Entrance	2016	1300
+Orbost	2016	1023
+Paynesville	2016	1207
+Foster	2016	1170
+French Island	2016	493
+Korumburra	2016	1323
+Leongatha	2016	1361
+Phillip Island	2016	1400
+Wilsons Promontory	2016	0
+Wonthaggi - Inverloch	2016	1300
+Churchill	2016	1300
+Moe - Newborough	2016	1083
+Morwell	2016	953
+Traralgon	2016	1352
+Yallourn North - Glengarry	2016	1300
+Alps - West	2016	0
+Longford - Loch Sport	2016	1220
+Maffra	2016	1257
+Rosedale	2016	1300
+Sale	2016	1300
+Yarram	2016	1124
+Brunswick	2016	2058
+Brunswick East	2016	2000
+Brunswick West	2016	1982
+Coburg	2016	2000
+Pascoe Vale South	2016	2000
+Alphington - Fairfield	2016	2000
+Northcote	2016	2167
+Thornbury	2016	2000
+Ascot Vale	2016	2178
+Essendon - Aberfeldie	2016	2167
+Flemington	2016	1990
+Moonee Ponds	2016	2167
+Carlton	2016	1869
+Docklands	2016	2167
+East Melbourne	2016	2192
+Flemington Racecourse	2016	1991
+Kensington (Vic.)	2016	2019
+Melbourne	2016	1700
+North Melbourne	2016	2058
+Parkville	2016	2000
+South Yarra - West	2016	2000
+Southbank	2016	2000
+West Melbourne	2016	0
+Albert Park	2016	2500
+Elwood	2016	2167
+Port Melbourne	2016	2500
+Port Melbourne Industrial	2016	0
+South Melbourne	2016	2167
+St Kilda	2016	2000
+St Kilda East	2016	2000
+Armadale	2016	2400
+Prahran - Windsor	2016	2167
+South Yarra - East	2016	2000
+Toorak	2016	2500
+Abbotsford	2016	2142
+Carlton North - Princes Hill	2016	2167
+Collingwood	2016	2180
+Fitzroy	2016	2286
+Fitzroy North	2016	2167
+Richmond (Vic.)	2016	2200
+Yarra - North	2016	2300
+Ashburton (Vic.)	2016	2500
+Balwyn	2016	2500
+Balwyn North	2016	2500
+Camberwell	2016	2500
+Glen Iris - East	2016	2529
+Hawthorn	2016	2200
+Hawthorn East	2016	2300
+Kew	2016	2500
+Kew East	2016	2500
+Surrey Hills (West) - Canterbury	2016	2600
+Bulleen	2016	2000
+Doncaster	2016	2000
+Templestowe	2016	2167
+Templestowe Lower	2016	2064
+Doncaster East (North)	2016	2100
+Doncaster East (South)	2016	2000
+Blackburn	2016	2000
+Blackburn South	2016	2000
+Box Hill	2016	2000
+Box Hill North	2016	2000
+Burwood	2016	2000
+Burwood East	2016	2000
+Surrey Hills (East) - Mont Albert	2016	2300
+Beaumaris	2016	2600
+Brighton (Vic.)	2016	2992
+Brighton East	2016	2500
+Cheltenham - Highett (West)	2016	2167
+Hampton	2016	2500
+Sandringham - Black Rock	2016	2500
+Bentleigh - McKinnon	2016	2167
+Carnegie	2016	2000
+Caulfield - North	2016	2167
+Caulfield - South	2016	2300
+Elsternwick	2016	2167
+Hughesdale	2016	2000
+Murrumbeena	2016	2000
+Ormond - Glen Huntly	2016	2000
+Bentleigh East (North)	2016	2123
+Bentleigh East (South)	2016	2124
+Aspendale Gardens - Waterways	2016	2000
+Braeside	2016	0
+Carrum - Patterson Lakes	2016	1950
+Chelsea - Bonbeach	2016	1828
+Chelsea Heights	2016	1800
+Cheltenham - Highett (East)	2016	2000
+Edithvale - Aspendale	2016	2000
+Mentone	2016	2000
+Moorabbin - Heatherton	2016	2000
+Moorabbin Airport	2016	0
+Mordialloc - Parkdale	2016	2000
+Malvern - Glen Iris	2016	2500
+Malvern East	2016	2400
+Bundoora - East	2016	1733
+Greensborough	2016	1900
+Heidelberg - Rosanna	2016	2106
+Heidelberg West	2016	1800
+Ivanhoe	2016	2167
+Ivanhoe East - Eaglemont	2016	2500
+Montmorency - Briar Hill	2016	1950
+Viewbank - Yallambie	2016	1950
+Watsonia	2016	1800
+Kingsbury	2016	1800
+Reservoir - East	2016	1700
+Reservoir - West	2016	1800
+Preston - East	2016	1950
+Preston - West	2016	1949
+Eltham	2016	2000
+Hurstbridge	2016	1842
+Kinglake	2016	1600
+Panton Hill - St Andrews	2016	1993
+Plenty - Yarrambat	2016	2058
+Research - North Warrandyte	2016	2167
+Wattle Glen - Diamond Creek	2016	1960
+Bundoora - North	2016	1950
+Bundoora - West	2016	1690
+Lalor	2016	1674
+Mill Park - North	2016	1600
+Mill Park - South	2016	1612
+Thomastown	2016	1517
+Wallan	2016	1733
+Whittlesea	2016	1733
+Doreen	2016	1960
+Epping - East	2016	1600
+Epping - South	2016	1500
+Epping - West	2016	1890
+Mernda	2016	1900
+South Morang (North)	2016	1967
+South Morang (South)	2016	1733
+Wollert	2016	2000
+Airport West	2016	1900
+Essendon Airport	2016	0
+Keilor	2016	1959
+Keilor East	2016	2000
+Niddrie - Essendon West	2016	2000
+Strathmore	2016	2167
+Gisborne	2016	1993
+Macedon	2016	2000
+Riddells Creek	2016	1799
+Romsey	2016	1733
+Coburg North	2016	2000
+Fawkner	2016	1733
+Pascoe Vale	2016	1950
+Glenroy	2016	1733
+Gowanbrae	2016	1920
+Hadfield	2016	1638
+Sunbury	2016	1603
+Sunbury - South	2016	1600
+Broadmeadows	2016	1300
+Campbellfield - Coolaroo	2016	1380
+Gladstone Park - Westmeadows	2016	1710
+Greenvale - Bulla	2016	2000
+Meadow Heights	2016	1300
+Melbourne Airport	2016	2500
+Roxburgh Park - Somerton	2016	1650
+Tullamarine	2016	1538
+Craigieburn - Central	2016	1500
+Craigieburn - North	2016	1820
+Craigieburn - South	2016	1733
+Craigieburn - West	2016	1850
+Mickleham - Yuroke	2016	1907
+Bayswater	2016	1650
+Knoxfield - Scoresby	2016	1800
+Lysterfield	2016	2000
+Rowville - Central	2016	1733
+Rowville - North	2016	2000
+Rowville - South	2016	1900
+Wantirna	2016	1800
+Wantirna South	2016	1800
+Boronia	2016	1675
+Ferntree Gully (North)	2016	1700
+Ferntree Gully (South) - Upper Ferntree Gully	2016	1733
+The Basin	2016	1733
+Donvale - Park Orchards	2016	2167
+Warrandyte - Wonga Park	2016	2167
+Bayswater North	2016	1697
+Croydon Hills - Warranwood	2016	1850
+Ringwood	2016	1800
+Ringwood East	2016	1836
+Ringwood North	2016	2000
+Croydon - East	2016	1700
+Croydon - West	2016	1926
+Croydon South	2016	1745
+Forest Hill	2016	1950
+Mitcham (Vic.)	2016	2000
+Nunawading	2016	1950
+Vermont	2016	2000
+Vermont South	2016	2000
+Belgrave - Selby	2016	1700
+Chirnside Park	2016	1820
+Healesville - Yarra Glen	2016	1625
+Kilsyth	2016	1733
+Lilydale - Coldstream	2016	1777
+Monbulk - Silvan	2016	1733
+Montrose	2016	1755
+Mooroolbark	2016	1800
+Mount Dandenong - Olinda	2016	1800
+Mount Evelyn	2016	1733
+Upwey - Tecoma	2016	1714
+Wandin - Seville	2016	1733
+Yarra Valley	2016	1455
+Beaconsfield - Officer	2016	1950
+Bunyip - Garfield	2016	1733
+Emerald - Cockatoo	2016	1733
+Koo Wee Rup	2016	1695
+Pakenham - North	2016	1627
+Pakenham - South	2016	1733
+Berwick - North	2016	1733
+Berwick - South	2016	1907
+Doveton	2016	1350
+Hallam	2016	1560
+Narre Warren North	2016	2000
+Endeavour Hills - North	2016	1696
+Endeavour Hills - South	2016	1625
+Narre Warren - North East	2016	1600
+Narre Warren - South West	2016	1560
+Cranbourne	2016	1517
+Cranbourne East	2016	1978
+Cranbourne North	2016	1754
+Cranbourne South	2016	2080
+Cranbourne West	2016	1733
+Hampton Park - Lynbrook	2016	1508
+Lynbrook - Lyndhurst	2016	2000
+Pearcedale - Tooradin	2016	1733
+Narre Warren South (East)	2016	1800
+Narre Warren South (West)	2016	1733
+Clarinda - Oakleigh South	2016	1842
+Clayton South	2016	1680
+Dandenong	2016	1500
+Dandenong North	2016	1550
+Dingley Village	2016	1950
+Keysborough	2016	2000
+Noble Park North	2016	1597
+Springvale	2016	1500
+Springvale South	2016	1517
+Noble Park - East	2016	1500
+Noble Park - West	2016	1500
+Ashwood - Chadstone	2016	2000
+Clayton	2016	1800
+Glen Waverley - East	2016	2000
+Glen Waverley - West	2016	2000
+Mount Waverley - North	2016	2000
+Mount Waverley - South	2016	2000
+Mulgrave	2016	1950
+Oakleigh - Huntingdale	2016	2000
+Wheelers Hill	2016	2000
+Ardeer - Albion	2016	1500
+Cairnlea	2016	1850
+Deer Park - Derrimut	2016	1733
+Delahey	2016	1500
+Keilor Downs	2016	1538
+Kings Park (Vic.)	2016	1400
+St Albans - North	2016	1400
+St Albans - South	2016	1500
+Sunshine	2016	1600
+Sunshine North	2016	1600
+Sunshine West	2016	1500
+Sydenham	2016	1517
+Taylors Lakes	2016	1700
+Altona	2016	2000
+Altona Meadows	2016	1517
+Altona North	2016	2000
+Newport	2016	2167
+Seabrook	2016	1600
+Williamstown	2016	2210
+Braybrook	2016	1800
+Footscray	2016	1842
+Maribyrnong	2016	2000
+Seddon - Kingsville	2016	2167
+West Footscray - Tottenham	2016	1950
+Yarraville	2016	2167
+Bacchus Marsh	2016	1600
+Hillside	2016	1900
+Melton	2016	1385
+Melton South	2016	1517
+Melton West	2016	1517
+Rockbank - Mount Cottrell	2016	1300
+Taylors Hill	2016	2000
+Burnside	2016	1733
+Burnside Heights	2016	2000
+Caroline Springs	2016	1950
+Hoppers Crossing - North	2016	1500
+Hoppers Crossing - South	2016	1404
+Laverton	2016	1900
+Tarneit	2016	1820
+Truganina	2016	1846
+Werribee - South	2016	1557
+Wyndham Vale	2016	1600
+Point Cook - East	2016	2167
+Point Cook - North	2016	1915
+Point Cook - South	2016	2048
+Werribee - East	2016	1387
+Werribee - West	2016	1500
+Carrum Downs	2016	1517
+Frankston	2016	1517
+Frankston North	2016	1340
+Frankston South	2016	1950
+Langwarrin	2016	1720
+Seaford (Vic.)	2016	1600
+Skye - Sandhurst	2016	1867
+Dromana	2016	1733
+Flinders	2016	2000
+Hastings - Somers	2016	1573
+Mornington	2016	1733
+Mount Eliza	2016	2200
+Mount Martha	2016	2000
+Point Nepean	2016	1635
+Rosebud - McCrae	2016	1517
+Somerville	2016	1600
+Ararat	2016	1066
+Ararat Region	2016	975
+Horsham	2016	1200
+Horsham Region	2016	1100
+Nhill Region	2016	758
+St Arnaud	2016	867
+Stawell	2016	1000
+West Wimmera	2016	737
+Yarriambiack	2016	662
+Irymple	2016	1311
+Merbein	2016	1083
+Mildura Region	2016	900
+Red Cliffs	2016	1083
+Mildura - North	2016	1127
+Mildura - South	2016	1300
+Buloke	2016	693
+Gannawarra	2016	997
+Kerang	2016	975
+Robinvale	2016	1083
+Swan Hill	2016	1285
+Swan Hill Region	2016	980
+Echuca	2016	1387
+Kyabram	2016	1300
+Lockington - Gunbower	2016	1253
+Rochester	2016	1192
+Rushworth	2016	1000
+Cobram	2016	1300
+Moira	2016	1200
+Numurkah	2016	1105
+Yarrawonga	2016	1343
+Mooroopna	2016	1200
+Shepparton - North	2016	1333
+Shepparton - South	2016	1300
+Shepparton Region - East	2016	1300
+Shepparton Region - West	2016	1300
+Glenelg (Vic.)	2016	1083
+Hamilton (Vic.)	2016	1083
+Portland	2016	1200
+Southern Grampians	2016	867
+Camperdown	2016	1083
+Colac	2016	1270
+Colac Region	2016	1300
+Corangamite - North	2016	1000
+Corangamite - South	2016	1200
+Otway	2016	1300
+Moyne - East	2016	1200
+Moyne - West	2016	1400
+Warrnambool - North	2016	1500
+Warrnambool - South	2016	1364
+Migratory - Offshore - Shipping (Vic.)	2016	0
+No usual address (Vic.)	2016	0
+Alexandra Hills	2016	1820
+Belmont - Gumdale	2016	2167
+Birkdale	2016	1989
+Capalaba	2016	1848
+Thorneside	2016	1777
+Wellington Point	2016	2000
+Cleveland	2016	1950
+Ormiston	2016	2000
+Redland Bay	2016	2167
+Sheldon - Mount Cotton	2016	2167
+Thornlands	2016	2167
+Victoria Point	2016	1950
+Redland Islands	2016	1083
+Brisbane Port - Lytton	2016	0
+Manly - Lota	2016	2100
+Manly West	2016	2015
+Murarrie	2016	2167
+Tingalpa	2016	1900
+Wakerley	2016	2448
+Wynnum	2016	2095
+Wynnum West - Hemmant	2016	1950
+Bald Hills	2016	1733
+Bridgeman Downs	2016	2237
+Carseldine	2016	2000
+Everton Park	2016	1950
+McDowall	2016	2037
+Aspley	2016	2000
+Chermside	2016	1799
+Chermside West	2016	1988
+Geebung	2016	1950
+Kedron - Gordon Park	2016	2167
+Stafford	2016	2000
+Stafford Heights	2016	2000
+Wavell Heights	2016	2200
+Boondall	2016	1797
+Brisbane Airport	2016	2400
+Eagle Farm - Pinkenba	2016	2167
+Northgate - Virginia	2016	2100
+Nudgee - Banyo	2016	2000
+Nundah	2016	1820
+Bracken Ridge	2016	1810
+Brighton (Qld)	2016	1950
+Deagon	2016	1764
+Sandgate - Shorncliffe	2016	2000
+Taigum - Fitzgibbon	2016	1733
+Zillmere	2016	1733
+Camp Hill	2016	2258
+Cannon Hill	2016	2123
+Carina	2016	2000
+Carina Heights	2016	2000
+Carindale	2016	2167
+Annerley	2016	2000
+Coorparoo	2016	2000
+Fairfield - Dutton Park	2016	2004
+Greenslopes	2016	1997
+Holland Park	2016	2167
+Holland Park West	2016	2167
+Woolloongabba	2016	2080
+Yeronga	2016	2000
+Eight Mile Plains	2016	1900
+Macgregor (Qld)	2016	1800
+Mansfield (Qld)	2016	1950
+Mount Gravatt	2016	2068
+Rochedale - Burbank	2016	2500
+Upper Mount Gravatt	2016	1960
+Wishart	2016	1863
+Coopers Plains	2016	1700
+Moorooka	2016	1982
+Robertson	2016	2000
+Salisbury - Nathan	2016	1994
+Tarragindi	2016	2167
+Algester	2016	1753
+Calamvale - Stretton	2016	1863
+Pallara - Willawong	2016	2167
+Parkinson - Drewvale	2016	2000
+Rocklea - Acacia Ridge	2016	1517
+Kuraby	2016	2000
+Runcorn	2016	1647
+Sunnybank	2016	1733
+Sunnybank Hills	2016	1793
+Jindalee - Mount Ommaney	2016	2000
+Middle Park - Jamboree Heights	2016	1933
+Riverhills	2016	1918
+Seventeen Mile Rocks - Sinnamon Park	2016	2054
+Westlake	2016	2167
+Bellbowrie - Moggill	2016	2100
+Brookfield - Kenmore Hills	2016	2500
+Chapel Hill	2016	2167
+Fig Tree Pocket	2016	2815
+Kenmore	2016	2167
+Pinjarra Hills - Pullenvale	2016	2500
+Chelmer - Graceville	2016	2485
+Corinda	2016	2167
+Indooroopilly	2016	2000
+Sherwood	2016	2253
+St Lucia	2016	2167
+Taringa	2016	1900
+Enoggera	2016	2000
+Enoggera Reservoir	2016	1850
+Keperra	2016	1950
+Mitchelton	2016	2100
+Mount Coot-tha	2016	0
+The Gap	2016	2167
+Upper Kedron - Ferny Grove	2016	2000
+Brisbane City	2016	2022
+Fortitude Valley	2016	2000
+Highgate Hill	2016	2000
+Kangaroo Point	2016	2000
+New Farm	2016	2167
+South Brisbane	2016	2100
+Spring Hill	2016	1907
+West End	2016	2167
+Balmoral	2016	2400
+Bulimba	2016	2800
+East Brisbane	2016	2080
+Hawthorne	2016	2600
+Morningside - Seven Hills	2016	2199
+Norman Park	2016	2600
+Albion	2016	2000
+Alderley	2016	2167
+Ascot	2016	2392
+Clayfield	2016	2100
+Grange	2016	2300
+Hamilton (Qld)	2016	2200
+Hendra	2016	2600
+Kelvin Grove - Herston	2016	2099
+Newmarket	2016	2167
+Newstead - Bowen Hills	2016	2167
+Wilston	2016	2500
+Windsor	2016	2200
+Wooloowin - Lutwyche	2016	2200
+Ashgrove	2016	2432
+Auchenflower	2016	2167
+Bardon	2016	2600
+Paddington - Milton	2016	2400
+Red Hill (Qld)	2016	2488
+Toowong	2016	2050
+Brinsmead	2016	1800
+Clifton Beach - Kewarra Beach	2016	1733
+Freshwater - Stratford	2016	1700
+Redlynch	2016	1866
+Trinity Beach - Smithfield	2016	1842
+Yorkeys Knob - Machans Beach	2016	1500
+Bentley Park	2016	1695
+Cairns City	2016	1517
+Earlville - Bayview Heights	2016	1600
+Edmonton	2016	1603
+Gordonvale - Trinity	2016	1733
+Kanimbla - Mooroobool	2016	1733
+Lamb Range	2016	0
+Manoora	2016	1200
+Manunda	2016	1300
+Mount Sheridan	2016	1647
+Westcourt - Bungalow	2016	1400
+White Rock	2016	1408
+Whitfield - Edge Hill	2016	1700
+Woree	2016	1430
+Babinda	2016	1300
+Innisfail	2016	1300
+Johnstone	2016	1300
+Tully	2016	1343
+Wooroonooran	2016	0
+Yarrabah	2016	0
+Daintree	2016	1517
+Port Douglas	2016	1733
+Atherton	2016	1500
+Herberton	2016	1083
+Kuranda	2016	1647
+Malanda - Yungaburra	2016	1440
+Mareeba	2016	1465
+Balonne	2016	1161
+Chinchilla	2016	1650
+Goondiwindi	2016	1517
+Inglewood - Waggamba	2016	867
+Miles - Wandoan	2016	1103
+Roma	2016	1517
+Roma Region	2016	1100
+Tara	2016	867
+Crows Nest - Rosalie	2016	1300
+Jondaryan	2016	1300
+Millmerran	2016	1083
+Pittsworth	2016	1517
+Wambo	2016	1400
+Clifton - Greenmount	2016	1300
+Southern Downs - East	2016	1300
+Southern Downs - West	2016	1235
+Stanthorpe	2016	1181
+Stanthorpe Region	2016	1220
+Warwick	2016	1300
+Central Highlands - East	2016	1517
+Central Highlands - West	2016	1500
+Emerald	2016	2000
+Berserker	2016	1300
+Bouldercombe	2016	1701
+Emu Park	2016	1800
+Frenchville - Mount Archer	2016	1638
+Glenlee - Rockyview	2016	2000
+Gracemere	2016	1733
+Lakes Creek	2016	1387
+Mount Morgan	2016	880
+Norman Gardens	2016	1800
+Park Avenue	2016	1335
+Parkhurst - Kawana	2016	1625
+Rockhampton - West	2016	1408
+Rockhampton City	2016	1127
+Rockhampton Region - East	2016	1733
+Rockhampton Region - North	2016	1733
+Rockhampton Region - West	2016	1733
+Shoalwater Bay	2016	0
+The Range - Allenstown	2016	1560
+Yeppoon	2016	1900
+Banana	2016	1394
+Biloela	2016	1592
+Agnes Water - Miriam Vale	2016	1500
+Boyne Island - Tannum Sands	2016	2058
+Callemondah	2016	0
+Clinton - New Auckland	2016	2000
+Gladstone	2016	1736
+Gladstone Hinterland	2016	2167
+Kin Kora - Sun Valley	2016	1733
+South Trees	2016	0
+Telina - Toolooa	2016	1987
+West Gladstone	2016	1733
+Broadbeach Waters	2016	2167
+Burleigh Heads	2016	1842
+Burleigh Waters	2016	1900
+Mermaid Beach - Broadbeach	2016	1733
+Mermaid Waters	2016	1950
+Miami	2016	1829
+Coolangatta	2016	1603
+Currumbin - Tugun	2016	1733
+Currumbin Waters	2016	1950
+Elanora	2016	1950
+Palm Beach	2016	1900
+Arundel	2016	1800
+Biggera Waters	2016	1733
+Coombabah	2016	1690
+Labrador	2016	1517
+Paradise Point - Hollywell	2016	2167
+Runaway Bay	2016	2000
+Guanaba - Springbrook	2016	1800
+Tamborine - Canungra	2016	1842
+Currumbin Valley - Tallebudgera	2016	2167
+Mudgeeraba - Bonogin	2016	2000
+Reedy Creek - Andrews	2016	2145
+Carrara	2016	1820
+Highland Park	2016	1800
+Nerang - Mount Nathan	2016	1744
+Pacific Pines - Gaven	2016	2000
+Worongary - Tallai	2016	2167
+Coomera	2016	2102
+Helensvale	2016	2000
+Hope Island	2016	2167
+Jacobs Well - Alberton	2016	1824
+Ormeau - Yatala	2016	2080
+Oxenford - Maudsland	2016	1950
+Pimpama	2016	2000
+Upper Coomera - Willow Vale	2016	2058
+Clear Island Waters	2016	2084
+Merrimac	2016	1733
+Robina	2016	1900
+Varsity Lakes	2016	1850
+Ashmore	2016	1855
+Molendinar	2016	1855
+Parkwood	2016	1783
+Southport - North	2016	1517
+Southport - South	2016	1733
+Benowa	2016	2058
+Bundall	2016	2194
+Main Beach	2016	2000
+Surfers Paradise	2016	1700
+Darra - Sumner	2016	1672
+Durack	2016	1733
+Forest Lake - Doolandella	2016	1759
+Inala - Richlands	2016	1473
+Oxley (Qld)	2016	2000
+Wacol	2016	1300
+Boonah	2016	1517
+Esk	2016	1300
+Lake Manchester - England Creek	2016	0
+Lockyer Valley - East	2016	1517
+Lowood	2016	1560
+Rosewood	2016	1567
+Brassall	2016	1517
+Bundamba	2016	1363
+Churchill - Yamanto	2016	1551
+Ipswich - Central	2016	1517
+Ipswich - East	2016	1380
+Ipswich - North	2016	1911
+Karalee - Barellan Point	2016	2000
+Karana Downs	2016	1928
+Leichhardt - One Mile	2016	1300
+North Ipswich - Tivoli	2016	1323
+Raceview	2016	1517
+Ripley	2016	1837
+Riverview	2016	1300
+Bellbird Park - Brookwater	2016	2008
+Camira - Gailes	2016	1600
+Carole Park	2016	0
+Collingwood Park - Redbank	2016	1597
+Goodna	2016	1450
+New Chum	2016	0
+Redbank Plains	2016	1517
+Springfield	2016	1842
+Springfield Lakes	2016	1991
+Beaudesert	2016	1550
+Beenleigh	2016	1500
+Eagleby	2016	1336
+Edens Landing - Holmview	2016	1603
+Mount Warren Park	2016	1690
+Wolffdene - Bahrs Scrub	2016	1950
+Boronia Heights - Park Ridge	2016	1597
+Browns Plains	2016	1550
+Chambers Flat - Logan Reserve	2016	1842
+Crestmead	2016	1517
+Greenbank Military Camp	2016	0
+Hillcrest	2016	1690
+Marsden	2016	1524
+Munruben - Park Ridge South	2016	1950
+Regents Park - Heritage Park	2016	1733
+Greenbank	2016	2167
+Jimboomba	2016	1950
+Logan Village	2016	2013
+Bethania - Waterford	2016	1712
+Cornubia - Carbrook	2016	2000
+Loganholme - Tanah Merah	2016	1733
+Loganlea	2016	1600
+Shailer Park	2016	1950
+Waterford West	2016	1517
+Daisy Hill	2016	1850
+Kingston (Qld.)	2016	1394
+Logan Central	2016	1343
+Rochedale South - Priestdale	2016	1733
+Slacks Creek	2016	1411
+Springwood	2016	1750
+Underwood	2016	1900
+Woodridge	2016	1267
+Bowen	2016	1723
+Broadsound - Nebo	2016	1092
+Clermont	2016	1550
+Collinsville	2016	1348
+Moranbah	2016	1733
+Andergrove - Beaconsfield	2016	1950
+East Mackay	2016	1733
+Eimeo - Rural View	2016	2167
+Eungella Hinterland	2016	0
+Mackay	2016	1595
+Mackay Harbour	2016	2600
+Mount Pleasant - Glenella	2016	2167
+North Mackay	2016	1733
+Ooralea - Bakers Creek	2016	2045
+Pioneer Valley	2016	2000
+Sarina	2016	1950
+Seaforth - Calen	2016	1909
+Shoal Point - Bucasia	2016	2080
+Slade Point	2016	1733
+South Mackay	2016	1733
+Walkerston - Eton	2016	1950
+West Mackay	2016	1733
+Airlie - Whitsundays	2016	1900
+Cape Conway	2016	0
+Proserpine	2016	1603
+Beachmere - Sandstone Point	2016	1625
+Bribie Island	2016	1600
+Burpengary - East	2016	2000
+Caboolture	2016	1591
+Caboolture - South	2016	1517
+Elimbah	2016	1842
+Morayfield - East	2016	1603
+Wamuran	2016	2000
+Kilcoy	2016	1437
+Woodford - D'Aguilar	2016	1733
+Burpengary	2016	1733
+Deception Bay	2016	1585
+Morayfield	2016	2000
+Narangba	2016	1950
+Upper Caboolture	2016	1907
+Clontarf	2016	1699
+Margate - Woody Point	2016	1625
+Redcliffe	2016	1517
+Rothwell - Kippa-Ring	2016	1625
+Scarborough - Newport - Moreton Island	2016	1900
+Albany Creek	2016	1950
+Cashmere	2016	2100
+Dayboro	2016	2129
+Eatons Hill	2016	2129
+The Hills District	2016	2000
+Samford Valley	2016	2383
+Dakabin - Kallangur	2016	1668
+Murrumba Downs - Griffin	2016	1950
+North Lakes - Mango Hill	2016	2058
+Bray Park	2016	1733
+Lawnton	2016	1625
+Petrie	2016	1733
+Strathpine - Brendale	2016	1580
+Aurukun	2016	0
+Cape York	2016	1247
+Croydon - Etheridge	2016	650
+Kowanyama - Pormpuraaw	2016	867
+Northern Peninsula	2016	0
+Tablelands	2016	1486
+Torres	2016	1705
+Torres Strait Islands	2016	0
+Weipa	2016	2200
+Carpentaria	2016	997
+Mount Isa	2016	1900
+Mount Isa Region	2016	1500
+Northern Highlands	2016	737
+Barcaldine - Blackall	2016	900
+Charleville	2016	997
+Far Central West	2016	867
+Far South West	2016	650
+Longreach	2016	1300
+Buderim - North	2016	1950
+Buderim - South	2016	1950
+Mountain Creek	2016	2000
+Sippy Downs	2016	1842
+Aroona - Currimundi	2016	1842
+Buddina - Minyama	2016	2000
+Caloundra - Kings Beach	2016	1535
+Caloundra - West	2016	1950
+Golden Beach - Pelican Waters	2016	1950
+Moffat Beach - Battery Hill	2016	1777
+Parrearra - Warana	2016	2000
+Wurtulla - Birtinya	2016	1950
+Coolum Beach	2016	1800
+Marcoola - Mudjimba	2016	1733
+Maroochydore - Kuluin	2016	1647
+Mooloolaba - Alexandra Headland	2016	1733
+Noosa Heads	2016	1939
+Noosaville	2016	1800
+Sunshine Beach	2016	1863
+Tewantin	2016	1700
+Peregian Beach - Marcus Beach	2016	1890
+Peregian Springs	2016	2000
+Beerwah	2016	1733
+Caloundra Hinterland	2016	1560
+Glass House Mountains	2016	1799
+Landsborough	2016	1800
+Maroochy Hinterland	2016	1600
+Palmwoods	2016	1733
+Bli Bli	2016	1785
+Diddillibah - Rosemount	2016	1790
+Eumundi - Yandina	2016	1733
+Nambour	2016	1585
+Noosa Hinterland	2016	1662
+Cambooya - Wyreema	2016	1733
+Darling Heights	2016	1517
+Drayton - Harristown	2016	1400
+Gatton	2016	1473
+Gowrie (Qld)	2016	1642
+Highfields	2016	1950
+Lockyer Valley - West	2016	1600
+Middle Ridge	2016	1937
+Newtown (Qld)	2016	1300
+North Toowoomba - Harlaxton	2016	1355
+Rangeville	2016	1668
+Toowoomba - Central	2016	1493
+Toowoomba - East	2016	1733
+Toowoomba - West	2016	1733
+Wilsonton	2016	1322
+Ayr	2016	1326
+Burdekin	2016	1300
+Charters Towers	2016	1300
+Dalrymple	2016	1419
+Ingham	2016	1300
+Ingham Region	2016	1300
+Palm Island	2016	0
+Aitkenvale	2016	1603
+Annandale	2016	1830
+Belgian Gardens - Pallarenda	2016	1733
+Bohle Plains	2016	2000
+Condon - Rasmussen	2016	1517
+Cranbrook	2016	1511
+Deeragun	2016	1950
+Douglas	2016	1859
+Garbutt - West End	2016	1517
+Gulliver - Currajong - Vincent	2016	1517
+Heatley	2016	1500
+Hermit Park - Rosslea	2016	1573
+Hyde Park - Pimlico	2016	1517
+Kelso	2016	1625
+Kirwan - East	2016	1517
+Kirwan - West	2016	1733
+Magnetic Island	2016	1387
+Mount Louisa	2016	1863
+Mundingburra	2016	1600
+Northern Beaches	2016	1733
+Oonoonba	2016	1907
+South Townsville - Railway Estate	2016	1625
+Townsville - South	2016	1777
+Townsville City - North Ward	2016	2000
+Wulguru - Roseneath	2016	1500
+Ashfield - Kepnock	2016	1473
+Bargara - Burnett Heads	2016	1517
+Branyan - Kensington	2016	1560
+Bundaberg	2016	1192
+Bundaberg East - Kalkie	2016	1517
+Bundaberg North - Gooburrum	2016	1300
+Bundaberg Region - North	2016	1332
+Bundaberg Region - South	2016	1300
+Millbank - Avoca	2016	1400
+Svensson Heights - Norville	2016	1300
+Walkervale - Avenell Heights	2016	1300
+Gayndah - Mundubbera	2016	1083
+Gin Gin	2016	994
+Kingaroy	2016	1300
+Kingaroy Region - North	2016	1053
+Kingaroy Region - South	2016	1387
+Monto - Eidsvold	2016	1083
+Nanango	2016	1083
+North Burnett	2016	0
+Cooloola	2016	1200
+Gympie - North	2016	1278
+Gympie - South	2016	1408
+Gympie Region	2016	1343
+Kilkivan	2016	1200
+Booral - River Heads	2016	1514
+Craignish - Dundowran Beach	2016	1733
+Pialba - Eli Waters	2016	1474
+Point Vernon	2016	1358
+Torquay - Scarness - Kawungan	2016	1404
+Urangan - Wondunna	2016	1517
+Burrum - Fraser	2016	1300
+Granville	2016	1200
+Maryborough (Qld)	2016	1191
+Maryborough Region - South	2016	1105
+Tinana	2016	1408
+Migratory - Offshore - Shipping (Qld)	2016	0
+No usual address (Qld)	2016	0
+Adelaide	2016	1733
+North Adelaide	2016	1950
+Adelaide Hills	2016	1720
+Aldgate - Stirling	2016	1800
+Hahndorf - Echunga	2016	1733
+Lobethal - Woodside	2016	1517
+Mount Barker	2016	1639
+Mount Barker Region	2016	1517
+Nairne	2016	1517
+Uraidla - Summertown	2016	1925
+Burnside - Wattle Park	2016	2000
+Glenside - Beaumont	2016	2167
+Toorak Gardens	2016	2000
+Athelstone	2016	1647
+Paradise - Newton	2016	1560
+Rostrevor - Magill	2016	1733
+Norwood (SA)	2016	1816
+Payneham - Felixstow	2016	1733
+St Peters - Marden	2016	1950
+Nailsworth - Broadview	2016	1764
+Prospect	2016	1950
+Walkerville	2016	2000
+Goodwood - Millswood	2016	1950
+Unley - Parkside	2016	2000
+Gawler - North	2016	1517
+Gawler - South	2016	1423
+Lewiston - Two Wells	2016	1573
+Craigmore - Blakeview	2016	1400
+Davoren Park	2016	1250
+Elizabeth	2016	1044
+Elizabeth East	2016	1213
+Munno Para West - Angle Vale	2016	1538
+One Tree Hill	2016	1600
+Smithfield - Elizabeth North	2016	1062
+Virginia - Waterloo Corner	2016	1603
+Enfield - Blair Athol	2016	1517
+Northgate - Oakden - Gilles Plains	2016	1600
+Windsor Gardens	2016	1659
+Dry Creek - North	2016	0
+Ingle Farm	2016	1400
+Para Hills	2016	1312
+Parafield	2016	0
+Parafield Gardens	2016	1387
+Paralowie	2016	1300
+Salisbury	2016	1294
+Salisbury East	2016	1387
+Salisbury North	2016	1300
+Mawson Lakes - Globe Derby Park	2016	1733
+Pooraka - Cavan	2016	1365
+Golden Grove	2016	1700
+Greenwith	2016	1599
+Highbury - Dernancourt	2016	1624
+Hope Valley - Modbury	2016	1481
+Modbury Heights	2016	1500
+Redwood Park	2016	1517
+St Agnes - Ridgehaven	2016	1500
+Brighton (SA)	2016	1800
+Glenelg (SA)	2016	1800
+Edwardstown	2016	1625
+Hallett Cove	2016	1600
+Marino - Seaview Downs	2016	1733
+Mitchell Park	2016	1550
+Morphettville	2016	1733
+Sheidow Park - Trott Park	2016	1560
+Warradale	2016	1647
+Belair	2016	1991
+Bellevue Heights	2016	1700
+Blackwood	2016	1800
+Colonel Light Gardens	2016	1907
+Mitcham (SA)	2016	2000
+Panorama	2016	1625
+Aberfoyle Park	2016	1517
+Aldinga	2016	1408
+Christie Downs	2016	1300
+Christies Beach	2016	1300
+Clarendon	2016	1733
+Coromandel Valley	2016	1801
+Flagstaff Hill	2016	1733
+Hackham - Onkaparinga Hills	2016	1300
+Hackham West - Huntfield Heights	2016	1213
+Happy Valley	2016	1517
+Happy Valley Reservoir	2016	0
+Lonsdale	2016	0
+McLaren Vale	2016	1625
+Morphett Vale - East	2016	1300
+Morphett Vale - West	2016	1300
+Reynella	2016	1365
+Seaford (SA)	2016	1554
+Willunga	2016	1625
+Woodcroft	2016	1517
+Beverley	2016	1700
+Flinders Park	2016	1733
+Henley Beach	2016	1800
+Hindmarsh - Brompton	2016	1625
+Royal Park - Hendon - Albert Park	2016	1600
+Seaton - Grange	2016	1680
+West Lakes	2016	1733
+Woodville - Cheltenham	2016	1600
+Dry Creek - South	2016	0
+Largs Bay - Semaphore	2016	1600
+North Haven	2016	1600
+Port Adelaide	2016	1408
+The Parks	2016	1517
+Torrens Island	2016	0
+Adelaide Airport	2016	0
+Fulham	2016	1950
+Lockleys	2016	1660
+Plympton	2016	1625
+Richmond (SA)	2016	1733
+West Beach	2016	1950
+Barossa - Angaston	2016	1408
+Light	2016	1300
+Lyndoch	2016	1517
+Mallala	2016	1192
+Nuriootpa	2016	1408
+Tanunda	2016	1408
+Clare	2016	1300
+Gilbert Valley	2016	1170
+Goyder	2016	867
+Wakefield - Barunga West	2016	910
+Jamestown	2016	867
+Peterborough - Mount Remarkable	2016	740
+Port Pirie	2016	1000
+Port Pirie Region	2016	1042
+Kadina	2016	1127
+Moonta	2016	1192
+Wallaroo	2016	1196
+Yorke Peninsula - North	2016	1000
+Yorke Peninsula - South	2016	1000
+Ceduna	2016	1300
+Eyre Peninsula	2016	1200
+Kimba - Cleve - Franklin Harbour	2016	910
+Le Hunte - Elliston	2016	800
+Port Lincoln	2016	1317
+West Coast (SA)	2016	1083
+Western	2016	0
+Whyalla	2016	1235
+Whyalla - North	2016	0
+APY Lands	2016	0
+Coober Pedy	2016	556
+Quorn - Lake Gilles	2016	950
+Outback	2016	645
+Port Augusta	2016	1213
+Roxby Downs	2016	2000
+Goolwa - Port Elliot	2016	1213
+Kangaroo Island	2016	1083
+Strathalbyn	2016	1517
+Strathalbyn Region	2016	1500
+Victor Harbor	2016	1287
+Yankalilla	2016	1300
+Grant	2016	1300
+Kingston - Robe	2016	1083
+Millicent	2016	975
+Naracoorte	2016	1105
+Naracoorte Region	2016	867
+Penola	2016	867
+Tatiara	2016	975
+Wattle Range	2016	992
+Mount Gambier - East	2016	1200
+Mount Gambier - West	2016	1192
+Barmera	2016	1083
+Berri	2016	1083
+Karoonda - Lameroo	2016	650
+Loxton	2016	1083
+Loxton Region	2016	910
+Mannum	2016	1083
+Murray Bridge	2016	1170
+Murray Bridge Region	2016	1200
+Renmark	2016	991
+Renmark Region	2016	1083
+The Coorong	2016	867
+Waikerie	2016	915
+Migratory - Offshore - Shipping (SA)	2016	0
+No usual address (SA)	2016	0
+Augusta	2016	1800
+Busselton	2016	1800
+Busselton Region	2016	2000
+Margaret River	2016	1733
+Australind - Leschenault	2016	1887
+Capel	2016	1733
+College Grove - Carey Park	2016	1517
+Collie	2016	1517
+Dardanup	2016	2000
+Davenport	2016	0
+Eaton - Pelican Point	2016	1820
+Harvey	2016	1733
+East Bunbury - Glen Iris	2016	1625
+Waroona	2016	1636
+Dalyellup	2016	1950
+Gelorup - Stratham	2016	2058
+South Bunbury - Bunbury	2016	1733
+Withers - Usher	2016	1443
+Bridgetown - Boyup Brook	2016	1500
+Donnybrook - Balingup	2016	1541
+Manjimup	2016	1300
+Pemberton	2016	1300
+Dawesville - Bouvard	2016	2000
+Falcon - Wannanup	2016	1863
+Greenfields	2016	1517
+Halls Head - Erskine	2016	1950
+Mandurah	2016	1500
+Mandurah - East	2016	1921
+Mandurah - North	2016	2000
+Mandurah - South	2016	1625
+Pinjarra	2016	1811
+City Beach	2016	3033
+Claremont (WA)	2016	2500
+Cottesloe	2016	3250
+Floreat	2016	3000
+Mosman Park - Peppermint Grove	2016	2700
+Nedlands - Dalkeith - Crawley	2016	3300
+Swanbourne - Mount Claremont	2016	3000
+Kings Park (WA)	2016	0
+Mount Hawthorn - Leederville	2016	2427
+Mount Lawley - Inglewood	2016	2167
+North Perth	2016	2400
+Perth City	2016	2167
+Subiaco - Shenton Park	2016	2500
+Wembley - West Leederville - Glendalough	2016	2058
+Bassendean - Eden Hill - Ashfield	2016	1922
+Bayswater - Embleton - Bedford	2016	2117
+Maylands	2016	1950
+Morley	2016	1900
+Noranda	2016	1950
+Chidlow	2016	1950
+Glen Forrest - Darlington	2016	2167
+Helena Valley - Koongamia	2016	2000
+Malmalling - Reservoir	2016	0
+Mundaring	2016	2000
+Swan View - Greenmount - Midvale	2016	1733
+Avon Valley National Park	2016	0
+Ballajura	2016	1780
+Beechboro	2016	1950
+Bullsbrook	2016	2000
+Ellenbrook	2016	2167
+Gidgegannup	2016	2100
+Hazelmere - Guildford	2016	2000
+Lockridge - Kiara	2016	1950
+Malaga	2016	0
+Melaleuca - Lexia	2016	0
+Middle Swan - Herne Hill	2016	1733
+Midland - Guildford	2016	1733
+Stratton - Jane Brook	2016	1800
+The Vines	2016	2297
+Walyunga National Park	2016	0
+Craigie - Beldon	2016	1900
+Currambine - Kinross	2016	2000
+Duncraig	2016	2167
+Greenwood - Warwick	2016	2000
+Heathridge - Connolly	2016	1993
+Hillarys	2016	2383
+Iluka - Burns Beach	2016	2750
+Joondalup - Edgewater	2016	1950
+Kingsley	2016	2000
+Mullaloo - Kallaroo	2016	2167
+Ocean Reef	2016	2200
+Padbury	2016	2000
+Sorrento - Marmion	2016	2400
+Woodvale	2016	2162
+Balcatta - Hamersley	2016	1950
+Balga - Mirrabooka	2016	1690
+Dianella	2016	2000
+Herdsman	2016	0
+Innaloo - Doubleview	2016	2208
+Karrinyup - Gwelup - Carine	2016	2373
+Nollamara - Westminster	2016	1863
+Osborne Park Industrial	2016	0
+Scarborough	2016	2167
+Stirling - Osborne Park	2016	2000
+Trigg - North Beach - Watermans Bay	2016	2500
+Tuart Hill - Joondanna	2016	1907
+Wembley Downs - Churchlands - Woodlands	2016	2500
+Yokine - Coolbinia - Menora	2016	2000
+Alexander Heights - Koondoola	2016	1733
+Butler - Merriwa - Ridgewood	2016	1988
+Carramar	2016	2123
+Clarkson	2016	1950
+Girrawheen	2016	1549
+Madeley - Darch - Landsdale	2016	2178
+Marangaroo	2016	1757
+Mindarie - Quinns Rocks - Jindalee	2016	2253
+Neerabup National Park	2016	0
+Tapping - Ashby - Sinagra	2016	2182
+Wanneroo	2016	2077
+Alkimos - Eglinton	2016	2291
+Carabooda - Pinjar	2016	2167
+Two Rocks	2016	2000
+Yanchep	2016	2050
+Armadale - Wungong - Brookdale	2016	1517
+Ashendon - Lesley	2016	0
+Camillo - Champion Lakes	2016	1560
+Forrestdale - Harrisdale - Piara Waters	2016	2300
+Kelmscott	2016	1650
+Mount Nasura - Mount Richon - Bedfordale	2016	2058
+Roleystone	2016	2102
+Seville Grove	2016	1744
+Belmont - Ascot - Redcliffe	2016	2000
+East Victoria Park - Carlisle	2016	2050
+Kewdale Commercial	2016	0
+Perth Airport	2016	0
+Rivervale - Kewdale - Cloverdale	2016	1950
+Victoria Park - Lathlain - Burswood	2016	2045
+Bentley - Wilson - St James	2016	1984
+Canning Vale - West	2016	2000
+Canning Vale Commercial	2016	0
+Cannington - Queens Park	2016	1900
+Parkwood - Ferndale - Lynwood	2016	1733
+Riverton - Shelley - Rossmoyne	2016	2167
+Welshpool	2016	0
+Willetton	2016	2000
+Beckenham - Kenwick - Langford	2016	1700
+Canning Vale - East	2016	2100
+Gosnells	2016	1650
+Huntingdale - Southern River	2016	2066
+Maddington - Orange Grove - Martin	2016	1719
+Thornlie	2016	1733
+Forrestfield - Wattle Grove	2016	2000
+High Wycombe	2016	1950
+Kalamunda - Maida Vale - Gooseberry Hill	2016	2150
+Lesmurdie - Bickley - Carmel	2016	2031
+Byford	2016	2091
+Mundijong	2016	2170
+Serpentine - Jarrahdale	2016	2167
+Como	2016	2167
+Manning - Waterford	2016	2400
+South Perth - Kensington	2016	2300
+Banjup	2016	2167
+Bibra Industrial	2016	0
+Bibra Lake	2016	0
+Coogee	2016	2200
+Coolbellup	2016	1822
+Hamilton Hill	2016	1860
+Henderson	2016	0
+North Coogee	2016	2860
+South Lake - Cockburn Central	2016	1759
+Spearwood	2016	1955
+Success - Hammond Park	2016	2167
+Yangebup	2016	1950
+Beeliar - Wattleup	2016	2167
+Jandakot	2016	2167
+East Fremantle	2016	2500
+Fremantle	2016	2167
+Fremantle - South	2016	2100
+O'Connor (WA)	2016	0
+Bertram - Wellard (West)	2016	2015
+Calista	2016	1501
+Hope Valley - Postans	2016	1700
+Kwinana Industrial	2016	0
+Parmelia - Orelia	2016	1500
+Casuarina - Wandi	2016	2250
+Applecross - Ardross	2016	2633
+Bateman	2016	2167
+Bicton - Palmyra	2016	2167
+Booragoon	2016	2394
+Bull Creek	2016	2000
+Leeming	2016	2000
+Melville	2016	2383
+Murdoch - Kardinya	2016	2000
+Willagee	2016	2167
+Winthrop	2016	2156
+Baldivis	2016	2167
+Cooloongup	2016	1517
+Port Kennedy	2016	1861
+Rockingham	2016	1679
+Rockingham Lakes	2016	0
+Safety Bay - Shoalwater	2016	1800
+Singleton - Golden Bay - Secret Harbour	2016	2167
+Waikiki	2016	1750
+Warnbro	2016	1695
+Albany	2016	1517
+Albany Region	2016	1634
+Bayonet Head - Lower King	2016	1668
+Denmark	2016	1573
+Gnowangerup	2016	763
+Katanning	2016	1100
+Kojonup	2016	1000
+Little Grove - Elleker	2016	1733
+McKail - Willyung	2016	1668
+Plantagenet	2016	1222
+Stirling Range National Park	2016	0
+Chittering	2016	2167
+Cunderdin	2016	953
+Dowerin	2016	942
+Gingin - Dandaragan	2016	1733
+Merredin	2016	1045
+Moora	2016	1057
+Mukinbudin	2016	650
+Northam	2016	1408
+Toodyay	2016	1600
+York - Beverley	2016	1360
+Brookton	2016	1083
+Kulin	2016	758
+Murray	2016	1717
+Narrogin	2016	1213
+Wagin	2016	1023
+Broome	2016	2593
+Derby - West Kimberley	2016	1733
+Halls Creek	2016	981
+Kununurra	2016	2167
+Roebuck	2016	1998
+East Pilbara	2016	3100
+Newman	2016	433
+Port Hedland	2016	3033
+South Hedland	2016	2600
+Ashburton (WA)	2016	2000
+Karratha	2016	2500
+Roebourne	2016	2988
+Esperance	2016	1733
+Esperance Region	2016	1083
+Carnarvon	2016	1517
+Exmouth	2016	2000
+Boulder	2016	1517
+Kalgoorlie	2016	1900
+Kalgoorlie - North	2016	1993
+Kalgoorlie Airport	2016	0
+Kambalda - Coolgardie - Norseman	2016	1083
+Leinster - Leonora	2016	794
+Trafalgar (WA)	2016	0
+Geraldton	2016	1517
+Geraldton - East	2016	1517
+Geraldton - North	2016	1950
+Geraldton - South	2016	1900
+Irwin	2016	1733
+Meekatharra	2016	596
+Morawa	2016	800
+Northampton - Mullewa - Greenough	2016	1500
+Migratory - Offshore - Shipping (WA)	2016	0
+No usual address (WA)	2016	0
+Bridgewater - Gagebrook	2016	976
+Brighton - Pontville	2016	1387
+Old Beach - Otago	2016	1517
+Bellerive - Rosny	2016	1500
+Cambridge	2016	1625
+Geilston Bay - Risdon	2016	1517
+Howrah - Tranmere	2016	1625
+Lindisfarne - Rose Bay	2016	1548
+Mornington - Warrane	2016	1292
+Risdon Vale	2016	997
+Rokeby	2016	1200
+South Arm	2016	1517
+Austins Ferry - Granton	2016	1500
+Berriedale - Chigwell	2016	1250
+Claremont (Tas.)	2016	1300
+Derwent Park - Lutana	2016	1213
+Glenorchy	2016	1222
+Montrose - Rosetta	2016	1322
+Moonah	2016	1300
+New Norfolk	2016	1105
+West Moonah	2016	1300
+Kingston - Huntingfield	2016	1517
+Kingston Beach - Blackmans Bay	2016	1560
+Margate - Snug	2016	1549
+Mount Wellington	2016	0
+Taroona - Bonnet Hill	2016	1625
+Hobart	2016	1733
+Lenah Valley - Mount Stuart	2016	1517
+Mount Nelson - Dynnyrne	2016	1733
+New Town	2016	1600
+Sandy Bay	2016	1950
+South Hobart - Fern Tree	2016	1500
+West Hobart	2016	1692
+Dodges Ferry - Lewisham	2016	1196
+Sorell - Richmond	2016	1404
+Invermay	2016	1100
+Kings Meadows - Punchbowl	2016	1298
+Launceston	2016	1450
+Legana	2016	1430
+Mowbray	2016	1083
+Newnham - Mayfield	2016	1152
+Newstead	2016	1473
+Norwood (Tas.)	2016	1343
+Prospect Vale - Blackstone	2016	1500
+Ravenswood	2016	867
+Riverside	2016	1400
+South Launceston	2016	1213
+Summerhill - Prospect	2016	1300
+Trevallyn	2016	1366
+Waverley - St Leonards	2016	1087
+West Launceston	2016	1309
+Youngtown - Relbia	2016	1300
+Beauty Point - Beaconsfield	2016	1000
+Deloraine	2016	1083
+Grindelwald - Lanena	2016	1300
+Hadspen - Carrick	2016	1300
+Westbury	2016	1124
+Dilston - Lilydale	2016	1300
+George Town	2016	1083
+Longford	2016	1300
+Northern Midlands	2016	1000
+Perth - Evandale	2016	1358
+St Helens - Scamander	2016	915
+Flinders and Cape Barren Islands	2016	758
+Scottsdale - Bridport	2016	1025
+Central Highlands	2016	867
+Derwent Valley	2016	1187
+Southern Midlands	2016	1192
+Wilderness - East	2016	0
+Bruny Island - Kettering	2016	1300
+Cygnet	2016	1200
+Geeveston - Dover	2016	1083
+Huonville - Franklin	2016	1365
+Forestier - Tasman	2016	910
+Triabunna - Bicheno	2016	1083
+Acton - Upper Burnie	2016	1000
+Burnie - Ulverstone Region	2016	1300
+Burnie - Wivenhoe	2016	1018
+Parklands - Camdale	2016	1213
+Penguin - Sulphur Creek	2016	1231
+Romaine - Havenview	2016	1148
+Somerset	2016	1103
+Ulverstone	2016	1159
+West Ulverstone	2016	1153
+Wynyard	2016	1200
+Devonport	2016	1170
+East Devonport	2016	1083
+Latrobe	2016	1250
+Miandetta - Don	2016	1300
+Port Sorell	2016	1300
+Quoiba - Spreyton	2016	1300
+Sheffield - Railton	2016	1083
+Turners Beach - Forth	2016	1387
+King Island	2016	1000
+North West	2016	1103
+Smithton	2016	1083
+Waratah	2016	1153
+West Coast (Tas.)	2016	673
+Wilderness - West	2016	0
+Migratory - Offshore - Shipping (Tas.)	2016	0
+No usual address (Tas.)	2016	0
+Darwin Airport	2016	0
+Darwin City	2016	2167
+East Point	2016	0
+Fannie Bay - The Gardens	2016	2240
+Larrakeyah	2016	2253
+Ludmilla - The Narrows	2016	2240
+Parap	2016	2300
+Stuart Park	2016	2167
+Woolner - Bayview - Winnellie	2016	2600
+Alawa	2016	2058
+Anula	2016	2167
+Berrimah	2016	2600
+Brinkin - Nakara	2016	2167
+Buffalo Creek	2016	0
+Charles Darwin	2016	0
+Coconut Grove	2016	2012
+East Arm	2016	0
+Jingili	2016	2167
+Karama	2016	2000
+Leanyer	2016	2167
+Lyons (NT)	2016	3130
+Malak - Marrara	2016	2000
+Millner	2016	1985
+Moil	2016	2167
+Nightcliff	2016	2000
+Rapid Creek	2016	2167
+Tiwi	2016	2167
+Wagaman	2016	2121
+Wanguri	2016	2250
+Wulagi	2016	2205
+Howard Springs	2016	2500
+Humpty Doo	2016	2546
+Koolpinyah	2016	0
+Virginia	2016	2400
+Weddell	2016	2167
+Bakewell	2016	1888
+Driver	2016	2167
+Durack - Marlow Lagoon	2016	2600
+Gray	2016	1902
+Moulden	2016	1966
+Palmerston - North	2016	2513
+Palmerston - South	2016	2777
+Rosebery - Bellamack	2016	2600
+Woodroffe	2016	2167
+Charles	2016	1950
+East Side	2016	1847
+Flynn (NT)	2016	1950
+Larapinta	2016	2000
+Mount Johns	2016	1842
+Petermann - Simpson	2016	0
+Ross	2016	2383
+Sandover - Plenty	2016	1500
+Tanami	2016	0
+Yuendumu - Anmatjere	2016	347
+Barkly	2016	1192
+Tennant Creek	2016	1216
+Alligator	2016	1500
+Daly	2016	1528
+Thamarrurr	2016	412
+Tiwi Islands	2016	0
+West Arnhem	2016	0
+Anindilyakwa	2016	0
+East Arnhem	2016	0
+Nhulunbuy	2016	1733
+Elsey	2016	867
+Gulf	2016	1475
+Katherine	2016	1733
+Victoria River	2016	0
+Migratory - Offshore - Shipping (NT)	2016	0
+No usual address (NT)	2016	0
+Aranda	2016	2289
+Belconnen	2016	1733
+Bruce	2016	1950
+Charnwood	2016	1798
+Cook	2016	2000
+Dunlop	2016	2058
+Evatt	2016	2000
+Florey	2016	1950
+Flynn (ACT)	2016	2058
+Fraser	2016	2167
+Giralang	2016	2000
+Gooromon	2016	0
+Hawker	2016	2100
+Higgins	2016	1950
+Holt	2016	1799
+Kaleen	2016	2000
+Latham	2016	2000
+Lawson	2016	3000
+Macgregor (ACT)	2016	2000
+Macquarie	2016	2000
+McKellar	2016	2075
+Melba	2016	2000
+Page	2016	1950
+Scullin	2016	1950
+Spence	2016	1985
+Weetangera	2016	2200
+Molonglo Corridor	2016	0
+West Belconnen	2016	0
+Hume	2016	0
+Kowen	2016	0
+Canberra East	2016	1517
+Canberra Airport	2016	0
+Majura	2016	2167
+Amaroo	2016	2167
+Bonner	2016	2200
+Casey	2016	2201
+Crace	2016	2500
+Forde	2016	2600
+Franklin	2016	2000
+Gungahlin	2016	2039
+Hall	2016	2167
+Harrison	2016	2040
+Mitchell	2016	0
+Ngunnawal	2016	1950
+Nicholls	2016	2167
+Palmerston	2016	1950
+Gungahlin - East	2016	0
+Gungahlin - West	2016	0
+Jacka	2016	1733
+Kenny	2016	0
+Moncrieff	2016	2242
+Taylor	2016	0
+Throsby	2016	0
+Acton	2016	0
+Ainslie	2016	2450
+Braddon	2016	2000
+Civic	2016	2200
+Dickson	2016	2084
+Downer	2016	2167
+Hackett	2016	2383
+Lyneham	2016	2000
+O'Connor (ACT)	2016	2167
+Turner	2016	2015
+Watson	2016	2044
+Black Mountain	2016	0
+Campbell	2016	2534
+Duntroon	2016	0
+Parkes (ACT) - North	2016	0
+Reid	2016	2206
+Russell	2016	0
+Deakin	2016	3000
+Forrest	2016	2620
+Griffith (ACT)	2016	2200
+Lake Burley Griffin	2016	0
+Narrabundah	2016	2167
+Parkes (ACT) - South	2016	0
+Red Hill (ACT)	2016	3000
+Yarralumla	2016	2700
+Barton	2016	2037
+Fyshwick	2016	0
+Kingston (ACT)	2016	2167
+Banks	2016	2000
+Bonython	2016	1989
+Calwell	2016	2000
+Chisholm	2016	2000
+Conder	2016	2087
+Fadden	2016	2299
+Gilmore	2016	2037
+Gordon (ACT)	2016	1950
+Gowrie (ACT)	2016	2167
+Greenway	2016	1652
+Isabella Plains	2016	2000
+Kambah	2016	1950
+Macarthur	2016	2167
+Monash	2016	1964
+Mount Taylor	2016	0
+Oxley (ACT)	2016	1950
+Richardson	2016	1900
+Theodore	2016	2045
+Tuggeranong	2016	0
+Wanniassa	2016	2000
+Tuggeranong - West	2016	0
+Chapman	2016	2500
+Duffy	2016	2210
+Fisher	2016	2167
+Holder	2016	2008
+Rivett	2016	2043
+Stirling	2016	2000
+Waramanga	2016	2137
+Weston	2016	2167
+Scrivener	2016	0
+Chifley	2016	2000
+Curtin	2016	2299
+Farrer	2016	2383
+Garran	2016	2318
+Hughes	2016	2500
+Isaacs	2016	2120
+Lyons (ACT)	2016	2000
+Mawson	2016	2080
+O'Malley	2016	2600
+Pearce	2016	2147
+Phillip	2016	1745
+Torrens	2016	2167
+Arboretum	2016	0
+Coombs	2016	2167
+Denman Prospect	2016	0
+Molonglo	2016	0
+Molonglo - North	2016	0
+Wright	2016	1950
+ACT - South West	2016	2600
+Namadgi	2016	0
+Migratory - Offshore - Shipping (ACT)	2016	0
+No usual address (ACT)	2016	0
+Christmas Island	2016	1717
+Cocos (Keeling) Islands	2016	1029
+Jervis Bay	2016	0
+Norfolk Island	2016	1300
+Migratory - Offshore - Shipping (OT)	2016	0
+No usual address (OT)	2016	0

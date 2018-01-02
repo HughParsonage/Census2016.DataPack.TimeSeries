@@ -1,0 +1,55 @@
+STE_NAME16	Year	Sex	employmentToPopulation
+New South Wales	2006	F	49.8
+New South Wales	2006	M	61.3
+New South Wales	2011	F	51.2
+New South Wales	2011	M	61.5
+New South Wales	2016	F	51.3
+New South Wales	2016	M	59.8
+Victoria	2006	F	51.2
+Victoria	2006	M	63.4
+Victoria	2011	F	52.7
+Victoria	2011	M	63.8
+Victoria	2016	F	52
+Victoria	2016	M	61.2
+Queensland	2006	F	53.3
+Queensland	2006	M	64.7
+Queensland	2011	F	54.5
+Queensland	2011	M	63.7
+Queensland	2016	F	53
+Queensland	2016	M	59.9
+South Australia	2006	F	50.7
+South Australia	2006	M	61.5
+South Australia	2011	F	52
+South Australia	2011	M	61.1
+South Australia	2016	F	50.6
+South Australia	2016	M	57.4
+Western Australia	2006	F	53.5
+Western Australia	2006	M	66.5
+Western Australia	2011	F	55.3
+Western Australia	2011	M	66.7
+Western Australia	2016	F	53.6
+Western Australia	2016	M	62.4
+Tasmania	2006	F	48.6
+Tasmania	2006	M	58.8
+Tasmania	2011	F	50.4
+Tasmania	2011	M	58.1
+Tasmania	2016	F	49
+Tasmania	2016	M	54.4
+Northern Territory	2006	F	56.5
+Northern Territory	2006	M	63.3
+Northern Territory	2011	F	58.1
+Northern Territory	2011	M	62.7
+Northern Territory	2016	F	55.2
+Northern Territory	2016	M	59.2
+Australian Capital Territory	2006	F	63.9
+Australian Capital Territory	2006	M	70.8
+Australian Capital Territory	2011	F	64.2
+Australian Capital Territory	2011	M	70.6
+Australian Capital Territory	2016	F	60.9
+Australian Capital Territory	2016	M	66.6
+Other Territories	2006	F	48.3
+Other Territories	2006	M	69.2
+Other Territories	2011	F	57.3
+Other Territories	2011	M	41.3
+Other Territories	2016	F	56.8
+Other Territories	2016	M	58.1

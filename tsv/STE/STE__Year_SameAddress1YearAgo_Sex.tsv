@@ -1,0 +1,163 @@
+STE_NAME16	Year	SameAddress1YearAgo	Sex	persons
+New South Wales	2006		F	226519
+New South Wales	2006		M	255815
+New South Wales	2006	0	F	473963
+New South Wales	2006	0	M	453054
+New South Wales	2006	1	F	2620244
+New South Wales	2006	1	M	2519582
+New South Wales	2011		F	205613
+New South Wales	2011		M	233186
+New South Wales	2011	0	F	484516
+New South Wales	2011	0	M	461493
+New South Wales	2011	1	F	2818653
+New South Wales	2011	1	M	2714201
+New South Wales	2016		F	338508
+New South Wales	2016		M	352476
+New South Wales	2016	0	F	545160
+New South Wales	2016	0	M	525120
+New South Wales	2016	1	F	2910549
+New South Wales	2016	1	M	2808418
+Victoria	2006		F	157562
+Victoria	2006		M	171463
+Victoria	2006	0	F	347372
+Victoria	2006	0	M	328328
+Victoria	2006	1	F	2007075
+Victoria	2006	1	M	1920624
+Victoria	2011		F	146196
+Victoria	2011		M	162833
+Victoria	2011	0	F	379164
+Victoria	2011	0	M	360298
+Victoria	2011	1	F	2196063
+Victoria	2011	1	M	2109486
+Victoria	2016		F	267731
+Victoria	2016		M	270714
+Victoria	2016	0	F	441013
+Victoria	2016	0	M	419606
+Victoria	2016	1	F	2309805
+Victoria	2016	1	M	2217757
+Queensland	2006		F	132949
+Queensland	2006		M	156718
+Queensland	2006	0	F	386808
+Queensland	2006	0	M	372323
+Queensland	2006	1	F	1449394
+Queensland	2006	1	M	1406337
+Queensland	2011		F	131649
+Queensland	2011		M	158203
+Queensland	2011	0	F	391805
+Queensland	2011	0	M	372896
+Queensland	2011	1	F	1661066
+Queensland	2011	1	M	1617122
+Queensland	2016		F	226126
+Queensland	2016		M	240039
+Queensland	2016	0	F	418483
+Queensland	2016	0	M	394559
+Queensland	2016	1	F	1736699
+Queensland	2016	1	M	1687291
+South Australia	2006		F	41212
+South Australia	2006		M	46461
+South Australia	2006	0	F	107827
+South Australia	2006	0	M	102891
+South Australia	2006	1	F	620092
+South Australia	2006	1	M	595857
+South Australia	2011		F	38298
+South Australia	2011		M	44261
+South Australia	2011	0	F	110131
+South Australia	2011	0	M	104895
+South Australia	2011	1	F	660922
+South Australia	2011	1	M	638061
+South Australia	2016		F	69293
+South Australia	2016		M	72375
+South Australia	2016	0	F	113371
+South Australia	2016	0	M	108116
+South Australia	2016	1	F	667988
+South Australia	2016	1	M	645506
+Western Australia	2006		F	71386
+Western Australia	2006		M	85906
+Western Australia	2006	0	F	180801
+Western Australia	2006	0	M	176932
+Western Australia	2006	1	F	730776
+Western Australia	2006	1	M	713284
+Western Australia	2011		F	71989
+Western Australia	2011		M	95407
+Western Australia	2011	0	F	183961
+Western Australia	2011	0	M	185231
+Western Australia	2011	1	F	857041
+Western Australia	2011	1	M	845537
+Western Australia	2016		F	117719
+Western Australia	2016		M	133508
+Western Australia	2016	0	F	198235
+Western Australia	2016	0	M	195261
+Western Australia	2016	1	F	920040
+Western Australia	2016	1	M	909650
+Tasmania	2006		F	13648
+Tasmania	2006		M	14739
+Tasmania	2006	0	F	36009
+Tasmania	2006	0	M	33279
+Tasmania	2006	1	F	193443
+Tasmania	2006	1	M	185365
+Tasmania	2011		F	12023
+Tasmania	2011		M	13479
+Tasmania	2011	0	F	35269
+Tasmania	2011	0	M	32615
+Tasmania	2011	1	F	205385
+Tasmania	2011	1	M	196581
+Tasmania	2016		F	23690
+Tasmania	2016		M	23976
+Tasmania	2016	0	F	34693
+Tasmania	2016	0	M	32120
+Tasmania	2016	1	F	202099
+Tasmania	2016	1	M	193382
+Northern Territory	2006		F	10040
+Northern Territory	2006		M	12944
+Northern Territory	2006	0	F	19495
+Northern Territory	2006	0	M	19432
+Northern Territory	2006	1	F	63997
+Northern Territory	2006	1	M	66996
+Northern Territory	2011		F	9977
+Northern Territory	2011		M	14177
+Northern Territory	2011	0	F	19775
+Northern Territory	2011	0	M	20043
+Northern Territory	2011	1	F	72676
+Northern Territory	2011	1	M	75299
+Northern Territory	2016		F	14828
+Northern Territory	2016		M	19075
+Northern Territory	2016	0	F	21135
+Northern Territory	2016	0	M	21666
+Northern Territory	2016	1	F	74303
+Northern Territory	2016	1	M	77829
+Australian Capital Territory	2006		F	8915
+Australian Capital Territory	2006		M	10143
+Australian Capital Territory	2006	0	F	27420
+Australian Capital Territory	2006	0	M	26840
+Australian Capital Territory	2006	1	F	128047
+Australian Capital Territory	2006	1	M	122671
+Australian Capital Territory	2011		F	8718
+Australian Capital Territory	2011		M	10504
+Australian Capital Territory	2011	0	F	31067
+Australian Capital Territory	2011	0	M	30342
+Australian Capital Territory	2011	1	F	140692
+Australian Capital Territory	2011	1	M	135901
+Australian Capital Territory	2016		F	17477
+Australian Capital Territory	2016		M	18158
+Australian Capital Territory	2016	0	F	34104
+Australian Capital Territory	2016	0	M	33071
+Australian Capital Territory	2016	1	F	150072
+Australian Capital Territory	2016	1	M	144510
+Other Territories	2006		F	42
+Other Territories	2006		M	136
+Other Territories	2006	0	F	165
+Other Territories	2006	0	M	188
+Other Territories	2006	1	F	845
+Other Territories	2006	1	M	937
+Other Territories	2011		F	64
+Other Territories	2011		M	816
+Other Territories	2011	0	F	174
+Other Territories	2011	0	M	211
+Other Territories	2011	1	F	823
+Other Territories	2011	1	M	940
+Other Territories	2016		F	269
+Other Territories	2016		M	546
+Other Territories	2016	0	F	273
+Other Territories	2016	0	M	302
+Other Territories	2016	1	F	1578
+Other Territories	2016	1	M	1614

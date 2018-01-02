@@ -1,0 +1,163 @@
+STE_NAME16	Year	LabourForceStatus	adults
+New South Wales	2006		356653
+New South Wales	2006	Employed (away from work)	187103
+New South Wales	2006	Employed (full-time)	1879627
+New South Wales	2006	Employed (part-time)	842713
+New South Wales	2006	Not in the labour force	1801010
+New South Wales	2006	Unemployed (looking for work)	183156
+New South Wales	2011		317011
+New South Wales	2011	Employed (away from work)	190944
+New South Wales	2011	Employed (full-time)	2007927
+New South Wales	2011	Employed (part-time)	939466
+New South Wales	2011	Not in the labour force	1933275
+New South Wales	2011	Unemployed (looking for work)	196527
+New South Wales	2016		399783
+New South Wales	2016	Employed (away from work)	174654
+New South Wales	2016	Employed (full-time)	2134521
+New South Wales	2016	Employed (part-time)	1071151
+New South Wales	2016	Not in the labour force	2088240
+New South Wales	2016	Unemployed (looking for work)	225546
+Victoria	2006		247062
+Victoria	2006	Employed (away from work)	146384
+Victoria	2006	Employed (full-time)	1445460
+Victoria	2006	Employed (part-time)	682602
+Victoria	2006	Not in the labour force	1330370
+Victoria	2006	Unemployed (looking for work)	130159
+Victoria	2011		228181
+Victoria	2011	Employed (away from work)	155527
+Victoria	2011	Employed (full-time)	1583264
+Victoria	2011	Employed (part-time)	791835
+Victoria	2011	Not in the labour force	1451593
+Victoria	2011	Unemployed (looking for work)	144843
+Victoria	2016		305988
+Victoria	2016	Employed (away from work)	144696
+Victoria	2016	Employed (full-time)	1670556
+Victoria	2016	Employed (part-time)	920875
+Victoria	2016	Not in the labour force	1610130
+Victoria	2016	Unemployed (looking for work)	193465
+Queensland	2006		210219
+Queensland	2006	Employed (away from work)	113608
+Queensland	2006	Employed (full-time)	1180891
+Queensland	2006	Employed (part-time)	530501
+Queensland	2006	Not in the labour force	971827
+Queensland	2006	Unemployed (looking for work)	90951
+Queensland	2011		206500
+Queensland	2011	Employed (away from work)	125023
+Queensland	2011	Employed (full-time)	1302955
+Queensland	2011	Employed (part-time)	611294
+Queensland	2011	Not in the labour force	1079304
+Queensland	2011	Unemployed (looking for work)	131800
+Queensland	2016		272339
+Queensland	2016	Employed (away from work)	111509
+Queensland	2016	Employed (full-time)	1333193
+Queensland	2016	Employed (part-time)	691751
+Queensland	2016	Not in the labour force	1206040
+Queensland	2016	Unemployed (looking for work)	175665
+South Australia	2006		63626
+South Australia	2006	Employed (away from work)	45173
+South Australia	2006	Employed (full-time)	426181
+South Australia	2006	Employed (part-time)	218542
+South Australia	2006	Not in the labour force	441818
+South Australia	2006	Unemployed (looking for work)	38176
+South Australia	2011		58886
+South Australia	2011	Employed (away from work)	46682
+South Australia	2011	Employed (full-time)	445075
+South Australia	2011	Employed (part-time)	247599
+South Australia	2011	Not in the labour force	466428
+South Australia	2011	Unemployed (looking for work)	44968
+South Australia	2016		75073
+South Australia	2016	Employed (away from work)	40582
+South Australia	2016	Employed (full-time)	435110
+South Australia	2016	Employed (part-time)	270409
+South Australia	2016	Not in the labour force	501988
+South Australia	2016	Unemployed (looking for work)	60488
+Western Australia	2006		111615
+Western Australia	2006	Employed (away from work)	66508
+Western Australia	2006	Employed (full-time)	593676
+Western Australia	2006	Employed (part-time)	275951
+Western Australia	2006	Not in the labour force	478243
+Western Australia	2006	Unemployed (looking for work)	36660
+Western Australia	2011		117358
+Western Australia	2011	Employed (away from work)	74207
+Western Australia	2011	Employed (full-time)	699412
+Western Australia	2011	Employed (part-time)	324256
+Western Australia	2011	Not in the labour force	529554
+Western Australia	2011	Unemployed (looking for work)	54315
+Western Australia	2016		146576
+Western Australia	2016	Employed (away from work)	65859
+Western Australia	2016	Employed (full-time)	715287
+Western Australia	2016	Employed (part-time)	376590
+Western Australia	2016	Not in the labour force	595448
+Western Australia	2016	Unemployed (looking for work)	97966
+Tasmania	2006		20184
+Tasmania	2006	Employed (away from work)	14540
+Tasmania	2006	Employed (full-time)	122815
+Tasmania	2006	Employed (part-time)	67383
+Tasmania	2006	Not in the labour force	143108
+Tasmania	2006	Unemployed (looking for work)	14423
+Tasmania	2011		17978
+Tasmania	2011	Employed (away from work)	14450
+Tasmania	2011	Employed (full-time)	126465
+Tasmania	2011	Employed (part-time)	76384
+Tasmania	2011	Not in the labour force	151380
+Tasmania	2011	Unemployed (looking for work)	14825
+Tasmania	2016		26752
+Tasmania	2016	Employed (away from work)	13162
+Tasmania	2016	Employed (full-time)	121822
+Tasmania	2016	Employed (part-time)	81601
+Tasmania	2016	Not in the labour force	160050
+Tasmania	2016	Unemployed (looking for work)	16365
+Northern Territory	2006		16956
+Northern Territory	2006	Employed (away from work)	6912
+Northern Territory	2006	Employed (full-time)	60090
+Northern Territory	2006	Employed (part-time)	20179
+Northern Territory	2006	Not in the labour force	37147
+Northern Territory	2006	Unemployed (looking for work)	4006
+Northern Territory	2011		17152
+Northern Territory	2011	Employed (away from work)	8054
+Northern Territory	2011	Employed (full-time)	69544
+Northern Territory	2011	Employed (part-time)	20876
+Northern Territory	2011	Not in the labour force	41688
+Northern Territory	2011	Unemployed (looking for work)	5489
+Northern Territory	2016		22961
+Northern Territory	2016	Employed (away from work)	7112
+Northern Territory	2016	Employed (full-time)	74100
+Northern Territory	2016	Employed (part-time)	21493
+Northern Territory	2016	Not in the labour force	46008
+Northern Territory	2016	Unemployed (looking for work)	7685
+Australian Capital Territory	2006		12537
+Australian Capital Territory	2006	Employed (away from work)	11234
+Australian Capital Territory	2006	Employed (full-time)	117945
+Australian Capital Territory	2006	Employed (part-time)	47106
+Australian Capital Territory	2006	Not in the labour force	67078
+Australian Capital Territory	2006	Unemployed (looking for work)	6207
+Australian Capital Territory	2011		12780
+Australian Capital Territory	2011	Employed (away from work)	12821
+Australian Capital Territory	2011	Employed (full-time)	132042
+Australian Capital Territory	2011	Employed (part-time)	51028
+Australian Capital Territory	2011	Not in the labour force	74891
+Australian Capital Territory	2011	Unemployed (looking for work)	7316
+Australian Capital Territory	2016		18504
+Australian Capital Territory	2016	Employed (away from work)	11506
+Australian Capital Territory	2016	Employed (full-time)	137058
+Australian Capital Territory	2016	Employed (part-time)	57064
+Australian Capital Territory	2016	Not in the labour force	88580
+Australian Capital Territory	2016	Unemployed (looking for work)	10205
+Other Territories	2006		114
+Other Territories	2006	Employed (away from work)	89
+Other Territories	2006	Employed (full-time)	763
+Other Territories	2006	Employed (part-time)	216
+Other Territories	2006	Not in the labour force	512
+Other Territories	2006	Unemployed (looking for work)	68
+Other Territories	2011		96
+Other Territories	2011	Employed (away from work)	83
+Other Territories	2011	Employed (full-time)	869
+Other Territories	2011	Employed (part-time)	230
+Other Territories	2011	Not in the labour force	1202
+Other Territories	2011	Unemployed (looking for work)	50
+Other Territories	2016		435
+Other Territories	2016	Employed (away from work)	188
+Other Territories	2016	Employed (full-time)	1413
+Other Territories	2016	Employed (part-time)	571
+Other Territories	2016	Not in the labour force	1108
+Other Territories	2016	Unemployed (looking for work)	58

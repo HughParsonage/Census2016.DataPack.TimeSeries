@@ -1,0 +1,55 @@
+STE_NAME16	Year	Sex	unemployment
+New South Wales	2006	F	5.8
+New South Wales	2006	M	6
+New South Wales	2011	F	5.9
+New South Wales	2011	M	5.9
+New South Wales	2016	F	6.2
+New South Wales	2016	M	6.3
+Victoria	2006	F	5.5
+Victoria	2006	M	5.4
+Victoria	2011	F	5.5
+Victoria	2011	M	5.3
+Victoria	2016	F	6.7
+Victoria	2016	M	6.6
+Queensland	2006	F	5.1
+Queensland	2006	M	4.4
+Queensland	2011	F	6.1
+Queensland	2011	M	6.1
+Queensland	2016	F	7.4
+Queensland	2016	M	7.8
+South Australia	2006	F	4.9
+South Australia	2006	M	5.5
+South Australia	2011	F	5.5
+South Australia	2011	M	6
+South Australia	2016	F	6.8
+South Australia	2016	M	8.1
+Western Australia	2006	F	4
+Western Australia	2006	M	3.6
+Western Australia	2011	F	4.9
+Western Australia	2011	M	4.5
+Western Australia	2016	F	7.5
+Western Australia	2016	M	8
+Tasmania	2006	F	6.3
+Tasmania	2006	M	6.9
+Tasmania	2011	F	5.7
+Tasmania	2011	M	7
+Tasmania	2016	F	6.1
+Tasmania	2016	M	7.9
+Northern Territory	2006	F	4.4
+Northern Territory	2006	M	4.3
+Northern Territory	2011	F	5
+Northern Territory	2011	M	5.5
+Northern Territory	2016	F	6.7
+Northern Territory	2016	M	7.2
+Australian Capital Territory	2006	F	3.1
+Australian Capital Territory	2006	M	3.7
+Australian Capital Territory	2011	F	3.4
+Australian Capital Territory	2011	M	3.8
+Australian Capital Territory	2016	F	4.5
+Australian Capital Territory	2016	M	4.9
+Other Territories	2006	F	9.3
+Other Territories	2006	M	5.3
+Other Territories	2011	F	3.5
+Other Territories	2011	M	3.5
+Other Territories	2016	F	3.4
+Other Territories	2016	M	2.3

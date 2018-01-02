@@ -1,0 +1,541 @@
+STE_NAME16	Year	IndustryOfEmployment	workers
+New South Wales	2006		77191
+New South Wales	2006	Accommodation and food services	190455
+New South Wales	2006	Administrative and support services	90433
+New South Wales	2006	Agriculture forestry and fishing	78659
+New South Wales	2006	Arts and recreation services	39578
+New South Wales	2006	Construction	212728
+New South Wales	2006	Education and training	219678
+New South Wales	2006	Electricity gas water and waste services	29186
+New South Wales	2006	Financial and insurance services	144866
+New South Wales	2006	Health care and social assistance	304340
+New South Wales	2006	Information media and telecommunications	68978
+New South Wales	2006	Manufacturing	277985
+New South Wales	2006	Mining	20314
+New South Wales	2006	Other services	110093
+New South Wales	2006	Professional scientific and technical services	213253
+New South Wales	2006	Public administration and safety	174915
+New South Wales	2006	Rental hiring and real estate services	50584
+New South Wales	2006	Retail trade	323928
+New South Wales	2006	Transport postal and warehousing	145518
+New South Wales	2006	Wholesale trade	136759
+New South Wales	2011		77458
+New South Wales	2011	Accommodation and food services	210379
+New South Wales	2011	Administrative and support services	102355
+New South Wales	2011	Agriculture forestry and fishing	69576
+New South Wales	2011	Arts and recreation services	46332
+New South Wales	2011	Construction	230057
+New South Wales	2011	Education and training	248951
+New South Wales	2011	Electricity gas water and waste services	34205
+New South Wales	2011	Financial and insurance services	158422
+New South Wales	2011	Health care and social assistance	364321
+New South Wales	2011	Information media and telecommunications	72489
+New South Wales	2011	Manufacturing	264867
+New South Wales	2011	Mining	31185
+New South Wales	2011	Other services	117616
+New South Wales	2011	Professional scientific and technical services	247292
+New South Wales	2011	Public administration and safety	192635
+New South Wales	2011	Rental hiring and real estate services	51551
+New South Wales	2011	Retail trade	324725
+New South Wales	2011	Transport postal and warehousing	155024
+New South Wales	2011	Wholesale trade	138891
+New South Wales	2016		159108
+New South Wales	2016	Accommodation and food services	239222
+New South Wales	2016	Administrative and support services	117482
+New South Wales	2016	Agriculture forestry and fishing	72625
+New South Wales	2016	Arts and recreation services	51775
+New South Wales	2016	Construction	282491
+New South Wales	2016	Education and training	282568
+New South Wales	2016	Electricity gas water and waste services	31881
+New South Wales	2016	Financial and insurance services	167259
+New South Wales	2016	Health care and social assistance	422195
+New South Wales	2016	Information media and telecommunications	73398
+New South Wales	2016	Manufacturing	197331
+New South Wales	2016	Mining	31736
+New South Wales	2016	Other services	124477
+New South Wales	2016	Professional scientific and technical services	274078
+New South Wales	2016	Public administration and safety	204173
+New South Wales	2016	Rental hiring and real estate services	59652
+New South Wales	2016	Retail trade	326396
+New South Wales	2016	Transport postal and warehousing	158760
+New South Wales	2016	Wholesale trade	103722
+Victoria	2006		59431
+Victoria	2006	Accommodation and food services	131840
+Victoria	2006	Administrative and support services	74923
+Victoria	2006	Agriculture forestry and fishing	63711
+Victoria	2006	Arts and recreation services	35650
+Victoria	2006	Construction	171463
+Victoria	2006	Education and training	174423
+Victoria	2006	Electricity gas water and waste services	20014
+Victoria	2006	Financial and insurance services	92293
+Victoria	2006	Health care and social assistance	236552
+Victoria	2006	Information media and telecommunications	49935
+Victoria	2006	Manufacturing	287108
+Victoria	2006	Mining	6276
+Victoria	2006	Other services	81642
+Victoria	2006	Professional scientific and technical services	161615
+Victoria	2006	Public administration and safety	116969
+Victoria	2006	Rental hiring and real estate services	30775
+Victoria	2006	Retail trade	263447
+Victoria	2006	Transport postal and warehousing	103816
+Victoria	2006	Wholesale trade	112550
+Victoria	2011		61173
+Victoria	2011	Accommodation and food services	153898
+Victoria	2011	Administrative and support services	83188
+Victoria	2011	Agriculture forestry and fishing	57052
+Victoria	2011	Arts and recreation services	43609
+Victoria	2011	Construction	210972
+Victoria	2011	Education and training	202317
+Victoria	2011	Electricity gas water and waste services	27630
+Victoria	2011	Financial and insurance services	104701
+Victoria	2011	Health care and social assistance	292417
+Victoria	2011	Information media and telecommunications	50091
+Victoria	2011	Manufacturing	271051
+Victoria	2011	Mining	9118
+Victoria	2011	Other services	91147
+Victoria	2011	Professional scientific and technical services	196236
+Victoria	2011	Public administration and safety	134949
+Victoria	2011	Rental hiring and real estate services	35046
+Victoria	2011	Retail trade	273715
+Victoria	2011	Transport postal and warehousing	118214
+Victoria	2011	Wholesale trade	114091
+Victoria	2016		129326
+Victoria	2016	Accommodation and food services	180825
+Victoria	2016	Administrative and support services	93315
+Victoria	2016	Agriculture forestry and fishing	60913
+Victoria	2016	Arts and recreation services	52765
+Victoria	2016	Construction	228149
+Victoria	2016	Education and training	236276
+Victoria	2016	Electricity gas water and waste services	30808
+Victoria	2016	Financial and insurance services	106669
+Victoria	2016	Health care and social assistance	341999
+Victoria	2016	Information media and telecommunications	52200
+Victoria	2016	Manufacturing	212723
+Victoria	2016	Mining	9139
+Victoria	2016	Other services	98254
+Victoria	2016	Professional scientific and technical services	217402
+Victoria	2016	Public administration and safety	144321
+Victoria	2016	Rental hiring and real estate services	43013
+Victoria	2016	Retail trade	279636
+Victoria	2016	Transport postal and warehousing	130069
+Victoria	2016	Wholesale trade	88321
+Queensland	2006		48802
+Queensland	2006	Accommodation and food services	127629
+Queensland	2006	Administrative and support services	55705
+Queensland	2006	Agriculture forestry and fishing	61733
+Queensland	2006	Arts and recreation services	24626
+Queensland	2006	Construction	164938
+Queensland	2006	Education and training	139089
+Queensland	2006	Electricity gas water and waste services	18541
+Queensland	2006	Financial and insurance services	52036
+Queensland	2006	Health care and social assistance	186335
+Queensland	2006	Information media and telecommunications	26345
+Queensland	2006	Manufacturing	180214
+Queensland	2006	Mining	30721
+Queensland	2006	Other services	68361
+Queensland	2006	Professional scientific and technical services	102413
+Queensland	2006	Public administration and safety	122416
+Queensland	2006	Rental hiring and real estate services	37982
+Queensland	2006	Retail trade	212422
+Queensland	2006	Transport postal and warehousing	92611
+Queensland	2006	Wholesale trade	72075
+Queensland	2011		48060
+Queensland	2011	Accommodation and food services	141855
+Queensland	2011	Administrative and support services	65015
+Queensland	2011	Agriculture forestry and fishing	55419
+Queensland	2011	Arts and recreation services	28446
+Queensland	2011	Construction	183778
+Queensland	2011	Education and training	160921
+Queensland	2011	Electricity gas water and waste services	24829
+Queensland	2011	Financial and insurance services	54152
+Queensland	2011	Health care and social assistance	242560
+Queensland	2011	Information media and telecommunications	25355
+Queensland	2011	Manufacturing	171669
+Queensland	2011	Mining	52952
+Queensland	2011	Other services	78714
+Queensland	2011	Professional scientific and technical services	132751
+Queensland	2011	Public administration and safety	136818
+Queensland	2011	Rental hiring and real estate services	37007
+Queensland	2011	Retail trade	217612
+Queensland	2011	Transport postal and warehousing	107070
+Queensland	2011	Wholesale trade	74286
+Queensland	2016		91505
+Queensland	2016	Accommodation and food services	156670
+Queensland	2016	Administrative and support services	75336
+Queensland	2016	Agriculture forestry and fishing	60608
+Queensland	2016	Arts and recreation services	33667
+Queensland	2016	Construction	191338
+Queensland	2016	Education and training	192143
+Queensland	2016	Electricity gas water and waste services	23883
+Queensland	2016	Financial and insurance services	54286
+Queensland	2016	Health care and social assistance	276945
+Queensland	2016	Information media and telecommunications	25265
+Queensland	2016	Manufacturing	128787
+Queensland	2016	Mining	49997
+Queensland	2016	Other services	83470
+Queensland	2016	Professional scientific and technical services	133652
+Queensland	2016	Public administration and safety	140164
+Queensland	2016	Rental hiring and real estate services	42500
+Queensland	2016	Retail trade	211778
+Queensland	2016	Transport postal and warehousing	108083
+Queensland	2016	Wholesale trade	56370
+South Australia	2006		14231
+South Australia	2006	Accommodation and food services	40373
+South Australia	2006	Administrative and support services	23268
+South Australia	2006	Agriculture forestry and fishing	31974
+South Australia	2006	Arts and recreation services	7948
+South Australia	2006	Construction	46085
+South Australia	2006	Education and training	52377
+South Australia	2006	Electricity gas water and waste services	7438
+South Australia	2006	Financial and insurance services	21986
+South Australia	2006	Health care and social assistance	86220
+South Australia	2006	Information media and telecommunications	10745
+South Australia	2006	Manufacturing	88489
+South Australia	2006	Mining	5969
+South Australia	2006	Other services	26252
+South Australia	2006	Professional scientific and technical services	36178
+South Australia	2006	Public administration and safety	44876
+South Australia	2006	Rental hiring and real estate services	9575
+South Australia	2006	Retail trade	81399
+South Australia	2006	Transport postal and warehousing	28745
+South Australia	2006	Wholesale trade	25791
+South Australia	2011		13897
+South Australia	2011	Accommodation and food services	46249
+South Australia	2011	Administrative and support services	25437
+South Australia	2011	Agriculture forestry and fishing	28796
+South Australia	2011	Arts and recreation services	9304
+South Australia	2011	Construction	55599
+South Australia	2011	Education and training	58637
+South Australia	2011	Electricity gas water and waste services	9926
+South Australia	2011	Financial and insurance services	22045
+South Australia	2011	Health care and social assistance	100602
+South Australia	2011	Information media and telecommunications	10585
+South Australia	2011	Manufacturing	77890
+South Australia	2011	Mining	9647
+South Australia	2011	Other services	28843
+South Australia	2011	Professional scientific and technical services	40551
+South Australia	2011	Public administration and safety	52263
+South Australia	2011	Rental hiring and real estate services	9446
+South Australia	2011	Retail trade	83070
+South Australia	2011	Transport postal and warehousing	30700
+South Australia	2011	Wholesale trade	25862
+South Australia	2016		24488
+South Australia	2016	Accommodation and food services	49738
+South Australia	2016	Administrative and support services	26769
+South Australia	2016	Agriculture forestry and fishing	30084
+South Australia	2016	Arts and recreation services	10152
+South Australia	2016	Construction	56635
+South Australia	2016	Education and training	64506
+South Australia	2016	Electricity gas water and waste services	9164
+South Australia	2016	Financial and insurance services	20291
+South Australia	2016	Health care and social assistance	110479
+South Australia	2016	Information media and telecommunications	9633
+South Australia	2016	Manufacturing	59579
+South Australia	2016	Mining	9222
+South Australia	2016	Other services	29099
+South Australia	2016	Professional scientific and technical services	41499
+South Australia	2016	Public administration and safety	52914
+South Australia	2016	Rental hiring and real estate services	9969
+South Australia	2016	Retail trade	79742
+South Australia	2016	Transport postal and warehousing	30953
+South Australia	2016	Wholesale trade	21187
+Western Australia	2006		25472
+Western Australia	2006	Accommodation and food services	54582
+Western Australia	2006	Administrative and support services	29736
+Western Australia	2006	Agriculture forestry and fishing	30838
+Western Australia	2006	Arts and recreation services	11633
+Western Australia	2006	Construction	85125
+Western Australia	2006	Education and training	71878
+Western Australia	2006	Electricity gas water and waste services	9593
+Western Australia	2006	Financial and insurance services	27144
+Western Australia	2006	Health care and social assistance	95160
+Western Australia	2006	Information media and telecommunications	12428
+Western Australia	2006	Manufacturing	88409
+Western Australia	2006	Mining	40080
+Western Australia	2006	Other services	35703
+Western Australia	2006	Professional scientific and technical services	58904
+Western Australia	2006	Public administration and safety	60042
+Western Australia	2006	Rental hiring and real estate services	18426
+Western Australia	2006	Retail trade	104297
+Western Australia	2006	Transport postal and warehousing	39469
+Western Australia	2006	Wholesale trade	37203
+Western Australia	2011		24241
+Western Australia	2011	Accommodation and food services	64800
+Western Australia	2011	Administrative and support services	34344
+Western Australia	2011	Agriculture forestry and fishing	26383
+Western Australia	2011	Arts and recreation services	14790
+Western Australia	2011	Construction	111847
+Western Australia	2011	Education and training	88079
+Western Australia	2011	Electricity gas water and waste services	12576
+Western Australia	2011	Financial and insurance services	27958
+Western Australia	2011	Health care and social assistance	113776
+Western Australia	2011	Information media and telecommunications	11713
+Western Australia	2011	Manufacturing	90394
+Western Australia	2011	Mining	67942
+Western Australia	2011	Other services	42866
+Western Australia	2011	Professional scientific and technical services	78992
+Western Australia	2011	Public administration and safety	68591
+Western Australia	2011	Rental hiring and real estate services	19108
+Western Australia	2011	Retail trade	110721
+Western Australia	2011	Transport postal and warehousing	49754
+Western Australia	2011	Wholesale trade	39027
+Western Australia	2016		53143
+Western Australia	2016	Accommodation and food services	74620
+Western Australia	2016	Administrative and support services	37957
+Western Australia	2016	Agriculture forestry and fishing	28613
+Western Australia	2016	Arts and recreation services	18465
+Western Australia	2016	Construction	113461
+Western Australia	2016	Education and training	100951
+Western Australia	2016	Electricity gas water and waste services	13383
+Western Australia	2016	Financial and insurance services	27244
+Western Australia	2016	Health care and social assistance	135898
+Western Australia	2016	Information media and telecommunications	11447
+Western Australia	2016	Manufacturing	64544
+Western Australia	2016	Mining	72541
+Western Australia	2016	Other services	45857
+Western Australia	2016	Professional scientific and technical services	74146
+Western Australia	2016	Public administration and safety	72275
+Western Australia	2016	Rental hiring and real estate services	20140
+Western Australia	2016	Retail trade	110409
+Western Australia	2016	Transport postal and warehousing	53133
+Western Australia	2016	Wholesale trade	29500
+Tasmania	2006		5195
+Tasmania	2006	Accommodation and food services	14214
+Tasmania	2006	Administrative and support services	5470
+Tasmania	2006	Agriculture forestry and fishing	11407
+Tasmania	2006	Arts and recreation services	2912
+Tasmania	2006	Construction	13677
+Tasmania	2006	Education and training	16929
+Tasmania	2006	Electricity gas water and waste services	2895
+Tasmania	2006	Financial and insurance services	5332
+Tasmania	2006	Health care and social assistance	23364
+Tasmania	2006	Information media and telecommunications	3323
+Tasmania	2006	Manufacturing	21175
+Tasmania	2006	Mining	1633
+Tasmania	2006	Other services	7042
+Tasmania	2006	Professional scientific and technical services	8912
+Tasmania	2006	Public administration and safety	17233
+Tasmania	2006	Rental hiring and real estate services	2877
+Tasmania	2006	Retail trade	24436
+Tasmania	2006	Transport postal and warehousing	9378
+Tasmania	2006	Wholesale trade	7333
+Tasmania	2011		4272
+Tasmania	2011	Accommodation and food services	15761
+Tasmania	2011	Administrative and support services	5775
+Tasmania	2011	Agriculture forestry and fishing	10353
+Tasmania	2011	Arts and recreation services	3563
+Tasmania	2011	Construction	16539
+Tasmania	2011	Education and training	19459
+Tasmania	2011	Electricity gas water and waste services	3605
+Tasmania	2011	Financial and insurance services	5243
+Tasmania	2011	Health care and social assistance	26032
+Tasmania	2011	Information media and telecommunications	3245
+Tasmania	2011	Manufacturing	18968
+Tasmania	2011	Mining	2790
+Tasmania	2011	Other services	8091
+Tasmania	2011	Professional scientific and technical services	10254
+Tasmania	2011	Public administration and safety	19594
+Tasmania	2011	Rental hiring and real estate services	2808
+Tasmania	2011	Retail trade	24544
+Tasmania	2011	Transport postal and warehousing	9288
+Tasmania	2011	Wholesale trade	7103
+Tasmania	2016		7381
+Tasmania	2016	Accommodation and food services	16543
+Tasmania	2016	Administrative and support services	6405
+Tasmania	2016	Agriculture forestry and fishing	11383
+Tasmania	2016	Arts and recreation services	4017
+Tasmania	2016	Construction	16444
+Tasmania	2016	Education and training	20105
+Tasmania	2016	Electricity gas water and waste services	3509
+Tasmania	2016	Financial and insurance services	4540
+Tasmania	2016	Health care and social assistance	30683
+Tasmania	2016	Information media and telecommunications	2925
+Tasmania	2016	Manufacturing	14856
+Tasmania	2016	Mining	2217
+Tasmania	2016	Other services	8120
+Tasmania	2016	Professional scientific and technical services	10214
+Tasmania	2016	Public administration and safety	16958
+Tasmania	2016	Rental hiring and real estate services	2676
+Tasmania	2016	Retail trade	23595
+Tasmania	2016	Transport postal and warehousing	9160
+Tasmania	2016	Wholesale trade	4840
+Northern Territory	2006		2815
+Northern Territory	2006	Accommodation and food services	5643
+Northern Territory	2006	Administrative and support services	2629
+Northern Territory	2006	Agriculture forestry and fishing	2093
+Northern Territory	2006	Arts and recreation services	1779
+Northern Territory	2006	Construction	6097
+Northern Territory	2006	Education and training	7537
+Northern Territory	2006	Electricity gas water and waste services	519
+Northern Territory	2006	Financial and insurance services	1367
+Northern Territory	2006	Health care and social assistance	8583
+Northern Territory	2006	Information media and telecommunications	1222
+Northern Territory	2006	Manufacturing	3919
+Northern Territory	2006	Mining	1710
+Northern Territory	2006	Other services	3136
+Northern Territory	2006	Professional scientific and technical services	3982
+Northern Territory	2006	Public administration and safety	18835
+Northern Territory	2006	Rental hiring and real estate services	1289
+Northern Territory	2006	Retail trade	7898
+Northern Territory	2006	Transport postal and warehousing	3987
+Northern Territory	2006	Wholesale trade	2143
+Northern Territory	2011		1921
+Northern Territory	2011	Accommodation and food services	6121
+Northern Territory	2011	Administrative and support services	2988
+Northern Territory	2011	Agriculture forestry and fishing	1898
+Northern Territory	2011	Arts and recreation services	2202
+Northern Territory	2011	Construction	8057
+Northern Territory	2011	Education and training	8789
+Northern Territory	2011	Electricity gas water and waste services	1316
+Northern Territory	2011	Financial and insurance services	1272
+Northern Territory	2011	Health care and social assistance	9888
+Northern Territory	2011	Information media and telecommunications	1045
+Northern Territory	2011	Manufacturing	3962
+Northern Territory	2011	Mining	2694
+Northern Territory	2011	Other services	4708
+Northern Territory	2011	Professional scientific and technical services	4815
+Northern Territory	2011	Public administration and safety	20603
+Northern Territory	2011	Rental hiring and real estate services	1445
+Northern Territory	2011	Retail trade	8002
+Northern Territory	2011	Transport postal and warehousing	4654
+Northern Territory	2011	Wholesale trade	2109
+Northern Territory	2016		4720
+Northern Territory	2016	Accommodation and food services	6954
+Northern Territory	2016	Administrative and support services	3125
+Northern Territory	2016	Agriculture forestry and fishing	2097
+Northern Territory	2016	Arts and recreation services	2160
+Northern Territory	2016	Construction	10370
+Northern Territory	2016	Education and training	9539
+Northern Territory	2016	Electricity gas water and waste services	1625
+Northern Territory	2016	Financial and insurance services	1124
+Northern Territory	2016	Health care and social assistance	11374
+Northern Territory	2016	Information media and telecommunications	1002
+Northern Territory	2016	Manufacturing	2436
+Northern Territory	2016	Mining	2525
+Northern Territory	2016	Other services	4187
+Northern Territory	2016	Professional scientific and technical services	5653
+Northern Territory	2016	Public administration and safety	18607
+Northern Territory	2016	Rental hiring and real estate services	1497
+Northern Territory	2016	Retail trade	7469
+Northern Territory	2016	Transport postal and warehousing	4507
+Northern Territory	2016	Wholesale trade	1738
+Australian Capital Territory	2006		3288
+Australian Capital Territory	2006	Accommodation and food services	10310
+Australian Capital Territory	2006	Administrative and support services	4431
+Australian Capital Territory	2006	Agriculture forestry and fishing	492
+Australian Capital Territory	2006	Arts and recreation services	3237
+Australian Capital Territory	2006	Construction	9613
+Australian Capital Territory	2006	Education and training	15789
+Australian Capital Territory	2006	Electricity gas water and waste services	1238
+Australian Capital Territory	2006	Financial and insurance services	3546
+Australian Capital Territory	2006	Health care and social assistance	15539
+Australian Capital Territory	2006	Information media and telecommunications	3840
+Australian Capital Territory	2006	Manufacturing	4689
+Australian Capital Territory	2006	Mining	89
+Australian Capital Territory	2006	Other services	5951
+Australian Capital Territory	2006	Professional scientific and technical services	16740
+Australian Capital Territory	2006	Public administration and safety	53085
+Australian Capital Territory	2006	Rental hiring and real estate services	2385
+Australian Capital Territory	2006	Retail trade	15319
+Australian Capital Territory	2006	Transport postal and warehousing	4202
+Australian Capital Territory	2006	Wholesale trade	2494
+Australian Capital Territory	2011		2839
+Australian Capital Territory	2011	Accommodation and food services	11282
+Australian Capital Territory	2011	Administrative and support services	4613
+Australian Capital Territory	2011	Agriculture forestry and fishing	355
+Australian Capital Territory	2011	Arts and recreation services	3300
+Australian Capital Territory	2011	Construction	11987
+Australian Capital Territory	2011	Education and training	17143
+Australian Capital Territory	2011	Electricity gas water and waste services	1489
+Australian Capital Territory	2011	Financial and insurance services	3554
+Australian Capital Territory	2011	Health care and social assistance	17976
+Australian Capital Territory	2011	Information media and telecommunications	3664
+Australian Capital Territory	2011	Manufacturing	4025
+Australian Capital Territory	2011	Mining	95
+Australian Capital Territory	2011	Other services	6215
+Australian Capital Territory	2011	Professional scientific and technical services	19137
+Australian Capital Territory	2011	Public administration and safety	64111
+Australian Capital Territory	2011	Rental hiring and real estate services	2431
+Australian Capital Territory	2011	Retail trade	14835
+Australian Capital Territory	2011	Transport postal and warehousing	4404
+Australian Capital Territory	2011	Wholesale trade	2417
+Australian Capital Territory	2016		5363
+Australian Capital Territory	2016	Accommodation and food services	13401
+Australian Capital Territory	2016	Administrative and support services	5236
+Australian Capital Territory	2016	Agriculture forestry and fishing	590
+Australian Capital Territory	2016	Arts and recreation services	3590
+Australian Capital Territory	2016	Construction	12029
+Australian Capital Territory	2016	Education and training	19647
+Australian Capital Territory	2016	Electricity gas water and waste services	1451
+Australian Capital Territory	2016	Financial and insurance services	3171
+Australian Capital Territory	2016	Health care and social assistance	21319
+Australian Capital Territory	2016	Information media and telecommunications	3628
+Australian Capital Territory	2016	Manufacturing	3377
+Australian Capital Territory	2016	Mining	115
+Australian Capital Territory	2016	Other services	6111
+Australian Capital Territory	2016	Professional scientific and technical services	19290
+Australian Capital Territory	2016	Public administration and safety	63286
+Australian Capital Territory	2016	Rental hiring and real estate services	2665
+Australian Capital Territory	2016	Retail trade	14601
+Australian Capital Territory	2016	Transport postal and warehousing	4715
+Australian Capital Territory	2016	Wholesale trade	2041
+Other Territories	2006		69
+Other Territories	2006	Accommodation and food services	65
+Other Territories	2006	Administrative and support services	39
+Other Territories	2006	Agriculture forestry and fishing	5
+Other Territories	2006	Arts and recreation services	31
+Other Territories	2006	Construction	117
+Other Territories	2006	Education and training	111
+Other Territories	2006	Electricity gas water and waste services	28
+Other Territories	2006	Financial and insurance services	6
+Other Territories	2006	Health care and social assistance	63
+Other Territories	2006	Information media and telecommunications	8
+Other Territories	2006	Manufacturing	26
+Other Territories	2006	Mining	98
+Other Territories	2006	Other services	23
+Other Territories	2006	Professional scientific and technical services	17
+Other Territories	2006	Public administration and safety	236
+Other Territories	2006	Rental hiring and real estate services	4
+Other Territories	2006	Retail trade	36
+Other Territories	2006	Transport postal and warehousing	67
+Other Territories	2006	Wholesale trade	12
+Other Territories	2011		19
+Other Territories	2011	Accommodation and food services	44
+Other Territories	2011	Administrative and support services	59
+Other Territories	2011	Agriculture forestry and fishing	0
+Other Territories	2011	Arts and recreation services	28
+Other Territories	2011	Construction	77
+Other Territories	2011	Education and training	116
+Other Territories	2011	Electricity gas water and waste services	32
+Other Territories	2011	Financial and insurance services	4
+Other Territories	2011	Health care and social assistance	68
+Other Territories	2011	Information media and telecommunications	3
+Other Territories	2011	Manufacturing	8
+Other Territories	2011	Mining	135
+Other Territories	2011	Other services	23
+Other Territories	2011	Professional scientific and technical services	31
+Other Territories	2011	Public administration and safety	372
+Other Territories	2011	Rental hiring and real estate services	8
+Other Territories	2011	Retail trade	84
+Other Territories	2011	Transport postal and warehousing	62
+Other Territories	2011	Wholesale trade	16
+Other Territories	2016		110
+Other Territories	2016	Accommodation and food services	249
+Other Territories	2016	Administrative and support services	116
+Other Territories	2016	Agriculture forestry and fishing	34
+Other Territories	2016	Arts and recreation services	74
+Other Territories	2016	Construction	143
+Other Territories	2016	Education and training	159
+Other Territories	2016	Electricity gas water and waste services	41
+Other Territories	2016	Financial and insurance services	24
+Other Territories	2016	Health care and social assistance	109
+Other Territories	2016	Information media and telecommunications	15
+Other Territories	2016	Manufacturing	43
+Other Territories	2016	Mining	149
+Other Territories	2016	Other services	58
+Other Territories	2016	Professional scientific and technical services	48
+Other Territories	2016	Public administration and safety	433
+Other Territories	2016	Rental hiring and real estate services	28
+Other Territories	2016	Retail trade	184
+Other Territories	2016	Transport postal and warehousing	111
+Other Territories	2016	Wholesale trade	21

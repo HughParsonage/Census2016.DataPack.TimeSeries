@@ -1,0 +1,217 @@
+STE_NAME16	Year	Sex	IndigenousStatus	persons
+New South Wales	2006	F	Aboriginal	66291
+New South Wales	2006	F	Both Aboriginal & Torres Strait Islander	1422
+New South Wales	2006	F	Non-indigenous	3250699
+New South Wales	2006	F	Torres Strait Islander	2314
+New South Wales	2006	M	Aboriginal	64493
+New South Wales	2006	M	Both Aboriginal & Torres Strait Islander	1524
+New South Wales	2006	M	Non-indigenous	3159974
+New South Wales	2006	M	Torres Strait Islander	2460
+New South Wales	2011	F	Aboriginal	83603
+New South Wales	2011	F	Both Aboriginal & Torres Strait Islander	1615
+New South Wales	2011	F	Non-indigenous	3421233
+New South Wales	2011	F	Torres Strait Islander	2331
+New South Wales	2011	M	Aboriginal	81012
+New South Wales	2011	M	Both Aboriginal & Torres Strait Islander	1633
+New South Wales	2011	M	Non-indigenous	3323792
+New South Wales	2011	M	Torres Strait Islander	2443
+New South Wales	2016	F	Aboriginal	104424
+New South Wales	2016	F	Both Aboriginal & Torres Strait Islander	2028
+New South Wales	2016	F	Non-indigenous	3685417
+New South Wales	2016	F	Torres Strait Islander	2348
+New South Wales	2016	M	Aboriginal	102826
+New South Wales	2016	M	Both Aboriginal & Torres Strait Islander	2052
+New South Wales	2016	M	Non-indigenous	3578644
+New South Wales	2016	M	Torres Strait Islander	2492
+Victoria	2006	F	Aboriginal	13863
+Victoria	2006	F	Both Aboriginal & Torres Strait Islander	443
+Victoria	2006	F	Non-indigenous	2496606
+Victoria	2006	F	Torres Strait Islander	1097
+Victoria	2006	M	Aboriginal	13207
+Victoria	2006	M	Both Aboriginal & Torres Strait Islander	413
+Victoria	2006	M	Non-indigenous	2405669
+Victoria	2006	M	Torres Strait Islander	1126
+Victoria	2011	F	Aboriginal	17810
+Victoria	2011	F	Both Aboriginal & Torres Strait Islander	434
+Victoria	2011	F	Non-indigenous	2702106
+Victoria	2011	F	Torres Strait Islander	1073
+Victoria	2011	M	Aboriginal	17139
+Victoria	2011	M	Both Aboriginal & Torres Strait Islander	450
+Victoria	2011	M	Non-indigenous	2613936
+Victoria	2011	M	Torres Strait Islander	1092
+Victoria	2016	F	Aboriginal	22587
+Victoria	2016	F	Both Aboriginal & Torres Strait Islander	593
+Victoria	2016	F	Non-indigenous	2994384
+Victoria	2016	F	Torres Strait Islander	985
+Victoria	2016	M	Aboriginal	22003
+Victoria	2016	M	Both Aboriginal & Torres Strait Islander	582
+Victoria	2016	M	Non-indigenous	2884455
+Victoria	2016	M	Torres Strait Islander	1037
+Queensland	2006	F	Aboriginal	50479
+Queensland	2006	F	Both Aboriginal & Torres Strait Islander	5335
+Queensland	2006	F	Non-indigenous	1904259
+Queensland	2006	F	Torres Strait Islander	9078
+Queensland	2006	M	Aboriginal	48237
+Queensland	2006	M	Both Aboriginal & Torres Strait Islander	5159
+Queensland	2006	M	Non-indigenous	1872683
+Queensland	2006	M	Torres Strait Islander	9299
+Queensland	2011	F	Aboriginal	62535
+Queensland	2011	F	Both Aboriginal & Torres Strait Islander	6505
+Queensland	2011	F	Non-indigenous	2105435
+Queensland	2011	F	Torres Strait Islander	10045
+Queensland	2011	M	Aboriginal	60360
+Queensland	2011	M	Both Aboriginal & Torres Strait Islander	6334
+Queensland	2011	M	Non-indigenous	2071478
+Queensland	2011	M	Torres Strait Islander	10049
+Queensland	2016	F	Aboriginal	75437
+Queensland	2016	F	Both Aboriginal & Torres Strait Islander	8334
+Queensland	2016	F	Non-indigenous	2286999
+Queensland	2016	F	Torres Strait Islander	10538
+Queensland	2016	M	Aboriginal	73503
+Queensland	2016	M	Both Aboriginal & Torres Strait Islander	8153
+Queensland	2016	M	Non-indigenous	2229715
+Queensland	2016	M	Torres Strait Islander	10518
+South Australia	2006	F	Aboriginal	12376
+South Australia	2006	F	Both Aboriginal & Torres Strait Islander	214
+South Australia	2006	F	Non-indigenous	756022
+South Australia	2006	F	Torres Strait Islander	519
+South Australia	2006	M	Aboriginal	11707
+South Australia	2006	M	Both Aboriginal & Torres Strait Islander	223
+South Australia	2006	M	Non-indigenous	732755
+South Australia	2006	M	Torres Strait Islander	524
+South Australia	2011	F	Aboriginal	14631
+South Australia	2011	F	Both Aboriginal & Torres Strait Islander	280
+South Australia	2011	F	Non-indigenous	793889
+South Australia	2011	F	Torres Strait Islander	551
+South Australia	2011	M	Aboriginal	14200
+South Australia	2011	M	Both Aboriginal & Torres Strait Islander	279
+South Australia	2011	M	Non-indigenous	772246
+South Australia	2011	M	Torres Strait Islander	492
+South Australia	2016	F	Aboriginal	16517
+South Australia	2016	F	Both Aboriginal & Torres Strait Islander	317
+South Australia	2016	F	Non-indigenous	833353
+South Australia	2016	F	Torres Strait Islander	465
+South Australia	2016	M	Aboriginal	16100
+South Australia	2016	M	Both Aboriginal & Torres Strait Islander	317
+South Australia	2016	M	Non-indigenous	809104
+South Australia	2016	M	Torres Strait Islander	476
+Western Australia	2006	F	Aboriginal	28775
+Western Australia	2006	F	Both Aboriginal & Torres Strait Islander	494
+Western Australia	2006	F	Non-indigenous	953243
+Western Australia	2006	F	Torres Strait Islander	451
+Western Australia	2006	M	Aboriginal	27873
+Western Australia	2006	M	Both Aboriginal & Torres Strait Islander	516
+Western Australia	2006	M	Non-indigenous	947130
+Western Australia	2006	M	Torres Strait Islander	603
+Western Australia	2011	F	Aboriginal	33987
+Western Australia	2011	F	Both Aboriginal & Torres Strait Islander	657
+Western Australia	2011	F	Non-indigenous	1077746
+Western Australia	2011	F	Torres Strait Islander	601
+Western Australia	2011	M	Aboriginal	33078
+Western Australia	2011	M	Both Aboriginal & Torres Strait Islander	640
+Western Australia	2011	M	Non-indigenous	1091750
+Western Australia	2011	M	Torres Strait Islander	707
+Western Australia	2016	F	Aboriginal	36481
+Western Australia	2016	F	Both Aboriginal & Torres Strait Islander	810
+Western Australia	2016	F	Non-indigenous	1198037
+Western Australia	2016	F	Torres Strait Islander	666
+Western Australia	2016	M	Aboriginal	36439
+Western Australia	2016	M	Both Aboriginal & Torres Strait Islander	813
+Western Australia	2016	M	Non-indigenous	1200400
+Western Australia	2016	M	Torres Strait Islander	767
+Tasmania	2006	F	Aboriginal	7499
+Tasmania	2006	F	Both Aboriginal & Torres Strait Islander	328
+Tasmania	2006	F	Non-indigenous	234637
+Tasmania	2006	F	Torres Strait Islander	636
+Tasmania	2006	M	Aboriginal	7376
+Tasmania	2006	M	Both Aboriginal & Torres Strait Islander	302
+Tasmania	2006	M	Non-indigenous	225084
+Tasmania	2006	M	Torres Strait Islander	621
+Tasmania	2011	F	Aboriginal	9026
+Tasmania	2011	F	Both Aboriginal & Torres Strait Islander	369
+Tasmania	2011	F	Non-indigenous	242680
+Tasmania	2011	F	Torres Strait Islander	602
+Tasmania	2011	M	Aboriginal	8716
+Tasmania	2011	M	Both Aboriginal & Torres Strait Islander	342
+Tasmania	2011	M	Non-indigenous	233048
+Tasmania	2011	M	Torres Strait Islander	569
+Tasmania	2016	F	Aboriginal	10989
+Tasmania	2016	F	Both Aboriginal & Torres Strait Islander	468
+Tasmania	2016	F	Non-indigenous	248483
+Tasmania	2016	F	Torres Strait Islander	542
+Tasmania	2016	M	Aboriginal	10583
+Tasmania	2016	M	Both Aboriginal & Torres Strait Islander	422
+Tasmania	2016	M	Non-indigenous	237897
+Tasmania	2016	M	Torres Strait Islander	576
+Northern Territory	2006	F	Aboriginal	26327
+Northern Territory	2006	F	Both Aboriginal & Torres Strait Islander	688
+Northern Territory	2006	F	Non-indigenous	66245
+Northern Territory	2006	F	Torres Strait Islander	272
+Northern Territory	2006	M	Aboriginal	25374
+Northern Territory	2006	M	Both Aboriginal & Torres Strait Islander	655
+Northern Territory	2006	M	Non-indigenous	73003
+Northern Territory	2006	M	Torres Strait Islander	340
+Northern Territory	2011	F	Aboriginal	27653
+Northern Territory	2011	F	Both Aboriginal & Torres Strait Islander	785
+Northern Territory	2011	F	Non-indigenous	73687
+Northern Territory	2011	F	Torres Strait Islander	303
+Northern Territory	2011	M	Aboriginal	26922
+Northern Territory	2011	M	Both Aboriginal & Torres Strait Islander	748
+Northern Territory	2011	M	Non-indigenous	81481
+Northern Territory	2011	M	Torres Strait Islander	368
+Northern Territory	2016	F	Aboriginal	27919
+Northern Territory	2016	F	Both Aboriginal & Torres Strait Islander	851
+Northern Territory	2016	F	Non-indigenous	81149
+Northern Territory	2016	F	Torres Strait Islander	347
+Northern Territory	2016	M	Aboriginal	27889
+Northern Territory	2016	M	Both Aboriginal & Torres Strait Islander	848
+Northern Territory	2016	M	Non-indigenous	89441
+Northern Territory	2016	M	Torres Strait Islander	392
+Australian Capital Territory	2006	F	Aboriginal	1813
+Australian Capital Territory	2006	F	Both Aboriginal & Torres Strait Islander	52
+Australian Capital Territory	2006	F	Non-indigenous	162437
+Australian Capital Territory	2006	F	Torres Strait Islander	80
+Australian Capital Territory	2006	M	Aboriginal	1787
+Australian Capital Territory	2006	M	Both Aboriginal & Torres Strait Islander	54
+Australian Capital Territory	2006	M	Non-indigenous	157728
+Australian Capital Territory	2006	M	Torres Strait Islander	85
+Australian Capital Territory	2011	F	Aboriginal	2377
+Australian Capital Territory	2011	F	Both Aboriginal & Torres Strait Islander	58
+Australian Capital Territory	2011	F	Non-indigenous	177956
+Australian Capital Territory	2011	F	Torres Strait Islander	86
+Australian Capital Territory	2011	M	Aboriginal	2478
+Australian Capital Territory	2011	M	Both Aboriginal & Torres Strait Islander	75
+Australian Capital Territory	2011	M	Non-indigenous	174097
+Australian Capital Territory	2011	M	Torres Strait Islander	97
+Australian Capital Territory	2016	F	Aboriginal	3051
+Australian Capital Territory	2016	F	Both Aboriginal & Torres Strait Islander	93
+Australian Capital Territory	2016	F	Non-indigenous	198417
+Australian Capital Territory	2016	F	Torres Strait Islander	92
+Australian Capital Territory	2016	M	Aboriginal	3087
+Australian Capital Territory	2016	M	Both Aboriginal & Torres Strait Islander	96
+Australian Capital Territory	2016	M	Non-indigenous	192468
+Australian Capital Territory	2016	M	Torres Strait Islander	88
+Other Territories	2006	F	Aboriginal	106
+Other Territories	2006	F	Both Aboriginal & Torres Strait Islander	0
+Other Territories	2006	F	Non-indigenous	940
+Other Territories	2006	F	Torres Strait Islander	6
+Other Territories	2006	M	Aboriginal	110
+Other Territories	2006	M	Both Aboriginal & Torres Strait Islander	0
+Other Territories	2006	M	Non-indigenous	1144
+Other Territories	2006	M	Torres Strait Islander	7
+Other Territories	2011	F	Aboriginal	121
+Other Territories	2011	F	Both Aboriginal & Torres Strait Islander	0
+Other Territories	2011	F	Non-indigenous	940
+Other Territories	2011	F	Torres Strait Islander	0
+Other Territories	2011	M	Aboriginal	117
+Other Territories	2011	M	Both Aboriginal & Torres Strait Islander	0
+Other Territories	2011	M	Non-indigenous	1845
+Other Territories	2011	M	Torres Strait Islander	5
+Other Territories	2016	F	Aboriginal	110
+Other Territories	2016	F	Both Aboriginal & Torres Strait Islander	3
+Other Territories	2016	F	Non-indigenous	2004
+Other Territories	2016	F	Torres Strait Islander	3
+Other Territories	2016	M	Aboriginal	105
+Other Territories	2016	M	Both Aboriginal & Torres Strait Islander	0
+Other Territories	2016	M	Non-indigenous	2353
+Other Territories	2016	M	Torres Strait Islander	4

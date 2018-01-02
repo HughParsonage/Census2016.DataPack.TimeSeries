@@ -1,0 +1,6445 @@
+SA3_NAME16	Year	SameAddress5YearsAgo	Sex	persons
+Queanbeyan	2006		F	3063
+Queanbeyan	2006		M	3416
+Queanbeyan	2006	0	F	10159
+Queanbeyan	2006	0	M	9861
+Queanbeyan	2006	1	F	11270
+Queanbeyan	2006	1	M	11301
+Queanbeyan	2011		F	3073
+Queanbeyan	2011		M	3430
+Queanbeyan	2011	0	F	10041
+Queanbeyan	2011	0	M	9796
+Queanbeyan	2011	1	F	13546
+Queanbeyan	2011	1	M	13626
+Queanbeyan	2016		F	3798
+Queanbeyan	2016		M	4125
+Queanbeyan	2016	0	F	10510
+Queanbeyan	2016	0	M	10310
+Queanbeyan	2016	1	F	14193
+Queanbeyan	2016	1	M	14393
+Snowy Mountains	2006		F	1344
+Snowy Mountains	2006		M	1736
+Snowy Mountains	2006	0	F	3154
+Snowy Mountains	2006	0	M	3096
+Snowy Mountains	2006	1	F	4490
+Snowy Mountains	2006	1	M	4671
+Snowy Mountains	2011		F	1198
+Snowy Mountains	2011		M	1539
+Snowy Mountains	2011	0	F	2948
+Snowy Mountains	2011	0	M	2952
+Snowy Mountains	2011	1	F	5047
+Snowy Mountains	2011	1	M	5245
+Snowy Mountains	2016		F	1281
+Snowy Mountains	2016		M	1584
+Snowy Mountains	2016	0	F	3024
+Snowy Mountains	2016	0	M	3135
+Snowy Mountains	2016	1	F	5049
+Snowy Mountains	2016	1	M	5294
+South Coast	2006		F	3105
+South Coast	2006		M	3257
+South Coast	2006	0	F	13464
+South Coast	2006	0	M	12489
+South Coast	2006	1	F	17043
+South Coast	2006	1	M	16713
+South Coast	2011		F	3437
+South Coast	2011		M	3644
+South Coast	2011	0	F	12242
+South Coast	2011	0	M	11178
+South Coast	2011	1	F	18835
+South Coast	2011	1	M	18546
+South Coast	2016		F	4495
+South Coast	2016		M	4470
+South Coast	2016	0	F	12503
+South Coast	2016	0	M	11486
+South Coast	2016	1	F	19031
+South Coast	2016	1	M	18650
+Goulburn - Mulwaree	2006		F	1721
+Goulburn - Mulwaree	2006		M	2376
+Goulburn - Mulwaree	2006	0	F	5632
+Goulburn - Mulwaree	2006	0	M	5408
+Goulburn - Mulwaree	2006	1	F	8505
+Goulburn - Mulwaree	2006	1	M	8436
+Goulburn - Mulwaree	2011		F	1673
+Goulburn - Mulwaree	2011		M	2368
+Goulburn - Mulwaree	2011	0	F	5537
+Goulburn - Mulwaree	2011	0	M	5188
+Goulburn - Mulwaree	2011	1	F	9216
+Goulburn - Mulwaree	2011	1	M	9119
+Goulburn - Mulwaree	2016		F	2454
+Goulburn - Mulwaree	2016		M	3082
+Goulburn - Mulwaree	2016	0	F	6039
+Goulburn - Mulwaree	2016	0	M	5788
+Goulburn - Mulwaree	2016	1	F	9079
+Goulburn - Mulwaree	2016	1	M	9119
+Young - Yass	2006		F	1696
+Young - Yass	2006		M	1779
+Young - Yass	2006	0	F	5895
+Young - Yass	2006	0	M	5536
+Young - Yass	2006	1	F	8709
+Young - Yass	2006	1	M	8618
+Young - Yass	2011		F	2067
+Young - Yass	2011		M	2128
+Young - Yass	2011	0	F	5754
+Young - Yass	2011	0	M	5372
+Young - Yass	2011	1	F	9591
+Young - Yass	2011	1	M	9483
+Young - Yass	2016		F	2307
+Young - Yass	2016		M	2415
+Young - Yass	2016	0	F	5862
+Young - Yass	2016	0	M	5289
+Young - Yass	2016	1	F	10088
+Young - Yass	2016	1	M	9974
+Gosford	2006		F	10314
+Gosford	2006		M	10367
+Gosford	2006	0	F	28661
+Gosford	2006	0	M	26379
+Gosford	2006	1	F	43119
+Gosford	2006	1	M	40092
+Gosford	2011		F	9028
+Gosford	2011		M	9364
+Gosford	2011	0	F	29105
+Gosford	2011	0	M	26391
+Gosford	2011	1	F	46302
+Gosford	2011	1	M	42922
+Gosford	2016		F	9916
+Gosford	2016		M	9892
+Gosford	2016	0	F	31542
+Gosford	2016	0	M	29090
+Gosford	2016	1	F	45715
+Gosford	2016	1	M	42898
+Wyong	2006		F	8503
+Wyong	2006		M	8663
+Wyong	2006	0	F	27614
+Wyong	2006	0	M	24879
+Wyong	2006	1	F	35804
+Wyong	2006	1	M	33563
+Wyong	2011		F	8470
+Wyong	2011		M	8774
+Wyong	2011	0	F	27693
+Wyong	2011	0	M	24949
+Wyong	2011	1	F	40889
+Wyong	2011	1	M	38304
+Wyong	2016		F	10305
+Wyong	2016		M	10041
+Wyong	2016	0	F	30441
+Wyong	2016	0	M	27671
+Wyong	2016	1	F	41057
+Wyong	2016	1	M	39172
+Bathurst	2006		F	2164
+Bathurst	2006		M	3142
+Bathurst	2006	0	F	8409
+Bathurst	2006	0	M	7903
+Bathurst	2006	1	F	9673
+Bathurst	2006	1	M	9580
+Bathurst	2011		F	2508
+Bathurst	2011		M	3392
+Bathurst	2011	0	F	8158
+Bathurst	2011	0	M	7721
+Bathurst	2011	1	F	10902
+Bathurst	2011	1	M	10871
+Bathurst	2016		F	3286
+Bathurst	2016		M	4230
+Bathurst	2016	0	F	8752
+Bathurst	2016	0	M	8216
+Bathurst	2016	1	F	11114
+Bathurst	2016	1	M	10999
+Lachlan Valley	2006		F	2970
+Lachlan Valley	2006		M	3165
+Lachlan Valley	2006	0	F	9450
+Lachlan Valley	2006	0	M	9002
+Lachlan Valley	2006	1	F	15463
+Lachlan Valley	2006	1	M	15516
+Lachlan Valley	2011		F	3277
+Lachlan Valley	2011		M	3455
+Lachlan Valley	2011	0	F	8232
+Lachlan Valley	2011	0	M	7782
+Lachlan Valley	2011	1	F	16032
+Lachlan Valley	2011	1	M	16017
+Lachlan Valley	2016		F	4497
+Lachlan Valley	2016		M	4462
+Lachlan Valley	2016	0	F	8164
+Lachlan Valley	2016	0	M	7556
+Lachlan Valley	2016	1	F	15218
+Lachlan Valley	2016	1	M	15444
+Lithgow - Mudgee	2006		F	2294
+Lithgow - Mudgee	2006		M	2882
+Lithgow - Mudgee	2006	0	F	7242
+Lithgow - Mudgee	2006	0	M	6732
+Lithgow - Mudgee	2006	1	F	11567
+Lithgow - Mudgee	2006	1	M	11821
+Lithgow - Mudgee	2011		F	2494
+Lithgow - Mudgee	2011		M	3222
+Lithgow - Mudgee	2011	0	F	7010
+Lithgow - Mudgee	2011	0	M	6745
+Lithgow - Mudgee	2011	1	F	12117
+Lithgow - Mudgee	2011	1	M	12333
+Lithgow - Mudgee	2016		F	3965
+Lithgow - Mudgee	2016		M	4448
+Lithgow - Mudgee	2016	0	F	7454
+Lithgow - Mudgee	2016	0	M	7059
+Lithgow - Mudgee	2016	1	F	11666
+Lithgow - Mudgee	2016	1	M	12023
+Orange	2006		F	3042
+Orange	2006		M	3157
+Orange	2006	0	F	9721
+Orange	2006	0	M	9122
+Orange	2006	1	F	13088
+Orange	2006	1	M	12571
+Orange	2011		F	3324
+Orange	2011		M	3705
+Orange	2011	0	F	9811
+Orange	2011	0	M	9049
+Orange	2011	1	F	14548
+Orange	2011	1	M	14035
+Orange	2016		F	4003
+Orange	2016		M	4195
+Orange	2016	0	F	10901
+Orange	2016	0	M	9958
+Orange	2016	1	F	14442
+Orange	2016	1	M	14111
+Clarence Valley	2006		F	2366
+Clarence Valley	2006		M	2797
+Clarence Valley	2006	0	F	9152
+Clarence Valley	2006	0	M	8620
+Clarence Valley	2006	1	F	12551
+Clarence Valley	2006	1	M	12183
+Clarence Valley	2011		F	2503
+Clarence Valley	2011		M	2871
+Clarence Valley	2011	0	F	8793
+Clarence Valley	2011	0	M	8135
+Clarence Valley	2011	1	F	13666
+Clarence Valley	2011	1	M	13270
+Clarence Valley	2016		F	3173
+Clarence Valley	2016		M	3599
+Clarence Valley	2016	0	F	8388
+Clarence Valley	2016	0	M	7765
+Clarence Valley	2016	1	F	13796
+Clarence Valley	2016	1	M	13543
+Coffs Harbour	2006		F	3978
+Coffs Harbour	2006		M	4247
+Coffs Harbour	2006	0	F	16706
+Coffs Harbour	2006	0	M	15221
+Coffs Harbour	2006	1	F	19217
+Coffs Harbour	2006	1	M	18435
+Coffs Harbour	2011		F	4367
+Coffs Harbour	2011		M	4464
+Coffs Harbour	2011	0	F	16357
+Coffs Harbour	2011	0	M	14816
+Coffs Harbour	2011	1	F	21122
+Coffs Harbour	2011	1	M	20231
+Coffs Harbour	2016		F	5672
+Coffs Harbour	2016		M	5549
+Coffs Harbour	2016	0	F	17064
+Coffs Harbour	2016	0	M	15349
+Coffs Harbour	2016	1	F	21608
+Coffs Harbour	2016	1	M	20779
+Bourke - Cobar - Coonamble	2006		F	1767
+Bourke - Cobar - Coonamble	2006		M	2214
+Bourke - Cobar - Coonamble	2006	0	F	4165
+Bourke - Cobar - Coonamble	2006	0	M	4325
+Bourke - Cobar - Coonamble	2006	1	F	6728
+Bourke - Cobar - Coonamble	2006	1	M	7434
+Bourke - Cobar - Coonamble	2011		F	1917
+Bourke - Cobar - Coonamble	2011		M	2167
+Bourke - Cobar - Coonamble	2011	0	F	3734
+Bourke - Cobar - Coonamble	2011	0	M	3716
+Bourke - Cobar - Coonamble	2011	1	F	6578
+Bourke - Cobar - Coonamble	2011	1	M	7181
+Bourke - Cobar - Coonamble	2016		F	2443
+Bourke - Cobar - Coonamble	2016		M	2573
+Bourke - Cobar - Coonamble	2016	0	F	3253
+Bourke - Cobar - Coonamble	2016	0	M	3092
+Bourke - Cobar - Coonamble	2016	1	F	6138
+Bourke - Cobar - Coonamble	2016	1	M	6649
+Broken Hill and Far West	2006		F	1383
+Broken Hill and Far West	2006		M	1554
+Broken Hill and Far West	2006	0	F	3350
+Broken Hill and Far West	2006	0	M	2944
+Broken Hill and Far West	2006	1	F	6431
+Broken Hill and Far West	2006	1	M	6367
+Broken Hill and Far West	2011		F	1480
+Broken Hill and Far West	2011		M	1460
+Broken Hill and Far West	2011	0	F	2569
+Broken Hill and Far West	2011	0	M	2458
+Broken Hill and Far West	2011	1	F	6701
+Broken Hill and Far West	2011	1	M	6536
+Broken Hill and Far West	2016		F	1442
+Broken Hill and Far West	2016		M	1562
+Broken Hill and Far West	2016	0	F	2692
+Broken Hill and Far West	2016	0	M	2425
+Broken Hill and Far West	2016	1	F	6117
+Broken Hill and Far West	2016	1	M	5978
+Dubbo	2006		F	4345
+Dubbo	2006		M	4572
+Dubbo	2006	0	F	12391
+Dubbo	2006	0	M	11383
+Dubbo	2006	1	F	16861
+Dubbo	2006	1	M	16270
+Dubbo	2011		F	4157
+Dubbo	2011		M	4955
+Dubbo	2011	0	F	11846
+Dubbo	2011	0	M	10528
+Dubbo	2011	1	F	18102
+Dubbo	2011	1	M	17508
+Dubbo	2016		F	5575
+Dubbo	2016		M	6032
+Dubbo	2016	0	F	11907
+Dubbo	2016	0	M	10878
+Dubbo	2016	1	F	17731
+Dubbo	2016	1	M	17288
+Lower Hunter	2006		F	4438
+Lower Hunter	2006		M	5139
+Lower Hunter	2006	0	F	13179
+Lower Hunter	2006	0	M	12672
+Lower Hunter	2006	1	F	20598
+Lower Hunter	2006	1	M	20445
+Lower Hunter	2011		F	4760
+Lower Hunter	2011		M	5621
+Lower Hunter	2011	0	F	13489
+Lower Hunter	2011	0	M	12863
+Lower Hunter	2011	1	F	22581
+Lower Hunter	2011	1	M	22673
+Lower Hunter	2016		F	6310
+Lower Hunter	2016		M	7062
+Lower Hunter	2016	0	F	14753
+Lower Hunter	2016	0	M	13890
+Lower Hunter	2016	1	F	22702
+Lower Hunter	2016	1	M	22959
+Maitland	2006		F	3450
+Maitland	2006		M	3616
+Maitland	2006	0	F	11575
+Maitland	2006	0	M	10745
+Maitland	2006	1	F	14803
+Maitland	2006	1	M	14173
+Maitland	2011		F	3658
+Maitland	2011		M	3862
+Maitland	2011	0	F	11602
+Maitland	2011	0	M	10835
+Maitland	2011	1	F	17494
+Maitland	2011	1	M	16758
+Maitland	2016		F	4627
+Maitland	2016		M	4808
+Maitland	2016	0	F	15119
+Maitland	2016	0	M	13705
+Maitland	2016	1	F	18202
+Maitland	2016	1	M	17704
+Port Stephens	2006		F	3459
+Port Stephens	2006		M	3669
+Port Stephens	2006	0	F	12690
+Port Stephens	2006	0	M	12117
+Port Stephens	2006	1	F	15639
+Port Stephens	2006	1	M	15138
+Port Stephens	2011		F	3909
+Port Stephens	2011		M	4106
+Port Stephens	2011	0	F	12396
+Port Stephens	2011	0	M	11939
+Port Stephens	2011	1	F	17943
+Port Stephens	2011	1	M	17212
+Port Stephens	2016		F	4630
+Port Stephens	2016		M	4645
+Port Stephens	2016	0	F	13309
+Port Stephens	2016	0	M	12849
+Port Stephens	2016	1	F	18153
+Port Stephens	2016	1	M	17795
+Upper Hunter	2006		F	1755
+Upper Hunter	2006		M	2171
+Upper Hunter	2006	0	F	5284
+Upper Hunter	2006	0	M	5111
+Upper Hunter	2006	1	F	6828
+Upper Hunter	2006	1	M	7062
+Upper Hunter	2011		F	1890
+Upper Hunter	2011		M	2307
+Upper Hunter	2011	0	F	5337
+Upper Hunter	2011	0	M	5205
+Upper Hunter	2011	1	F	7289
+Upper Hunter	2011	1	M	7518
+Upper Hunter	2016		F	2230
+Upper Hunter	2016		M	2606
+Upper Hunter	2016	0	F	5406
+Upper Hunter	2016	0	M	5101
+Upper Hunter	2016	1	F	7348
+Upper Hunter	2016	1	M	7509
+Dapto - Port Kembla	2006		F	4037
+Dapto - Port Kembla	2006		M	4297
+Dapto - Port Kembla	2006	0	F	10013
+Dapto - Port Kembla	2006	0	M	9286
+Dapto - Port Kembla	2006	1	F	21694
+Dapto - Port Kembla	2006	1	M	21337
+Dapto - Port Kembla	2011		F	3850
+Dapto - Port Kembla	2011		M	3982
+Dapto - Port Kembla	2011	0	F	9747
+Dapto - Port Kembla	2011	0	M	9104
+Dapto - Port Kembla	2011	1	F	22864
+Dapto - Port Kembla	2011	1	M	22371
+Dapto - Port Kembla	2016		F	4557
+Dapto - Port Kembla	2016		M	4547
+Dapto - Port Kembla	2016	0	F	11254
+Dapto - Port Kembla	2016	0	M	10412
+Dapto - Port Kembla	2016	1	F	22545
+Dapto - Port Kembla	2016	1	M	22043
+Illawarra Catchment Reserve	2006		F	0
+Illawarra Catchment Reserve	2006		M	0
+Illawarra Catchment Reserve	2006	0	F	0
+Illawarra Catchment Reserve	2006	0	M	0
+Illawarra Catchment Reserve	2006	1	F	0
+Illawarra Catchment Reserve	2006	1	M	0
+Illawarra Catchment Reserve	2011		F	4
+Illawarra Catchment Reserve	2011		M	3
+Illawarra Catchment Reserve	2011	0	F	3
+Illawarra Catchment Reserve	2011	0	M	3
+Illawarra Catchment Reserve	2011	1	F	0
+Illawarra Catchment Reserve	2011	1	M	0
+Illawarra Catchment Reserve	2016		F	0
+Illawarra Catchment Reserve	2016		M	4
+Illawarra Catchment Reserve	2016	0	F	0
+Illawarra Catchment Reserve	2016	0	M	0
+Illawarra Catchment Reserve	2016	1	F	3
+Illawarra Catchment Reserve	2016	1	M	0
+Kiama - Shellharbour	2006		F	4475
+Kiama - Shellharbour	2006		M	4579
+Kiama - Shellharbour	2006	0	F	13050
+Kiama - Shellharbour	2006	0	M	12056
+Kiama - Shellharbour	2006	1	F	22878
+Kiama - Shellharbour	2006	1	M	22279
+Kiama - Shellharbour	2011		F	4017
+Kiama - Shellharbour	2011		M	4293
+Kiama - Shellharbour	2011	0	F	13527
+Kiama - Shellharbour	2011	0	M	12443
+Kiama - Shellharbour	2011	1	F	25069
+Kiama - Shellharbour	2011	1	M	24186
+Kiama - Shellharbour	2016		F	5387
+Kiama - Shellharbour	2016		M	5456
+Kiama - Shellharbour	2016	0	F	15054
+Kiama - Shellharbour	2016	0	M	13982
+Kiama - Shellharbour	2016	1	F	25466
+Kiama - Shellharbour	2016	1	M	24493
+Wollongong	2006		F	6269
+Wollongong	2006		M	6742
+Wollongong	2006	0	F	19437
+Wollongong	2006	0	M	19069
+Wollongong	2006	1	F	31657
+Wollongong	2006	1	M	30369
+Wollongong	2011		F	6260
+Wollongong	2011		M	6801
+Wollongong	2011	0	F	21149
+Wollongong	2011	0	M	20750
+Wollongong	2011	1	F	33318
+Wollongong	2011	1	M	32247
+Wollongong	2016		F	7152
+Wollongong	2016		M	7314
+Wollongong	2016	0	F	23391
+Wollongong	2016	0	M	23260
+Wollongong	2016	1	F	34199
+Wollongong	2016	1	M	32978
+Great Lakes	2006		F	1482
+Great Lakes	2006		M	1472
+Great Lakes	2006	0	F	5720
+Great Lakes	2006	0	M	5383
+Great Lakes	2006	1	F	7468
+Great Lakes	2006	1	M	7197
+Great Lakes	2011		F	1587
+Great Lakes	2011		M	1667
+Great Lakes	2011	0	F	5289
+Great Lakes	2011	0	M	4878
+Great Lakes	2011	1	F	8406
+Great Lakes	2011	1	M	8020
+Great Lakes	2016		F	2002
+Great Lakes	2016		M	1961
+Great Lakes	2016	0	F	5809
+Great Lakes	2016	0	M	5366
+Great Lakes	2016	1	F	8206
+Great Lakes	2016	1	M	7925
+Kempsey - Nambucca	2006		F	2597
+Kempsey - Nambucca	2006		M	3109
+Kempsey - Nambucca	2006	0	F	8245
+Kempsey - Nambucca	2006	0	M	7733
+Kempsey - Nambucca	2006	1	F	11881
+Kempsey - Nambucca	2006	1	M	11717
+Kempsey - Nambucca	2011		F	2651
+Kempsey - Nambucca	2011		M	3092
+Kempsey - Nambucca	2011	0	F	7606
+Kempsey - Nambucca	2011	0	M	6939
+Kempsey - Nambucca	2011	1	F	13342
+Kempsey - Nambucca	2011	1	M	13195
+Kempsey - Nambucca	2016		F	3623
+Kempsey - Nambucca	2016		M	3969
+Kempsey - Nambucca	2016	0	F	7479
+Kempsey - Nambucca	2016	0	M	6916
+Kempsey - Nambucca	2016	1	F	13140
+Kempsey - Nambucca	2016	1	M	12997
+Lord Howe Island	2006		F	4
+Lord Howe Island	2006		M	12
+Lord Howe Island	2006	0	F	61
+Lord Howe Island	2006	0	M	58
+Lord Howe Island	2006	1	F	105
+Lord Howe Island	2006	1	M	102
+Lord Howe Island	2011		F	29
+Lord Howe Island	2011		M	15
+Lord Howe Island	2011	0	F	49
+Lord Howe Island	2011	0	M	52
+Lord Howe Island	2011	1	F	108
+Lord Howe Island	2011	1	M	109
+Lord Howe Island	2016		F	28
+Lord Howe Island	2016		M	26
+Lord Howe Island	2016	0	F	57
+Lord Howe Island	2016	0	M	64
+Lord Howe Island	2016	1	F	106
+Lord Howe Island	2016	1	M	102
+Port Macquarie	2006		F	3471
+Port Macquarie	2006		M	3528
+Port Macquarie	2006	0	F	15093
+Port Macquarie	2006	0	M	13624
+Port Macquarie	2006	1	F	16954
+Port Macquarie	2006	1	M	15763
+Port Macquarie	2011		F	3739
+Port Macquarie	2011		M	3790
+Port Macquarie	2011	0	F	14871
+Port Macquarie	2011	0	M	13414
+Port Macquarie	2011	1	F	19156
+Port Macquarie	2011	1	M	17739
+Port Macquarie	2016		F	4877
+Port Macquarie	2016		M	4707
+Port Macquarie	2016	0	F	16135
+Port Macquarie	2016	0	M	14607
+Port Macquarie	2016	1	F	19849
+Port Macquarie	2016	1	M	18390
+Taree - Gloucester	2006		F	2422
+Taree - Gloucester	2006		M	2512
+Taree - Gloucester	2006	0	F	9809
+Taree - Gloucester	2006	0	M	8961
+Taree - Gloucester	2006	1	F	13287
+Taree - Gloucester	2006	1	M	12951
+Taree - Gloucester	2011		F	2772
+Taree - Gloucester	2011		M	2910
+Taree - Gloucester	2011	0	F	8849
+Taree - Gloucester	2011	0	M	7916
+Taree - Gloucester	2011	1	F	14684
+Taree - Gloucester	2011	1	M	14228
+Taree - Gloucester	2016		F	3480
+Taree - Gloucester	2016		M	3492
+Taree - Gloucester	2016	0	F	9698
+Taree - Gloucester	2016	0	M	8898
+Taree - Gloucester	2016	1	F	14420
+Taree - Gloucester	2016	1	M	13873
+Albury	2006		F	3134
+Albury	2006		M	3372
+Albury	2006	0	F	11262
+Albury	2006	0	M	10250
+Albury	2006	1	F	14208
+Albury	2006	1	M	13667
+Albury	2011		F	3338
+Albury	2011		M	3458
+Albury	2011	0	F	10883
+Albury	2011	0	M	9727
+Albury	2011	1	F	15291
+Albury	2011	1	M	14741
+Albury	2016		F	4258
+Albury	2016		M	4279
+Albury	2016	0	F	11810
+Albury	2016	0	M	10537
+Albury	2016	1	F	15440
+Albury	2016	1	M	14941
+Lower Murray	2006		F	761
+Lower Murray	2006		M	845
+Lower Murray	2006	0	F	2002
+Lower Murray	2006	0	M	2037
+Lower Murray	2006	1	F	3551
+Lower Murray	2006	1	M	3852
+Lower Murray	2011		F	698
+Lower Murray	2011		M	814
+Lower Murray	2011	0	F	1801
+Lower Murray	2011	0	M	1759
+Lower Murray	2011	1	F	3523
+Lower Murray	2011	1	M	3829
+Lower Murray	2016		F	999
+Lower Murray	2016		M	1145
+Lower Murray	2016	0	F	1791
+Lower Murray	2016	0	M	1686
+Lower Murray	2016	1	F	3320
+Lower Murray	2016	1	M	3607
+Upper Murray exc. Albury	2006		F	2094
+Upper Murray exc. Albury	2006		M	2284
+Upper Murray exc. Albury	2006	0	F	7604
+Upper Murray exc. Albury	2006	0	M	7234
+Upper Murray exc. Albury	2006	1	F	10551
+Upper Murray exc. Albury	2006	1	M	10908
+Upper Murray exc. Albury	2011		F	2158
+Upper Murray exc. Albury	2011		M	2256
+Upper Murray exc. Albury	2011	0	F	6299
+Upper Murray exc. Albury	2011	0	M	5919
+Upper Murray exc. Albury	2011	1	F	11778
+Upper Murray exc. Albury	2011	1	M	12045
+Upper Murray exc. Albury	2016		F	3165
+Upper Murray exc. Albury	2016		M	3194
+Upper Murray exc. Albury	2016	0	F	6516
+Upper Murray exc. Albury	2016	0	M	6148
+Upper Murray exc. Albury	2016	1	F	11439
+Upper Murray exc. Albury	2016	1	M	11520
+Armidale	2006		F	1856
+Armidale	2006		M	1966
+Armidale	2006	0	F	7265
+Armidale	2006	0	M	6535
+Armidale	2006	1	F	8758
+Armidale	2006	1	M	8387
+Armidale	2011		F	2083
+Armidale	2011		M	2058
+Armidale	2011	0	F	7150
+Armidale	2011	0	M	6415
+Armidale	2011	1	F	9311
+Armidale	2011	1	M	8928
+Armidale	2016		F	2578
+Armidale	2016		M	2524
+Armidale	2016	0	F	7283
+Armidale	2016	0	M	6517
+Armidale	2016	1	F	9274
+Armidale	2016	1	M	8916
+Inverell - Tenterfield	2006		F	2030
+Inverell - Tenterfield	2006		M	2191
+Inverell - Tenterfield	2006	0	F	6861
+Inverell - Tenterfield	2006	0	M	6548
+Inverell - Tenterfield	2006	1	F	9912
+Inverell - Tenterfield	2006	1	M	9819
+Inverell - Tenterfield	2011		F	2018
+Inverell - Tenterfield	2011		M	2300
+Inverell - Tenterfield	2011	0	F	6280
+Inverell - Tenterfield	2011	0	M	5821
+Inverell - Tenterfield	2011	1	F	10769
+Inverell - Tenterfield	2011	1	M	10575
+Inverell - Tenterfield	2016		F	3053
+Inverell - Tenterfield	2016		M	3150
+Inverell - Tenterfield	2016	0	F	5874
+Inverell - Tenterfield	2016	0	M	5340
+Inverell - Tenterfield	2016	1	F	10512
+Inverell - Tenterfield	2016	1	M	10415
+Moree - Narrabri	2006		F	2031
+Moree - Narrabri	2006		M	2128
+Moree - Narrabri	2006	0	F	4392
+Moree - Narrabri	2006	0	M	4378
+Moree - Narrabri	2006	1	F	6525
+Moree - Narrabri	2006	1	M	6944
+Moree - Narrabri	2011		F	1942
+Moree - Narrabri	2011		M	2123
+Moree - Narrabri	2011	0	F	3958
+Moree - Narrabri	2011	0	M	3875
+Moree - Narrabri	2011	1	F	6776
+Moree - Narrabri	2011	1	M	7013
+Moree - Narrabri	2016		F	2562
+Moree - Narrabri	2016		M	2523
+Moree - Narrabri	2016	0	F	3558
+Moree - Narrabri	2016	0	M	3365
+Moree - Narrabri	2016	1	F	6636
+Moree - Narrabri	2016	1	M	6980
+Tamworth - Gunnedah	2006		F	4161
+Tamworth - Gunnedah	2006		M	4427
+Tamworth - Gunnedah	2006	0	F	14250
+Tamworth - Gunnedah	2006	0	M	13548
+Tamworth - Gunnedah	2006	1	F	19240
+Tamworth - Gunnedah	2006	1	M	18238
+Tamworth - Gunnedah	2011		F	4749
+Tamworth - Gunnedah	2011		M	4989
+Tamworth - Gunnedah	2011	0	F	13819
+Tamworth - Gunnedah	2011	0	M	12899
+Tamworth - Gunnedah	2011	1	F	20439
+Tamworth - Gunnedah	2011	1	M	19910
+Tamworth - Gunnedah	2016		F	6050
+Tamworth - Gunnedah	2016		M	6267
+Tamworth - Gunnedah	2016	0	F	14623
+Tamworth - Gunnedah	2016	0	M	13560
+Tamworth - Gunnedah	2016	1	F	20296
+Tamworth - Gunnedah	2016	1	M	19704
+Lake Macquarie - East	2006		F	5613
+Lake Macquarie - East	2006		M	5957
+Lake Macquarie - East	2006	0	F	17948
+Lake Macquarie - East	2006	0	M	16562
+Lake Macquarie - East	2006	1	F	35091
+Lake Macquarie - East	2006	1	M	33518
+Lake Macquarie - East	2011		F	5824
+Lake Macquarie - East	2011		M	5947
+Lake Macquarie - East	2011	0	F	18000
+Lake Macquarie - East	2011	0	M	16683
+Lake Macquarie - East	2011	1	F	36095
+Lake Macquarie - East	2011	1	M	34322
+Lake Macquarie - East	2016		F	6312
+Lake Macquarie - East	2016		M	6343
+Lake Macquarie - East	2016	0	F	19574
+Lake Macquarie - East	2016	0	M	18163
+Lake Macquarie - East	2016	1	F	35633
+Lake Macquarie - East	2016	1	M	33994
+Lake Macquarie - West	2006		F	3446
+Lake Macquarie - West	2006		M	3612
+Lake Macquarie - West	2006	0	F	11762
+Lake Macquarie - West	2006	0	M	10935
+Lake Macquarie - West	2006	1	F	18892
+Lake Macquarie - West	2006	1	M	18310
+Lake Macquarie - West	2011		F	3363
+Lake Macquarie - West	2011		M	3476
+Lake Macquarie - West	2011	0	F	11844
+Lake Macquarie - West	2011	0	M	11018
+Lake Macquarie - West	2011	1	F	20510
+Lake Macquarie - West	2011	1	M	19794
+Lake Macquarie - West	2016		F	4283
+Lake Macquarie - West	2016		M	4225
+Lake Macquarie - West	2016	0	F	13846
+Lake Macquarie - West	2016	0	M	12803
+Lake Macquarie - West	2016	1	F	20348
+Lake Macquarie - West	2016	1	M	19707
+Newcastle	2006		F	8597
+Newcastle	2006		M	9237
+Newcastle	2006	0	F	28029
+Newcastle	2006	0	M	26405
+Newcastle	2006	1	F	39230
+Newcastle	2006	1	M	36816
+Newcastle	2011		F	8284
+Newcastle	2011		M	9159
+Newcastle	2011	0	F	29559
+Newcastle	2011	0	M	28349
+Newcastle	2011	1	F	41208
+Newcastle	2011	1	M	39178
+Newcastle	2016		F	8759
+Newcastle	2016		M	9318
+Newcastle	2016	0	F	33121
+Newcastle	2016	0	M	31716
+Newcastle	2016	1	F	41202
+Newcastle	2016	1	M	39764
+Richmond Valley - Coastal	2006		F	4253
+Richmond Valley - Coastal	2006		M	4355
+Richmond Valley - Coastal	2006	0	F	15192
+Richmond Valley - Coastal	2006	0	M	13827
+Richmond Valley - Coastal	2006	1	F	17599
+Richmond Valley - Coastal	2006	1	M	16908
+Richmond Valley - Coastal	2011		F	3775
+Richmond Valley - Coastal	2011		M	4079
+Richmond Valley - Coastal	2011	0	F	14455
+Richmond Valley - Coastal	2011	0	M	12811
+Richmond Valley - Coastal	2011	1	F	19470
+Richmond Valley - Coastal	2011	1	M	18634
+Richmond Valley - Coastal	2016		F	5840
+Richmond Valley - Coastal	2016		M	5670
+Richmond Valley - Coastal	2016	0	F	15180
+Richmond Valley - Coastal	2016	0	M	13591
+Richmond Valley - Coastal	2016	1	F	19440
+Richmond Valley - Coastal	2016	1	M	18559
+Richmond Valley - Hinterland	2006		F	3512
+Richmond Valley - Hinterland	2006		M	3761
+Richmond Valley - Hinterland	2006	0	F	13440
+Richmond Valley - Hinterland	2006	0	M	12340
+Richmond Valley - Hinterland	2006	1	F	17688
+Richmond Valley - Hinterland	2006	1	M	17130
+Richmond Valley - Hinterland	2011		F	3744
+Richmond Valley - Hinterland	2011		M	4075
+Richmond Valley - Hinterland	2011	0	F	12285
+Richmond Valley - Hinterland	2011	0	M	11275
+Richmond Valley - Hinterland	2011	1	F	19205
+Richmond Valley - Hinterland	2011	1	M	18701
+Richmond Valley - Hinterland	2016		F	4893
+Richmond Valley - Hinterland	2016		M	5031
+Richmond Valley - Hinterland	2016	0	F	11300
+Richmond Valley - Hinterland	2016	0	M	10469
+Richmond Valley - Hinterland	2016	1	F	19421
+Richmond Valley - Hinterland	2016	1	M	18834
+Tweed Valley	2006		F	4625
+Tweed Valley	2006		M	4707
+Tweed Valley	2006	0	F	17044
+Tweed Valley	2006	0	M	15744
+Tweed Valley	2006	1	F	19028
+Tweed Valley	2006	1	M	18175
+Tweed Valley	2011		F	4786
+Tweed Valley	2011		M	4859
+Tweed Valley	2011	0	F	16739
+Tweed Valley	2011	0	M	14819
+Tweed Valley	2011	1	F	22566
+Tweed Valley	2011	1	M	21333
+Tweed Valley	2016		F	6027
+Tweed Valley	2016		M	6063
+Tweed Valley	2016	0	F	18189
+Tweed Valley	2016	0	M	16336
+Tweed Valley	2016	1	F	23045
+Tweed Valley	2016	1	M	21710
+Griffith - Murrumbidgee (West)	2006		F	2974
+Griffith - Murrumbidgee (West)	2006		M	3371
+Griffith - Murrumbidgee (West)	2006	0	F	7837
+Griffith - Murrumbidgee (West)	2006	0	M	7598
+Griffith - Murrumbidgee (West)	2006	1	F	12399
+Griffith - Murrumbidgee (West)	2006	1	M	12707
+Griffith - Murrumbidgee (West)	2011		F	3054
+Griffith - Murrumbidgee (West)	2011		M	3216
+Griffith - Murrumbidgee (West)	2011	0	F	7287
+Griffith - Murrumbidgee (West)	2011	0	M	7082
+Griffith - Murrumbidgee (West)	2011	1	F	12858
+Griffith - Murrumbidgee (West)	2011	1	M	13096
+Griffith - Murrumbidgee (West)	2016		F	4051
+Griffith - Murrumbidgee (West)	2016		M	4093
+Griffith - Murrumbidgee (West)	2016	0	F	7256
+Griffith - Murrumbidgee (West)	2016	0	M	7027
+Griffith - Murrumbidgee (West)	2016	1	F	12733
+Griffith - Murrumbidgee (West)	2016	1	M	12980
+Tumut - Tumbarumba	2006		F	744
+Tumut - Tumbarumba	2006		M	995
+Tumut - Tumbarumba	2006	0	F	2403
+Tumut - Tumbarumba	2006	0	M	2382
+Tumut - Tumbarumba	2006	1	F	3920
+Tumut - Tumbarumba	2006	1	M	4002
+Tumut - Tumbarumba	2011		F	733
+Tumut - Tumbarumba	2011		M	944
+Tumut - Tumbarumba	2011	0	F	2140
+Tumut - Tumbarumba	2011	0	M	2069
+Tumut - Tumbarumba	2011	1	F	4121
+Tumut - Tumbarumba	2011	1	M	4316
+Tumut - Tumbarumba	2016		F	1110
+Tumut - Tumbarumba	2016		M	1257
+Tumut - Tumbarumba	2016	0	F	2077
+Tumut - Tumbarumba	2016	0	M	1953
+Tumut - Tumbarumba	2016	1	F	3948
+Tumut - Tumbarumba	2016	1	M	4091
+Wagga Wagga	2006		F	4659
+Wagga Wagga	2006		M	5519
+Wagga Wagga	2006	0	F	17226
+Wagga Wagga	2006	0	M	16185
+Wagga Wagga	2006	1	F	21966
+Wagga Wagga	2006	1	M	21313
+Wagga Wagga	2011		F	4931
+Wagga Wagga	2011		M	5792
+Wagga Wagga	2011	0	F	16336
+Wagga Wagga	2011	0	M	15287
+Wagga Wagga	2011	1	F	23784
+Wagga Wagga	2011	1	M	23065
+Wagga Wagga	2016		F	6120
+Wagga Wagga	2016		M	7301
+Wagga Wagga	2016	0	F	17434
+Wagga Wagga	2016	0	M	16103
+Wagga Wagga	2016	1	F	23478
+Wagga Wagga	2016	1	M	22918
+Shoalhaven	2006		F	4715
+Shoalhaven	2006		M	4921
+Shoalhaven	2006	0	F	17393
+Shoalhaven	2006	0	M	16296
+Shoalhaven	2006	1	F	22837
+Shoalhaven	2006	1	M	22244
+Shoalhaven	2011		F	5130
+Shoalhaven	2011		M	5770
+Shoalhaven	2011	0	F	16178
+Shoalhaven	2011	0	M	14960
+Shoalhaven	2011	1	F	25706
+Shoalhaven	2011	1	M	24881
+Shoalhaven	2016		F	6332
+Shoalhaven	2016		M	7127
+Shoalhaven	2016	0	F	18503
+Shoalhaven	2016	0	M	17142
+Shoalhaven	2016	1	F	25451
+Shoalhaven	2016	1	M	24933
+Southern Highlands	2006		F	2383
+Southern Highlands	2006		M	2465
+Southern Highlands	2006	0	F	8544
+Southern Highlands	2006	0	M	7438
+Southern Highlands	2006	1	F	11048
+Southern Highlands	2006	1	M	10398
+Southern Highlands	2011		F	2274
+Southern Highlands	2011		M	2299
+Southern Highlands	2011	0	F	8195
+Southern Highlands	2011	0	M	7293
+Southern Highlands	2011	1	F	12646
+Southern Highlands	2011	1	M	11679
+Southern Highlands	2016		F	2884
+Southern Highlands	2016		M	2846
+Southern Highlands	2016	0	F	9730
+Southern Highlands	2016	0	M	8631
+Southern Highlands	2016	1	F	12374
+Southern Highlands	2016	1	M	11401
+Baulkham Hills	2006		F	5503
+Baulkham Hills	2006		M	5844
+Baulkham Hills	2006	0	F	23560
+Baulkham Hills	2006	0	M	21926
+Baulkham Hills	2006	1	F	35345
+Baulkham Hills	2006	1	M	33582
+Baulkham Hills	2011		F	5975
+Baulkham Hills	2011		M	6078
+Baulkham Hills	2011	0	F	21484
+Baulkham Hills	2011	0	M	20210
+Baulkham Hills	2011	1	F	40911
+Baulkham Hills	2011	1	M	39165
+Baulkham Hills	2016		F	6231
+Baulkham Hills	2016		M	6158
+Baulkham Hills	2016	0	F	25053
+Baulkham Hills	2016	0	M	23883
+Baulkham Hills	2016	1	F	42136
+Baulkham Hills	2016	1	M	40282
+Dural - Wisemans Ferry	2006		F	1261
+Dural - Wisemans Ferry	2006		M	1208
+Dural - Wisemans Ferry	2006	0	F	3570
+Dural - Wisemans Ferry	2006	0	M	3489
+Dural - Wisemans Ferry	2006	1	F	7528
+Dural - Wisemans Ferry	2006	1	M	7582
+Dural - Wisemans Ferry	2011		F	1047
+Dural - Wisemans Ferry	2011		M	1037
+Dural - Wisemans Ferry	2011	0	F	3705
+Dural - Wisemans Ferry	2011	0	M	3553
+Dural - Wisemans Ferry	2011	1	F	8022
+Dural - Wisemans Ferry	2011	1	M	7969
+Dural - Wisemans Ferry	2016		F	1257
+Dural - Wisemans Ferry	2016		M	1291
+Dural - Wisemans Ferry	2016	0	F	4042
+Dural - Wisemans Ferry	2016	0	M	3957
+Dural - Wisemans Ferry	2016	1	F	7865
+Dural - Wisemans Ferry	2016	1	M	7815
+Hawkesbury	2006		F	1382
+Hawkesbury	2006		M	1484
+Hawkesbury	2006	0	F	3313
+Hawkesbury	2006	0	M	3266
+Hawkesbury	2006	1	F	6891
+Hawkesbury	2006	1	M	7148
+Hawkesbury	2011		F	1364
+Hawkesbury	2011		M	1425
+Hawkesbury	2011	0	F	3085
+Hawkesbury	2011	0	M	3025
+Hawkesbury	2011	1	F	7392
+Hawkesbury	2011	1	M	7782
+Hawkesbury	2016		F	1511
+Hawkesbury	2016		M	1628
+Hawkesbury	2016	0	F	3519
+Hawkesbury	2016	0	M	3423
+Hawkesbury	2016	1	F	7141
+Hawkesbury	2016	1	M	7367
+Rouse Hill - McGraths Hill	2006		F	1795
+Rouse Hill - McGraths Hill	2006		M	1842
+Rouse Hill - McGraths Hill	2006	0	F	5100
+Rouse Hill - McGraths Hill	2006	0	M	5056
+Rouse Hill - McGraths Hill	2006	1	F	5827
+Rouse Hill - McGraths Hill	2006	1	M	6034
+Rouse Hill - McGraths Hill	2011		F	1443
+Rouse Hill - McGraths Hill	2011		M	1716
+Rouse Hill - McGraths Hill	2011	0	F	4232
+Rouse Hill - McGraths Hill	2011	0	M	4180
+Rouse Hill - McGraths Hill	2011	1	F	7735
+Rouse Hill - McGraths Hill	2011	1	M	7875
+Rouse Hill - McGraths Hill	2016		F	1748
+Rouse Hill - McGraths Hill	2016		M	1817
+Rouse Hill - McGraths Hill	2016	0	F	6614
+Rouse Hill - McGraths Hill	2016	0	M	6497
+Rouse Hill - McGraths Hill	2016	1	F	8225
+Rouse Hill - McGraths Hill	2016	1	M	8280
+Blacktown	2006		F	7197
+Blacktown	2006		M	7597
+Blacktown	2006	0	F	18273
+Blacktown	2006	0	M	17667
+Blacktown	2006	1	F	33636
+Blacktown	2006	1	M	32783
+Blacktown	2011		F	7369
+Blacktown	2011		M	7697
+Blacktown	2011	0	F	19224
+Blacktown	2011	0	M	18889
+Blacktown	2011	1	F	36438
+Blacktown	2011	1	M	35401
+Blacktown	2016		F	8416
+Blacktown	2016		M	8553
+Blacktown	2016	0	F	22253
+Blacktown	2016	0	M	23016
+Blacktown	2016	1	F	36645
+Blacktown	2016	1	M	35863
+Blacktown - North	2006		F	4096
+Blacktown - North	2006		M	5109
+Blacktown - North	2006	0	F	13100
+Blacktown - North	2006	0	M	12718
+Blacktown - North	2006	1	F	12518
+Blacktown - North	2006	1	M	12455
+Blacktown - North	2011		F	4425
+Blacktown - North	2011		M	5524
+Blacktown - North	2011	0	F	14864
+Blacktown - North	2011	0	M	14446
+Blacktown - North	2011	1	F	17833
+Blacktown - North	2011	1	M	17686
+Blacktown - North	2016		F	5595
+Blacktown - North	2016		M	6749
+Blacktown - North	2016	0	F	18736
+Blacktown - North	2016	0	M	18119
+Blacktown - North	2016	1	F	21913
+Blacktown - North	2016	1	M	21713
+Mount Druitt	2006		F	7505
+Mount Druitt	2006		M	7969
+Mount Druitt	2006	0	F	15244
+Mount Druitt	2006	0	M	14193
+Mount Druitt	2006	1	F	26412
+Mount Druitt	2006	1	M	25448
+Mount Druitt	2011		F	7134
+Mount Druitt	2011		M	7555
+Mount Druitt	2011	0	F	15400
+Mount Druitt	2011	0	M	14575
+Mount Druitt	2011	1	F	30096
+Mount Druitt	2011	1	M	28970
+Mount Druitt	2016		F	8326
+Mount Druitt	2016		M	8235
+Mount Druitt	2016	0	F	18318
+Mount Druitt	2016	0	M	17334
+Mount Druitt	2016	1	F	30501
+Mount Druitt	2016	1	M	29354
+Botany	2006		F	2413
+Botany	2006		M	2575
+Botany	2006	0	F	5911
+Botany	2006	0	M	6017
+Botany	2006	1	F	9865
+Botany	2006	1	M	9206
+Botany	2011		F	2483
+Botany	2011		M	2611
+Botany	2011	0	F	6707
+Botany	2011	0	M	6719
+Botany	2011	1	F	10673
+Botany	2011	1	M	10160
+Botany	2016		F	2961
+Botany	2016		M	3075
+Botany	2016	0	F	9209
+Botany	2016	0	M	9567
+Botany	2016	1	F	11271
+Botany	2016	1	M	10612
+Marrickville - Sydenham - Petersham	2006		F	3434
+Marrickville - Sydenham - Petersham	2006		M	3782
+Marrickville - Sydenham - Petersham	2006	0	F	9628
+Marrickville - Sydenham - Petersham	2006	0	M	9183
+Marrickville - Sydenham - Petersham	2006	1	F	10919
+Marrickville - Sydenham - Petersham	2006	1	M	10860
+Marrickville - Sydenham - Petersham	2011		F	3145
+Marrickville - Sydenham - Petersham	2011		M	3686
+Marrickville - Sydenham - Petersham	2011	0	F	10307
+Marrickville - Sydenham - Petersham	2011	0	M	9912
+Marrickville - Sydenham - Petersham	2011	1	F	11886
+Marrickville - Sydenham - Petersham	2011	1	M	11677
+Marrickville - Sydenham - Petersham	2016		F	3561
+Marrickville - Sydenham - Petersham	2016		M	3743
+Marrickville - Sydenham - Petersham	2016	0	F	11670
+Marrickville - Sydenham - Petersham	2016	0	M	11047
+Marrickville - Sydenham - Petersham	2016	1	F	12404
+Marrickville - Sydenham - Petersham	2016	1	M	12184
+Sydney Inner City	2006		F	19445
+Sydney Inner City	2006		M	24577
+Sydney Inner City	2006	0	F	37094
+Sydney Inner City	2006	0	M	40586
+Sydney Inner City	2006	1	F	18900
+Sydney Inner City	2006	1	M	20269
+Sydney Inner City	2011		F	13312
+Sydney Inner City	2011		M	16379
+Sydney Inner City	2011	0	F	44964
+Sydney Inner City	2011	0	M	48800
+Sydney Inner City	2011	1	F	24206
+Sydney Inner City	2011	1	M	26909
+Sydney Inner City	2016		F	15688
+Sydney Inner City	2016		M	18593
+Sydney Inner City	2016	0	F	60598
+Sydney Inner City	2016	0	M	62010
+Sydney Inner City	2016	1	F	27123
+Sydney Inner City	2016	1	M	30234
+Eastern Suburbs - North	2006		F	10949
+Eastern Suburbs - North	2006		M	12038
+Eastern Suburbs - North	2006	0	F	24340
+Eastern Suburbs - North	2006	0	M	22103
+Eastern Suburbs - North	2006	1	F	24665
+Eastern Suburbs - North	2006	1	M	21519
+Eastern Suburbs - North	2011		F	9930
+Eastern Suburbs - North	2011		M	10508
+Eastern Suburbs - North	2011	0	F	26344
+Eastern Suburbs - North	2011	0	M	24244
+Eastern Suburbs - North	2011	1	F	26042
+Eastern Suburbs - North	2011	1	M	23486
+Eastern Suburbs - North	2016		F	10075
+Eastern Suburbs - North	2016		M	9614
+Eastern Suburbs - North	2016	0	F	29655
+Eastern Suburbs - North	2016	0	M	26904
+Eastern Suburbs - North	2016	1	F	26323
+Eastern Suburbs - North	2016	1	M	23811
+Eastern Suburbs - South	2006		F	8247
+Eastern Suburbs - South	2006		M	10081
+Eastern Suburbs - South	2006	0	F	24361
+Eastern Suburbs - South	2006	0	M	23295
+Eastern Suburbs - South	2006	1	F	28130
+Eastern Suburbs - South	2006	1	M	25771
+Eastern Suburbs - South	2011		F	8422
+Eastern Suburbs - South	2011		M	10255
+Eastern Suburbs - South	2011	0	F	27338
+Eastern Suburbs - South	2011	0	M	25858
+Eastern Suburbs - South	2011	1	F	29865
+Eastern Suburbs - South	2011	1	M	27256
+Eastern Suburbs - South	2016		F	9007
+Eastern Suburbs - South	2016		M	10594
+Eastern Suburbs - South	2016	0	F	31356
+Eastern Suburbs - South	2016	0	M	30223
+Eastern Suburbs - South	2016	1	F	31114
+Eastern Suburbs - South	2016	1	M	28358
+Bankstown	2006		F	10098
+Bankstown	2006		M	10562
+Bankstown	2006	0	F	20976
+Bankstown	2006	0	M	20016
+Bankstown	2006	1	F	43830
+Bankstown	2006	1	M	41992
+Bankstown	2011		F	10434
+Bankstown	2011		M	11029
+Bankstown	2011	0	F	22641
+Bankstown	2011	0	M	21608
+Bankstown	2011	1	F	47762
+Bankstown	2011	1	M	45596
+Bankstown	2016		F	11222
+Bankstown	2016		M	11348
+Bankstown	2016	0	F	27183
+Bankstown	2016	0	M	26208
+Bankstown	2016	1	F	48600
+Bankstown	2016	1	M	46869
+Canterbury	2006		F	8769
+Canterbury	2006		M	9613
+Canterbury	2006	0	F	17797
+Canterbury	2006	0	M	17918
+Canterbury	2006	1	F	32175
+Canterbury	2006	1	M	31253
+Canterbury	2011		F	8716
+Canterbury	2011		M	9475
+Canterbury	2011	0	F	18914
+Canterbury	2011	0	M	19567
+Canterbury	2011	1	F	34729
+Canterbury	2011	1	M	34024
+Canterbury	2016		F	8777
+Canterbury	2016		M	9286
+Canterbury	2016	0	F	22213
+Canterbury	2016	0	M	23959
+Canterbury	2016	1	F	35792
+Canterbury	2016	1	M	35040
+Hurstville	2006		F	6159
+Hurstville	2006		M	6461
+Hurstville	2006	0	F	18904
+Hurstville	2006	0	M	17588
+Hurstville	2006	1	F	31793
+Hurstville	2006	1	M	29396
+Hurstville	2011		F	6003
+Hurstville	2011		M	6286
+Hurstville	2011	0	F	20172
+Hurstville	2011	0	M	18764
+Hurstville	2011	1	F	33876
+Hurstville	2011	1	M	31503
+Hurstville	2016		F	6571
+Hurstville	2016		M	6573
+Hurstville	2016	0	F	23828
+Hurstville	2016	0	M	22563
+Hurstville	2016	1	F	34912
+Hurstville	2016	1	M	32745
+Kogarah - Rockdale	2006		F	8043
+Kogarah - Rockdale	2006		M	8725
+Kogarah - Rockdale	2006	0	F	19818
+Kogarah - Rockdale	2006	0	M	19339
+Kogarah - Rockdale	2006	1	F	30957
+Kogarah - Rockdale	2006	1	M	28808
+Kogarah - Rockdale	2011		F	7480
+Kogarah - Rockdale	2011		M	8012
+Kogarah - Rockdale	2011	0	F	21020
+Kogarah - Rockdale	2011	0	M	20652
+Kogarah - Rockdale	2011	1	F	33539
+Kogarah - Rockdale	2011	1	M	31804
+Kogarah - Rockdale	2016		F	8408
+Kogarah - Rockdale	2016		M	8566
+Kogarah - Rockdale	2016	0	F	26429
+Kogarah - Rockdale	2016	0	M	26648
+Kogarah - Rockdale	2016	1	F	34730
+Kogarah - Rockdale	2016	1	M	32944
+Canada Bay	2006		F	4338
+Canada Bay	2006		M	4439
+Canada Bay	2006	0	F	12229
+Canada Bay	2006	0	M	11112
+Canada Bay	2006	1	F	16998
+Canada Bay	2006	1	M	15412
+Canada Bay	2011		F	4590
+Canada Bay	2011		M	4982
+Canada Bay	2011	0	F	14570
+Canada Bay	2011	0	M	13567
+Canada Bay	2011	1	F	19059
+Canada Bay	2011	1	M	17390
+Canada Bay	2016		F	5214
+Canada Bay	2016		M	5084
+Canada Bay	2016	0	F	18431
+Canada Bay	2016	0	M	17125
+Canada Bay	2016	1	F	20782
+Canada Bay	2016	1	M	18724
+Leichhardt	2006		F	3580
+Leichhardt	2006		M	3917
+Leichhardt	2006	0	F	11154
+Leichhardt	2006	0	M	9863
+Leichhardt	2006	1	F	10706
+Leichhardt	2006	1	M	9557
+Leichhardt	2011		F	3637
+Leichhardt	2011		M	3790
+Leichhardt	2011	0	F	12080
+Leichhardt	2011	0	M	10559
+Leichhardt	2011	1	F	11753
+Leichhardt	2011	1	M	10376
+Leichhardt	2016		F	4245
+Leichhardt	2016		M	4215
+Leichhardt	2016	0	F	12114
+Leichhardt	2016	0	M	11194
+Leichhardt	2016	1	F	12863
+Leichhardt	2016	1	M	11438
+Strathfield - Burwood - Ashfield	2006		F	8289
+Strathfield - Burwood - Ashfield	2006		M	9155
+Strathfield - Burwood - Ashfield	2006	0	F	25096
+Strathfield - Burwood - Ashfield	2006	0	M	23997
+Strathfield - Burwood - Ashfield	2006	1	F	32790
+Strathfield - Burwood - Ashfield	2006	1	M	30468
+Strathfield - Burwood - Ashfield	2011		F	8314
+Strathfield - Burwood - Ashfield	2011		M	8955
+Strathfield - Burwood - Ashfield	2011	0	F	26678
+Strathfield - Burwood - Ashfield	2011	0	M	25922
+Strathfield - Burwood - Ashfield	2011	1	F	34932
+Strathfield - Burwood - Ashfield	2011	1	M	32409
+Strathfield - Burwood - Ashfield	2016		F	8449
+Strathfield - Burwood - Ashfield	2016		M	8813
+Strathfield - Burwood - Ashfield	2016	0	F	32778
+Strathfield - Burwood - Ashfield	2016	0	M	32389
+Strathfield - Burwood - Ashfield	2016	1	F	35987
+Strathfield - Burwood - Ashfield	2016	1	M	33453
+Chatswood - Lane Cove	2006		F	6183
+Chatswood - Lane Cove	2006		M	6463
+Chatswood - Lane Cove	2006	0	F	19826
+Chatswood - Lane Cove	2006	0	M	18796
+Chatswood - Lane Cove	2006	1	F	22829
+Chatswood - Lane Cove	2006	1	M	20559
+Chatswood - Lane Cove	2011		F	5662
+Chatswood - Lane Cove	2011		M	5893
+Chatswood - Lane Cove	2011	0	F	20857
+Chatswood - Lane Cove	2011	0	M	19474
+Chatswood - Lane Cove	2011	1	F	25296
+Chatswood - Lane Cove	2011	1	M	23013
+Chatswood - Lane Cove	2016		F	6407
+Chatswood - Lane Cove	2016		M	6426
+Chatswood - Lane Cove	2016	0	F	25434
+Chatswood - Lane Cove	2016	0	M	23943
+Chatswood - Lane Cove	2016	1	F	26076
+Chatswood - Lane Cove	2016	1	M	23957
+Hornsby	2006		F	3834
+Hornsby	2006		M	4155
+Hornsby	2006	0	F	13111
+Hornsby	2006	0	M	12127
+Hornsby	2006	1	F	20358
+Hornsby	2006	1	M	19338
+Hornsby	2011		F	3925
+Hornsby	2011		M	4175
+Hornsby	2011	0	F	13174
+Hornsby	2011	0	M	12307
+Hornsby	2011	1	F	21888
+Hornsby	2011	1	M	21069
+Hornsby	2016		F	4017
+Hornsby	2016		M	4246
+Hornsby	2016	0	F	14484
+Hornsby	2016	0	M	13647
+Hornsby	2016	1	F	22605
+Hornsby	2016	1	M	21602
+Ku-ring-gai	2006		F	4276
+Ku-ring-gai	2006		M	4371
+Ku-ring-gai	2006	0	F	17113
+Ku-ring-gai	2006	0	M	15614
+Ku-ring-gai	2006	1	F	31516
+Ku-ring-gai	2006	1	M	28653
+Ku-ring-gai	2011		F	4929
+Ku-ring-gai	2011		M	4863
+Ku-ring-gai	2011	0	F	19931
+Ku-ring-gai	2011	0	M	17926
+Ku-ring-gai	2011	1	F	32320
+Ku-ring-gai	2011	1	M	29606
+Ku-ring-gai	2016		F	5342
+Ku-ring-gai	2016		M	5104
+Ku-ring-gai	2016	0	F	23217
+Ku-ring-gai	2016	0	M	21531
+Ku-ring-gai	2016	1	F	32996
+Ku-ring-gai	2016	1	M	30186
+North Sydney - Mosman	2006		F	6132
+North Sydney - Mosman	2006		M	6253
+North Sydney - Mosman	2006	0	F	21689
+North Sydney - Mosman	2006	0	M	19383
+North Sydney - Mosman	2006	1	F	16423
+North Sydney - Mosman	2006	1	M	13531
+North Sydney - Mosman	2011		F	6016
+North Sydney - Mosman	2011		M	6059
+North Sydney - Mosman	2011	0	F	22429
+North Sydney - Mosman	2011	0	M	20475
+North Sydney - Mosman	2011	1	F	18119
+North Sydney - Mosman	2011	1	M	15257
+North Sydney - Mosman	2016		F	6179
+North Sydney - Mosman	2016		M	5986
+North Sydney - Mosman	2016	0	F	24222
+North Sydney - Mosman	2016	0	M	21654
+North Sydney - Mosman	2016	1	F	19598
+North Sydney - Mosman	2016	1	M	16497
+Manly	2006		F	2822
+Manly	2006		M	2901
+Manly	2006	0	F	7756
+Manly	2006	0	M	7449
+Manly	2006	1	F	8466
+Manly	2006	1	M	7715
+Manly	2011		F	2637
+Manly	2011		M	2779
+Manly	2011	0	F	8744
+Manly	2011	0	M	8366
+Manly	2011	1	F	8958
+Manly	2011	1	M	8263
+Manly	2016		F	2697
+Manly	2016		M	2589
+Manly	2016	0	F	9175
+Manly	2016	0	M	8813
+Manly	2016	1	F	9636
+Manly	2016	1	M	8982
+Pittwater	2006		F	3372
+Pittwater	2006		M	3560
+Pittwater	2006	0	F	9235
+Pittwater	2006	0	M	8783
+Pittwater	2006	1	F	14904
+Pittwater	2006	1	M	14301
+Pittwater	2011		F	3076
+Pittwater	2011		M	3128
+Pittwater	2011	0	F	10032
+Pittwater	2011	0	M	9395
+Pittwater	2011	1	F	16136
+Pittwater	2011	1	M	15389
+Pittwater	2016		F	3274
+Pittwater	2016		M	3237
+Pittwater	2016	0	F	11024
+Pittwater	2016	0	M	10335
+Pittwater	2016	1	F	16675
+Pittwater	2016	1	M	15892
+Warringah	2006		F	7755
+Warringah	2006		M	8370
+Warringah	2006	0	F	24109
+Warringah	2006	0	M	23072
+Warringah	2006	1	F	36327
+Warringah	2006	1	M	34206
+Warringah	2011		F	7691
+Warringah	2011		M	8156
+Warringah	2011	0	F	25241
+Warringah	2011	0	M	24281
+Warringah	2011	1	F	38700
+Warringah	2011	1	M	36676
+Warringah	2016		F	8792
+Warringah	2016		M	8600
+Warringah	2016	0	F	27272
+Warringah	2016	0	M	26111
+Warringah	2016	1	F	40825
+Warringah	2016	1	M	38941
+Camden	2006		F	2794
+Camden	2006		M	2848
+Camden	2006	0	F	9160
+Camden	2006	0	M	8468
+Camden	2006	1	F	10864
+Camden	2006	1	M	10349
+Camden	2011		F	2911
+Camden	2011		M	3048
+Camden	2011	0	F	10177
+Camden	2011	0	M	9447
+Camden	2011	1	F	13667
+Camden	2011	1	M	12981
+Camden	2016		F	3755
+Camden	2016		M	3680
+Camden	2016	0	F	12716
+Camden	2016	0	M	11832
+Camden	2016	1	F	15676
+Camden	2016	1	M	14854
+Campbelltown (NSW)	2006		F	9742
+Campbelltown (NSW)	2006		M	10121
+Campbelltown (NSW)	2006	0	F	22808
+Campbelltown (NSW)	2006	0	M	21220
+Campbelltown (NSW)	2006	1	F	40802
+Campbelltown (NSW)	2006	1	M	39728
+Campbelltown (NSW)	2011		F	9449
+Campbelltown (NSW)	2011		M	9432
+Campbelltown (NSW)	2011	0	F	22330
+Campbelltown (NSW)	2011	0	M	20680
+Campbelltown (NSW)	2011	1	F	43399
+Campbelltown (NSW)	2011	1	M	41870
+Campbelltown (NSW)	2016		F	10703
+Campbelltown (NSW)	2016		M	10677
+Campbelltown (NSW)	2016	0	F	26703
+Campbelltown (NSW)	2016	0	M	25416
+Campbelltown (NSW)	2016	1	F	43153
+Campbelltown (NSW)	2016	1	M	41744
+Wollondilly	2006		F	1980
+Wollondilly	2006		M	2255
+Wollondilly	2006	0	F	5583
+Wollondilly	2006	0	M	5366
+Wollondilly	2006	1	F	9729
+Wollondilly	2006	1	M	9848
+Wollondilly	2011		F	2001
+Wollondilly	2011		M	2142
+Wollondilly	2011	0	F	5302
+Wollondilly	2011	0	M	5055
+Wollondilly	2011	1	F	10913
+Wollondilly	2011	1	M	10991
+Wollondilly	2016		F	2566
+Wollondilly	2016		M	2672
+Wollondilly	2016	0	F	7061
+Wollondilly	2016	0	M	6668
+Wollondilly	2016	1	F	11006
+Wollondilly	2016	1	M	11183
+Blue Mountains	2006		F	3923
+Blue Mountains	2006		M	4094
+Blue Mountains	2006	0	F	12661
+Blue Mountains	2006	0	M	11518
+Blue Mountains	2006	1	F	21453
+Blue Mountains	2006	1	M	20199
+Blue Mountains	2011		F	4106
+Blue Mountains	2011		M	4203
+Blue Mountains	2011	0	F	12238
+Blue Mountains	2011	0	M	11038
+Blue Mountains	2011	1	F	22778
+Blue Mountains	2011	1	M	21331
+Blue Mountains	2016		F	4008
+Blue Mountains	2016		M	3979
+Blue Mountains	2016	0	F	12673
+Blue Mountains	2016	0	M	11651
+Blue Mountains	2016	1	F	23009
+Blue Mountains	2016	1	M	21375
+Blue Mountains - South	2006		F	0
+Blue Mountains - South	2006		M	0
+Blue Mountains - South	2006	0	F	0
+Blue Mountains - South	2006	0	M	0
+Blue Mountains - South	2006	1	F	0
+Blue Mountains - South	2006	1	M	0
+Blue Mountains - South	2011		F	2
+Blue Mountains - South	2011		M	3
+Blue Mountains - South	2011	0	F	0
+Blue Mountains - South	2011	0	M	0
+Blue Mountains - South	2011	1	F	4
+Blue Mountains - South	2011	1	M	0
+Blue Mountains - South	2016		F	0
+Blue Mountains - South	2016		M	0
+Blue Mountains - South	2016	0	F	0
+Blue Mountains - South	2016	0	M	3
+Blue Mountains - South	2016	1	F	0
+Blue Mountains - South	2016	1	M	0
+Penrith	2006		F	7384
+Penrith	2006		M	7666
+Penrith	2006	0	F	20276
+Penrith	2006	0	M	19117
+Penrith	2006	1	F	32840
+Penrith	2006	1	M	31870
+Penrith	2011		F	7450
+Penrith	2011		M	7681
+Penrith	2011	0	F	19824
+Penrith	2011	0	M	18575
+Penrith	2011	1	F	36221
+Penrith	2011	1	M	34923
+Penrith	2016		F	9010
+Penrith	2016		M	9209
+Penrith	2016	0	F	25644
+Penrith	2016	0	M	24019
+Penrith	2016	1	F	36476
+Penrith	2016	1	M	35331
+Richmond - Windsor	2006		F	2445
+Richmond - Windsor	2006		M	2948
+Richmond - Windsor	2006	0	F	6301
+Richmond - Windsor	2006	0	M	5911
+Richmond - Windsor	2006	1	F	8982
+Richmond - Windsor	2006	1	M	8599
+Richmond - Windsor	2011		F	2296
+Richmond - Windsor	2011		M	2719
+Richmond - Windsor	2011	0	F	6060
+Richmond - Windsor	2011	0	M	5781
+Richmond - Windsor	2011	1	F	9679
+Richmond - Windsor	2011	1	M	9214
+Richmond - Windsor	2016		F	2491
+Richmond - Windsor	2016		M	3011
+Richmond - Windsor	2016	0	F	6217
+Richmond - Windsor	2016	0	M	5789
+Richmond - Windsor	2016	1	F	9712
+Richmond - Windsor	2016	1	M	9325
+St Marys	2006		F	3169
+St Marys	2006		M	3376
+St Marys	2006	0	F	7361
+St Marys	2006	0	M	7088
+St Marys	2006	1	F	14985
+St Marys	2006	1	M	14838
+St Marys	2011		F	3144
+St Marys	2011		M	3349
+St Marys	2011	0	F	7217
+St Marys	2011	0	M	6950
+St Marys	2011	1	F	15832
+St Marys	2011	1	M	15572
+St Marys	2016		F	3681
+St Marys	2016		M	3716
+St Marys	2016	0	F	8279
+St Marys	2016	0	M	7828
+St Marys	2016	1	F	15258
+St Marys	2016	1	M	15235
+Auburn	2006		F	5520
+Auburn	2006		M	7806
+Auburn	2006	0	F	11786
+Auburn	2006	0	M	12327
+Auburn	2006	1	F	14407
+Auburn	2006	1	M	14269
+Auburn	2011		F	5289
+Auburn	2011		M	7087
+Auburn	2011	0	F	13628
+Auburn	2011	0	M	14528
+Auburn	2011	1	F	16938
+Auburn	2011	1	M	16954
+Auburn	2016		F	5944
+Auburn	2016		M	7806
+Auburn	2016	0	F	17406
+Auburn	2016	0	M	21188
+Auburn	2016	1	F	18566
+Auburn	2016	1	M	18757
+Carlingford	2006		F	2897
+Carlingford	2006		M	3044
+Carlingford	2006	0	F	8838
+Carlingford	2006	0	M	8417
+Carlingford	2006	1	F	16645
+Carlingford	2006	1	M	15826
+Carlingford	2011		F	3064
+Carlingford	2011		M	3191
+Carlingford	2011	0	F	9417
+Carlingford	2011	0	M	9244
+Carlingford	2011	1	F	17736
+Carlingford	2011	1	M	16945
+Carlingford	2016		F	3542
+Carlingford	2016		M	3577
+Carlingford	2016	0	F	12251
+Carlingford	2016	0	M	11896
+Carlingford	2016	1	F	18053
+Carlingford	2016	1	M	17257
+Merrylands - Guildford	2006		F	8548
+Merrylands - Guildford	2006		M	9565
+Merrylands - Guildford	2006	0	F	18627
+Merrylands - Guildford	2006	0	M	18061
+Merrylands - Guildford	2006	1	F	34862
+Merrylands - Guildford	2006	1	M	33920
+Merrylands - Guildford	2011		F	9416
+Merrylands - Guildford	2011		M	10240
+Merrylands - Guildford	2011	0	F	20907
+Merrylands - Guildford	2011	0	M	20401
+Merrylands - Guildford	2011	1	F	37953
+Merrylands - Guildford	2011	1	M	36992
+Merrylands - Guildford	2016		F	10475
+Merrylands - Guildford	2016		M	11189
+Merrylands - Guildford	2016	0	F	23942
+Merrylands - Guildford	2016	0	M	25361
+Merrylands - Guildford	2016	1	F	40611
+Merrylands - Guildford	2016	1	M	39687
+Parramatta	2006		F	7656
+Parramatta	2006		M	8786
+Parramatta	2006	0	F	22284
+Parramatta	2006	0	M	22942
+Parramatta	2006	1	F	24952
+Parramatta	2006	1	M	23795
+Parramatta	2011		F	8214
+Parramatta	2011		M	9376
+Parramatta	2011	0	F	25224
+Parramatta	2011	0	M	25864
+Parramatta	2011	1	F	28620
+Parramatta	2011	1	M	27477
+Parramatta	2016		F	10026
+Parramatta	2016		M	10167
+Parramatta	2016	0	F	29775
+Parramatta	2016	0	M	31894
+Parramatta	2016	1	F	30231
+Parramatta	2016	1	M	28799
+Pennant Hills - Epping	2006		F	1797
+Pennant Hills - Epping	2006		M	1935
+Pennant Hills - Epping	2006	0	F	7095
+Pennant Hills - Epping	2006	0	M	6613
+Pennant Hills - Epping	2006	1	F	12264
+Pennant Hills - Epping	2006	1	M	11339
+Pennant Hills - Epping	2011		F	1665
+Pennant Hills - Epping	2011		M	1682
+Pennant Hills - Epping	2011	0	F	7379
+Pennant Hills - Epping	2011	0	M	7093
+Pennant Hills - Epping	2011	1	F	13119
+Pennant Hills - Epping	2011	1	M	12067
+Pennant Hills - Epping	2016		F	2062
+Pennant Hills - Epping	2016		M	2083
+Pennant Hills - Epping	2016	0	F	9095
+Pennant Hills - Epping	2016	0	M	8884
+Pennant Hills - Epping	2016	1	F	13162
+Pennant Hills - Epping	2016	1	M	12306
+Ryde - Hunters Hill	2006		F	6791
+Ryde - Hunters Hill	2006		M	7148
+Ryde - Hunters Hill	2006	0	F	20921
+Ryde - Hunters Hill	2006	0	M	19631
+Ryde - Hunters Hill	2006	1	F	31015
+Ryde - Hunters Hill	2006	1	M	28515
+Ryde - Hunters Hill	2011		F	6314
+Ryde - Hunters Hill	2011		M	6513
+Ryde - Hunters Hill	2011	0	F	22572
+Ryde - Hunters Hill	2011	0	M	21623
+Ryde - Hunters Hill	2011	1	F	32582
+Ryde - Hunters Hill	2011	1	M	30232
+Ryde - Hunters Hill	2016		F	7272
+Ryde - Hunters Hill	2016		M	7117
+Ryde - Hunters Hill	2016	0	F	28374
+Ryde - Hunters Hill	2016	0	M	27254
+Ryde - Hunters Hill	2016	1	F	33321
+Ryde - Hunters Hill	2016	1	M	31196
+Bringelly - Green Valley	2006		F	5580
+Bringelly - Green Valley	2006		M	5803
+Bringelly - Green Valley	2006	0	F	10598
+Bringelly - Green Valley	2006	0	M	10305
+Bringelly - Green Valley	2006	1	F	21355
+Bringelly - Green Valley	2006	1	M	21141
+Bringelly - Green Valley	2011		F	5080
+Bringelly - Green Valley	2011		M	5250
+Bringelly - Green Valley	2011	0	F	10691
+Bringelly - Green Valley	2011	0	M	10139
+Bringelly - Green Valley	2011	1	F	24660
+Bringelly - Green Valley	2011	1	M	24524
+Bringelly - Green Valley	2016		F	6963
+Bringelly - Green Valley	2016		M	7310
+Bringelly - Green Valley	2016	0	F	18845
+Bringelly - Green Valley	2016	0	M	17990
+Bringelly - Green Valley	2016	1	F	25997
+Bringelly - Green Valley	2016	1	M	25700
+Fairfield	2006		F	10557
+Fairfield	2006		M	11145
+Fairfield	2006	0	F	23450
+Fairfield	2006	0	M	22183
+Fairfield	2006	1	F	51495
+Fairfield	2006	1	M	50250
+Fairfield	2011		F	9506
+Fairfield	2011		M	10141
+Fairfield	2011	0	F	23743
+Fairfield	2011	0	M	22232
+Fairfield	2011	1	F	55855
+Fairfield	2011	1	M	54161
+Fairfield	2016		F	9922
+Fairfield	2016		M	10165
+Fairfield	2016	0	F	27298
+Fairfield	2016	0	M	26094
+Fairfield	2016	1	F	57166
+Fairfield	2016	1	M	55153
+Liverpool	2006		F	7299
+Liverpool	2006		M	7844
+Liverpool	2006	0	F	16563
+Liverpool	2006	0	M	16063
+Liverpool	2006	1	F	23181
+Liverpool	2006	1	M	22639
+Liverpool	2011		F	7533
+Liverpool	2011		M	7685
+Liverpool	2011	0	F	17309
+Liverpool	2011	0	M	16910
+Liverpool	2011	1	F	27667
+Liverpool	2011	1	M	27089
+Liverpool	2016		F	8935
+Liverpool	2016		M	9130
+Liverpool	2016	0	F	20429
+Liverpool	2016	0	M	20055
+Liverpool	2016	1	F	29791
+Liverpool	2016	1	M	29015
+Cronulla - Miranda - Caringbah	2006		F	5896
+Cronulla - Miranda - Caringbah	2006		M	6288
+Cronulla - Miranda - Caringbah	2006	0	F	17229
+Cronulla - Miranda - Caringbah	2006	0	M	16318
+Cronulla - Miranda - Caringbah	2006	1	F	28519
+Cronulla - Miranda - Caringbah	2006	1	M	26863
+Cronulla - Miranda - Caringbah	2011		F	5189
+Cronulla - Miranda - Caringbah	2011		M	5648
+Cronulla - Miranda - Caringbah	2011	0	F	18413
+Cronulla - Miranda - Caringbah	2011	0	M	17295
+Cronulla - Miranda - Caringbah	2011	1	F	30047
+Cronulla - Miranda - Caringbah	2011	1	M	27778
+Cronulla - Miranda - Caringbah	2016		F	6031
+Cronulla - Miranda - Caringbah	2016		M	6199
+Cronulla - Miranda - Caringbah	2016	0	F	19643
+Cronulla - Miranda - Caringbah	2016	0	M	18486
+Cronulla - Miranda - Caringbah	2016	1	F	30688
+Cronulla - Miranda - Caringbah	2016	1	M	28796
+Sutherland - Menai - Heathcote	2006		F	5254
+Sutherland - Menai - Heathcote	2006		M	5352
+Sutherland - Menai - Heathcote	2006	0	F	14703
+Sutherland - Menai - Heathcote	2006	0	M	13813
+Sutherland - Menai - Heathcote	2006	1	F	32712
+Sutherland - Menai - Heathcote	2006	1	M	31965
+Sutherland - Menai - Heathcote	2011		F	5251
+Sutherland - Menai - Heathcote	2011		M	5464
+Sutherland - Menai - Heathcote	2011	0	F	14386
+Sutherland - Menai - Heathcote	2011	0	M	13398
+Sutherland - Menai - Heathcote	2011	1	F	34135
+Sutherland - Menai - Heathcote	2011	1	M	33270
+Sutherland - Menai - Heathcote	2016		F	5300
+Sutherland - Menai - Heathcote	2016		M	5339
+Sutherland - Menai - Heathcote	2016	0	F	15239
+Sutherland - Menai - Heathcote	2016	0	M	14328
+Sutherland - Menai - Heathcote	2016	1	F	34570
+Sutherland - Menai - Heathcote	2016	1	M	33263
+Migratory - Offshore - Shipping (NSW)	2006		F	2
+Migratory - Offshore - Shipping (NSW)	2006		M	-2
+Migratory - Offshore - Shipping (NSW)	2006	0	F	5
+Migratory - Offshore - Shipping (NSW)	2006	0	M	23
+Migratory - Offshore - Shipping (NSW)	2006	1	F	0
+Migratory - Offshore - Shipping (NSW)	2006	1	M	16
+Migratory - Offshore - Shipping (NSW)	2011		F	4
+Migratory - Offshore - Shipping (NSW)	2011		M	1
+Migratory - Offshore - Shipping (NSW)	2011	0	F	16
+Migratory - Offshore - Shipping (NSW)	2011	0	M	23
+Migratory - Offshore - Shipping (NSW)	2011	1	F	35
+Migratory - Offshore - Shipping (NSW)	2011	1	M	32
+Migratory - Offshore - Shipping (NSW)	2016		F	39
+Migratory - Offshore - Shipping (NSW)	2016		M	23
+Migratory - Offshore - Shipping (NSW)	2016	0	F	61
+Migratory - Offshore - Shipping (NSW)	2016	0	M	43
+Migratory - Offshore - Shipping (NSW)	2016	1	F	139
+Migratory - Offshore - Shipping (NSW)	2016	1	M	105
+No usual address (NSW)	2006		F	726
+No usual address (NSW)	2006		M	1123
+No usual address (NSW)	2006	0	F	3112
+No usual address (NSW)	2006	0	M	3962
+No usual address (NSW)	2006	1	F	410
+No usual address (NSW)	2006	1	M	839
+No usual address (NSW)	2011		F	1154
+No usual address (NSW)	2011		M	2395
+No usual address (NSW)	2011	0	F	3695
+No usual address (NSW)	2011	0	M	4323
+No usual address (NSW)	2011	1	F	478
+No usual address (NSW)	2011	1	M	875
+No usual address (NSW)	2016		F	1364
+No usual address (NSW)	2016		M	2590
+No usual address (NSW)	2016	0	F	3027
+No usual address (NSW)	2016	0	M	3734
+No usual address (NSW)	2016	1	F	548
+No usual address (NSW)	2016	1	M	1027
+Ballarat	2006		F	5270
+Ballarat	2006		M	5246
+Ballarat	2006	0	F	18166
+Ballarat	2006	0	M	16522
+Ballarat	2006	1	F	22208
+Ballarat	2006	1	M	20582
+Ballarat	2011		F	5600
+Ballarat	2011		M	5670
+Ballarat	2011	0	F	19479
+Ballarat	2011	0	M	17667
+Ballarat	2011	1	F	24532
+Ballarat	2011	1	M	22637
+Ballarat	2016		F	6888
+Ballarat	2016		M	6752
+Ballarat	2016	0	F	21135
+Ballarat	2016	0	M	19153
+Ballarat	2016	1	F	25831
+Ballarat	2016	1	M	24056
+Creswick - Daylesford - Ballan	2006		F	1274
+Creswick - Daylesford - Ballan	2006		M	1404
+Creswick - Daylesford - Ballan	2006	0	F	3846
+Creswick - Daylesford - Ballan	2006	0	M	3509
+Creswick - Daylesford - Ballan	2006	1	F	7482
+Creswick - Daylesford - Ballan	2006	1	M	7525
+Creswick - Daylesford - Ballan	2011		F	1343
+Creswick - Daylesford - Ballan	2011		M	1426
+Creswick - Daylesford - Ballan	2011	0	F	4055
+Creswick - Daylesford - Ballan	2011	0	M	3735
+Creswick - Daylesford - Ballan	2011	1	F	8075
+Creswick - Daylesford - Ballan	2011	1	M	8129
+Creswick - Daylesford - Ballan	2016		F	2010
+Creswick - Daylesford - Ballan	2016		M	1879
+Creswick - Daylesford - Ballan	2016	0	F	4113
+Creswick - Daylesford - Ballan	2016	0	M	3788
+Creswick - Daylesford - Ballan	2016	1	F	8235
+Creswick - Daylesford - Ballan	2016	1	M	8284
+Maryborough - Pyrenees	2006		F	1157
+Maryborough - Pyrenees	2006		M	1224
+Maryborough - Pyrenees	2006	0	F	3528
+Maryborough - Pyrenees	2006	0	M	3396
+Maryborough - Pyrenees	2006	1	F	6807
+Maryborough - Pyrenees	2006	1	M	6973
+Maryborough - Pyrenees	2011		F	1137
+Maryborough - Pyrenees	2011		M	1361
+Maryborough - Pyrenees	2011	0	F	3496
+Maryborough - Pyrenees	2011	0	M	3295
+Maryborough - Pyrenees	2011	1	F	7192
+Maryborough - Pyrenees	2011	1	M	7406
+Maryborough - Pyrenees	2016		F	1595
+Maryborough - Pyrenees	2016		M	1995
+Maryborough - Pyrenees	2016	0	F	3641
+Maryborough - Pyrenees	2016	0	M	3489
+Maryborough - Pyrenees	2016	1	F	7245
+Maryborough - Pyrenees	2016	1	M	7403
+Bendigo	2006		F	4522
+Bendigo	2006		M	4590
+Bendigo	2006	0	F	16486
+Bendigo	2006	0	M	14511
+Bendigo	2006	1	F	20224
+Bendigo	2006	1	M	18723
+Bendigo	2011		F	4868
+Bendigo	2011		M	5157
+Bendigo	2011	0	F	16852
+Bendigo	2011	0	M	15099
+Bendigo	2011	1	F	22930
+Bendigo	2011	1	M	21175
+Bendigo	2016		F	6657
+Bendigo	2016		M	6553
+Bendigo	2016	0	F	18829
+Bendigo	2016	0	M	16752
+Bendigo	2016	1	F	23430
+Bendigo	2016	1	M	22158
+Heathcote - Castlemaine - Kyneton	2006		F	2254
+Heathcote - Castlemaine - Kyneton	2006		M	2495
+Heathcote - Castlemaine - Kyneton	2006	0	F	6836
+Heathcote - Castlemaine - Kyneton	2006	0	M	6334
+Heathcote - Castlemaine - Kyneton	2006	1	F	11438
+Heathcote - Castlemaine - Kyneton	2006	1	M	11280
+Heathcote - Castlemaine - Kyneton	2011		F	2295
+Heathcote - Castlemaine - Kyneton	2011		M	2612
+Heathcote - Castlemaine - Kyneton	2011	0	F	7083
+Heathcote - Castlemaine - Kyneton	2011	0	M	6574
+Heathcote - Castlemaine - Kyneton	2011	1	F	12580
+Heathcote - Castlemaine - Kyneton	2011	1	M	12283
+Heathcote - Castlemaine - Kyneton	2016		F	3332
+Heathcote - Castlemaine - Kyneton	2016		M	3800
+Heathcote - Castlemaine - Kyneton	2016	0	F	7637
+Heathcote - Castlemaine - Kyneton	2016	0	M	6907
+Heathcote - Castlemaine - Kyneton	2016	1	F	12920
+Heathcote - Castlemaine - Kyneton	2016	1	M	12699
+Loddon - Elmore	2006		F	641
+Loddon - Elmore	2006		M	621
+Loddon - Elmore	2006	0	F	1853
+Loddon - Elmore	2006	0	M	1790
+Loddon - Elmore	2006	1	F	3790
+Loddon - Elmore	2006	1	M	4024
+Loddon - Elmore	2011		F	582
+Loddon - Elmore	2011		M	636
+Loddon - Elmore	2011	0	F	1411
+Loddon - Elmore	2011	0	M	1357
+Loddon - Elmore	2011	1	F	3509
+Loddon - Elmore	2011	1	M	3692
+Loddon - Elmore	2016		F	811
+Loddon - Elmore	2016		M	862
+Loddon - Elmore	2016	0	F	1340
+Loddon - Elmore	2016	0	M	1295
+Loddon - Elmore	2016	1	F	3439
+Loddon - Elmore	2016	1	M	3671
+Barwon - West	2006		F	762
+Barwon - West	2006		M	761
+Barwon - West	2006	0	F	2297
+Barwon - West	2006	0	M	2332
+Barwon - West	2006	1	F	3839
+Barwon - West	2006	1	M	4037
+Barwon - West	2011		F	795
+Barwon - West	2011		M	860
+Barwon - West	2011	0	F	2625
+Barwon - West	2011	0	M	2551
+Barwon - West	2011	1	F	4830
+Barwon - West	2011	1	M	4955
+Barwon - West	2016		F	1230
+Barwon - West	2016		M	1257
+Barwon - West	2016	0	F	3031
+Barwon - West	2016	0	M	2959
+Barwon - West	2016	1	F	5150
+Barwon - West	2016	1	M	5393
+Geelong	2006		F	8922
+Geelong	2006		M	9919
+Geelong	2006	0	F	29871
+Geelong	2006	0	M	27450
+Geelong	2006	1	F	45048
+Geelong	2006	1	M	42175
+Geelong	2011		F	8961
+Geelong	2011		M	10169
+Geelong	2011	0	F	31595
+Geelong	2011	0	M	28718
+Geelong	2011	1	F	48486
+Geelong	2011	1	M	45529
+Geelong	2016		F	11987
+Geelong	2016		M	12737
+Geelong	2016	0	F	35508
+Geelong	2016	0	M	32487
+Geelong	2016	1	F	49359
+Geelong	2016	1	M	46104
+Surf Coast - Bellarine Peninsula	2006		F	2785
+Surf Coast - Bellarine Peninsula	2006		M	2967
+Surf Coast - Bellarine Peninsula	2006	0	F	10137
+Surf Coast - Bellarine Peninsula	2006	0	M	9504
+Surf Coast - Bellarine Peninsula	2006	1	F	14632
+Surf Coast - Bellarine Peninsula	2006	1	M	13833
+Surf Coast - Bellarine Peninsula	2011		F	3072
+Surf Coast - Bellarine Peninsula	2011		M	3302
+Surf Coast - Bellarine Peninsula	2011	0	F	12133
+Surf Coast - Bellarine Peninsula	2011	0	M	11073
+Surf Coast - Bellarine Peninsula	2011	1	F	15957
+Surf Coast - Bellarine Peninsula	2011	1	M	15052
+Surf Coast - Bellarine Peninsula	2016		F	4235
+Surf Coast - Bellarine Peninsula	2016		M	4444
+Surf Coast - Bellarine Peninsula	2016	0	F	14864
+Surf Coast - Bellarine Peninsula	2016	0	M	13626
+Surf Coast - Bellarine Peninsula	2016	1	F	17753
+Surf Coast - Bellarine Peninsula	2016	1	M	16803
+Upper Goulburn Valley	2006		F	2565
+Upper Goulburn Valley	2006		M	2849
+Upper Goulburn Valley	2006	0	F	8652
+Upper Goulburn Valley	2006	0	M	8592
+Upper Goulburn Valley	2006	1	F	11875
+Upper Goulburn Valley	2006	1	M	11988
+Upper Goulburn Valley	2011		F	2641
+Upper Goulburn Valley	2011		M	2837
+Upper Goulburn Valley	2011	0	F	8630
+Upper Goulburn Valley	2011	0	M	8389
+Upper Goulburn Valley	2011	1	F	13623
+Upper Goulburn Valley	2011	1	M	13792
+Upper Goulburn Valley	2016		F	3759
+Upper Goulburn Valley	2016		M	3921
+Upper Goulburn Valley	2016	0	F	8916
+Upper Goulburn Valley	2016	0	M	8656
+Upper Goulburn Valley	2016	1	F	14215
+Upper Goulburn Valley	2016	1	M	14375
+Wangaratta - Benalla	2006		F	2164
+Wangaratta - Benalla	2006		M	2219
+Wangaratta - Benalla	2006	0	F	7622
+Wangaratta - Benalla	2006	0	M	6891
+Wangaratta - Benalla	2006	1	F	12595
+Wangaratta - Benalla	2006	1	M	12062
+Wangaratta - Benalla	2011		F	2139
+Wangaratta - Benalla	2011		M	2178
+Wangaratta - Benalla	2011	0	F	7221
+Wangaratta - Benalla	2011	0	M	6398
+Wangaratta - Benalla	2011	1	F	13378
+Wangaratta - Benalla	2011	1	M	12920
+Wangaratta - Benalla	2016		F	3057
+Wangaratta - Benalla	2016		M	2910
+Wangaratta - Benalla	2016	0	F	7381
+Wangaratta - Benalla	2016	0	M	6609
+Wangaratta - Benalla	2016	1	F	13359
+Wangaratta - Benalla	2016	1	M	12784
+Wodonga - Alpine	2006		F	3267
+Wodonga - Alpine	2006		M	3475
+Wodonga - Alpine	2006	0	F	12077
+Wodonga - Alpine	2006	0	M	11619
+Wodonga - Alpine	2006	1	F	16222
+Wodonga - Alpine	2006	1	M	15899
+Wodonga - Alpine	2011		F	3302
+Wodonga - Alpine	2011		M	3684
+Wodonga - Alpine	2011	0	F	11829
+Wodonga - Alpine	2011	0	M	11091
+Wodonga - Alpine	2011	1	F	17742
+Wodonga - Alpine	2011	1	M	17494
+Wodonga - Alpine	2016		F	4683
+Wodonga - Alpine	2016		M	4915
+Wodonga - Alpine	2016	0	F	12735
+Wodonga - Alpine	2016	0	M	12100
+Wodonga - Alpine	2016	1	F	18162
+Wodonga - Alpine	2016	1	M	17652
+Baw Baw	2006		F	1900
+Baw Baw	2006		M	1904
+Baw Baw	2006	0	F	6939
+Baw Baw	2006	0	M	6319
+Baw Baw	2006	1	F	10447
+Baw Baw	2006	1	M	10150
+Baw Baw	2011		F	2222
+Baw Baw	2011		M	2451
+Baw Baw	2011	0	F	8247
+Baw Baw	2011	0	M	7522
+Baw Baw	2011	1	F	11454
+Baw Baw	2011	1	M	11087
+Baw Baw	2016		F	3276
+Baw Baw	2016		M	3193
+Baw Baw	2016	0	F	9127
+Baw Baw	2016	0	M	8275
+Baw Baw	2016	1	F	12601
+Baw Baw	2016	1	M	12153
+Gippsland - East	2006		F	2026
+Gippsland - East	2006		M	2142
+Gippsland - East	2006	0	F	7631
+Gippsland - East	2006	0	M	6983
+Gippsland - East	2006	1	F	10757
+Gippsland - East	2006	1	M	10641
+Gippsland - East	2011		F	2102
+Gippsland - East	2011		M	2242
+Gippsland - East	2011	0	F	7686
+Gippsland - East	2011	0	M	7085
+Gippsland - East	2011	1	F	11660
+Gippsland - East	2011	1	M	11523
+Gippsland - East	2016		F	3362
+Gippsland - East	2016		M	3253
+Gippsland - East	2016	0	F	7494
+Gippsland - East	2016	0	M	6861
+Gippsland - East	2016	1	F	12118
+Gippsland - East	2016	1	M	12060
+Gippsland - South West	2006		F	3165
+Gippsland - South West	2006		M	3140
+Gippsland - South West	2006	0	F	9572
+Gippsland - South West	2006	0	M	8778
+Gippsland - South West	2006	1	F	14011
+Gippsland - South West	2006	1	M	13711
+Gippsland - South West	2011		F	3058
+Gippsland - South West	2011		M	3190
+Gippsland - South West	2011	0	F	10579
+Gippsland - South West	2011	0	M	9868
+Gippsland - South West	2011	1	F	15358
+Gippsland - South West	2011	1	M	14967
+Gippsland - South West	2016		F	4141
+Gippsland - South West	2016		M	4225
+Gippsland - South West	2016	0	F	11102
+Gippsland - South West	2016	0	M	9896
+Gippsland - South West	2016	1	F	16383
+Gippsland - South West	2016	1	M	15917
+Latrobe Valley	2006		F	4039
+Latrobe Valley	2006		M	4051
+Latrobe Valley	2006	0	F	11997
+Latrobe Valley	2006	0	M	11062
+Latrobe Valley	2006	1	F	19195
+Latrobe Valley	2006	1	M	18519
+Latrobe Valley	2011		F	4271
+Latrobe Valley	2011		M	4488
+Latrobe Valley	2011	0	F	12609
+Latrobe Valley	2011	0	M	11338
+Latrobe Valley	2011	1	F	20064
+Latrobe Valley	2011	1	M	19447
+Latrobe Valley	2016		F	5385
+Latrobe Valley	2016		M	5373
+Latrobe Valley	2016	0	F	11635
+Latrobe Valley	2016	0	M	10438
+Latrobe Valley	2016	1	F	20378
+Latrobe Valley	2016	1	M	19889
+Wellington	2006		F	2060
+Wellington	2006		M	2869
+Wellington	2006	0	F	7214
+Wellington	2006	0	M	6776
+Wellington	2006	1	F	10508
+Wellington	2006	1	M	10504
+Wellington	2011		F	2234
+Wellington	2011		M	3102
+Wellington	2011	0	F	7063
+Wellington	2011	0	M	6540
+Wellington	2011	1	F	11307
+Wellington	2011	1	M	11087
+Wellington	2016		F	2934
+Wellington	2016		M	3775
+Wellington	2016	0	F	6834
+Wellington	2016	0	M	6425
+Wellington	2016	1	F	11470
+Wellington	2016	1	M	11431
+Brunswick - Coburg	2006		F	4457
+Brunswick - Coburg	2006		M	4953
+Brunswick - Coburg	2006	0	F	13617
+Brunswick - Coburg	2006	0	M	12713
+Brunswick - Coburg	2006	1	F	19340
+Brunswick - Coburg	2006	1	M	17729
+Brunswick - Coburg	2011		F	4388
+Brunswick - Coburg	2011		M	4886
+Brunswick - Coburg	2011	0	F	15677
+Brunswick - Coburg	2011	0	M	14890
+Brunswick - Coburg	2011	1	F	20377
+Brunswick - Coburg	2011	1	M	18676
+Brunswick - Coburg	2016		F	4903
+Brunswick - Coburg	2016		M	4850
+Brunswick - Coburg	2016	0	F	19147
+Brunswick - Coburg	2016	0	M	18114
+Brunswick - Coburg	2016	1	F	20482
+Brunswick - Coburg	2016	1	M	18763
+Darebin - South	2006		F	3013
+Darebin - South	2006		M	3196
+Darebin - South	2006	0	F	8686
+Darebin - South	2006	0	M	7792
+Darebin - South	2006	1	F	12082
+Darebin - South	2006	1	M	11143
+Darebin - South	2011		F	2701
+Darebin - South	2011		M	3001
+Darebin - South	2011	0	F	9281
+Darebin - South	2011	0	M	8148
+Darebin - South	2011	1	F	13265
+Darebin - South	2011	1	M	12163
+Darebin - South	2016		F	3147
+Darebin - South	2016		M	3107
+Darebin - South	2016	0	F	10804
+Darebin - South	2016	0	M	9348
+Darebin - South	2016	1	F	13530
+Darebin - South	2016	1	M	12134
+Essendon	2006		F	3765
+Essendon	2006		M	4145
+Essendon	2006	0	F	9792
+Essendon	2006	0	M	8915
+Essendon	2006	1	F	15956
+Essendon	2006	1	M	14354
+Essendon	2011		F	3625
+Essendon	2011		M	3750
+Essendon	2011	0	F	11066
+Essendon	2011	0	M	10359
+Essendon	2011	1	F	16843
+Essendon	2011	1	M	15285
+Essendon	2016		F	4163
+Essendon	2016		M	4123
+Essendon	2016	0	F	13443
+Essendon	2016	0	M	12502
+Essendon	2016	1	F	16928
+Essendon	2016	1	M	15441
+Melbourne City	2006		F	6047
+Melbourne City	2006		M	7745
+Melbourne City	2006	0	F	23461
+Melbourne City	2006	0	M	22784
+Melbourne City	2006	1	F	8134
+Melbourne City	2006	1	M	7969
+Melbourne City	2011		F	6408
+Melbourne City	2011		M	7733
+Melbourne City	2011	0	F	29459
+Melbourne City	2011	0	M	28062
+Melbourne City	2011	1	F	10981
+Melbourne City	2011	1	M	10974
+Melbourne City	2016		F	10078
+Melbourne City	2016		M	10373
+Melbourne City	2016	0	F	46633
+Melbourne City	2016	0	M	42950
+Melbourne City	2016	1	F	13114
+Melbourne City	2016	1	M	12821
+Port Phillip	2006		F	7108
+Port Phillip	2006		M	8270
+Port Phillip	2006	0	F	21071
+Port Phillip	2006	0	M	19914
+Port Phillip	2006	1	F	14681
+Port Phillip	2006	1	M	14055
+Port Phillip	2011		F	5717
+Port Phillip	2011		M	6598
+Port Phillip	2011	0	F	23413
+Port Phillip	2011	0	M	22638
+Port Phillip	2011	1	F	16929
+Port Phillip	2011	1	M	16085
+Port Phillip	2016		F	7588
+Port Phillip	2016		M	7635
+Port Phillip	2016	0	F	26034
+Port Phillip	2016	0	M	24682
+Port Phillip	2016	1	F	17941
+Port Phillip	2016	1	M	16992
+Stonnington - West	2006		F	3775
+Stonnington - West	2006		M	4189
+Stonnington - West	2006	0	F	12590
+Stonnington - West	2006	0	M	11639
+Stonnington - West	2006	1	F	10470
+Stonnington - West	2006	1	M	9232
+Stonnington - West	2011		F	3109
+Stonnington - West	2011		M	3558
+Stonnington - West	2011	0	F	13527
+Stonnington - West	2011	0	M	12343
+Stonnington - West	2011	1	F	11183
+Stonnington - West	2011	1	M	10057
+Stonnington - West	2016		F	4096
+Stonnington - West	2016		M	3971
+Stonnington - West	2016	0	F	17608
+Stonnington - West	2016	0	M	15788
+Stonnington - West	2016	1	F	11207
+Stonnington - West	2016	1	M	9797
+Yarra	2006		F	5028
+Yarra	2006		M	5899
+Yarra	2006	0	F	16997
+Yarra	2006	0	M	15747
+Yarra	2006	1	F	13696
+Yarra	2006	1	M	12774
+Yarra	2011		F	4646
+Yarra	2011		M	5189
+Yarra	2011	0	F	18027
+Yarra	2011	0	M	16736
+Yarra	2011	1	F	15659
+Yarra	2011	1	M	14574
+Yarra	2016		F	6049
+Yarra	2016		M	6034
+Yarra	2016	0	F	22571
+Yarra	2016	0	M	21214
+Yarra	2016	1	F	16421
+Yarra	2016	1	M	15167
+Boroondara	2006		F	8026
+Boroondara	2006		M	8156
+Boroondara	2006	0	F	28407
+Boroondara	2006	0	M	26579
+Boroondara	2006	1	F	44085
+Boroondara	2006	1	M	39198
+Boroondara	2011		F	7155
+Boroondara	2011		M	7430
+Boroondara	2011	0	F	29624
+Boroondara	2011	0	M	27337
+Boroondara	2011	1	F	45907
+Boroondara	2011	1	M	41733
+Boroondara	2016		F	7961
+Boroondara	2016		M	7913
+Boroondara	2016	0	F	34438
+Boroondara	2016	0	M	31659
+Boroondara	2016	1	F	44686
+Boroondara	2016	1	M	40573
+Manningham - West	2006		F	3921
+Manningham - West	2006		M	3930
+Manningham - West	2006	0	F	12335
+Manningham - West	2006	0	M	11195
+Manningham - West	2006	1	F	27433
+Manningham - West	2006	1	M	25749
+Manningham - West	2011		F	3541
+Manningham - West	2011		M	3540
+Manningham - West	2011	0	F	12225
+Manningham - West	2011	0	M	11448
+Manningham - West	2011	1	F	28652
+Manningham - West	2011	1	M	26499
+Manningham - West	2016		F	4200
+Manningham - West	2016		M	4030
+Manningham - West	2016	0	F	15060
+Manningham - West	2016	0	M	14030
+Manningham - West	2016	1	F	27593
+Manningham - West	2016	1	M	25459
+Whitehorse - West	2006		F	4694
+Whitehorse - West	2006		M	4757
+Whitehorse - West	2006	0	F	15225
+Whitehorse - West	2006	0	M	13663
+Whitehorse - West	2006	1	F	27408
+Whitehorse - West	2006	1	M	24223
+Whitehorse - West	2011		F	4804
+Whitehorse - West	2011		M	5030
+Whitehorse - West	2011	0	F	16200
+Whitehorse - West	2011	0	M	15080
+Whitehorse - West	2011	1	F	28372
+Whitehorse - West	2011	1	M	25432
+Whitehorse - West	2016		F	4978
+Whitehorse - West	2016		M	4891
+Whitehorse - West	2016	0	F	20286
+Whitehorse - West	2016	0	M	19383
+Whitehorse - West	2016	1	F	27656
+Whitehorse - West	2016	1	M	24844
+Bayside	2006		F	5454
+Bayside	2006		M	4962
+Bayside	2006	0	F	14855
+Bayside	2006	0	M	13611
+Bayside	2006	1	F	25987
+Bayside	2006	1	M	23069
+Bayside	2011		F	4996
+Bayside	2011		M	4854
+Bayside	2011	0	F	15659
+Bayside	2011	0	M	14517
+Bayside	2011	1	F	27317
+Bayside	2011	1	M	24471
+Bayside	2016		F	5307
+Bayside	2016		M	5031
+Bayside	2016	0	F	18101
+Bayside	2016	0	M	16567
+Bayside	2016	1	F	27454
+Bayside	2016	1	M	24631
+Glen Eira	2006		F	8370
+Glen Eira	2006		M	8760
+Glen Eira	2006	0	F	21983
+Glen Eira	2006	0	M	20995
+Glen Eira	2006	1	F	36821
+Glen Eira	2006	1	M	33661
+Glen Eira	2011		F	7364
+Glen Eira	2011		M	7857
+Glen Eira	2011	0	F	24571
+Glen Eira	2011	0	M	23479
+Glen Eira	2011	1	F	38940
+Glen Eira	2011	1	M	35855
+Glen Eira	2016		F	8200
+Glen Eira	2016		M	8058
+Glen Eira	2016	0	F	29807
+Glen Eira	2016	0	M	28089
+Glen Eira	2016	1	F	38666
+Glen Eira	2016	1	M	35612
+Kingston	2006		F	6320
+Kingston	2006		M	6363
+Kingston	2006	0	F	17739
+Kingston	2006	0	M	16316
+Kingston	2006	1	F	28696
+Kingston	2006	1	M	26497
+Kingston	2011		F	5939
+Kingston	2011		M	6312
+Kingston	2011	0	F	18576
+Kingston	2011	0	M	17240
+Kingston	2011	1	F	31634
+Kingston	2011	1	M	29264
+Kingston	2016		F	6964
+Kingston	2016		M	6682
+Kingston	2016	0	F	20879
+Kingston	2016	0	M	19354
+Kingston	2016	1	F	32684
+Kingston	2016	1	M	30247
+Stonnington - East	2006		F	2380
+Stonnington - East	2006		M	2316
+Stonnington - East	2006	0	F	7097
+Stonnington - East	2006	0	M	6535
+Stonnington - East	2006	1	F	10400
+Stonnington - East	2006	1	M	9263
+Stonnington - East	2011		F	2007
+Stonnington - East	2011		M	2018
+Stonnington - East	2011	0	F	7560
+Stonnington - East	2011	0	M	6939
+Stonnington - East	2011	1	F	10977
+Stonnington - East	2011	1	M	9866
+Stonnington - East	2016		F	2075
+Stonnington - East	2016		M	2032
+Stonnington - East	2016	0	F	8769
+Stonnington - East	2016	0	M	8043
+Stonnington - East	2016	1	F	10704
+Stonnington - East	2016	1	M	9741
+Banyule	2006		F	5828
+Banyule	2006		M	6246
+Banyule	2006	0	F	17265
+Banyule	2006	0	M	16121
+Banyule	2006	1	F	35960
+Banyule	2006	1	M	33445
+Banyule	2011		F	5973
+Banyule	2011		M	6169
+Banyule	2011	0	F	17836
+Banyule	2011	0	M	16705
+Banyule	2011	1	F	37069
+Banyule	2011	1	M	34552
+Banyule	2016		F	6967
+Banyule	2016		M	6795
+Banyule	2016	0	F	19400
+Banyule	2016	0	M	18626
+Banyule	2016	1	F	36277
+Banyule	2016	1	M	33801
+Darebin - North	2006		F	5539
+Darebin - North	2006		M	6038
+Darebin - North	2006	0	F	12883
+Darebin - North	2006	0	M	12231
+Darebin - North	2006	1	F	23638
+Darebin - North	2006	1	M	21825
+Darebin - North	2011		F	5478
+Darebin - North	2011		M	5943
+Darebin - North	2011	0	F	14689
+Darebin - North	2011	0	M	14315
+Darebin - North	2011	1	F	24605
+Darebin - North	2011	1	M	22885
+Darebin - North	2016		F	6537
+Darebin - North	2016		M	6448
+Darebin - North	2016	0	F	17551
+Darebin - North	2016	0	M	17427
+Darebin - North	2016	1	F	24253
+Darebin - North	2016	1	M	22438
+Nillumbik - Kinglake	2006		F	3166
+Nillumbik - Kinglake	2006		M	3329
+Nillumbik - Kinglake	2006	0	F	8714
+Nillumbik - Kinglake	2006	0	M	8165
+Nillumbik - Kinglake	2006	1	F	20258
+Nillumbik - Kinglake	2006	1	M	20277
+Nillumbik - Kinglake	2011		F	2742
+Nillumbik - Kinglake	2011		M	2917
+Nillumbik - Kinglake	2011	0	F	8211
+Nillumbik - Kinglake	2011	0	M	7775
+Nillumbik - Kinglake	2011	1	F	21227
+Nillumbik - Kinglake	2011	1	M	21042
+Nillumbik - Kinglake	2016		F	3193
+Nillumbik - Kinglake	2016		M	3178
+Nillumbik - Kinglake	2016	0	F	8623
+Nillumbik - Kinglake	2016	0	M	8179
+Nillumbik - Kinglake	2016	1	F	21070
+Nillumbik - Kinglake	2016	1	M	20880
+Whittlesea - Wallan	2006		F	7932
+Whittlesea - Wallan	2006		M	8311
+Whittlesea - Wallan	2006	0	F	21023
+Whittlesea - Wallan	2006	0	M	20068
+Whittlesea - Wallan	2006	1	F	39346
+Whittlesea - Wallan	2006	1	M	38944
+Whittlesea - Wallan	2011		F	9590
+Whittlesea - Wallan	2011		M	10339
+Whittlesea - Wallan	2011	0	F	30304
+Whittlesea - Wallan	2011	0	M	29042
+Whittlesea - Wallan	2011	1	F	44174
+Whittlesea - Wallan	2011	1	M	43457
+Whittlesea - Wallan	2016		F	14436
+Whittlesea - Wallan	2016		M	14567
+Whittlesea - Wallan	2016	0	F	40795
+Whittlesea - Wallan	2016	0	M	39496
+Whittlesea - Wallan	2016	1	F	52778
+Whittlesea - Wallan	2016	1	M	51642
+Keilor	2006		F	2667
+Keilor	2006		M	2668
+Keilor	2006	0	F	6322
+Keilor	2006	0	M	6004
+Keilor	2006	1	F	18815
+Keilor	2006	1	M	17712
+Keilor	2011		F	2571
+Keilor	2011		M	2689
+Keilor	2011	0	F	6883
+Keilor	2011	0	M	6624
+Keilor	2011	1	F	18608
+Keilor	2011	1	M	17457
+Keilor	2016		F	3220
+Keilor	2016		M	3126
+Keilor	2016	0	F	8396
+Keilor	2016	0	M	8162
+Keilor	2016	1	F	18422
+Keilor	2016	1	M	17238
+Macedon Ranges	2006		F	1308
+Macedon Ranges	2006		M	1378
+Macedon Ranges	2006	0	F	3932
+Macedon Ranges	2006	0	M	3782
+Macedon Ranges	2006	1	F	6736
+Macedon Ranges	2006	1	M	6727
+Macedon Ranges	2011		F	1334
+Macedon Ranges	2011		M	1329
+Macedon Ranges	2011	0	F	4246
+Macedon Ranges	2011	0	M	3969
+Macedon Ranges	2011	1	F	7839
+Macedon Ranges	2011	1	M	7919
+Macedon Ranges	2016		F	1820
+Macedon Ranges	2016		M	1831
+Macedon Ranges	2016	0	F	4522
+Macedon Ranges	2016	0	M	4355
+Macedon Ranges	2016	1	F	8526
+Macedon Ranges	2016	1	M	8517
+Moreland - North	2006		F	4105
+Moreland - North	2006		M	4086
+Moreland - North	2006	0	F	8928
+Moreland - North	2006	0	M	8432
+Moreland - North	2006	1	F	18970
+Moreland - North	2006	1	M	17620
+Moreland - North	2011		F	4313
+Moreland - North	2011		M	4640
+Moreland - North	2011	0	F	10313
+Moreland - North	2011	0	M	10538
+Moreland - North	2011	1	F	19649
+Moreland - North	2011	1	M	18155
+Moreland - North	2016		F	5321
+Moreland - North	2016		M	5460
+Moreland - North	2016	0	F	13610
+Moreland - North	2016	0	M	14221
+Moreland - North	2016	1	F	19172
+Moreland - North	2016	1	M	17725
+Sunbury	2006		F	1948
+Sunbury	2006		M	2022
+Sunbury	2006	0	F	6443
+Sunbury	2006	0	M	5969
+Sunbury	2006	1	F	9047
+Sunbury	2006	1	M	8606
+Sunbury	2011		F	1895
+Sunbury	2011		M	2047
+Sunbury	2011	0	F	6035
+Sunbury	2011	0	M	5672
+Sunbury	2011	1	F	10832
+Sunbury	2011	1	M	10371
+Sunbury	2016		F	2346
+Sunbury	2016		M	2365
+Sunbury	2016	0	F	6508
+Sunbury	2016	0	M	5878
+Sunbury	2016	1	F	11302
+Sunbury	2016	1	M	10969
+Tullamarine - Broadmeadows	2006		F	7876
+Tullamarine - Broadmeadows	2006		M	8335
+Tullamarine - Broadmeadows	2006	0	F	18420
+Tullamarine - Broadmeadows	2006	0	M	17747
+Tullamarine - Broadmeadows	2006	1	F	31763
+Tullamarine - Broadmeadows	2006	1	M	31348
+Tullamarine - Broadmeadows	2011		F	8535
+Tullamarine - Broadmeadows	2011		M	8883
+Tullamarine - Broadmeadows	2011	0	F	20676
+Tullamarine - Broadmeadows	2011	0	M	20073
+Tullamarine - Broadmeadows	2011	1	F	37434
+Tullamarine - Broadmeadows	2011	1	M	36957
+Tullamarine - Broadmeadows	2016		F	11099
+Tullamarine - Broadmeadows	2016		M	11735
+Tullamarine - Broadmeadows	2016	0	F	27466
+Tullamarine - Broadmeadows	2016	0	M	27723
+Tullamarine - Broadmeadows	2016	1	F	41561
+Tullamarine - Broadmeadows	2016	1	M	40770
+Knox	2006		F	7206
+Knox	2006		M	7342
+Knox	2006	0	F	22073
+Knox	2006	0	M	20589
+Knox	2006	1	F	45619
+Knox	2006	1	M	43909
+Knox	2011		F	6296
+Knox	2011		M	7058
+Knox	2011	0	F	21259
+Knox	2011	0	M	19773
+Knox	2011	1	F	48352
+Knox	2011	1	M	46600
+Knox	2016		F	7731
+Knox	2016		M	7706
+Knox	2016	0	F	23539
+Knox	2016	0	M	21961
+Knox	2016	1	F	47544
+Knox	2016	1	M	45674
+Manningham - East	2006		F	1187
+Manningham - East	2006		M	1249
+Manningham - East	2006	0	F	3607
+Manningham - East	2006	0	M	3401
+Manningham - East	2006	1	F	8040
+Manningham - East	2006	1	M	7926
+Manningham - East	2011		F	938
+Manningham - East	2011		M	1010
+Manningham - East	2011	0	F	3375
+Manningham - East	2011	0	M	3186
+Manningham - East	2011	1	F	8578
+Manningham - East	2011	1	M	8417
+Manningham - East	2016		F	1102
+Manningham - East	2016		M	1157
+Manningham - East	2016	0	F	3597
+Manningham - East	2016	0	M	3437
+Manningham - East	2016	1	F	8454
+Manningham - East	2016	1	M	8240
+Maroondah	2006		F	5420
+Maroondah	2006		M	5420
+Maroondah	2006	0	F	16083
+Maroondah	2006	0	M	14545
+Maroondah	2006	1	F	29590
+Maroondah	2006	1	M	27728
+Maroondah	2011		F	5003
+Maroondah	2011		M	5042
+Maroondah	2011	0	F	16902
+Maroondah	2011	0	M	15595
+Maroondah	2011	1	F	31326
+Maroondah	2011	1	M	29547
+Maroondah	2016		F	6241
+Maroondah	2016		M	6109
+Maroondah	2016	0	F	19141
+Maroondah	2016	0	M	17661
+Maroondah	2016	1	F	31373
+Maroondah	2016	1	M	29409
+Whitehorse - East	2006		F	2884
+Whitehorse - East	2006		M	2988
+Whitehorse - East	2006	0	F	8177
+Whitehorse - East	2006	0	M	7730
+Whitehorse - East	2006	1	F	17648
+Whitehorse - East	2006	1	M	16072
+Whitehorse - East	2011		F	2848
+Whitehorse - East	2011		M	2755
+Whitehorse - East	2011	0	F	8320
+Whitehorse - East	2011	0	M	8025
+Whitehorse - East	2011	1	F	18342
+Whitehorse - East	2011	1	M	16843
+Whitehorse - East	2016		F	3090
+Whitehorse - East	2016		M	2877
+Whitehorse - East	2016	0	F	10186
+Whitehorse - East	2016	0	M	9645
+Whitehorse - East	2016	1	F	18206
+Whitehorse - East	2016	1	M	16767
+Yarra Ranges	2006		F	7579
+Yarra Ranges	2006		M	7957
+Yarra Ranges	2006	0	F	21562
+Yarra Ranges	2006	0	M	20268
+Yarra Ranges	2006	1	F	41292
+Yarra Ranges	2006	1	M	40944
+Yarra Ranges	2011		F	7159
+Yarra Ranges	2011		M	7631
+Yarra Ranges	2011	0	F	21452
+Yarra Ranges	2011	0	M	20104
+Yarra Ranges	2011	1	F	44019
+Yarra Ranges	2011	1	M	43341
+Yarra Ranges	2016		F	8305
+Yarra Ranges	2016		M	8433
+Yarra Ranges	2016	0	F	22861
+Yarra Ranges	2016	0	M	21343
+Yarra Ranges	2016	1	F	44165
+Yarra Ranges	2016	1	M	43654
+Cardinia	2006		F	3520
+Cardinia	2006		M	3626
+Cardinia	2006	0	F	11998
+Cardinia	2006	0	M	11218
+Cardinia	2006	1	F	13238
+Cardinia	2006	1	M	13504
+Cardinia	2011		F	4338
+Cardinia	2011		M	4669
+Cardinia	2011	0	F	15863
+Cardinia	2011	0	M	14735
+Cardinia	2011	1	F	17348
+Cardinia	2011	1	M	17384
+Cardinia	2016		F	6569
+Cardinia	2016		M	6771
+Cardinia	2016	0	F	19899
+Cardinia	2016	0	M	18257
+Cardinia	2016	1	F	21375
+Cardinia	2016	1	M	21414
+Casey - North	2006		F	6759
+Casey - North	2006		M	7247
+Casey - North	2006	0	F	20642
+Casey - North	2006	0	M	19710
+Casey - North	2006	1	F	30071
+Casey - North	2006	1	M	29275
+Casey - North	2011		F	6480
+Casey - North	2011		M	7021
+Casey - North	2011	0	F	20914
+Casey - North	2011	0	M	20148
+Casey - North	2011	1	F	35191
+Casey - North	2011	1	M	34264
+Casey - North	2016		F	7430
+Casey - North	2016		M	7639
+Casey - North	2016	0	F	21417
+Casey - North	2016	0	M	21281
+Casey - North	2016	1	F	37092
+Casey - North	2016	1	M	36261
+Casey - South	2006		F	7192
+Casey - South	2006		M	7543
+Casey - South	2006	0	F	21619
+Casey - South	2006	0	M	20731
+Casey - South	2006	1	F	21916
+Casey - South	2006	1	M	22247
+Casey - South	2011		F	8054
+Casey - South	2011		M	8450
+Casey - South	2011	0	F	25457
+Casey - South	2011	0	M	24653
+Casey - South	2011	1	F	30828
+Casey - South	2011	1	M	30920
+Casey - South	2016		F	11895
+Casey - South	2016		M	12202
+Casey - South	2016	0	F	34007
+Casey - South	2016	0	M	33176
+Casey - South	2016	1	F	38433
+Casey - South	2016	1	M	38464
+Dandenong	2006		F	9989
+Dandenong	2006		M	10918
+Dandenong	2006	0	F	23388
+Dandenong	2006	0	M	23643
+Dandenong	2006	1	F	45618
+Dandenong	2006	1	M	44655
+Dandenong	2011		F	9613
+Dandenong	2011		M	10507
+Dandenong	2011	0	F	25951
+Dandenong	2011	0	M	27785
+Dandenong	2011	1	F	48167
+Dandenong	2011	1	M	47045
+Dandenong	2016		F	11376
+Dandenong	2016		M	12124
+Dandenong	2016	0	F	32080
+Dandenong	2016	0	M	35423
+Dandenong	2016	1	F	48273
+Dandenong	2016	1	M	47351
+Monash	2006		F	7922
+Monash	2006		M	8363
+Monash	2006	0	F	24559
+Monash	2006	0	M	24743
+Monash	2006	1	F	45851
+Monash	2006	1	M	43301
+Monash	2011		F	7118
+Monash	2011		M	7595
+Monash	2011	0	F	27407
+Monash	2011	0	M	27760
+Monash	2011	1	F	47520
+Monash	2011	1	M	44830
+Monash	2016		F	8612
+Monash	2016		M	8720
+Monash	2016	0	F	34626
+Monash	2016	0	M	34396
+Monash	2016	1	F	45717
+Monash	2016	1	M	42986
+Brimbank	2006		F	10224
+Brimbank	2006		M	10714
+Brimbank	2006	0	F	22181
+Brimbank	2006	0	M	21326
+Brimbank	2006	1	F	47919
+Brimbank	2006	1	M	47063
+Brimbank	2011		F	11175
+Brimbank	2011		M	11998
+Brimbank	2011	0	F	24646
+Brimbank	2011	0	M	25049
+Brimbank	2011	1	F	51358
+Brimbank	2011	1	M	50196
+Brimbank	2016		F	12051
+Brimbank	2016		M	12689
+Brimbank	2016	0	F	27001
+Brimbank	2016	0	M	28297
+Brimbank	2016	1	F	53728
+Brimbank	2016	1	M	52053
+Hobsons Bay	2006		F	4737
+Hobsons Bay	2006		M	4966
+Hobsons Bay	2006	0	F	11986
+Hobsons Bay	2006	0	M	11424
+Hobsons Bay	2006	1	F	22483
+Hobsons Bay	2006	1	M	21580
+Hobsons Bay	2011		F	4765
+Hobsons Bay	2011		M	4902
+Hobsons Bay	2011	0	F	12340
+Hobsons Bay	2011	0	M	12342
+Hobsons Bay	2011	1	F	23022
+Hobsons Bay	2011	1	M	22040
+Hobsons Bay	2016		F	5254
+Hobsons Bay	2016		M	5326
+Hobsons Bay	2016	0	F	14217
+Hobsons Bay	2016	0	M	13516
+Hobsons Bay	2016	1	F	23465
+Hobsons Bay	2016	1	M	22224
+Maribyrnong	2006		F	4441
+Maribyrnong	2006		M	5125
+Maribyrnong	2006	0	F	11724
+Maribyrnong	2006	0	M	12212
+Maribyrnong	2006	1	F	15117
+Maribyrnong	2006	1	M	14520
+Maribyrnong	2011		F	5012
+Maribyrnong	2011		M	6015
+Maribyrnong	2011	0	F	13694
+Maribyrnong	2011	0	M	14540
+Maribyrnong	2011	1	F	16537
+Maribyrnong	2011	1	M	15840
+Maribyrnong	2016		F	5674
+Maribyrnong	2016		M	6033
+Maribyrnong	2016	0	F	17135
+Maribyrnong	2016	0	M	18006
+Maribyrnong	2016	1	F	18074
+Maribyrnong	2016	1	M	17366
+Melton - Bacchus Marsh	2006		F	6421
+Melton - Bacchus Marsh	2006		M	6873
+Melton - Bacchus Marsh	2006	0	F	19816
+Melton - Bacchus Marsh	2006	0	M	18742
+Melton - Bacchus Marsh	2006	1	F	20220
+Melton - Bacchus Marsh	2006	1	M	20253
+Melton - Bacchus Marsh	2011		F	8759
+Melton - Bacchus Marsh	2011		M	9306
+Melton - Bacchus Marsh	2011	0	F	24548
+Melton - Bacchus Marsh	2011	0	M	23081
+Melton - Bacchus Marsh	2011	1	F	29552
+Melton - Bacchus Marsh	2011	1	M	29317
+Melton - Bacchus Marsh	2016		F	11163
+Melton - Bacchus Marsh	2016		M	11654
+Melton - Bacchus Marsh	2016	0	F	27814
+Melton - Bacchus Marsh	2016	0	M	25939
+Melton - Bacchus Marsh	2016	1	F	38796
+Melton - Bacchus Marsh	2016	1	M	38073
+Wyndham	2006		F	7873
+Wyndham	2006		M	9223
+Wyndham	2006	0	F	24153
+Wyndham	2006	0	M	22838
+Wyndham	2006	1	F	26677
+Wyndham	2006	1	M	26217
+Wyndham	2011		F	11381
+Wyndham	2011		M	12876
+Wyndham	2011	0	F	35748
+Wyndham	2011	0	M	34765
+Wyndham	2011	1	F	35982
+Wyndham	2011	1	M	35271
+Wyndham	2016		F	16297
+Wyndham	2016		M	18211
+Wyndham	2016	0	F	46625
+Wyndham	2016	0	M	45935
+Wyndham	2016	1	F	47603
+Wyndham	2016	1	M	47220
+Frankston	2006		F	7763
+Frankston	2006		M	8014
+Frankston	2006	0	F	22278
+Frankston	2006	0	M	20804
+Frankston	2006	1	F	30395
+Frankston	2006	1	M	28552
+Frankston	2011		F	7548
+Frankston	2011		M	7738
+Frankston	2011	0	F	23193
+Frankston	2011	0	M	21639
+Frankston	2011	1	F	33868
+Frankston	2011	1	M	32476
+Frankston	2016		F	9016
+Frankston	2016		M	9084
+Frankston	2016	0	F	24506
+Frankston	2016	0	M	22542
+Frankston	2016	1	F	35205
+Frankston	2016	1	M	33792
+Mornington Peninsula	2006		F	8994
+Mornington Peninsula	2006		M	8907
+Mornington Peninsula	2006	0	F	25522
+Mornington Peninsula	2006	0	M	23864
+Mornington Peninsula	2006	1	F	35571
+Mornington Peninsula	2006	1	M	33625
+Mornington Peninsula	2011		F	8083
+Mornington Peninsula	2011		M	7936
+Mornington Peninsula	2011	0	F	26779
+Mornington Peninsula	2011	0	M	24786
+Mornington Peninsula	2011	1	F	39704
+Mornington Peninsula	2011	1	M	37320
+Mornington Peninsula	2016		F	9188
+Mornington Peninsula	2016		M	8795
+Mornington Peninsula	2016	0	F	29325
+Mornington Peninsula	2016	0	M	26764
+Mornington Peninsula	2016	1	F	41612
+Mornington Peninsula	2016	1	M	39316
+Grampians	2006		F	2898
+Grampians	2006		M	3224
+Grampians	2006	0	F	9437
+Grampians	2006	0	M	8710
+Grampians	2006	1	F	17615
+Grampians	2006	1	M	17512
+Grampians	2011		F	2951
+Grampians	2011		M	3527
+Grampians	2011	0	F	9089
+Grampians	2011	0	M	8488
+Grampians	2011	1	F	17724
+Grampians	2011	1	M	17472
+Grampians	2016		F	3570
+Grampians	2016		M	4419
+Grampians	2016	0	F	8662
+Grampians	2016	0	M	7882
+Grampians	2016	1	F	17102
+Grampians	2016	1	M	17184
+Mildura	2006		F	2950
+Mildura	2006		M	3044
+Mildura	2006	0	F	9685
+Mildura	2006	0	M	8887
+Mildura	2006	1	F	12796
+Mildura	2006	1	M	12453
+Mildura	2011		F	2994
+Mildura	2011		M	3212
+Mildura	2011	0	F	9082
+Mildura	2011	0	M	8266
+Mildura	2011	1	F	13928
+Mildura	2011	1	M	13497
+Mildura	2016		F	4116
+Mildura	2016		M	4234
+Mildura	2016	0	F	9451
+Mildura	2016	0	M	8746
+Mildura	2016	1	F	13831
+Mildura	2016	1	M	13501
+Murray River - Swan Hill	2006		F	2115
+Murray River - Swan Hill	2006		M	2296
+Murray River - Swan Hill	2006	0	F	6063
+Murray River - Swan Hill	2006	0	M	5957
+Murray River - Swan Hill	2006	1	F	11150
+Murray River - Swan Hill	2006	1	M	11204
+Murray River - Swan Hill	2011		F	2067
+Murray River - Swan Hill	2011		M	2274
+Murray River - Swan Hill	2011	0	F	5519
+Murray River - Swan Hill	2011	0	M	5305
+Murray River - Swan Hill	2011	1	F	10937
+Murray River - Swan Hill	2011	1	M	11098
+Murray River - Swan Hill	2016		F	3004
+Murray River - Swan Hill	2016		M	3178
+Murray River - Swan Hill	2016	0	F	5088
+Murray River - Swan Hill	2016	0	M	4903
+Murray River - Swan Hill	2016	1	F	10491
+Murray River - Swan Hill	2016	1	M	10672
+Campaspe	2006		F	1884
+Campaspe	2006		M	2060
+Campaspe	2006	0	F	6594
+Campaspe	2006	0	M	6272
+Campaspe	2006	1	F	9655
+Campaspe	2006	1	M	9743
+Campaspe	2011		F	1970
+Campaspe	2011		M	2031
+Campaspe	2011	0	F	5889
+Campaspe	2011	0	M	5465
+Campaspe	2011	1	F	10592
+Campaspe	2011	1	M	10603
+Campaspe	2016		F	2629
+Campaspe	2016		M	2515
+Campaspe	2016	0	F	5689
+Campaspe	2016	0	M	5303
+Campaspe	2016	1	F	10523
+Campaspe	2016	1	M	10550
+Moira	2006		F	1452
+Moira	2006		M	1590
+Moira	2006	0	F	5041
+Moira	2006	0	M	4774
+Moira	2006	1	F	7071
+Moira	2006	1	M	7155
+Moira	2011		F	1603
+Moira	2011		M	1706
+Moira	2011	0	F	4670
+Moira	2011	0	M	4368
+Moira	2011	1	F	7866
+Moira	2011	1	M	7910
+Moira	2016		F	2039
+Moira	2016		M	2177
+Moira	2016	0	F	4641
+Moira	2016	0	M	4385
+Moira	2016	1	F	7918
+Moira	2016	1	M	7952
+Shepparton	2006		F	3469
+Shepparton	2006		M	3711
+Shepparton	2006	0	F	10460
+Shepparton	2006	0	M	9708
+Shepparton	2006	1	F	14972
+Shepparton	2006	1	M	14769
+Shepparton	2011		F	3692
+Shepparton	2011		M	4121
+Shepparton	2011	0	F	10452
+Shepparton	2011	0	M	9551
+Shepparton	2011	1	F	16312
+Shepparton	2011	1	M	16096
+Shepparton	2016		F	4801
+Shepparton	2016		M	5108
+Shepparton	2016	0	F	10424
+Shepparton	2016	0	M	9868
+Shepparton	2016	1	F	16811
+Shepparton	2016	1	M	16642
+Glenelg - Southern Grampians	2006		F	1737
+Glenelg - Southern Grampians	2006		M	1836
+Glenelg - Southern Grampians	2006	0	F	5971
+Glenelg - Southern Grampians	2006	0	M	5719
+Glenelg - Southern Grampians	2006	1	F	10589
+Glenelg - Southern Grampians	2006	1	M	10540
+Glenelg - Southern Grampians	2011		F	1700
+Glenelg - Southern Grampians	2011		M	1780
+Glenelg - Southern Grampians	2011	0	F	5542
+Glenelg - Southern Grampians	2011	0	M	5167
+Glenelg - Southern Grampians	2011	1	F	10912
+Glenelg - Southern Grampians	2011	1	M	10891
+Glenelg - Southern Grampians	2016		F	2306
+Glenelg - Southern Grampians	2016		M	2291
+Glenelg - Southern Grampians	2016	0	F	5034
+Glenelg - Southern Grampians	2016	0	M	4621
+Glenelg - Southern Grampians	2016	1	F	10673
+Glenelg - Southern Grampians	2016	1	M	10631
+Colac - Corangamite	2006		F	1907
+Colac - Corangamite	2006		M	2079
+Colac - Corangamite	2006	0	F	5665
+Colac - Corangamite	2006	0	M	5460
+Colac - Corangamite	2006	1	F	10943
+Colac - Corangamite	2006	1	M	10853
+Colac - Corangamite	2011		F	1825
+Colac - Corangamite	2011		M	2060
+Colac - Corangamite	2011	0	F	5343
+Colac - Corangamite	2011	0	M	5107
+Colac - Corangamite	2011	1	F	11165
+Colac - Corangamite	2011	1	M	11192
+Colac - Corangamite	2016		F	2519
+Colac - Corangamite	2016		M	2589
+Colac - Corangamite	2016	0	F	5107
+Colac - Corangamite	2016	0	M	5025
+Colac - Corangamite	2016	1	F	10834
+Colac - Corangamite	2016	1	M	10960
+Warrnambool	2006		F	2771
+Warrnambool	2006		M	2639
+Warrnambool	2006	0	F	8282
+Warrnambool	2006	0	M	7666
+Warrnambool	2006	1	F	12474
+Warrnambool	2006	1	M	12015
+Warrnambool	2011		F	2704
+Warrnambool	2011		M	2840
+Warrnambool	2011	0	F	8422
+Warrnambool	2011	0	M	7597
+Warrnambool	2011	1	F	13458
+Warrnambool	2011	1	M	12954
+Warrnambool	2016		F	3433
+Warrnambool	2016		M	3386
+Warrnambool	2016	0	F	8702
+Warrnambool	2016	0	M	7973
+Warrnambool	2016	1	F	13585
+Warrnambool	2016	1	M	13027
+Migratory - Offshore - Shipping (Vic.)	2006		F	3
+Migratory - Offshore - Shipping (Vic.)	2006		M	10
+Migratory - Offshore - Shipping (Vic.)	2006	0	F	0
+Migratory - Offshore - Shipping (Vic.)	2006	0	M	16
+Migratory - Offshore - Shipping (Vic.)	2006	1	F	0
+Migratory - Offshore - Shipping (Vic.)	2006	1	M	23
+Migratory - Offshore - Shipping (Vic.)	2011		F	0
+Migratory - Offshore - Shipping (Vic.)	2011		M	3
+Migratory - Offshore - Shipping (Vic.)	2011	0	F	0
+Migratory - Offshore - Shipping (Vic.)	2011	0	M	16
+Migratory - Offshore - Shipping (Vic.)	2011	1	F	0
+Migratory - Offshore - Shipping (Vic.)	2011	1	M	17
+Migratory - Offshore - Shipping (Vic.)	2016		F	4
+Migratory - Offshore - Shipping (Vic.)	2016		M	0
+Migratory - Offshore - Shipping (Vic.)	2016	0	F	0
+Migratory - Offshore - Shipping (Vic.)	2016	0	M	16
+Migratory - Offshore - Shipping (Vic.)	2016	1	F	0
+Migratory - Offshore - Shipping (Vic.)	2016	1	M	12
+No usual address (Vic.)	2006		F	493
+No usual address (Vic.)	2006		M	694
+No usual address (Vic.)	2006	0	F	2031
+No usual address (Vic.)	2006	0	M	2422
+No usual address (Vic.)	2006	1	F	274
+No usual address (Vic.)	2006	1	M	482
+No usual address (Vic.)	2011		F	868
+No usual address (Vic.)	2011		M	1447
+No usual address (Vic.)	2011	0	F	2461
+No usual address (Vic.)	2011	0	M	2728
+No usual address (Vic.)	2011	1	F	307
+No usual address (Vic.)	2011	1	M	497
+No usual address (Vic.)	2016		F	935
+No usual address (Vic.)	2016		M	1564
+No usual address (Vic.)	2016	0	F	1988
+No usual address (Vic.)	2016	0	M	2233
+No usual address (Vic.)	2016	1	F	315
+No usual address (Vic.)	2016	1	M	534
+Capalaba	2006		F	3639
+Capalaba	2006		M	3902
+Capalaba	2006	0	F	13894
+Capalaba	2006	0	M	13118
+Capalaba	2006	1	F	17150
+Capalaba	2006	1	M	16643
+Capalaba	2011		F	3397
+Capalaba	2011		M	3685
+Capalaba	2011	0	F	12699
+Capalaba	2011	0	M	11967
+Capalaba	2011	1	F	19355
+Capalaba	2011	1	M	18842
+Capalaba	2016		F	3549
+Capalaba	2016		M	3722
+Capalaba	2016	0	F	12765
+Capalaba	2016	0	M	12028
+Capalaba	2016	1	F	19931
+Capalaba	2016	1	M	19578
+Cleveland - Stradbroke	2006		F	3494
+Cleveland - Stradbroke	2006		M	3651
+Cleveland - Stradbroke	2006	0	F	16215
+Cleveland - Stradbroke	2006	0	M	15048
+Cleveland - Stradbroke	2006	1	F	14080
+Cleveland - Stradbroke	2006	1	M	13418
+Cleveland - Stradbroke	2011		F	3748
+Cleveland - Stradbroke	2011		M	3974
+Cleveland - Stradbroke	2011	0	F	17508
+Cleveland - Stradbroke	2011	0	M	16195
+Cleveland - Stradbroke	2011	1	F	17856
+Cleveland - Stradbroke	2011	1	M	16879
+Cleveland - Stradbroke	2016		F	4282
+Cleveland - Stradbroke	2016		M	4388
+Cleveland - Stradbroke	2016	0	F	18017
+Cleveland - Stradbroke	2016	0	M	16817
+Cleveland - Stradbroke	2016	1	F	20144
+Cleveland - Stradbroke	2016	1	M	19168
+Wynnum - Manly	2006		F	3550
+Wynnum - Manly	2006		M	3733
+Wynnum - Manly	2006	0	F	12892
+Wynnum - Manly	2006	0	M	11862
+Wynnum - Manly	2006	1	F	13200
+Wynnum - Manly	2006	1	M	12314
+Wynnum - Manly	2011		F	3793
+Wynnum - Manly	2011		M	4175
+Wynnum - Manly	2011	0	F	14140
+Wynnum - Manly	2011	0	M	13234
+Wynnum - Manly	2011	1	F	15282
+Wynnum - Manly	2011	1	M	14403
+Wynnum - Manly	2016		F	4007
+Wynnum - Manly	2016		M	4165
+Wynnum - Manly	2016	0	F	14377
+Wynnum - Manly	2016	0	M	13558
+Wynnum - Manly	2016	1	F	16800
+Wynnum - Manly	2016	1	M	15797
+Bald Hills - Everton Park	2006		F	1700
+Bald Hills - Everton Park	2006		M	1679
+Bald Hills - Everton Park	2006	0	F	6758
+Bald Hills - Everton Park	2006	0	M	6217
+Bald Hills - Everton Park	2006	1	F	9414
+Bald Hills - Everton Park	2006	1	M	8741
+Bald Hills - Everton Park	2011		F	1780
+Bald Hills - Everton Park	2011		M	1919
+Bald Hills - Everton Park	2011	0	F	7100
+Bald Hills - Everton Park	2011	0	M	6599
+Bald Hills - Everton Park	2011	1	F	10601
+Bald Hills - Everton Park	2011	1	M	9767
+Bald Hills - Everton Park	2016		F	2071
+Bald Hills - Everton Park	2016		M	2069
+Bald Hills - Everton Park	2016	0	F	7996
+Bald Hills - Everton Park	2016	0	M	7355
+Bald Hills - Everton Park	2016	1	F	11086
+Bald Hills - Everton Park	2016	1	M	10218
+Chermside	2006		F	3637
+Chermside	2006		M	3666
+Chermside	2006	0	F	12063
+Chermside	2006	0	M	10925
+Chermside	2006	1	F	16313
+Chermside	2006	1	M	14429
+Chermside	2011		F	3823
+Chermside	2011		M	4014
+Chermside	2011	0	F	13222
+Chermside	2011	0	M	12188
+Chermside	2011	1	F	17136
+Chermside	2011	1	M	15508
+Chermside	2016		F	4130
+Chermside	2016		M	4037
+Chermside	2016	0	F	14459
+Chermside	2016	0	M	13502
+Chermside	2016	1	F	17212
+Chermside	2016	1	M	15735
+Nundah	2006		F	1802
+Nundah	2006		M	1835
+Nundah	2006	0	F	6122
+Nundah	2006	0	M	6021
+Nundah	2006	1	F	7433
+Nundah	2006	1	M	6972
+Nundah	2011		F	1876
+Nundah	2011		M	2161
+Nundah	2011	0	F	7474
+Nundah	2011	0	M	7514
+Nundah	2011	1	F	7865
+Nundah	2011	1	M	7678
+Nundah	2016		F	2431
+Nundah	2016		M	2393
+Nundah	2016	0	F	8723
+Nundah	2016	0	M	8748
+Nundah	2016	1	F	8282
+Nundah	2016	1	M	8094
+Sandgate	2006		F	3340
+Sandgate	2006		M	3242
+Sandgate	2006	0	F	9794
+Sandgate	2006	0	M	8848
+Sandgate	2006	1	F	12124
+Sandgate	2006	1	M	11336
+Sandgate	2011		F	3199
+Sandgate	2011		M	3282
+Sandgate	2011	0	F	10560
+Sandgate	2011	0	M	9902
+Sandgate	2011	1	F	13499
+Sandgate	2011	1	M	12385
+Sandgate	2016		F	3372
+Sandgate	2016		M	3457
+Sandgate	2016	0	F	12209
+Sandgate	2016	0	M	11421
+Sandgate	2016	1	F	14298
+Sandgate	2016	1	M	13229
+Carindale	2006		F	2206
+Carindale	2006		M	2472
+Carindale	2006	0	F	8884
+Carindale	2006	0	M	8087
+Carindale	2006	1	F	11679
+Carindale	2006	1	M	10669
+Carindale	2011		F	2363
+Carindale	2011		M	2509
+Carindale	2011	0	F	9317
+Carindale	2011	0	M	8662
+Carindale	2011	1	F	12606
+Carindale	2011	1	M	11555
+Carindale	2016		F	2793
+Carindale	2016		M	2807
+Carindale	2016	0	F	10302
+Carindale	2016	0	M	9452
+Carindale	2016	1	F	12918
+Carindale	2016	1	M	11909
+Holland Park - Yeronga	2006		F	3541
+Holland Park - Yeronga	2006		M	4069
+Holland Park - Yeronga	2006	0	F	14178
+Holland Park - Yeronga	2006	0	M	13428
+Holland Park - Yeronga	2006	1	F	12959
+Holland Park - Yeronga	2006	1	M	11920
+Holland Park - Yeronga	2011		F	3611
+Holland Park - Yeronga	2011		M	4074
+Holland Park - Yeronga	2011	0	F	15274
+Holland Park - Yeronga	2011	0	M	15155
+Holland Park - Yeronga	2011	1	F	13983
+Holland Park - Yeronga	2011	1	M	13088
+Holland Park - Yeronga	2016		F	4174
+Holland Park - Yeronga	2016		M	4363
+Holland Park - Yeronga	2016	0	F	17367
+Holland Park - Yeronga	2016	0	M	16917
+Holland Park - Yeronga	2016	1	F	14388
+Holland Park - Yeronga	2016	1	M	13768
+Mt Gravatt	2006		F	3364
+Mt Gravatt	2006		M	3478
+Mt Gravatt	2006	0	F	12439
+Mt Gravatt	2006	0	M	11801
+Mt Gravatt	2006	1	F	15708
+Mt Gravatt	2006	1	M	14461
+Mt Gravatt	2011		F	3255
+Mt Gravatt	2011		M	3622
+Mt Gravatt	2011	0	F	13054
+Mt Gravatt	2011	0	M	12507
+Mt Gravatt	2011	1	F	17322
+Mt Gravatt	2011	1	M	15902
+Mt Gravatt	2016		F	3795
+Mt Gravatt	2016		M	3692
+Mt Gravatt	2016	0	F	15754
+Mt Gravatt	2016	0	M	14896
+Mt Gravatt	2016	1	F	17153
+Mt Gravatt	2016	1	M	15912
+Nathan	2006		F	2091
+Nathan	2006		M	2390
+Nathan	2006	0	F	6532
+Nathan	2006	0	M	6479
+Nathan	2006	1	F	8767
+Nathan	2006	1	M	8122
+Nathan	2011		F	2095
+Nathan	2011		M	2537
+Nathan	2011	0	F	6933
+Nathan	2011	0	M	7024
+Nathan	2011	1	F	9323
+Nathan	2011	1	M	8606
+Nathan	2016		F	2324
+Nathan	2016		M	2434
+Nathan	2016	0	F	7883
+Nathan	2016	0	M	8204
+Nathan	2016	1	F	9311
+Nathan	2016	1	M	8711
+Rocklea - Acacia Ridge	2006		F	2720
+Rocklea - Acacia Ridge	2006		M	3042
+Rocklea - Acacia Ridge	2006	0	F	10672
+Rocklea - Acacia Ridge	2006	0	M	10162
+Rocklea - Acacia Ridge	2006	1	F	9116
+Rocklea - Acacia Ridge	2006	1	M	8993
+Rocklea - Acacia Ridge	2011		F	3252
+Rocklea - Acacia Ridge	2011		M	3374
+Rocklea - Acacia Ridge	2011	0	F	11847
+Rocklea - Acacia Ridge	2011	0	M	11402
+Rocklea - Acacia Ridge	2011	1	F	12024
+Rocklea - Acacia Ridge	2011	1	M	11741
+Rocklea - Acacia Ridge	2016		F	3555
+Rocklea - Acacia Ridge	2016		M	3878
+Rocklea - Acacia Ridge	2016	0	F	12464
+Rocklea - Acacia Ridge	2016	0	M	12046
+Rocklea - Acacia Ridge	2016	1	F	14031
+Rocklea - Acacia Ridge	2016	1	M	13562
+Sunnybank	2006		F	2411
+Sunnybank	2006		M	2618
+Sunnybank	2006	0	F	9635
+Sunnybank	2006	0	M	9140
+Sunnybank	2006	1	F	9857
+Sunnybank	2006	1	M	9513
+Sunnybank	2011		F	2451
+Sunnybank	2011		M	2528
+Sunnybank	2011	0	F	9348
+Sunnybank	2011	0	M	9432
+Sunnybank	2011	1	F	11459
+Sunnybank	2011	1	M	10852
+Sunnybank	2016		F	2839
+Sunnybank	2016		M	2790
+Sunnybank	2016	0	F	10505
+Sunnybank	2016	0	M	10938
+Sunnybank	2016	1	F	11646
+Sunnybank	2016	1	M	11085
+Centenary	2006		F	1858
+Centenary	2006		M	1822
+Centenary	2006	0	F	6915
+Centenary	2006	0	M	6333
+Centenary	2006	1	F	7653
+Centenary	2006	1	M	7223
+Centenary	2011		F	1495
+Centenary	2011		M	1627
+Centenary	2011	0	F	5824
+Centenary	2011	0	M	5479
+Centenary	2011	1	F	9090
+Centenary	2011	1	M	8546
+Centenary	2016		F	1511
+Centenary	2016		M	1587
+Centenary	2016	0	F	5543
+Centenary	2016	0	M	5406
+Centenary	2016	1	F	9580
+Centenary	2016	1	M	8905
+Kenmore - Brookfield - Moggill	2006		F	1804
+Kenmore - Brookfield - Moggill	2006		M	1874
+Kenmore - Brookfield - Moggill	2006	0	F	8616
+Kenmore - Brookfield - Moggill	2006	0	M	8250
+Kenmore - Brookfield - Moggill	2006	1	F	10292
+Kenmore - Brookfield - Moggill	2006	1	M	9567
+Kenmore - Brookfield - Moggill	2011		F	1981
+Kenmore - Brookfield - Moggill	2011		M	1939
+Kenmore - Brookfield - Moggill	2011	0	F	8168
+Kenmore - Brookfield - Moggill	2011	0	M	7804
+Kenmore - Brookfield - Moggill	2011	1	F	12162
+Kenmore - Brookfield - Moggill	2011	1	M	11570
+Kenmore - Brookfield - Moggill	2016		F	2005
+Kenmore - Brookfield - Moggill	2016		M	2034
+Kenmore - Brookfield - Moggill	2016	0	F	8384
+Kenmore - Brookfield - Moggill	2016	0	M	7951
+Kenmore - Brookfield - Moggill	2016	1	F	12736
+Kenmore - Brookfield - Moggill	2016	1	M	12259
+Sherwood - Indooroopilly	2006		F	2248
+Sherwood - Indooroopilly	2006		M	2482
+Sherwood - Indooroopilly	2006	0	F	12215
+Sherwood - Indooroopilly	2006	0	M	11474
+Sherwood - Indooroopilly	2006	1	F	8672
+Sherwood - Indooroopilly	2006	1	M	7619
+Sherwood - Indooroopilly	2011		F	2338
+Sherwood - Indooroopilly	2011		M	2477
+Sherwood - Indooroopilly	2011	0	F	12649
+Sherwood - Indooroopilly	2011	0	M	12251
+Sherwood - Indooroopilly	2011	1	F	9176
+Sherwood - Indooroopilly	2011	1	M	8405
+Sherwood - Indooroopilly	2016		F	2533
+Sherwood - Indooroopilly	2016		M	2458
+Sherwood - Indooroopilly	2016	0	F	14392
+Sherwood - Indooroopilly	2016	0	M	13598
+Sherwood - Indooroopilly	2016	1	F	9376
+Sherwood - Indooroopilly	2016	1	M	8720
+The Gap - Enoggera	2006		F	2597
+The Gap - Enoggera	2006		M	2761
+The Gap - Enoggera	2006	0	F	8969
+The Gap - Enoggera	2006	0	M	8410
+The Gap - Enoggera	2006	1	F	11253
+The Gap - Enoggera	2006	1	M	10311
+The Gap - Enoggera	2011		F	2276
+The Gap - Enoggera	2011		M	2618
+The Gap - Enoggera	2011	0	F	9054
+The Gap - Enoggera	2011	0	M	9016
+The Gap - Enoggera	2011	1	F	12731
+The Gap - Enoggera	2011	1	M	11674
+The Gap - Enoggera	2016		F	2767
+The Gap - Enoggera	2016		M	2747
+The Gap - Enoggera	2016	0	F	9789
+The Gap - Enoggera	2016	0	M	9684
+The Gap - Enoggera	2016	1	F	13013
+The Gap - Enoggera	2016	1	M	12010
+Brisbane Inner	2006		F	4474
+Brisbane Inner	2006		M	6024
+Brisbane Inner	2006	0	F	14390
+Brisbane Inner	2006	0	M	14926
+Brisbane Inner	2006	1	F	5916
+Brisbane Inner	2006	1	M	5814
+Brisbane Inner	2011		F	3725
+Brisbane Inner	2011		M	5063
+Brisbane Inner	2011	0	F	16563
+Brisbane Inner	2011	0	M	17620
+Brisbane Inner	2011	1	F	7223
+Brisbane Inner	2011	1	M	7391
+Brisbane Inner	2016		F	4521
+Brisbane Inner	2016		M	5049
+Brisbane Inner	2016	0	F	20355
+Brisbane Inner	2016	0	M	21317
+Brisbane Inner	2016	1	F	8090
+Brisbane Inner	2016	1	M	8250
+Brisbane Inner - East	2006		F	2269
+Brisbane Inner - East	2006		M	2613
+Brisbane Inner - East	2006	0	F	8544
+Brisbane Inner - East	2006	0	M	8154
+Brisbane Inner - East	2006	1	F	6245
+Brisbane Inner - East	2006	1	M	5876
+Brisbane Inner - East	2011		F	2159
+Brisbane Inner - East	2011		M	2606
+Brisbane Inner - East	2011	0	F	9281
+Brisbane Inner - East	2011	0	M	9135
+Brisbane Inner - East	2011	1	F	7299
+Brisbane Inner - East	2011	1	M	7095
+Brisbane Inner - East	2016		F	2629
+Brisbane Inner - East	2016		M	2639
+Brisbane Inner - East	2016	0	F	10377
+Brisbane Inner - East	2016	0	M	10011
+Brisbane Inner - East	2016	1	F	7610
+Brisbane Inner - East	2016	1	M	7330
+Brisbane Inner - North	2006		F	4683
+Brisbane Inner - North	2006		M	5177
+Brisbane Inner - North	2006	0	F	17612
+Brisbane Inner - North	2006	0	M	16087
+Brisbane Inner - North	2006	1	F	13358
+Brisbane Inner - North	2006	1	M	12261
+Brisbane Inner - North	2011		F	3791
+Brisbane Inner - North	2011		M	4424
+Brisbane Inner - North	2011	0	F	18996
+Brisbane Inner - North	2011	0	M	18073
+Brisbane Inner - North	2011	1	F	15415
+Brisbane Inner - North	2011	1	M	14579
+Brisbane Inner - North	2016		F	5362
+Brisbane Inner - North	2016		M	5523
+Brisbane Inner - North	2016	0	F	22705
+Brisbane Inner - North	2016	0	M	22037
+Brisbane Inner - North	2016	1	F	15634
+Brisbane Inner - North	2016	1	M	14903
+Brisbane Inner - West	2006		F	3121
+Brisbane Inner - West	2006		M	3511
+Brisbane Inner - West	2006	0	F	12957
+Brisbane Inner - West	2006	0	M	12140
+Brisbane Inner - West	2006	1	F	9894
+Brisbane Inner - West	2006	1	M	8971
+Brisbane Inner - West	2011		F	2708
+Brisbane Inner - West	2011		M	3024
+Brisbane Inner - West	2011	0	F	13349
+Brisbane Inner - West	2011	0	M	12722
+Brisbane Inner - West	2011	1	F	11264
+Brisbane Inner - West	2011	1	M	10475
+Brisbane Inner - West	2016		F	3037
+Brisbane Inner - West	2016		M	3333
+Brisbane Inner - West	2016	0	F	13874
+Brisbane Inner - West	2016	0	M	13286
+Brisbane Inner - West	2016	1	F	11436
+Brisbane Inner - West	2016	1	M	10901
+Cairns - North	2006		F	2783
+Cairns - North	2006		M	2976
+Cairns - North	2006	0	F	9967
+Cairns - North	2006	0	M	9388
+Cairns - North	2006	1	F	7177
+Cairns - North	2006	1	M	7189
+Cairns - North	2011		F	2865
+Cairns - North	2011		M	3142
+Cairns - North	2011	0	F	11806
+Cairns - North	2011	0	M	10715
+Cairns - North	2011	1	F	9387
+Cairns - North	2011	1	M	9304
+Cairns - North	2016		F	3506
+Cairns - North	2016		M	3810
+Cairns - North	2016	0	F	12323
+Cairns - North	2016	0	M	11206
+Cairns - North	2016	1	F	10923
+Cairns - North	2016	1	M	10888
+Cairns - South	2006		F	7228
+Cairns - South	2006		M	8015
+Cairns - South	2006	0	F	19640
+Cairns - South	2006	0	M	18854
+Cairns - South	2006	1	F	15268
+Cairns - South	2006	1	M	15400
+Cairns - South	2011		F	7599
+Cairns - South	2011		M	8388
+Cairns - South	2011	0	F	21352
+Cairns - South	2011	0	M	19781
+Cairns - South	2011	1	F	18699
+Cairns - South	2011	1	M	18916
+Cairns - South	2016		F	8532
+Cairns - South	2016		M	8774
+Cairns - South	2016	0	F	21335
+Cairns - South	2016	0	M	19871
+Cairns - South	2016	1	F	21235
+Cairns - South	2016	1	M	21044
+Innisfail - Cassowary Coast	2006		F	2164
+Innisfail - Cassowary Coast	2006		M	2528
+Innisfail - Cassowary Coast	2006	0	F	5795
+Innisfail - Cassowary Coast	2006	0	M	5830
+Innisfail - Cassowary Coast	2006	1	F	8460
+Innisfail - Cassowary Coast	2006	1	M	8924
+Innisfail - Cassowary Coast	2011		F	1884
+Innisfail - Cassowary Coast	2011		M	2198
+Innisfail - Cassowary Coast	2011	0	F	5156
+Innisfail - Cassowary Coast	2011	0	M	5296
+Innisfail - Cassowary Coast	2011	1	F	9194
+Innisfail - Cassowary Coast	2011	1	M	9737
+Innisfail - Cassowary Coast	2016		F	2530
+Innisfail - Cassowary Coast	2016		M	2817
+Innisfail - Cassowary Coast	2016	0	F	5149
+Innisfail - Cassowary Coast	2016	0	M	5118
+Innisfail - Cassowary Coast	2016	1	F	9209
+Innisfail - Cassowary Coast	2016	1	M	9911
+Port Douglas - Daintree	2006		F	707
+Port Douglas - Daintree	2006		M	886
+Port Douglas - Daintree	2006	0	F	2310
+Port Douglas - Daintree	2006	0	M	2334
+Port Douglas - Daintree	2006	1	F	1853
+Port Douglas - Daintree	2006	1	M	2064
+Port Douglas - Daintree	2011		F	764
+Port Douglas - Daintree	2011		M	982
+Port Douglas - Daintree	2011	0	F	2186
+Port Douglas - Daintree	2011	0	M	2118
+Port Douglas - Daintree	2011	1	F	2306
+Port Douglas - Daintree	2011	1	M	2432
+Port Douglas - Daintree	2016		F	1099
+Port Douglas - Daintree	2016		M	1091
+Port Douglas - Daintree	2016	0	F	2337
+Port Douglas - Daintree	2016	0	M	2286
+Port Douglas - Daintree	2016	1	F	2276
+Port Douglas - Daintree	2016	1	M	2517
+Tablelands (East) - Kuranda	2006		F	2336
+Tablelands (East) - Kuranda	2006		M	2608
+Tablelands (East) - Kuranda	2006	0	F	7130
+Tablelands (East) - Kuranda	2006	0	M	6645
+Tablelands (East) - Kuranda	2006	1	F	8387
+Tablelands (East) - Kuranda	2006	1	M	8265
+Tablelands (East) - Kuranda	2011		F	2334
+Tablelands (East) - Kuranda	2011		M	2638
+Tablelands (East) - Kuranda	2011	0	F	7222
+Tablelands (East) - Kuranda	2011	0	M	6425
+Tablelands (East) - Kuranda	2011	1	F	9810
+Tablelands (East) - Kuranda	2011	1	M	9804
+Tablelands (East) - Kuranda	2016		F	3036
+Tablelands (East) - Kuranda	2016		M	3069
+Tablelands (East) - Kuranda	2016	0	F	6933
+Tablelands (East) - Kuranda	2016	0	M	6492
+Tablelands (East) - Kuranda	2016	1	F	10498
+Tablelands (East) - Kuranda	2016	1	M	10366
+Darling Downs (West) - Maranoa	2006		F	2669
+Darling Downs (West) - Maranoa	2006		M	2945
+Darling Downs (West) - Maranoa	2006	0	F	8088
+Darling Downs (West) - Maranoa	2006	0	M	8029
+Darling Downs (West) - Maranoa	2006	1	F	8986
+Darling Downs (West) - Maranoa	2006	1	M	9717
+Darling Downs (West) - Maranoa	2011		F	3057
+Darling Downs (West) - Maranoa	2011		M	3618
+Darling Downs (West) - Maranoa	2011	0	F	7993
+Darling Downs (West) - Maranoa	2011	0	M	7962
+Darling Downs (West) - Maranoa	2011	1	F	10036
+Darling Downs (West) - Maranoa	2011	1	M	10747
+Darling Downs (West) - Maranoa	2016		F	3916
+Darling Downs (West) - Maranoa	2016		M	4443
+Darling Downs (West) - Maranoa	2016	0	F	7689
+Darling Downs (West) - Maranoa	2016	0	M	7530
+Darling Downs (West) - Maranoa	2016	1	F	9829
+Darling Downs (West) - Maranoa	2016	1	M	10654
+Darling Downs - East	2006		F	2417
+Darling Downs - East	2006		M	2564
+Darling Downs - East	2006	0	F	7556
+Darling Downs - East	2006	0	M	7347
+Darling Downs - East	2006	1	F	8917
+Darling Downs - East	2006	1	M	9445
+Darling Downs - East	2011		F	2779
+Darling Downs - East	2011		M	3053
+Darling Downs - East	2011	0	F	7248
+Darling Downs - East	2011	0	M	7073
+Darling Downs - East	2011	1	F	9866
+Darling Downs - East	2011	1	M	10346
+Darling Downs - East	2016		F	3074
+Darling Downs - East	2016		M	3250
+Darling Downs - East	2016	0	F	7328
+Darling Downs - East	2016	0	M	7154
+Darling Downs - East	2016	1	F	10445
+Darling Downs - East	2016	1	M	10871
+Granite Belt	2006		F	2011
+Granite Belt	2006		M	2157
+Granite Belt	2006	0	F	7429
+Granite Belt	2006	0	M	7015
+Granite Belt	2006	1	F	8857
+Granite Belt	2006	1	M	8716
+Granite Belt	2011		F	2026
+Granite Belt	2011		M	2173
+Granite Belt	2011	0	F	7513
+Granite Belt	2011	0	M	6801
+Granite Belt	2011	1	F	10077
+Granite Belt	2011	1	M	9910
+Granite Belt	2016		F	2541
+Granite Belt	2016		M	2604
+Granite Belt	2016	0	F	6890
+Granite Belt	2016	0	M	6467
+Granite Belt	2016	1	F	10862
+Granite Belt	2016	1	M	10734
+Central Highlands (Qld)	2006		F	1920
+Central Highlands (Qld)	2006		M	2478
+Central Highlands (Qld)	2006	0	F	6289
+Central Highlands (Qld)	2006	0	M	6916
+Central Highlands (Qld)	2006	1	F	4455
+Central Highlands (Qld)	2006	1	M	5267
+Central Highlands (Qld)	2011		F	2256
+Central Highlands (Qld)	2011		M	3022
+Central Highlands (Qld)	2011	0	F	6314
+Central Highlands (Qld)	2011	0	M	6855
+Central Highlands (Qld)	2011	1	F	5253
+Central Highlands (Qld)	2011	1	M	5962
+Central Highlands (Qld)	2016		F	2770
+Central Highlands (Qld)	2016		M	3315
+Central Highlands (Qld)	2016	0	F	5462
+Central Highlands (Qld)	2016	0	M	5546
+Central Highlands (Qld)	2016	1	F	5502
+Central Highlands (Qld)	2016	1	M	6364
+Rockhampton	2006		F	6517
+Rockhampton	2006		M	7960
+Rockhampton	2006	0	F	22107
+Rockhampton	2006	0	M	21164
+Rockhampton	2006	1	F	21915
+Rockhampton	2006	1	M	21511
+Rockhampton	2011		F	7220
+Rockhampton	2011		M	8776
+Rockhampton	2011	0	F	21878
+Rockhampton	2011	0	M	20847
+Rockhampton	2011	1	F	25488
+Rockhampton	2011	1	M	25127
+Rockhampton	2016		F	7994
+Rockhampton	2016		M	9424
+Rockhampton	2016	0	F	22949
+Rockhampton	2016	0	M	21271
+Rockhampton	2016	1	F	27027
+Rockhampton	2016	1	M	27330
+Biloela	2006		F	896
+Biloela	2006		M	1089
+Biloela	2006	0	F	2748
+Biloela	2006	0	M	2888
+Biloela	2006	1	F	3405
+Biloela	2006	1	M	3626
+Biloela	2011		F	903
+Biloela	2011		M	1032
+Biloela	2011	0	F	2655
+Biloela	2011	0	M	2657
+Biloela	2011	1	F	3420
+Biloela	2011	1	M	3792
+Biloela	2016		F	1062
+Biloela	2016		M	1162
+Biloela	2016	0	F	2336
+Biloela	2016	0	M	2345
+Biloela	2016	1	F	3530
+Biloela	2016	1	M	3881
+Gladstone	2006		F	3303
+Gladstone	2006		M	3804
+Gladstone	2006	0	F	11533
+Gladstone	2006	0	M	11838
+Gladstone	2006	1	F	9802
+Gladstone	2006	1	M	10478
+Gladstone	2011		F	4110
+Gladstone	2011		M	4807
+Gladstone	2011	0	F	11829
+Gladstone	2011	0	M	12348
+Gladstone	2011	1	F	11855
+Gladstone	2011	1	M	12940
+Gladstone	2016		F	4517
+Gladstone	2016		M	4809
+Gladstone	2016	0	F	12875
+Gladstone	2016	0	M	13017
+Gladstone	2016	1	F	12597
+Gladstone	2016	1	M	13821
+Broadbeach - Burleigh	2006		F	4056
+Broadbeach - Burleigh	2006		M	4913
+Broadbeach - Burleigh	2006	0	F	12337
+Broadbeach - Burleigh	2006	0	M	11660
+Broadbeach - Burleigh	2006	1	F	11565
+Broadbeach - Burleigh	2006	1	M	10544
+Broadbeach - Burleigh	2011		F	3992
+Broadbeach - Burleigh	2011		M	4221
+Broadbeach - Burleigh	2011	0	F	12827
+Broadbeach - Burleigh	2011	0	M	12036
+Broadbeach - Burleigh	2011	1	F	12935
+Broadbeach - Burleigh	2011	1	M	11911
+Broadbeach - Burleigh	2016		F	4167
+Broadbeach - Burleigh	2016		M	4042
+Broadbeach - Burleigh	2016	0	F	14185
+Broadbeach - Burleigh	2016	0	M	13134
+Broadbeach - Burleigh	2016	1	F	13486
+Broadbeach - Burleigh	2016	1	M	12624
+Coolangatta	2006		F	3062
+Coolangatta	2006		M	3479
+Coolangatta	2006	0	F	10656
+Coolangatta	2006	0	M	10184
+Coolangatta	2006	1	F	10842
+Coolangatta	2006	1	M	10362
+Coolangatta	2011		F	2953
+Coolangatta	2011		M	3105
+Coolangatta	2011	0	F	10387
+Coolangatta	2011	0	M	9686
+Coolangatta	2011	1	F	12285
+Coolangatta	2011	1	M	11681
+Coolangatta	2016		F	3460
+Coolangatta	2016		M	3487
+Coolangatta	2016	0	F	11499
+Coolangatta	2016	0	M	10458
+Coolangatta	2016	1	F	12356
+Coolangatta	2016	1	M	11928
+Gold Coast - North	2006		F	3636
+Gold Coast - North	2006		M	3882
+Gold Coast - North	2006	0	F	14735
+Gold Coast - North	2006	0	M	13477
+Gold Coast - North	2006	1	F	10359
+Gold Coast - North	2006	1	M	9437
+Gold Coast - North	2011		F	3792
+Gold Coast - North	2011		M	3941
+Gold Coast - North	2011	0	F	14381
+Gold Coast - North	2011	0	M	12959
+Gold Coast - North	2011	1	F	12862
+Gold Coast - North	2011	1	M	11667
+Gold Coast - North	2016		F	4577
+Gold Coast - North	2016		M	4362
+Gold Coast - North	2016	0	F	16267
+Gold Coast - North	2016	0	M	14555
+Gold Coast - North	2016	1	F	13740
+Gold Coast - North	2016	1	M	12398
+Gold Coast Hinterland	2006		F	860
+Gold Coast Hinterland	2006		M	986
+Gold Coast Hinterland	2006	0	F	3832
+Gold Coast Hinterland	2006	0	M	3589
+Gold Coast Hinterland	2006	1	F	3409
+Gold Coast Hinterland	2006	1	M	3517
+Gold Coast Hinterland	2011		F	813
+Gold Coast Hinterland	2011		M	960
+Gold Coast Hinterland	2011	0	F	3241
+Gold Coast Hinterland	2011	0	M	3014
+Gold Coast Hinterland	2011	1	F	4610
+Gold Coast Hinterland	2011	1	M	4495
+Gold Coast Hinterland	2016		F	1307
+Gold Coast Hinterland	2016		M	1273
+Gold Coast Hinterland	2016	0	F	3298
+Gold Coast Hinterland	2016	0	M	3139
+Gold Coast Hinterland	2016	1	F	4800
+Gold Coast Hinterland	2016	1	M	4688
+Mudgeeraba - Tallebudgera	2006		F	1772
+Mudgeeraba - Tallebudgera	2006		M	1801
+Mudgeeraba - Tallebudgera	2006	0	F	6631
+Mudgeeraba - Tallebudgera	2006	0	M	6173
+Mudgeeraba - Tallebudgera	2006	1	F	5242
+Mudgeeraba - Tallebudgera	2006	1	M	5279
+Mudgeeraba - Tallebudgera	2011		F	1733
+Mudgeeraba - Tallebudgera	2011		M	1817
+Mudgeeraba - Tallebudgera	2011	0	F	7040
+Mudgeeraba - Tallebudgera	2011	0	M	6394
+Mudgeeraba - Tallebudgera	2011	1	F	7143
+Mudgeeraba - Tallebudgera	2011	1	M	6951
+Mudgeeraba - Tallebudgera	2016		F	1963
+Mudgeeraba - Tallebudgera	2016		M	2000
+Mudgeeraba - Tallebudgera	2016	0	F	6971
+Mudgeeraba - Tallebudgera	2016	0	M	6346
+Mudgeeraba - Tallebudgera	2016	1	F	8174
+Mudgeeraba - Tallebudgera	2016	1	M	7930
+Nerang	2006		F	3530
+Nerang	2006		M	3571
+Nerang	2006	0	F	14289
+Nerang	2006	0	M	13342
+Nerang	2006	1	F	10171
+Nerang	2006	1	M	10026
+Nerang	2011		F	3969
+Nerang	2011		M	4015
+Nerang	2011	0	F	14045
+Nerang	2011	0	M	13034
+Nerang	2011	1	F	14020
+Nerang	2011	1	M	13588
+Nerang	2016		F	4363
+Nerang	2016		M	4349
+Nerang	2016	0	F	14374
+Nerang	2016	0	M	13135
+Nerang	2016	1	F	15686
+Nerang	2016	1	M	15386
+Ormeau - Oxenford	2006		F	4483
+Ormeau - Oxenford	2006		M	4661
+Ormeau - Oxenford	2006	0	F	18835
+Ormeau - Oxenford	2006	0	M	18368
+Ormeau - Oxenford	2006	1	F	9570
+Ormeau - Oxenford	2006	1	M	9415
+Ormeau - Oxenford	2011		F	6084
+Ormeau - Oxenford	2011		M	6724
+Ormeau - Oxenford	2011	0	F	25408
+Ormeau - Oxenford	2011	0	M	23858
+Ormeau - Oxenford	2011	1	F	16001
+Ormeau - Oxenford	2011	1	M	15984
+Ormeau - Oxenford	2016		F	8906
+Ormeau - Oxenford	2016		M	9049
+Ormeau - Oxenford	2016	0	F	31023
+Ormeau - Oxenford	2016	0	M	29025
+Ormeau - Oxenford	2016	1	F	21545
+Ormeau - Oxenford	2016	1	M	21337
+Robina	2006		F	2697
+Robina	2006		M	2761
+Robina	2006	0	F	12110
+Robina	2006	0	M	10919
+Robina	2006	1	F	6483
+Robina	2006	1	M	5789
+Robina	2011		F	2918
+Robina	2011		M	2832
+Robina	2011	0	F	11464
+Robina	2011	0	M	10314
+Robina	2011	1	F	9316
+Robina	2011	1	M	8349
+Robina	2016		F	3270
+Robina	2016		M	2926
+Robina	2016	0	F	12521
+Robina	2016	0	M	11194
+Robina	2016	1	F	10303
+Robina	2016	1	M	9265
+Southport	2006		F	3277
+Southport	2006		M	3531
+Southport	2006	0	F	12302
+Southport	2006	0	M	11559
+Southport	2006	1	F	9841
+Southport	2006	1	M	9181
+Southport	2011		F	3592
+Southport	2011		M	3739
+Southport	2011	0	F	12586
+Southport	2011	0	M	11904
+Southport	2011	1	F	11816
+Southport	2011	1	M	10913
+Southport	2016		F	3935
+Southport	2016		M	4087
+Southport	2016	0	F	14242
+Southport	2016	0	M	13320
+Southport	2016	1	F	12027
+Southport	2016	1	M	11279
+Surfers Paradise	2006		F	3302
+Surfers Paradise	2006		M	4183
+Surfers Paradise	2006	0	F	7722
+Surfers Paradise	2006	0	M	7902
+Surfers Paradise	2006	1	F	5156
+Surfers Paradise	2006	1	M	4932
+Surfers Paradise	2011		F	2577
+Surfers Paradise	2011		M	2992
+Surfers Paradise	2011	0	F	8283
+Surfers Paradise	2011	0	M	8580
+Surfers Paradise	2011	1	F	6526
+Surfers Paradise	2011	1	M	6367
+Surfers Paradise	2016		F	3322
+Surfers Paradise	2016		M	3506
+Surfers Paradise	2016	0	F	10376
+Surfers Paradise	2016	0	M	10295
+Surfers Paradise	2016	1	F	6699
+Surfers Paradise	2016	1	M	6637
+Forest Lake - Oxley	2006		F	4325
+Forest Lake - Oxley	2006		M	5679
+Forest Lake - Oxley	2006	0	F	12513
+Forest Lake - Oxley	2006	0	M	11631
+Forest Lake - Oxley	2006	1	F	12200
+Forest Lake - Oxley	2006	1	M	11389
+Forest Lake - Oxley	2011		F	4505
+Forest Lake - Oxley	2011		M	6401
+Forest Lake - Oxley	2011	0	F	12279
+Forest Lake - Oxley	2011	0	M	11723
+Forest Lake - Oxley	2011	1	F	14838
+Forest Lake - Oxley	2011	1	M	13833
+Forest Lake - Oxley	2016		F	5735
+Forest Lake - Oxley	2016		M	7885
+Forest Lake - Oxley	2016	0	F	13625
+Forest Lake - Oxley	2016	0	M	12922
+Forest Lake - Oxley	2016	1	F	16515
+Forest Lake - Oxley	2016	1	M	15547
+Ipswich Hinterland	2006		F	2906
+Ipswich Hinterland	2006		M	3642
+Ipswich Hinterland	2006	0	F	9778
+Ipswich Hinterland	2006	0	M	9323
+Ipswich Hinterland	2006	1	F	11864
+Ipswich Hinterland	2006	1	M	12146
+Ipswich Hinterland	2011		F	3321
+Ipswich Hinterland	2011		M	4325
+Ipswich Hinterland	2011	0	F	10477
+Ipswich Hinterland	2011	0	M	10035
+Ipswich Hinterland	2011	1	F	14251
+Ipswich Hinterland	2011	1	M	14540
+Ipswich Hinterland	2016		F	4497
+Ipswich Hinterland	2016		M	5124
+Ipswich Hinterland	2016	0	F	10766
+Ipswich Hinterland	2016	0	M	10171
+Ipswich Hinterland	2016	1	F	15837
+Ipswich Hinterland	2016	1	M	16331
+Ipswich Inner	2006		F	5450
+Ipswich Inner	2006		M	5786
+Ipswich Inner	2006	0	F	17760
+Ipswich Inner	2006	0	M	16795
+Ipswich Inner	2006	1	F	20413
+Ipswich Inner	2006	1	M	19788
+Ipswich Inner	2011		F	6090
+Ipswich Inner	2011		M	6542
+Ipswich Inner	2011	0	F	19362
+Ipswich Inner	2011	0	M	18048
+Ipswich Inner	2011	1	F	22614
+Ipswich Inner	2011	1	M	22253
+Ipswich Inner	2016		F	7278
+Ipswich Inner	2016		M	7570
+Ipswich Inner	2016	0	F	20964
+Ipswich Inner	2016	0	M	19482
+Ipswich Inner	2016	1	F	24724
+Ipswich Inner	2016	1	M	24188
+Springfield - Redbank	2006		F	3688
+Springfield - Redbank	2006		M	4009
+Springfield - Redbank	2006	0	F	11360
+Springfield - Redbank	2006	0	M	10927
+Springfield - Redbank	2006	1	F	9016
+Springfield - Redbank	2006	1	M	9319
+Springfield - Redbank	2011		F	4925
+Springfield - Redbank	2011		M	5195
+Springfield - Redbank	2011	0	F	16370
+Springfield - Redbank	2011	0	M	15677
+Springfield - Redbank	2011	1	F	12009
+Springfield - Redbank	2011	1	M	12184
+Springfield - Redbank	2016		F	6544
+Springfield - Redbank	2016		M	6798
+Springfield - Redbank	2016	0	F	19968
+Springfield - Redbank	2016	0	M	18803
+Springfield - Redbank	2016	1	F	15811
+Springfield - Redbank	2016	1	M	15986
+Beaudesert	2006		F	574
+Beaudesert	2006		M	804
+Beaudesert	2006	0	F	2355
+Beaudesert	2006	0	M	2218
+Beaudesert	2006	1	F	2492
+Beaudesert	2006	1	M	2432
+Beaudesert	2011		F	768
+Beaudesert	2011		M	853
+Beaudesert	2011	0	F	2589
+Beaudesert	2011	0	M	2359
+Beaudesert	2011	1	F	2948
+Beaudesert	2011	1	M	2864
+Beaudesert	2016		F	960
+Beaudesert	2016		M	1128
+Beaudesert	2016	0	F	2890
+Beaudesert	2016	0	M	2575
+Beaudesert	2016	1	F	3234
+Beaudesert	2016	1	M	3122
+Beenleigh	2006		F	2183
+Beenleigh	2006		M	2369
+Beenleigh	2006	0	F	7726
+Beenleigh	2006	0	M	7314
+Beenleigh	2006	1	F	6613
+Beenleigh	2006	1	M	6484
+Beenleigh	2011		F	2750
+Beenleigh	2011		M	2987
+Beenleigh	2011	0	F	8454
+Beenleigh	2011	0	M	7806
+Beenleigh	2011	1	F	7937
+Beenleigh	2011	1	M	7826
+Beenleigh	2016		F	3058
+Beenleigh	2016		M	2936
+Beenleigh	2016	0	F	8775
+Beenleigh	2016	0	M	8100
+Beenleigh	2016	1	F	9160
+Beenleigh	2016	1	M	8899
+Browns Plains	2006		F	4547
+Browns Plains	2006		M	4973
+Browns Plains	2006	0	F	14317
+Browns Plains	2006	0	M	13564
+Browns Plains	2006	1	F	14205
+Browns Plains	2006	1	M	14215
+Browns Plains	2011		F	4904
+Browns Plains	2011		M	5180
+Browns Plains	2011	0	F	14627
+Browns Plains	2011	0	M	13956
+Browns Plains	2011	1	F	17035
+Browns Plains	2011	1	M	17010
+Browns Plains	2016		F	5969
+Browns Plains	2016		M	6002
+Browns Plains	2016	0	F	15470
+Browns Plains	2016	0	M	14446
+Browns Plains	2016	1	F	18984
+Browns Plains	2016	1	M	18945
+Jimboomba	2006		F	2182
+Jimboomba	2006		M	2284
+Jimboomba	2006	0	F	6536
+Jimboomba	2006	0	M	6478
+Jimboomba	2006	1	F	6722
+Jimboomba	2006	1	M	7010
+Jimboomba	2011		F	2043
+Jimboomba	2011		M	2328
+Jimboomba	2011	0	F	6891
+Jimboomba	2011	0	M	6740
+Jimboomba	2011	1	F	9470
+Jimboomba	2011	1	M	9873
+Jimboomba	2016		F	2890
+Jimboomba	2016		M	3062
+Jimboomba	2016	0	F	8685
+Jimboomba	2016	0	M	8284
+Jimboomba	2016	1	F	11111
+Jimboomba	2016	1	M	11559
+Loganlea - Carbrook	2006		F	3072
+Loganlea - Carbrook	2006		M	3329
+Loganlea - Carbrook	2006	0	F	11039
+Loganlea - Carbrook	2006	0	M	10514
+Loganlea - Carbrook	2006	1	F	10735
+Loganlea - Carbrook	2006	1	M	10477
+Loganlea - Carbrook	2011		F	3452
+Loganlea - Carbrook	2011		M	3533
+Loganlea - Carbrook	2011	0	F	11333
+Loganlea - Carbrook	2011	0	M	10522
+Loganlea - Carbrook	2011	1	F	13175
+Loganlea - Carbrook	2011	1	M	12867
+Loganlea - Carbrook	2016		F	4055
+Loganlea - Carbrook	2016		M	4061
+Loganlea - Carbrook	2016	0	F	12087
+Loganlea - Carbrook	2016	0	M	11300
+Loganlea - Carbrook	2016	1	F	14335
+Loganlea - Carbrook	2016	1	M	13940
+Springwood - Kingston	2006		F	5248
+Springwood - Kingston	2006		M	5539
+Springwood - Kingston	2006	0	F	14481
+Springwood - Kingston	2006	0	M	13611
+Springwood - Kingston	2006	1	F	16717
+Springwood - Kingston	2006	1	M	16385
+Springwood - Kingston	2011		F	5364
+Springwood - Kingston	2011		M	5762
+Springwood - Kingston	2011	0	F	14325
+Springwood - Kingston	2011	0	M	13627
+Springwood - Kingston	2011	1	F	18312
+Springwood - Kingston	2011	1	M	17965
+Springwood - Kingston	2016		F	5561
+Springwood - Kingston	2016		M	5619
+Springwood - Kingston	2016	0	F	14660
+Springwood - Kingston	2016	0	M	14437
+Springwood - Kingston	2016	1	F	18683
+Springwood - Kingston	2016	1	M	18311
+Bowen Basin - North	2006		F	2452
+Bowen Basin - North	2006		M	3647
+Bowen Basin - North	2006	0	F	6539
+Bowen Basin - North	2006	0	M	7171
+Bowen Basin - North	2006	1	F	5727
+Bowen Basin - North	2006	1	M	6659
+Bowen Basin - North	2011		F	2676
+Bowen Basin - North	2011		M	4040
+Bowen Basin - North	2011	0	F	7208
+Bowen Basin - North	2011	0	M	8167
+Bowen Basin - North	2011	1	F	6205
+Bowen Basin - North	2011	1	M	7182
+Bowen Basin - North	2016		F	3154
+Bowen Basin - North	2016		M	4203
+Bowen Basin - North	2016	0	F	6744
+Bowen Basin - North	2016	0	M	6873
+Bowen Basin - North	2016	1	F	5680
+Bowen Basin - North	2016	1	M	6841
+Mackay	2006		F	6778
+Mackay	2006		M	8289
+Mackay	2006	0	F	21480
+Mackay	2006	0	M	21373
+Mackay	2006	1	F	21279
+Mackay	2006	1	M	21822
+Mackay	2011		F	6603
+Mackay	2011		M	9046
+Mackay	2011	0	F	22842
+Mackay	2011	0	M	23098
+Mackay	2011	1	F	25117
+Mackay	2011	1	M	26094
+Mackay	2016		F	7900
+Mackay	2016		M	9529
+Mackay	2016	0	F	22137
+Mackay	2016	0	M	20719
+Mackay	2016	1	F	26676
+Mackay	2016	1	M	28008
+Whitsunday	2006		F	1217
+Whitsunday	2006		M	1706
+Whitsunday	2006	0	F	3984
+Whitsunday	2006	0	M	4197
+Whitsunday	2006	1	F	2747
+Whitsunday	2006	1	M	3106
+Whitsunday	2011		F	1356
+Whitsunday	2011		M	1859
+Whitsunday	2011	0	F	4047
+Whitsunday	2011	0	M	4084
+Whitsunday	2011	1	F	3427
+Whitsunday	2011	1	M	3760
+Whitsunday	2016		F	1947
+Whitsunday	2016		M	2295
+Whitsunday	2016	0	F	4468
+Whitsunday	2016	0	M	4441
+Whitsunday	2016	1	F	3812
+Whitsunday	2016	1	M	4257
+Bribie - Beachmere	2006		F	1462
+Bribie - Beachmere	2006		M	1423
+Bribie - Beachmere	2006	0	F	6572
+Bribie - Beachmere	2006	0	M	6111
+Bribie - Beachmere	2006	1	F	5971
+Bribie - Beachmere	2006	1	M	5816
+Bribie - Beachmere	2011		F	1559
+Bribie - Beachmere	2011		M	1620
+Bribie - Beachmere	2011	0	F	6886
+Bribie - Beachmere	2011	0	M	6326
+Bribie - Beachmere	2011	1	F	7262
+Bribie - Beachmere	2011	1	M	6878
+Bribie - Beachmere	2016		F	1904
+Bribie - Beachmere	2016		M	1763
+Bribie - Beachmere	2016	0	F	7095
+Bribie - Beachmere	2016	0	M	6608
+Bribie - Beachmere	2016	1	F	8029
+Bribie - Beachmere	2016	1	M	7637
+Caboolture	2006		F	3146
+Caboolture	2006		M	3326
+Caboolture	2006	0	F	10913
+Caboolture	2006	0	M	10155
+Caboolture	2006	1	F	9663
+Caboolture	2006	1	M	9393
+Caboolture	2011		F	4543
+Caboolture	2011		M	4950
+Caboolture	2011	0	F	13631
+Caboolture	2011	0	M	12467
+Caboolture	2011	1	F	12084
+Caboolture	2011	1	M	11543
+Caboolture	2016		F	5195
+Caboolture	2016		M	5236
+Caboolture	2016	0	F	15301
+Caboolture	2016	0	M	13939
+Caboolture	2016	1	F	14053
+Caboolture	2016	1	M	13739
+Caboolture Hinterland	2006		F	543
+Caboolture Hinterland	2006		M	1434
+Caboolture Hinterland	2006	0	F	1795
+Caboolture Hinterland	2006	0	M	1766
+Caboolture Hinterland	2006	1	F	2243
+Caboolture Hinterland	2006	1	M	2292
+Caboolture Hinterland	2011		F	598
+Caboolture Hinterland	2011		M	1254
+Caboolture Hinterland	2011	0	F	2048
+Caboolture Hinterland	2011	0	M	1916
+Caboolture Hinterland	2011	1	F	2704
+Caboolture Hinterland	2011	1	M	2772
+Caboolture Hinterland	2016		F	905
+Caboolture Hinterland	2016		M	1934
+Caboolture Hinterland	2016	0	F	2207
+Caboolture Hinterland	2016	0	M	2139
+Caboolture Hinterland	2016	1	F	2982
+Caboolture Hinterland	2016	1	M	3064
+Narangba - Burpengary	2006		F	3332
+Narangba - Burpengary	2006		M	3606
+Narangba - Burpengary	2006	0	F	12345
+Narangba - Burpengary	2006	0	M	11601
+Narangba - Burpengary	2006	1	F	10754
+Narangba - Burpengary	2006	1	M	10758
+Narangba - Burpengary	2011		F	3579
+Narangba - Burpengary	2011		M	3799
+Narangba - Burpengary	2011	0	F	11966
+Narangba - Burpengary	2011	0	M	11183
+Narangba - Burpengary	2011	1	F	14098
+Narangba - Burpengary	2011	1	M	13802
+Narangba - Burpengary	2016		F	3872
+Narangba - Burpengary	2016		M	3851
+Narangba - Burpengary	2016	0	F	12305
+Narangba - Burpengary	2016	0	M	11424
+Narangba - Burpengary	2016	1	F	15796
+Narangba - Burpengary	2016	1	M	15633
+Redcliffe	2006		F	2934
+Redcliffe	2006		M	3045
+Redcliffe	2006	0	F	11314
+Redcliffe	2006	0	M	10355
+Redcliffe	2006	1	F	12480
+Redcliffe	2006	1	M	11297
+Redcliffe	2011		F	3223
+Redcliffe	2011		M	3399
+Redcliffe	2011	0	F	12271
+Redcliffe	2011	0	M	11140
+Redcliffe	2011	1	F	13656
+Redcliffe	2011	1	M	12603
+Redcliffe	2016		F	3743
+Redcliffe	2016		M	3460
+Redcliffe	2016	0	F	12907
+Redcliffe	2016	0	M	11502
+Redcliffe	2016	1	F	14477
+Redcliffe	2016	1	M	13380
+The Hills District	2006		F	3872
+The Hills District	2006		M	4118
+The Hills District	2006	0	F	14716
+The Hills District	2006	0	M	14156
+The Hills District	2006	1	F	17885
+The Hills District	2006	1	M	17811
+The Hills District	2011		F	4007
+The Hills District	2011		M	4252
+The Hills District	2011	0	F	14417
+The Hills District	2011	0	M	13926
+The Hills District	2011	1	F	22039
+The Hills District	2011	1	M	21872
+The Hills District	2016		F	4157
+The Hills District	2016		M	4517
+The Hills District	2016	0	F	14944
+The Hills District	2016	0	M	14237
+The Hills District	2016	1	F	24338
+The Hills District	2016	1	M	23997
+North Lakes	2006		F	2220
+North Lakes	2006		M	2371
+North Lakes	2006	0	F	9206
+North Lakes	2006	0	M	8558
+North Lakes	2006	1	F	6046
+North Lakes	2006	1	M	5882
+North Lakes	2011		F	3211
+North Lakes	2011		M	3563
+North Lakes	2011	0	F	14222
+North Lakes	2011	0	M	12943
+North Lakes	2011	1	F	9023
+North Lakes	2011	1	M	8611
+North Lakes	2016		F	5068
+North Lakes	2016		M	5205
+North Lakes	2016	0	F	18970
+North Lakes	2016	0	M	17310
+North Lakes	2016	1	F	12782
+North Lakes	2016	1	M	12223
+Strathpine	2006		F	2008
+Strathpine	2006		M	2157
+Strathpine	2006	0	F	6977
+Strathpine	2006	0	M	6631
+Strathpine	2006	1	F	8381
+Strathpine	2006	1	M	8144
+Strathpine	2011		F	1892
+Strathpine	2011		M	2157
+Strathpine	2011	0	F	6533
+Strathpine	2011	0	M	6245
+Strathpine	2011	1	F	9444
+Strathpine	2011	1	M	9079
+Strathpine	2016		F	2267
+Strathpine	2016		M	2344
+Strathpine	2016	0	F	6935
+Strathpine	2016	0	M	6501
+Strathpine	2016	1	F	9685
+Strathpine	2016	1	M	9483
+Far North	2006		F	2149
+Far North	2006		M	2878
+Far North	2006	0	F	3585
+Far North	2006	0	M	3871
+Far North	2006	1	F	7487
+Far North	2006	1	M	7973
+Far North	2011		F	2129
+Far North	2011		M	3522
+Far North	2011	0	F	3619
+Far North	2011	0	M	3780
+Far North	2011	1	F	8169
+Far North	2011	1	M	8660
+Far North	2016		F	2628
+Far North	2016		M	3939
+Far North	2016	0	F	4013
+Far North	2016	0	M	4104
+Far North	2016	1	F	8608
+Far North	2016	1	M	9101
+Outback - North	2006		F	3087
+Outback - North	2006		M	3632
+Outback - North	2006	0	F	5933
+Outback - North	2006	0	M	6507
+Outback - North	2006	1	F	5550
+Outback - North	2006	1	M	6235
+Outback - North	2011		F	3091
+Outback - North	2011		M	3872
+Outback - North	2011	0	F	6104
+Outback - North	2011	0	M	6792
+Outback - North	2011	1	F	6166
+Outback - North	2011	1	M	7107
+Outback - North	2016		F	2769
+Outback - North	2016		M	3130
+Outback - North	2016	0	F	5278
+Outback - North	2016	0	M	5509
+Outback - North	2016	1	F	6159
+Outback - North	2016	1	M	6809
+Outback - South	2006		F	1241
+Outback - South	2006		M	1505
+Outback - South	2006	0	F	3657
+Outback - South	2006	0	M	3459
+Outback - South	2006	1	F	4702
+Outback - South	2006	1	M	5067
+Outback - South	2011		F	1275
+Outback - South	2011		M	1491
+Outback - South	2011	0	F	3730
+Outback - South	2011	0	M	3537
+Outback - South	2011	1	F	4803
+Outback - South	2011	1	M	5076
+Outback - South	2016		F	1305
+Outback - South	2016		M	1377
+Outback - South	2016	0	F	3024
+Outback - South	2016	0	M	2739
+Outback - South	2016	1	F	4458
+Outback - South	2016	1	M	4755
+Buderim	2006		F	2308
+Buderim	2006		M	2283
+Buderim	2006	0	F	11288
+Buderim	2006	0	M	9935
+Buderim	2006	1	F	7966
+Buderim	2006	1	M	7128
+Buderim	2011		F	1990
+Buderim	2011		M	2148
+Buderim	2011	0	F	11224
+Buderim	2011	0	M	9863
+Buderim	2011	1	F	10882
+Buderim	2011	1	M	9633
+Buderim	2016		F	3050
+Buderim	2016		M	2993
+Buderim	2016	0	F	14036
+Buderim	2016	0	M	12142
+Buderim	2016	1	F	11743
+Buderim	2016	1	M	10523
+Caloundra	2006		F	3267
+Caloundra	2006		M	3491
+Caloundra	2006	0	F	16188
+Caloundra	2006	0	M	14865
+Caloundra	2006	1	F	12358
+Caloundra	2006	1	M	11234
+Caloundra	2011		F	3616
+Caloundra	2011		M	3775
+Caloundra	2011	0	F	17088
+Caloundra	2011	0	M	15524
+Caloundra	2011	1	F	15594
+Caloundra	2011	1	M	14445
+Caloundra	2016		F	4447
+Caloundra	2016		M	4506
+Caloundra	2016	0	F	19397
+Caloundra	2016	0	M	17703
+Caloundra	2016	1	F	17906
+Caloundra	2016	1	M	16554
+Maroochy	2006		F	2904
+Maroochy	2006		M	3465
+Maroochy	2006	0	F	12713
+Maroochy	2006	0	M	11947
+Maroochy	2006	1	F	8584
+Maroochy	2006	1	M	8049
+Maroochy	2011		F	2801
+Maroochy	2011		M	3181
+Maroochy	2011	0	F	12783
+Maroochy	2011	0	M	11639
+Maroochy	2011	1	F	10754
+Maroochy	2011	1	M	9926
+Maroochy	2016		F	3656
+Maroochy	2016		M	3613
+Maroochy	2016	0	F	13952
+Maroochy	2016	0	M	12738
+Maroochy	2016	1	F	11528
+Maroochy	2016	1	M	10820
+Noosa	2006		F	2048
+Noosa	2006		M	2210
+Noosa	2006	0	F	8290
+Noosa	2006	0	M	7616
+Noosa	2006	1	F	6213
+Noosa	2006	1	M	5764
+Noosa	2011		F	1849
+Noosa	2011		M	2034
+Noosa	2011	0	F	8694
+Noosa	2011	0	M	7731
+Noosa	2011	1	F	8110
+Noosa	2011	1	M	7476
+Noosa	2016		F	2330
+Noosa	2016		M	2343
+Noosa	2016	0	F	10520
+Noosa	2016	0	M	9593
+Noosa	2016	1	F	8531
+Noosa	2016	1	M	7842
+Sunshine Coast Hinterland	2006		F	2304
+Sunshine Coast Hinterland	2006		M	2461
+Sunshine Coast Hinterland	2006	0	F	9268
+Sunshine Coast Hinterland	2006	0	M	8755
+Sunshine Coast Hinterland	2006	1	F	9282
+Sunshine Coast Hinterland	2006	1	M	9138
+Sunshine Coast Hinterland	2011		F	2465
+Sunshine Coast Hinterland	2011		M	2615
+Sunshine Coast Hinterland	2011	0	F	9563
+Sunshine Coast Hinterland	2011	0	M	8735
+Sunshine Coast Hinterland	2011	1	F	11529
+Sunshine Coast Hinterland	2011	1	M	11393
+Sunshine Coast Hinterland	2016		F	2728
+Sunshine Coast Hinterland	2016		M	2756
+Sunshine Coast Hinterland	2016	0	F	9692
+Sunshine Coast Hinterland	2016	0	M	8943
+Sunshine Coast Hinterland	2016	1	F	12847
+Sunshine Coast Hinterland	2016	1	M	12617
+Nambour	2006		F	1806
+Nambour	2006		M	1919
+Nambour	2006	0	F	7604
+Nambour	2006	0	M	7214
+Nambour	2006	1	F	7789
+Nambour	2006	1	M	7602
+Nambour	2011		F	2131
+Nambour	2011		M	2305
+Nambour	2011	0	F	7808
+Nambour	2011	0	M	7145
+Nambour	2011	1	F	9223
+Nambour	2011	1	M	8986
+Nambour	2016		F	2683
+Nambour	2016		M	2712
+Nambour	2016	0	F	8982
+Nambour	2016	0	M	8207
+Nambour	2016	1	F	10171
+Nambour	2016	1	M	9874
+Noosa Hinterland	2006		F	996
+Noosa Hinterland	2006		M	1071
+Noosa Hinterland	2006	0	F	4397
+Noosa Hinterland	2006	0	M	4213
+Noosa Hinterland	2006	1	F	4139
+Noosa Hinterland	2006	1	M	4187
+Noosa Hinterland	2011		F	954
+Noosa Hinterland	2011		M	1109
+Noosa Hinterland	2011	0	F	3877
+Noosa Hinterland	2011	0	M	3600
+Noosa Hinterland	2011	1	F	5337
+Noosa Hinterland	2011	1	M	5382
+Noosa Hinterland	2016		F	1165
+Noosa Hinterland	2016		M	1194
+Noosa Hinterland	2016	0	F	4249
+Noosa Hinterland	2016	0	M	4012
+Noosa Hinterland	2016	1	F	5602
+Noosa Hinterland	2016	1	M	5631
+Toowoomba	2006		F	7649
+Toowoomba	2006		M	8325
+Toowoomba	2006	0	F	31587
+Toowoomba	2006	0	M	28780
+Toowoomba	2006	1	F	27764
+Toowoomba	2006	1	M	25801
+Toowoomba	2011		F	8577
+Toowoomba	2011		M	8905
+Toowoomba	2011	0	F	30936
+Toowoomba	2011	0	M	28378
+Toowoomba	2011	1	F	32868
+Toowoomba	2011	1	M	30557
+Toowoomba	2016		F	10200
+Toowoomba	2016		M	10125
+Toowoomba	2016	0	F	32346
+Toowoomba	2016	0	M	29684
+Toowoomba	2016	1	F	34733
+Toowoomba	2016	1	M	32429
+Charters Towers - Ayr - Ingham	2006		F	2354
+Charters Towers - Ayr - Ingham	2006		M	2510
+Charters Towers - Ayr - Ingham	2006	0	F	7097
+Charters Towers - Ayr - Ingham	2006	0	M	7048
+Charters Towers - Ayr - Ingham	2006	1	F	11421
+Charters Towers - Ayr - Ingham	2006	1	M	11610
+Charters Towers - Ayr - Ingham	2011		F	2402
+Charters Towers - Ayr - Ingham	2011		M	2842
+Charters Towers - Ayr - Ingham	2011	0	F	6820
+Charters Towers - Ayr - Ingham	2011	0	M	6418
+Charters Towers - Ayr - Ingham	2011	1	F	12244
+Charters Towers - Ayr - Ingham	2011	1	M	12644
+Charters Towers - Ayr - Ingham	2016		F	2905
+Charters Towers - Ayr - Ingham	2016		M	3033
+Charters Towers - Ayr - Ingham	2016	0	F	5833
+Charters Towers - Ayr - Ingham	2016	0	M	5655
+Charters Towers - Ayr - Ingham	2016	1	F	12188
+Charters Towers - Ayr - Ingham	2016	1	M	12607
+Townsville	2006		F	10086
+Townsville	2006		M	11734
+Townsville	2006	0	F	37012
+Townsville	2006	0	M	36303
+Townsville	2006	1	F	29776
+Townsville	2006	1	M	29725
+Townsville	2011		F	11707
+Townsville	2011		M	13396
+Townsville	2011	0	F	39627
+Townsville	2011	0	M	37636
+Townsville	2011	1	F	36053
+Townsville	2011	1	M	36112
+Townsville	2016		F	12693
+Townsville	2016		M	14953
+Townsville	2016	0	F	41414
+Townsville	2016	0	M	39052
+Townsville	2016	1	F	39323
+Townsville	2016	1	M	39372
+Bundaberg	2006		F	4647
+Bundaberg	2006		M	5011
+Bundaberg	2006	0	F	17990
+Bundaberg	2006	0	M	16588
+Bundaberg	2006	1	F	17344
+Bundaberg	2006	1	M	16812
+Bundaberg	2011		F	4748
+Bundaberg	2011		M	5157
+Bundaberg	2011	0	F	17810
+Bundaberg	2011	0	M	16406
+Bundaberg	2011	1	F	20583
+Bundaberg	2011	1	M	20033
+Bundaberg	2016		F	5624
+Bundaberg	2016		M	5750
+Bundaberg	2016	0	F	17148
+Bundaberg	2016	0	M	15708
+Bundaberg	2016	1	F	21972
+Bundaberg	2016	1	M	21567
+Burnett	2006		F	2750
+Burnett	2006		M	2956
+Burnett	2006	0	F	9172
+Burnett	2006	0	M	8793
+Burnett	2006	1	F	10401
+Burnett	2006	1	M	10859
+Burnett	2011		F	2656
+Burnett	2011		M	3010
+Burnett	2011	0	F	8932
+Burnett	2011	0	M	8434
+Burnett	2011	1	F	12095
+Burnett	2011	1	M	12347
+Burnett	2016		F	3468
+Burnett	2016		M	3929
+Burnett	2016	0	F	7962
+Burnett	2016	0	M	7595
+Burnett	2016	1	F	12849
+Burnett	2016	1	M	13267
+Gympie - Cooloola	2006		F	2332
+Gympie - Cooloola	2006		M	2435
+Gympie - Cooloola	2006	0	F	9357
+Gympie - Cooloola	2006	0	M	8914
+Gympie - Cooloola	2006	1	F	9298
+Gympie - Cooloola	2006	1	M	9529
+Gympie - Cooloola	2011		F	2786
+Gympie - Cooloola	2011		M	2894
+Gympie - Cooloola	2011	0	F	8929
+Gympie - Cooloola	2011	0	M	8499
+Gympie - Cooloola	2011	1	F	11277
+Gympie - Cooloola	2011	1	M	11305
+Gympie - Cooloola	2016		F	3445
+Gympie - Cooloola	2016		M	3595
+Gympie - Cooloola	2016	0	F	9272
+Gympie - Cooloola	2016	0	M	8602
+Gympie - Cooloola	2016	1	F	12230
+Gympie - Cooloola	2016	1	M	12341
+Hervey Bay	2006		F	2427
+Hervey Bay	2006		M	2541
+Hervey Bay	2006	0	F	12486
+Hervey Bay	2006	0	M	11479
+Hervey Bay	2006	1	F	8503
+Hervey Bay	2006	1	M	8066
+Hervey Bay	2011		F	2819
+Hervey Bay	2011		M	2960
+Hervey Bay	2011	0	F	12831
+Hervey Bay	2011	0	M	11354
+Hervey Bay	2011	1	F	11864
+Hervey Bay	2011	1	M	11009
+Hervey Bay	2016		F	3642
+Hervey Bay	2016		M	3609
+Hervey Bay	2016	0	F	12817
+Hervey Bay	2016	0	M	11373
+Hervey Bay	2016	1	F	13050
+Hervey Bay	2016	1	M	12188
+Maryborough	2006		F	2008
+Maryborough	2006		M	2617
+Maryborough	2006	0	F	8569
+Maryborough	2006	0	M	8105
+Maryborough	2006	1	F	8746
+Maryborough	2006	1	M	8798
+Maryborough	2011		F	2260
+Maryborough	2011		M	3089
+Maryborough	2011	0	F	8280
+Maryborough	2011	0	M	7757
+Maryborough	2011	1	F	10612
+Maryborough	2011	1	M	10524
+Maryborough	2016		F	3022
+Maryborough	2016		M	3689
+Maryborough	2016	0	F	7792
+Maryborough	2016	0	M	7312
+Maryborough	2016	1	F	11447
+Maryborough	2016	1	M	11632
+Migratory - Offshore - Shipping (Qld)	2006		F	4
+Migratory - Offshore - Shipping (Qld)	2006		M	5
+Migratory - Offshore - Shipping (Qld)	2006	0	F	7
+Migratory - Offshore - Shipping (Qld)	2006	0	M	48
+Migratory - Offshore - Shipping (Qld)	2006	1	F	0
+Migratory - Offshore - Shipping (Qld)	2006	1	M	30
+Migratory - Offshore - Shipping (Qld)	2011		F	25
+Migratory - Offshore - Shipping (Qld)	2011		M	54
+Migratory - Offshore - Shipping (Qld)	2011	0	F	62
+Migratory - Offshore - Shipping (Qld)	2011	0	M	109
+Migratory - Offshore - Shipping (Qld)	2011	1	F	106
+Migratory - Offshore - Shipping (Qld)	2011	1	M	112
+Migratory - Offshore - Shipping (Qld)	2016		F	17
+Migratory - Offshore - Shipping (Qld)	2016		M	8
+Migratory - Offshore - Shipping (Qld)	2016	0	F	21
+Migratory - Offshore - Shipping (Qld)	2016	0	M	25
+Migratory - Offshore - Shipping (Qld)	2016	1	F	49
+Migratory - Offshore - Shipping (Qld)	2016	1	M	33
+No usual address (Qld)	2006		F	859
+No usual address (Qld)	2006		M	1486
+No usual address (Qld)	2006	0	F	4228
+No usual address (Qld)	2006	0	M	4998
+No usual address (Qld)	2006	1	F	455
+No usual address (Qld)	2006	1	M	784
+No usual address (Qld)	2011		F	912
+No usual address (Qld)	2011		M	1630
+No usual address (Qld)	2011	0	F	3960
+No usual address (Qld)	2011	0	M	4650
+No usual address (Qld)	2011	1	F	524
+No usual address (Qld)	2011	1	M	873
+No usual address (Qld)	2016		F	1254
+No usual address (Qld)	2016		M	1882
+No usual address (Qld)	2016	0	F	3681
+No usual address (Qld)	2016	0	M	4011
+No usual address (Qld)	2016	1	F	637
+No usual address (Qld)	2016	1	M	1044
+Adelaide City	2006		F	1154
+Adelaide City	2006		M	1812
+Adelaide City	2006	0	F	4651
+Adelaide City	2006	0	M	4831
+Adelaide City	2006	1	F	2102
+Adelaide City	2006	1	M	2107
+Adelaide City	2011		F	1109
+Adelaide City	2011		M	1631
+Adelaide City	2011	0	F	5807
+Adelaide City	2011	0	M	5851
+Adelaide City	2011	1	F	2577
+Adelaide City	2011	1	M	2667
+Adelaide City	2016		F	1306
+Adelaide City	2016		M	1843
+Adelaide City	2016	0	F	6696
+Adelaide City	2016	0	M	6647
+Adelaide City	2016	1	F	2751
+Adelaide City	2016	1	M	2820
+Adelaide Hills	2006		F	3281
+Adelaide Hills	2006		M	3423
+Adelaide Hills	2006	0	F	11008
+Adelaide Hills	2006	0	M	10464
+Adelaide Hills	2006	1	F	17968
+Adelaide Hills	2006	1	M	17796
+Adelaide Hills	2011		F	3120
+Adelaide Hills	2011		M	3332
+Adelaide Hills	2011	0	F	11386
+Adelaide Hills	2011	0	M	10662
+Adelaide Hills	2011	1	F	19895
+Adelaide Hills	2011	1	M	19664
+Adelaide Hills	2016		F	3899
+Adelaide Hills	2016		M	3917
+Adelaide Hills	2016	0	F	11640
+Adelaide Hills	2016	0	M	10778
+Adelaide Hills	2016	1	F	20947
+Adelaide Hills	2016	1	M	20711
+Burnside	2006		F	1967
+Burnside	2006		M	2014
+Burnside	2006	0	F	7910
+Burnside	2006	0	M	6814
+Burnside	2006	1	F	12389
+Burnside	2006	1	M	10860
+Burnside	2011		F	1669
+Burnside	2011		M	1679
+Burnside	2011	0	F	7842
+Burnside	2011	0	M	6838
+Burnside	2011	1	F	12761
+Burnside	2011	1	M	11404
+Burnside	2016		F	1969
+Burnside	2016		M	1815
+Burnside	2016	0	F	8627
+Burnside	2016	0	M	7751
+Burnside	2016	1	F	12589
+Burnside	2016	1	M	11157
+Campbelltown (SA)	2006		F	2204
+Campbelltown (SA)	2006		M	2301
+Campbelltown (SA)	2006	0	F	7255
+Campbelltown (SA)	2006	0	M	6617
+Campbelltown (SA)	2006	1	F	14637
+Campbelltown (SA)	2006	1	M	13501
+Campbelltown (SA)	2011		F	2141
+Campbelltown (SA)	2011		M	2109
+Campbelltown (SA)	2011	0	F	7952
+Campbelltown (SA)	2011	0	M	7367
+Campbelltown (SA)	2011	1	F	15027
+Campbelltown (SA)	2011	1	M	13902
+Campbelltown (SA)	2016		F	2312
+Campbelltown (SA)	2016		M	2410
+Campbelltown (SA)	2016	0	F	8432
+Campbelltown (SA)	2016	0	M	8038
+Campbelltown (SA)	2016	1	F	15218
+Campbelltown (SA)	2016	1	M	14113
+Norwood - Payneham - St Peters	2006		F	1793
+Norwood - Payneham - St Peters	2006		M	1876
+Norwood - Payneham - St Peters	2006	0	F	7009
+Norwood - Payneham - St Peters	2006	0	M	6435
+Norwood - Payneham - St Peters	2006	1	F	8947
+Norwood - Payneham - St Peters	2006	1	M	7675
+Norwood - Payneham - St Peters	2011		F	1588
+Norwood - Payneham - St Peters	2011		M	1737
+Norwood - Payneham - St Peters	2011	0	F	7177
+Norwood - Payneham - St Peters	2011	0	M	6750
+Norwood - Payneham - St Peters	2011	1	F	9403
+Norwood - Payneham - St Peters	2011	1	M	8233
+Norwood - Payneham - St Peters	2016		F	1781
+Norwood - Payneham - St Peters	2016		M	1746
+Norwood - Payneham - St Peters	2016	0	F	7413
+Norwood - Payneham - St Peters	2016	0	M	6922
+Norwood - Payneham - St Peters	2016	1	F	9231
+Norwood - Payneham - St Peters	2016	1	M	8263
+Prospect - Walkerville	2006		F	1392
+Prospect - Walkerville	2006		M	1469
+Prospect - Walkerville	2006	0	F	4445
+Prospect - Walkerville	2006	0	M	4437
+Prospect - Walkerville	2006	1	F	7547
+Prospect - Walkerville	2006	1	M	6971
+Prospect - Walkerville	2011		F	1285
+Prospect - Walkerville	2011		M	1452
+Prospect - Walkerville	2011	0	F	4727
+Prospect - Walkerville	2011	0	M	4634
+Prospect - Walkerville	2011	1	F	7645
+Prospect - Walkerville	2011	1	M	7212
+Prospect - Walkerville	2016		F	1405
+Prospect - Walkerville	2016		M	1530
+Prospect - Walkerville	2016	0	F	5002
+Prospect - Walkerville	2016	0	M	5107
+Prospect - Walkerville	2016	1	F	7696
+Prospect - Walkerville	2016	1	M	7332
+Unley	2006		F	2008
+Unley	2006		M	1846
+Unley	2006	0	F	7536
+Unley	2006	0	M	6447
+Unley	2006	1	F	9685
+Unley	2006	1	M	8478
+Unley	2011		F	1712
+Unley	2011		M	1826
+Unley	2011	0	F	7330
+Unley	2011	0	M	6398
+Unley	2011	1	F	10467
+Unley	2011	1	M	9110
+Unley	2016		F	1872
+Unley	2016		M	1848
+Unley	2016	0	F	7693
+Unley	2016	0	M	6714
+Unley	2016	1	F	10384
+Unley	2016	1	M	9209
+Gawler - Two Wells	2006		F	1456
+Gawler - Two Wells	2006		M	1615
+Gawler - Two Wells	2006	0	F	5768
+Gawler - Two Wells	2006	0	M	5316
+Gawler - Two Wells	2006	1	F	7198
+Gawler - Two Wells	2006	1	M	6926
+Gawler - Two Wells	2011		F	1617
+Gawler - Two Wells	2011		M	1650
+Gawler - Two Wells	2011	0	F	5786
+Gawler - Two Wells	2011	0	M	5258
+Gawler - Two Wells	2011	1	F	8760
+Gawler - Two Wells	2011	1	M	8571
+Gawler - Two Wells	2016		F	2001
+Gawler - Two Wells	2016		M	2082
+Gawler - Two Wells	2016	0	F	6248
+Gawler - Two Wells	2016	0	M	5691
+Gawler - Two Wells	2016	1	F	9378
+Gawler - Two Wells	2016	1	M	9238
+Playford	2006		F	4891
+Playford	2006		M	5054
+Playford	2006	0	F	13009
+Playford	2006	0	M	12259
+Playford	2006	1	F	17704
+Playford	2006	1	M	17700
+Playford	2011		F	5535
+Playford	2011		M	5837
+Playford	2011	0	F	14818
+Playford	2011	0	M	13776
+Playford	2011	1	F	19891
+Playford	2011	1	M	20012
+Playford	2016		F	7115
+Playford	2016		M	7301
+Playford	2016	0	F	16809
+Playford	2016	0	M	15509
+Playford	2016	1	F	21571
+Playford	2016	1	M	21847
+Port Adelaide - East	2006		F	3599
+Port Adelaide - East	2006		M	4276
+Port Adelaide - East	2006	0	F	10207
+Port Adelaide - East	2006	0	M	10028
+Port Adelaide - East	2006	1	F	13928
+Port Adelaide - East	2006	1	M	13177
+Port Adelaide - East	2011		F	3612
+Port Adelaide - East	2011		M	4362
+Port Adelaide - East	2011	0	F	11253
+Port Adelaide - East	2011	0	M	11429
+Port Adelaide - East	2011	1	F	15520
+Port Adelaide - East	2011	1	M	14761
+Port Adelaide - East	2016		F	4449
+Port Adelaide - East	2016		M	5037
+Port Adelaide - East	2016	0	F	13538
+Port Adelaide - East	2016	0	M	13801
+Port Adelaide - East	2016	1	F	15937
+Port Adelaide - East	2016	1	M	15294
+Salisbury	2006		F	7029
+Salisbury	2006		M	7567
+Salisbury	2006	0	F	19113
+Salisbury	2006	0	M	18572
+Salisbury	2006	1	F	32593
+Salisbury	2006	1	M	31996
+Salisbury	2011		F	7599
+Salisbury	2011		M	8051
+Salisbury	2011	0	F	20880
+Salisbury	2011	0	M	20245
+Salisbury	2011	1	F	35672
+Salisbury	2011	1	M	35215
+Salisbury	2016		F	8296
+Salisbury	2016		M	8612
+Salisbury	2016	0	F	22455
+Salisbury	2016	0	M	21963
+Salisbury	2016	1	F	37789
+Salisbury	2016	1	M	37518
+Tea Tree Gully	2006		F	4179
+Tea Tree Gully	2006		M	4436
+Tea Tree Gully	2006	0	F	14316
+Tea Tree Gully	2006	0	M	13391
+Tea Tree Gully	2006	1	F	28445
+Tea Tree Gully	2006	1	M	27311
+Tea Tree Gully	2011		F	3975
+Tea Tree Gully	2011		M	4098
+Tea Tree Gully	2011	0	F	13402
+Tea Tree Gully	2011	0	M	12480
+Tea Tree Gully	2011	1	F	29288
+Tea Tree Gully	2011	1	M	28294
+Tea Tree Gully	2016		F	4699
+Tea Tree Gully	2016		M	4536
+Tea Tree Gully	2016	0	F	13865
+Tea Tree Gully	2016	0	M	12806
+Tea Tree Gully	2016	1	F	29336
+Tea Tree Gully	2016	1	M	28367
+Holdfast Bay	2006		F	1465
+Holdfast Bay	2006		M	1493
+Holdfast Bay	2006	0	F	6646
+Holdfast Bay	2006	0	M	5987
+Holdfast Bay	2006	1	F	8832
+Holdfast Bay	2006	1	M	7613
+Holdfast Bay	2011		F	1640
+Holdfast Bay	2011		M	1526
+Holdfast Bay	2011	0	F	6614
+Holdfast Bay	2011	0	M	6264
+Holdfast Bay	2011	1	F	9093
+Holdfast Bay	2011	1	M	7934
+Holdfast Bay	2016		F	1844
+Holdfast Bay	2016		M	1807
+Holdfast Bay	2016	0	F	6738
+Holdfast Bay	2016	0	M	6182
+Holdfast Bay	2016	1	F	9067
+Holdfast Bay	2016	1	M	8066
+Marion	2006		F	3734
+Marion	2006		M	4009
+Marion	2006	0	F	13986
+Marion	2006	0	M	12830
+Marion	2006	1	F	23815
+Marion	2006	1	M	21597
+Marion	2011		F	4173
+Marion	2011		M	4150
+Marion	2011	0	F	14971
+Marion	2011	0	M	13903
+Marion	2011	1	F	24525
+Marion	2011	1	M	22600
+Marion	2016		F	4806
+Marion	2016		M	4801
+Marion	2016	0	F	17120
+Marion	2016	0	M	15479
+Marion	2016	1	F	24837
+Marion	2016	1	M	23024
+Mitcham	2006		F	2707
+Mitcham	2006		M	2792
+Mitcham	2006	0	F	10445
+Mitcham	2006	0	M	9477
+Mitcham	2006	1	F	18430
+Mitcham	2006	1	M	17054
+Mitcham	2011		F	2618
+Mitcham	2011		M	2728
+Mitcham	2011	0	F	10161
+Mitcham	2011	0	M	9263
+Mitcham	2011	1	F	19076
+Mitcham	2011	1	M	17813
+Mitcham	2016		F	2943
+Mitcham	2016		M	3080
+Mitcham	2016	0	F	10879
+Mitcham	2016	0	M	9687
+Mitcham	2016	1	F	19097
+Mitcham	2016	1	M	17845
+Onkaparinga	2006		F	7473
+Onkaparinga	2006		M	8010
+Onkaparinga	2006	0	F	26347
+Onkaparinga	2006	0	M	24174
+Onkaparinga	2006	1	F	42681
+Onkaparinga	2006	1	M	42003
+Onkaparinga	2011		F	8113
+Onkaparinga	2011		M	8631
+Onkaparinga	2011	0	F	27606
+Onkaparinga	2011	0	M	25421
+Onkaparinga	2011	1	F	46063
+Onkaparinga	2011	1	M	44984
+Onkaparinga	2016		F	9805
+Onkaparinga	2016		M	9874
+Onkaparinga	2016	0	F	28048
+Onkaparinga	2016	0	M	25673
+Onkaparinga	2016	1	F	47919
+Onkaparinga	2016	1	M	46723
+Charles Sturt	2006		F	5025
+Charles Sturt	2006		M	5240
+Charles Sturt	2006	0	F	14724
+Charles Sturt	2006	0	M	14171
+Charles Sturt	2006	1	F	30423
+Charles Sturt	2006	1	M	28389
+Charles Sturt	2011		F	4964
+Charles Sturt	2011		M	5344
+Charles Sturt	2011	0	F	16232
+Charles Sturt	2011	0	M	15567
+Charles Sturt	2011	1	F	31013
+Charles Sturt	2011	1	M	29110
+Charles Sturt	2016		F	5909
+Charles Sturt	2016		M	6013
+Charles Sturt	2016	0	F	18900
+Charles Sturt	2016	0	M	18051
+Charles Sturt	2016	1	F	30730
+Charles Sturt	2016	1	M	29094
+Port Adelaide - West	2006		F	3025
+Port Adelaide - West	2006		M	3261
+Port Adelaide - West	2006	0	F	8606
+Port Adelaide - West	2006	0	M	7986
+Port Adelaide - West	2006	1	F	15241
+Port Adelaide - West	2006	1	M	14432
+Port Adelaide - West	2011		F	3115
+Port Adelaide - West	2011		M	3357
+Port Adelaide - West	2011	0	F	9734
+Port Adelaide - West	2011	0	M	9562
+Port Adelaide - West	2011	1	F	15739
+Port Adelaide - West	2011	1	M	15098
+Port Adelaide - West	2016		F	3423
+Port Adelaide - West	2016		M	3397
+Port Adelaide - West	2016	0	F	9721
+Port Adelaide - West	2016	0	M	9280
+Port Adelaide - West	2016	1	F	16399
+Port Adelaide - West	2016	1	M	15747
+West Torrens	2006		F	2736
+West Torrens	2006		M	3105
+West Torrens	2006	0	F	9816
+West Torrens	2006	0	M	9366
+West Torrens	2006	1	F	15354
+West Torrens	2006	1	M	14344
+West Torrens	2011		F	2810
+West Torrens	2011		M	3000
+West Torrens	2011	0	F	10804
+West Torrens	2011	0	M	10319
+West Torrens	2011	1	F	15940
+West Torrens	2011	1	M	14949
+West Torrens	2016		F	3214
+West Torrens	2016		M	3211
+West Torrens	2016	0	F	12034
+West Torrens	2016	0	M	11632
+West Torrens	2016	1	F	16042
+West Torrens	2016	1	M	14947
+Barossa	2006		F	1496
+Barossa	2006		M	1628
+Barossa	2006	0	F	5492
+Barossa	2006	0	M	5228
+Barossa	2006	1	F	8634
+Barossa	2006	1	M	8958
+Barossa	2011		F	1561
+Barossa	2011		M	1714
+Barossa	2011	0	F	5513
+Barossa	2011	0	M	5307
+Barossa	2011	1	F	9505
+Barossa	2011	1	M	9598
+Barossa	2016		F	1965
+Barossa	2016		M	2117
+Barossa	2016	0	F	5596
+Barossa	2016	0	M	5250
+Barossa	2016	1	F	10209
+Barossa	2016	1	M	10359
+Lower North	2006		F	1135
+Lower North	2006		M	1175
+Lower North	2006	0	F	3503
+Lower North	2006	0	M	3345
+Lower North	2006	1	F	5922
+Lower North	2006	1	M	6162
+Lower North	2011		F	1106
+Lower North	2011		M	1183
+Lower North	2011	0	F	3690
+Lower North	2011	0	M	3562
+Lower North	2011	1	F	6154
+Lower North	2011	1	M	6359
+Lower North	2016		F	1421
+Lower North	2016		M	1482
+Lower North	2016	0	F	3311
+Lower North	2016	0	M	3143
+Lower North	2016	1	F	6460
+Lower North	2016	1	M	6726
+Mid North	2006		F	1535
+Mid North	2006		M	1543
+Mid North	2006	0	F	4415
+Mid North	2006	0	M	4019
+Mid North	2006	1	F	7909
+Mid North	2006	1	M	8046
+Mid North	2011		F	1320
+Mid North	2011		M	1428
+Mid North	2011	0	F	4111
+Mid North	2011	0	M	3760
+Mid North	2011	1	F	8259
+Mid North	2011	1	M	8385
+Mid North	2016		F	1752
+Mid North	2016		M	1766
+Mid North	2016	0	F	3788
+Mid North	2016	0	M	3459
+Mid North	2016	1	F	8201
+Mid North	2016	1	M	8306
+Yorke Peninsula	2006		F	1047
+Yorke Peninsula	2006		M	1077
+Yorke Peninsula	2006	0	F	3958
+Yorke Peninsula	2006	0	M	3691
+Yorke Peninsula	2006	1	F	6340
+Yorke Peninsula	2006	1	M	6529
+Yorke Peninsula	2011		F	1025
+Yorke Peninsula	2011		M	1113
+Yorke Peninsula	2011	0	F	4124
+Yorke Peninsula	2011	0	M	3954
+Yorke Peninsula	2011	1	F	6847
+Yorke Peninsula	2011	1	M	6937
+Yorke Peninsula	2016		F	1507
+Yorke Peninsula	2016		M	1616
+Yorke Peninsula	2016	0	F	3792
+Yorke Peninsula	2016	0	M	3645
+Yorke Peninsula	2016	1	F	7159
+Yorke Peninsula	2016	1	M	7485
+Eyre Peninsula and South West	2006		F	3328
+Eyre Peninsula and South West	2006		M	3797
+Eyre Peninsula and South West	2006	0	F	9223
+Eyre Peninsula and South West	2006	0	M	9097
+Eyre Peninsula and South West	2006	1	F	14378
+Eyre Peninsula and South West	2006	1	M	15059
+Eyre Peninsula and South West	2011		F	3250
+Eyre Peninsula and South West	2011		M	3653
+Eyre Peninsula and South West	2011	0	F	9282
+Eyre Peninsula and South West	2011	0	M	8923
+Eyre Peninsula and South West	2011	1	F	15354
+Eyre Peninsula and South West	2011	1	M	15936
+Eyre Peninsula and South West	2016		F	4061
+Eyre Peninsula and South West	2016		M	4427
+Eyre Peninsula and South West	2016	0	F	8415
+Eyre Peninsula and South West	2016	0	M	8086
+Eyre Peninsula and South West	2016	1	F	15517
+Eyre Peninsula and South West	2016	1	M	16103
+Outback - North and East	2006		F	1957
+Outback - North and East	2006		M	2634
+Outback - North and East	2006	0	F	4528
+Outback - North and East	2006	0	M	4692
+Outback - North and East	2006	1	F	6309
+Outback - North and East	2006	1	M	6845
+Outback - North and East	2011		F	2094
+Outback - North and East	2011		M	2924
+Outback - North and East	2011	0	F	4525
+Outback - North and East	2011	0	M	5022
+Outback - North and East	2011	1	F	6444
+Outback - North and East	2011	1	M	7183
+Outback - North and East	2016		F	2209
+Outback - North and East	2016		M	2935
+Outback - North and East	2016	0	F	3853
+Outback - North and East	2016	0	M	4077
+Outback - North and East	2016	1	F	6288
+Outback - North and East	2016	1	M	6845
+Fleurieu - Kangaroo Island	2006		F	2352
+Fleurieu - Kangaroo Island	2006		M	2441
+Fleurieu - Kangaroo Island	2006	0	F	8640
+Fleurieu - Kangaroo Island	2006	0	M	8001
+Fleurieu - Kangaroo Island	2006	1	F	9977
+Fleurieu - Kangaroo Island	2006	1	M	9728
+Fleurieu - Kangaroo Island	2011		F	2094
+Fleurieu - Kangaroo Island	2011		M	2242
+Fleurieu - Kangaroo Island	2011	0	F	9700
+Fleurieu - Kangaroo Island	2011	0	M	8788
+Fleurieu - Kangaroo Island	2011	1	F	12015
+Fleurieu - Kangaroo Island	2011	1	M	11513
+Fleurieu - Kangaroo Island	2016		F	2916
+Fleurieu - Kangaroo Island	2016		M	2856
+Fleurieu - Kangaroo Island	2016	0	F	9300
+Fleurieu - Kangaroo Island	2016	0	M	8442
+Fleurieu - Kangaroo Island	2016	1	F	13709
+Fleurieu - Kangaroo Island	2016	1	M	13175
+Limestone Coast	2006		F	3424
+Limestone Coast	2006		M	3887
+Limestone Coast	2006	0	F	11126
+Limestone Coast	2006	0	M	10683
+Limestone Coast	2006	1	F	16444
+Limestone Coast	2006	1	M	16648
+Limestone Coast	2011		F	3074
+Limestone Coast	2011		M	3566
+Limestone Coast	2011	0	F	10751
+Limestone Coast	2011	0	M	10118
+Limestone Coast	2011	1	F	17607
+Limestone Coast	2011	1	M	17958
+Limestone Coast	2016		F	4050
+Limestone Coast	2016		M	4648
+Limestone Coast	2016	0	F	10041
+Limestone Coast	2016	0	M	9795
+Limestone Coast	2016	1	F	17851
+Limestone Coast	2016	1	M	18409
+Murray and Mallee	2006		F	3643
+Murray and Mallee	2006		M	4154
+Murray and Mallee	2006	0	F	11412
+Murray and Mallee	2006	0	M	10932
+Murray and Mallee	2006	1	F	18045
+Murray and Mallee	2006	1	M	18577
+Murray and Mallee	2011		F	3675
+Murray and Mallee	2011		M	4540
+Murray and Mallee	2011	0	F	10661
+Murray and Mallee	2011	0	M	10313
+Murray and Mallee	2011	1	F	19094
+Murray and Mallee	2011	1	M	19441
+Murray and Mallee	2016		F	4384
+Murray and Mallee	2016		M	5048
+Murray and Mallee	2016	0	F	10760
+Murray and Mallee	2016	0	M	10343
+Murray and Mallee	2016	1	F	19183
+Murray and Mallee	2016	1	M	19832
+Migratory - Offshore - Shipping (SA)	2006		F	0
+Migratory - Offshore - Shipping (SA)	2006		M	4
+Migratory - Offshore - Shipping (SA)	2006	0	F	0
+Migratory - Offshore - Shipping (SA)	2006	0	M	3
+Migratory - Offshore - Shipping (SA)	2006	1	F	0
+Migratory - Offshore - Shipping (SA)	2006	1	M	0
+Migratory - Offshore - Shipping (SA)	2011		F	0
+Migratory - Offshore - Shipping (SA)	2011		M	0
+Migratory - Offshore - Shipping (SA)	2011	0	F	0
+Migratory - Offshore - Shipping (SA)	2011	0	M	5
+Migratory - Offshore - Shipping (SA)	2011	1	F	0
+Migratory - Offshore - Shipping (SA)	2011	1	M	0
+Migratory - Offshore - Shipping (SA)	2016		F	0
+Migratory - Offshore - Shipping (SA)	2016		M	-2
+Migratory - Offshore - Shipping (SA)	2016	0	F	0
+Migratory - Offshore - Shipping (SA)	2016	0	M	4
+Migratory - Offshore - Shipping (SA)	2016	1	F	0
+Migratory - Offshore - Shipping (SA)	2016	1	M	4
+No usual address (SA)	2006		F	188
+No usual address (SA)	2006		M	272
+No usual address (SA)	2006	0	F	817
+No usual address (SA)	2006	0	M	1026
+No usual address (SA)	2006	1	F	120
+No usual address (SA)	2006	1	M	196
+No usual address (SA)	2011		F	291
+No usual address (SA)	2011		M	450
+No usual address (SA)	2011	0	F	877
+No usual address (SA)	2011	0	M	1118
+No usual address (SA)	2011	1	F	119
+No usual address (SA)	2011	1	M	210
+No usual address (SA)	2016		F	287
+No usual address (SA)	2016		M	525
+No usual address (SA)	2016	0	F	720
+No usual address (SA)	2016	0	M	958
+No usual address (SA)	2016	1	F	122
+No usual address (SA)	2016	1	M	251
+Augusta - Margaret River - Busselton	2006		F	2156
+Augusta - Margaret River - Busselton	2006		M	2397
+Augusta - Margaret River - Busselton	2006	0	F	8473
+Augusta - Margaret River - Busselton	2006	0	M	8109
+Augusta - Margaret River - Busselton	2006	1	F	7356
+Augusta - Margaret River - Busselton	2006	1	M	7211
+Augusta - Margaret River - Busselton	2011		F	2566
+Augusta - Margaret River - Busselton	2011		M	2805
+Augusta - Margaret River - Busselton	2011	0	F	9397
+Augusta - Margaret River - Busselton	2011	0	M	8596
+Augusta - Margaret River - Busselton	2011	1	F	9439
+Augusta - Margaret River - Busselton	2011	1	M	9243
+Augusta - Margaret River - Busselton	2016		F	3529
+Augusta - Margaret River - Busselton	2016		M	3744
+Augusta - Margaret River - Busselton	2016	0	F	11359
+Augusta - Margaret River - Busselton	2016	0	M	10436
+Augusta - Margaret River - Busselton	2016	1	F	10987
+Augusta - Margaret River - Busselton	2016	1	M	10816
+Bunbury	2006		F	5025
+Bunbury	2006		M	5639
+Bunbury	2006	0	F	18163
+Bunbury	2006	0	M	17355
+Bunbury	2006	1	F	17679
+Bunbury	2006	1	M	18001
+Bunbury	2011		F	5702
+Bunbury	2011		M	6861
+Bunbury	2011	0	F	18839
+Bunbury	2011	0	M	18188
+Bunbury	2011	1	F	22439
+Bunbury	2011	1	M	22361
+Bunbury	2016		F	7143
+Bunbury	2016		M	7835
+Bunbury	2016	0	F	19816
+Bunbury	2016	0	M	18232
+Bunbury	2016	1	F	24879
+Bunbury	2016	1	M	24744
+Manjimup	2006		F	1135
+Manjimup	2006		M	1190
+Manjimup	2006	0	F	4076
+Manjimup	2006	0	M	3907
+Manjimup	2006	1	F	5055
+Manjimup	2006	1	M	5255
+Manjimup	2011		F	1037
+Manjimup	2011		M	1187
+Manjimup	2011	0	F	3711
+Manjimup	2011	0	M	3362
+Manjimup	2011	1	F	6026
+Manjimup	2011	1	M	6351
+Manjimup	2016		F	1590
+Manjimup	2016		M	1625
+Manjimup	2016	0	F	3563
+Manjimup	2016	0	M	3233
+Manjimup	2016	1	F	6284
+Manjimup	2016	1	M	6519
+Mandurah	2006		F	4427
+Mandurah	2006		M	4630
+Mandurah	2006	0	F	16783
+Mandurah	2006	0	M	15628
+Mandurah	2006	1	F	12818
+Mandurah	2006	1	M	12572
+Mandurah	2011		F	5138
+Mandurah	2011		M	5792
+Mandurah	2011	0	F	18887
+Mandurah	2011	0	M	17442
+Mandurah	2011	1	F	18399
+Mandurah	2011	1	M	17637
+Mandurah	2016		F	6178
+Mandurah	2016		M	6486
+Mandurah	2016	0	F	22559
+Mandurah	2016	0	M	20367
+Mandurah	2016	1	F	20853
+Mandurah	2016	1	M	20293
+Cottesloe - Claremont	2006		F	3611
+Cottesloe - Claremont	2006		M	3854
+Cottesloe - Claremont	2006	0	F	13154
+Cottesloe - Claremont	2006	0	M	12375
+Cottesloe - Claremont	2006	1	F	15595
+Cottesloe - Claremont	2006	1	M	13788
+Cottesloe - Claremont	2011		F	3194
+Cottesloe - Claremont	2011		M	3393
+Cottesloe - Claremont	2011	0	F	12796
+Cottesloe - Claremont	2011	0	M	12209
+Cottesloe - Claremont	2011	1	F	17163
+Cottesloe - Claremont	2011	1	M	15379
+Cottesloe - Claremont	2016		F	3411
+Cottesloe - Claremont	2016		M	3432
+Cottesloe - Claremont	2016	0	F	14557
+Cottesloe - Claremont	2016	0	M	14186
+Cottesloe - Claremont	2016	1	F	16743
+Cottesloe - Claremont	2016	1	M	15304
+Perth City	2006		F	6001
+Perth City	2006		M	7724
+Perth City	2006	0	F	18376
+Perth City	2006	0	M	18370
+Perth City	2006	1	F	15212
+Perth City	2006	1	M	14084
+Perth City	2011		F	6115
+Perth City	2011		M	7210
+Perth City	2011	0	F	21447
+Perth City	2011	0	M	22093
+Perth City	2011	1	F	17905
+Perth City	2011	1	M	17446
+Perth City	2016		F	7307
+Perth City	2016		M	7762
+Perth City	2016	0	F	24685
+Perth City	2016	0	M	24710
+Perth City	2016	1	F	18992
+Perth City	2016	1	M	18216
+Bayswater - Bassendean	2006		F	3957
+Bayswater - Bassendean	2006		M	4522
+Bayswater - Bassendean	2006	0	F	13127
+Bayswater - Bassendean	2006	0	M	12777
+Bayswater - Bassendean	2006	1	F	18045
+Bayswater - Bassendean	2006	1	M	17437
+Bayswater - Bassendean	2011		F	4265
+Bayswater - Bassendean	2011		M	4955
+Bayswater - Bassendean	2011	0	F	14056
+Bayswater - Bassendean	2011	0	M	14018
+Bayswater - Bassendean	2011	1	F	19786
+Bayswater - Bassendean	2011	1	M	19264
+Bayswater - Bassendean	2016		F	4907
+Bayswater - Bassendean	2016		M	5075
+Bayswater - Bassendean	2016	0	F	15564
+Bayswater - Bassendean	2016	0	M	15502
+Bayswater - Bassendean	2016	1	F	20028
+Bayswater - Bassendean	2016	1	M	19367
+Mundaring	2006		F	1946
+Mundaring	2006		M	3127
+Mundaring	2006	0	F	6914
+Mundaring	2006	0	M	6502
+Mundaring	2006	1	F	10049
+Mundaring	2006	1	M	9963
+Mundaring	2011		F	2035
+Mundaring	2011		M	3625
+Mundaring	2011	0	F	5976
+Mundaring	2011	0	M	5645
+Mundaring	2011	1	F	11670
+Mundaring	2011	1	M	11463
+Mundaring	2016		F	2189
+Mundaring	2016		M	4233
+Mundaring	2016	0	F	6421
+Mundaring	2016	0	M	6171
+Mundaring	2016	1	F	11574
+Mundaring	2016	1	M	11444
+Swan	2006		F	6323
+Swan	2006		M	6845
+Swan	2006	0	F	18517
+Swan	2006	0	M	17730
+Swan	2006	1	F	19670
+Swan	2006	1	M	19397
+Swan	2011		F	6733
+Swan	2011		M	7140
+Swan	2011	0	F	19457
+Swan	2011	0	M	18853
+Swan	2011	1	F	25612
+Swan	2011	1	M	25341
+Swan	2016		F	9175
+Swan	2016		M	9237
+Swan	2016	0	F	26544
+Swan	2016	0	M	25647
+Swan	2016	1	F	29017
+Swan	2016	1	M	28924
+Joondalup	2006		F	7352
+Joondalup	2006		M	8254
+Joondalup	2006	0	F	27936
+Joondalup	2006	0	M	26637
+Joondalup	2006	1	F	40383
+Joondalup	2006	1	M	39113
+Joondalup	2011		F	7234
+Joondalup	2011		M	7835
+Joondalup	2011	0	F	25244
+Joondalup	2011	0	M	24483
+Joondalup	2011	1	F	44567
+Joondalup	2011	1	M	43055
+Joondalup	2016		F	7298
+Joondalup	2016		M	7828
+Joondalup	2016	0	F	25823
+Joondalup	2016	0	M	25186
+Joondalup	2016	1	F	44920
+Joondalup	2016	1	M	43670
+Stirling	2006		F	9848
+Stirling	2006		M	10865
+Stirling	2006	0	F	33300
+Stirling	2006	0	M	30624
+Stirling	2006	1	F	39435
+Stirling	2006	1	M	36379
+Stirling	2011		F	10957
+Stirling	2011		M	12065
+Stirling	2011	0	F	35266
+Stirling	2011	0	M	34407
+Stirling	2011	1	F	44572
+Stirling	2011	1	M	41162
+Stirling	2016		F	12268
+Stirling	2016		M	12463
+Stirling	2016	0	F	39703
+Stirling	2016	0	M	38639
+Stirling	2016	1	F	46420
+Stirling	2016	1	M	42934
+Wanneroo	2006		F	7791
+Wanneroo	2006		M	8337
+Wanneroo	2006	0	F	27768
+Wanneroo	2006	0	M	26377
+Wanneroo	2006	1	F	20390
+Wanneroo	2006	1	M	20279
+Wanneroo	2011		F	10260
+Wanneroo	2011		M	11015
+Wanneroo	2011	0	F	34375
+Wanneroo	2011	0	M	32534
+Wanneroo	2011	1	F	32232
+Wanneroo	2011	1	M	31687
+Wanneroo	2016		F	12837
+Wanneroo	2016		M	13290
+Wanneroo	2016	0	F	40451
+Wanneroo	2016	0	M	38380
+Wanneroo	2016	1	F	41779
+Wanneroo	2016	1	M	41221
+Armadale	2006		F	3356
+Armadale	2006		M	3565
+Armadale	2006	0	F	9547
+Armadale	2006	0	M	8873
+Armadale	2006	1	F	12594
+Armadale	2006	1	M	12608
+Armadale	2011		F	4192
+Armadale	2011		M	4649
+Armadale	2011	0	F	12964
+Armadale	2011	0	M	12326
+Armadale	2011	1	F	14097
+Armadale	2011	1	M	14067
+Armadale	2016		F	5747
+Armadale	2016		M	6147
+Armadale	2016	0	F	17443
+Armadale	2016	0	M	16612
+Armadale	2016	1	F	16812
+Armadale	2016	1	M	16835
+Belmont - Victoria Park	2006		F	4007
+Belmont - Victoria Park	2006		M	4574
+Belmont - Victoria Park	2006	0	F	12267
+Belmont - Victoria Park	2006	0	M	12004
+Belmont - Victoria Park	2006	1	F	11125
+Belmont - Victoria Park	2006	1	M	10800
+Belmont - Victoria Park	2011		F	4248
+Belmont - Victoria Park	2011		M	5130
+Belmont - Victoria Park	2011	0	F	14134
+Belmont - Victoria Park	2011	0	M	14921
+Belmont - Victoria Park	2011	1	F	12823
+Belmont - Victoria Park	2011	1	M	12548
+Belmont - Victoria Park	2016		F	5565
+Belmont - Victoria Park	2016		M	6031
+Belmont - Victoria Park	2016	0	F	15366
+Belmont - Victoria Park	2016	0	M	16385
+Belmont - Victoria Park	2016	1	F	13776
+Belmont - Victoria Park	2016	1	M	13594
+Canning	2006		F	4412
+Canning	2006		M	4760
+Canning	2006	0	F	16787
+Canning	2006	0	M	16038
+Canning	2006	1	F	19891
+Canning	2006	1	M	18536
+Canning	2011		F	4726
+Canning	2011		M	5316
+Canning	2011	0	F	17660
+Canning	2011	0	M	17948
+Canning	2011	1	F	22236
+Canning	2011	1	M	20877
+Canning	2016		F	5224
+Canning	2016		M	5237
+Canning	2016	0	F	19168
+Canning	2016	0	M	20128
+Canning	2016	1	F	22516
+Canning	2016	1	M	21326
+Gosnells	2006		F	6026
+Gosnells	2006		M	6981
+Gosnells	2006	0	F	19154
+Gosnells	2006	0	M	18182
+Gosnells	2006	1	F	20546
+Gosnells	2006	1	M	20684
+Gosnells	2011		F	6840
+Gosnells	2011		M	8409
+Gosnells	2011	0	F	19878
+Gosnells	2011	0	M	19521
+Gosnells	2011	1	F	26114
+Gosnells	2011	1	M	25824
+Gosnells	2016		F	7274
+Gosnells	2016		M	8595
+Gosnells	2016	0	F	21668
+Gosnells	2016	0	M	21989
+Gosnells	2016	1	F	29124
+Gosnells	2016	1	M	29416
+Kalamunda	2006		F	2749
+Kalamunda	2006		M	2923
+Kalamunda	2006	0	F	9379
+Kalamunda	2006	0	M	9142
+Kalamunda	2006	1	F	12832
+Kalamunda	2006	1	M	12512
+Kalamunda	2011		F	2917
+Kalamunda	2011		M	3290
+Kalamunda	2011	0	F	9248
+Kalamunda	2011	0	M	8666
+Kalamunda	2011	1	F	14865
+Kalamunda	2011	1	M	14577
+Kalamunda	2016		F	3247
+Kalamunda	2016		M	3526
+Kalamunda	2016	0	F	9742
+Kalamunda	2016	0	M	9219
+Kalamunda	2016	1	F	16006
+Kalamunda	2016	1	M	15713
+Serpentine - Jarrahdale	2006		F	602
+Serpentine - Jarrahdale	2006		M	899
+Serpentine - Jarrahdale	2006	0	F	2551
+Serpentine - Jarrahdale	2006	0	M	2488
+Serpentine - Jarrahdale	2006	1	F	3200
+Serpentine - Jarrahdale	2006	1	M	3326
+Serpentine - Jarrahdale	2011		F	953
+Serpentine - Jarrahdale	2011		M	1386
+Serpentine - Jarrahdale	2011	0	F	3772
+Serpentine - Jarrahdale	2011	0	M	3603
+Serpentine - Jarrahdale	2011	1	F	4029
+Serpentine - Jarrahdale	2011	1	M	4061
+Serpentine - Jarrahdale	2016		F	1836
+Serpentine - Jarrahdale	2016		M	2349
+Serpentine - Jarrahdale	2016	0	F	6156
+Serpentine - Jarrahdale	2016	0	M	5833
+Serpentine - Jarrahdale	2016	1	F	5249
+Serpentine - Jarrahdale	2016	1	M	5449
+South Perth	2006		F	2365
+South Perth	2006		M	2579
+South Perth	2006	0	F	9320
+South Perth	2006	0	M	9305
+South Perth	2006	1	F	7952
+South Perth	2006	1	M	6923
+South Perth	2011		F	2444
+South Perth	2011		M	2486
+South Perth	2011	0	F	9203
+South Perth	2011	0	M	9203
+South Perth	2011	1	F	9218
+South Perth	2011	1	M	8252
+South Perth	2016		F	2434
+South Perth	2016		M	2469
+South Perth	2016	0	F	9523
+South Perth	2016	0	M	9504
+South Perth	2016	1	F	9509
+South Perth	2016	1	M	8607
+Cockburn	2006		F	4706
+Cockburn	2006		M	5170
+Cockburn	2006	0	F	14333
+Cockburn	2006	0	M	13640
+Cockburn	2006	1	F	17197
+Cockburn	2006	1	M	17016
+Cockburn	2011		F	5073
+Cockburn	2011		M	5744
+Cockburn	2011	0	F	17608
+Cockburn	2011	0	M	17118
+Cockburn	2011	1	F	21179
+Cockburn	2011	1	M	20690
+Cockburn	2016		F	6758
+Cockburn	2016		M	6913
+Cockburn	2016	0	F	20392
+Cockburn	2016	0	M	19527
+Cockburn	2016	1	F	24555
+Cockburn	2016	1	M	23882
+Fremantle	2006		F	1913
+Fremantle	2006		M	2367
+Fremantle	2006	0	F	6434
+Fremantle	2006	0	M	6123
+Fremantle	2006	1	F	7663
+Fremantle	2006	1	M	7158
+Fremantle	2011		F	1962
+Fremantle	2011		M	2128
+Fremantle	2011	0	F	6746
+Fremantle	2011	0	M	6348
+Fremantle	2011	1	F	8503
+Fremantle	2011	1	M	7942
+Fremantle	2016		F	2557
+Fremantle	2016		M	2567
+Fremantle	2016	0	F	7455
+Fremantle	2016	0	M	6937
+Fremantle	2016	1	F	8908
+Fremantle	2016	1	M	8180
+Kwinana	2006		F	1909
+Kwinana	2006		M	2634
+Kwinana	2006	0	F	4648
+Kwinana	2006	0	M	4566
+Kwinana	2006	1	F	4631
+Kwinana	2006	1	M	4801
+Kwinana	2011		F	2389
+Kwinana	2011		M	3144
+Kwinana	2011	0	F	6035
+Kwinana	2011	0	M	5662
+Kwinana	2011	1	F	5932
+Kwinana	2011	1	M	6066
+Kwinana	2016		F	2973
+Kwinana	2016		M	4188
+Kwinana	2016	0	F	8689
+Kwinana	2016	0	M	8385
+Kwinana	2016	1	F	7286
+Kwinana	2016	1	M	7397
+Melville	2006		F	4765
+Melville	2006		M	4872
+Melville	2006	0	F	18621
+Melville	2006	0	M	16972
+Melville	2006	1	F	26640
+Melville	2006	1	M	23717
+Melville	2011		F	4319
+Melville	2011		M	4782
+Melville	2011	0	F	17760
+Melville	2011	0	M	16349
+Melville	2011	1	F	28905
+Melville	2011	1	M	26256
+Melville	2016		F	4962
+Melville	2016		M	5049
+Melville	2016	0	F	18572
+Melville	2016	0	M	17475
+Melville	2016	1	F	28542
+Melville	2016	1	M	26079
+Rockingham	2006		F	5944
+Rockingham	2006		M	6367
+Rockingham	2006	0	F	20197
+Rockingham	2006	0	M	19341
+Rockingham	2006	1	F	16265
+Rockingham	2006	1	M	16196
+Rockingham	2011		F	6788
+Rockingham	2011		M	7686
+Rockingham	2011	0	F	23106
+Rockingham	2011	0	M	22274
+Rockingham	2011	1	F	22359
+Rockingham	2011	1	M	21893
+Rockingham	2016		F	9050
+Rockingham	2016		M	9786
+Rockingham	2016	0	F	28053
+Rockingham	2016	0	M	26633
+Rockingham	2016	1	F	25980
+Rockingham	2016	1	M	25609
+Albany	2006		F	3123
+Albany	2006		M	3617
+Albany	2006	0	F	11192
+Albany	2006	0	M	10742
+Albany	2006	1	F	11935
+Albany	2006	1	M	11987
+Albany	2011		F	2886
+Albany	2011		M	3623
+Albany	2011	0	F	10467
+Albany	2011	0	M	9641
+Albany	2011	1	F	14436
+Albany	2011	1	M	14305
+Albany	2016		F	3924
+Albany	2016		M	4660
+Albany	2016	0	F	10617
+Albany	2016	0	M	10091
+Albany	2016	1	F	14989
+Albany	2016	1	M	14887
+Wheat Belt - North	2006		F	3203
+Wheat Belt - North	2006		M	3622
+Wheat Belt - North	2006	0	F	9573
+Wheat Belt - North	2006	0	M	9478
+Wheat Belt - North	2006	1	F	11757
+Wheat Belt - North	2006	1	M	12782
+Wheat Belt - North	2011		F	3218
+Wheat Belt - North	2011		M	3908
+Wheat Belt - North	2011	0	F	9017
+Wheat Belt - North	2011	0	M	8957
+Wheat Belt - North	2011	1	F	13656
+Wheat Belt - North	2011	1	M	14610
+Wheat Belt - North	2016		F	4093
+Wheat Belt - North	2016		M	5011
+Wheat Belt - North	2016	0	F	8811
+Wheat Belt - North	2016	0	M	8886
+Wheat Belt - North	2016	1	F	13968
+Wheat Belt - North	2016	1	M	15166
+Wheat Belt - South	2006		F	1225
+Wheat Belt - South	2006		M	1229
+Wheat Belt - South	2006	0	F	3632
+Wheat Belt - South	2006	0	M	3491
+Wheat Belt - South	2006	1	F	4888
+Wheat Belt - South	2006	1	M	5383
+Wheat Belt - South	2011		F	1180
+Wheat Belt - South	2011		M	1549
+Wheat Belt - South	2011	0	F	3389
+Wheat Belt - South	2011	0	M	3577
+Wheat Belt - South	2011	1	F	5284
+Wheat Belt - South	2011	1	M	5733
+Wheat Belt - South	2016		F	1705
+Wheat Belt - South	2016		M	1845
+Wheat Belt - South	2016	0	F	3019
+Wheat Belt - South	2016	0	M	2994
+Wheat Belt - South	2016	1	F	5165
+Wheat Belt - South	2016	1	M	5516
+Kimberley	2006		F	3149
+Kimberley	2006		M	3562
+Kimberley	2006	0	F	5709
+Kimberley	2006	0	M	5797
+Kimberley	2006	1	F	5348
+Kimberley	2006	1	M	5732
+Kimberley	2011		F	2882
+Kimberley	2011		M	4860
+Kimberley	2011	0	F	6717
+Kimberley	2011	0	M	6564
+Kimberley	2011	1	F	6687
+Kimberley	2011	1	M	7087
+Kimberley	2016		F	3358
+Kimberley	2016		M	3617
+Kimberley	2016	0	F	7056
+Kimberley	2016	0	M	6608
+Kimberley	2016	1	F	6793
+Kimberley	2016	1	M	6933
+East Pilbara	2006		F	2480
+East Pilbara	2006		M	3206
+East Pilbara	2006	0	F	3762
+East Pilbara	2006	0	M	4445
+East Pilbara	2006	1	F	2043
+East Pilbara	2006	1	M	2564
+East Pilbara	2011		F	2623
+East Pilbara	2011		M	4618
+East Pilbara	2011	0	F	5389
+East Pilbara	2011	0	M	8552
+East Pilbara	2011	1	F	2366
+East Pilbara	2011	1	M	3444
+East Pilbara	2016		F	2402
+East Pilbara	2016		M	3698
+East Pilbara	2016	0	F	5416
+East Pilbara	2016	0	M	7375
+East Pilbara	2016	1	F	2456
+East Pilbara	2016	1	M	3708
+West Pilbara	2006		F	2181
+West Pilbara	2006		M	3006
+West Pilbara	2006	0	F	5460
+West Pilbara	2006	0	M	6137
+West Pilbara	2006	1	F	2562
+West Pilbara	2006	1	M	3155
+West Pilbara	2011		F	3022
+West Pilbara	2011		M	5691
+West Pilbara	2011	0	F	6750
+West Pilbara	2011	0	M	10501
+West Pilbara	2011	1	F	2858
+West Pilbara	2011	1	M	4076
+West Pilbara	2016		F	2724
+West Pilbara	2016		M	5044
+West Pilbara	2016	0	F	7572
+West Pilbara	2016	0	M	11781
+West Pilbara	2016	1	F	2837
+West Pilbara	2016	1	M	4544
+Esperance	2006		F	944
+Esperance	2006		M	1116
+Esperance	2006	0	F	3125
+Esperance	2006	0	M	3108
+Esperance	2006	1	F	3199
+Esperance	2006	1	M	3423
+Esperance	2011		F	1053
+Esperance	2011		M	1197
+Esperance	2011	0	F	2989
+Esperance	2011	0	M	2989
+Esperance	2011	1	F	3647
+Esperance	2011	1	M	3731
+Esperance	2016		F	1363
+Esperance	2016		M	1526
+Esperance	2016	0	F	2748
+Esperance	2016	0	M	2698
+Esperance	2016	1	F	3750
+Esperance	2016	1	M	3884
+Gascoyne	2006		F	697
+Gascoyne	2006		M	786
+Gascoyne	2006	0	F	1866
+Gascoyne	2006	0	M	1905
+Gascoyne	2006	1	F	1703
+Gascoyne	2006	1	M	1935
+Gascoyne	2011		F	783
+Gascoyne	2011		M	873
+Gascoyne	2011	0	F	1720
+Gascoyne	2011	0	M	1810
+Gascoyne	2011	1	F	1945
+Gascoyne	2011	1	M	2163
+Gascoyne	2016		F	866
+Gascoyne	2016		M	1012
+Gascoyne	2016	0	F	1740
+Gascoyne	2016	0	M	1790
+Gascoyne	2016	1	F	1885
+Gascoyne	2016	1	M	2193
+Goldfields	2006		F	3465
+Goldfields	2006		M	4035
+Goldfields	2006	0	F	8338
+Goldfields	2006	0	M	9119
+Goldfields	2006	1	F	5648
+Goldfields	2006	1	M	6375
+Goldfields	2011		F	3747
+Goldfields	2011		M	4967
+Goldfields	2011	0	F	8822
+Goldfields	2011	0	M	10027
+Goldfields	2011	1	F	6696
+Goldfields	2011	1	M	7556
+Goldfields	2016		F	3348
+Goldfields	2016		M	4171
+Goldfields	2016	0	F	7697
+Goldfields	2016	0	M	8423
+Goldfields	2016	1	F	7250
+Goldfields	2016	1	M	8206
+Mid West	2006		F	3602
+Mid West	2006		M	4125
+Mid West	2006	0	F	9855
+Mid West	2006	0	M	9800
+Mid West	2006	1	F	10340
+Mid West	2006	1	M	10817
+Mid West	2011		F	3403
+Mid West	2011		M	4191
+Mid West	2011	0	F	10419
+Mid West	2011	0	M	10716
+Mid West	2011	1	F	12191
+Mid West	2011	1	M	12736
+Mid West	2016		F	4140
+Mid West	2016		M	4802
+Mid West	2016	0	F	9772
+Mid West	2016	0	M	9404
+Mid West	2016	1	F	12605
+Mid West	2016	1	M	13291
+Migratory - Offshore - Shipping (WA)	2006		F	-1
+Migratory - Offshore - Shipping (WA)	2006		M	46
+Migratory - Offshore - Shipping (WA)	2006	0	F	18
+Migratory - Offshore - Shipping (WA)	2006	0	M	136
+Migratory - Offshore - Shipping (WA)	2006	1	F	9
+Migratory - Offshore - Shipping (WA)	2006	1	M	132
+Migratory - Offshore - Shipping (WA)	2011		F	6
+Migratory - Offshore - Shipping (WA)	2011		M	70
+Migratory - Offshore - Shipping (WA)	2011	0	F	20
+Migratory - Offshore - Shipping (WA)	2011	0	M	158
+Migratory - Offshore - Shipping (WA)	2011	1	F	7
+Migratory - Offshore - Shipping (WA)	2011	1	M	153
+Migratory - Offshore - Shipping (WA)	2016		F	-1
+Migratory - Offshore - Shipping (WA)	2016		M	78
+Migratory - Offshore - Shipping (WA)	2016	0	F	18
+Migratory - Offshore - Shipping (WA)	2016	0	M	187
+Migratory - Offshore - Shipping (WA)	2016	1	F	9
+Migratory - Offshore - Shipping (WA)	2016	1	M	143
+No usual address (WA)	2006		F	398
+No usual address (WA)	2006		M	667
+No usual address (WA)	2006	0	F	1966
+No usual address (WA)	2006	0	M	2419
+No usual address (WA)	2006	1	F	177
+No usual address (WA)	2006	1	M	356
+No usual address (WA)	2011		F	580
+No usual address (WA)	2011		M	1079
+No usual address (WA)	2011	0	F	2189
+No usual address (WA)	2011	0	M	2727
+No usual address (WA)	2011	1	F	241
+No usual address (WA)	2011	1	M	479
+No usual address (WA)	2016		F	686
+No usual address (WA)	2016		M	1094
+No usual address (WA)	2016	0	F	1495
+No usual address (WA)	2016	0	M	1945
+No usual address (WA)	2016	1	F	234
+No usual address (WA)	2016	1	M	493
+Brighton	2006		F	1176
+Brighton	2006		M	1272
+Brighton	2006	0	F	2669
+Brighton	2006	0	M	2352
+Brighton	2006	1	F	3645
+Brighton	2006	1	M	3575
+Brighton	2011		F	1234
+Brighton	2011		M	1147
+Brighton	2011	0	F	2658
+Brighton	2011	0	M	2311
+Brighton	2011	1	F	4356
+Brighton	2011	1	M	4303
+Brighton	2016		F	1322
+Brighton	2016		M	1339
+Brighton	2016	0	F	2690
+Brighton	2016	0	M	2305
+Brighton	2016	1	F	4711
+Brighton	2016	1	M	4700
+Hobart - North East	2006		F	2593
+Hobart - North East	2006		M	2951
+Hobart - North East	2006	0	F	7692
+Hobart - North East	2006	0	M	7036
+Hobart - North East	2006	1	F	13968
+Hobart - North East	2006	1	M	12905
+Hobart - North East	2011		F	2666
+Hobart - North East	2011		M	3139
+Hobart - North East	2011	0	F	8117
+Hobart - North East	2011	0	M	7435
+Hobart - North East	2011	1	F	14637
+Hobart - North East	2011	1	M	13649
+Hobart - North East	2016		F	3003
+Hobart - North East	2016		M	3412
+Hobart - North East	2016	0	F	8842
+Hobart - North East	2016	0	M	7910
+Hobart - North East	2016	1	F	15269
+Hobart - North East	2016	1	M	14166
+Hobart - North West	2006		F	3130
+Hobart - North West	2006		M	3204
+Hobart - North West	2006	0	F	8826
+Hobart - North West	2006	0	M	7870
+Hobart - North West	2006	1	F	14008
+Hobart - North West	2006	1	M	12915
+Hobart - North West	2011		F	2874
+Hobart - North West	2011		M	2984
+Hobart - North West	2011	0	F	8707
+Hobart - North West	2011	0	M	7947
+Hobart - North West	2011	1	F	14919
+Hobart - North West	2011	1	M	13820
+Hobart - North West	2016		F	3619
+Hobart - North West	2016		M	3510
+Hobart - North West	2016	0	F	9000
+Hobart - North West	2016	0	M	8227
+Hobart - North West	2016	1	F	14797
+Hobart - North West	2016	1	M	14002
+Hobart - South and West	2006		F	1482
+Hobart - South and West	2006		M	1513
+Hobart - South and West	2006	0	F	5566
+Hobart - South and West	2006	0	M	4873
+Hobart - South and West	2006	1	F	7602
+Hobart - South and West	2006	1	M	7182
+Hobart - South and West	2011		F	1499
+Hobart - South and West	2011		M	1602
+Hobart - South and West	2011	0	F	5825
+Hobart - South and West	2011	0	M	5325
+Hobart - South and West	2011	1	F	8789
+Hobart - South and West	2011	1	M	8054
+Hobart - South and West	2016		F	1813
+Hobart - South and West	2016		M	1787
+Hobart - South and West	2016	0	F	5991
+Hobart - South and West	2016	0	M	5407
+Hobart - South and West	2016	1	F	9302
+Hobart - South and West	2016	1	M	8580
+Hobart Inner	2006		F	2564
+Hobart Inner	2006		M	2872
+Hobart Inner	2006	0	F	10602
+Hobart Inner	2006	0	M	9928
+Hobart Inner	2006	1	F	11372
+Hobart Inner	2006	1	M	10364
+Hobart Inner	2011		F	2292
+Hobart Inner	2011		M	2616
+Hobart Inner	2011	0	F	10379
+Hobart Inner	2011	0	M	9860
+Hobart Inner	2011	1	F	12305
+Hobart Inner	2011	1	M	11350
+Hobart Inner	2016		F	2693
+Hobart Inner	2016		M	2823
+Hobart Inner	2016	0	F	10955
+Hobart Inner	2016	0	M	10533
+Hobart Inner	2016	1	F	12272
+Hobart Inner	2016	1	M	11284
+Sorell - Dodges Ferry	2006		F	713
+Sorell - Dodges Ferry	2006		M	767
+Sorell - Dodges Ferry	2006	0	F	2757
+Sorell - Dodges Ferry	2006	0	M	2547
+Sorell - Dodges Ferry	2006	1	F	3490
+Sorell - Dodges Ferry	2006	1	M	3571
+Sorell - Dodges Ferry	2011		F	835
+Sorell - Dodges Ferry	2011		M	825
+Sorell - Dodges Ferry	2011	0	F	2582
+Sorell - Dodges Ferry	2011	0	M	2373
+Sorell - Dodges Ferry	2011	1	F	4092
+Sorell - Dodges Ferry	2011	1	M	4140
+Sorell - Dodges Ferry	2016		F	1042
+Sorell - Dodges Ferry	2016		M	1055
+Sorell - Dodges Ferry	2016	0	F	2673
+Sorell - Dodges Ferry	2016	0	M	2461
+Sorell - Dodges Ferry	2016	1	F	4425
+Sorell - Dodges Ferry	2016	1	M	4429
+Launceston	2006		F	4292
+Launceston	2006		M	4310
+Launceston	2006	0	F	15278
+Launceston	2006	0	M	13748
+Launceston	2006	1	F	19832
+Launceston	2006	1	M	18281
+Launceston	2011		F	4101
+Launceston	2011		M	4279
+Launceston	2011	0	F	15259
+Launceston	2011	0	M	13787
+Launceston	2011	1	F	21594
+Launceston	2011	1	M	20022
+Launceston	2016		F	5395
+Launceston	2016		M	5202
+Launceston	2016	0	F	15164
+Launceston	2016	0	M	13893
+Launceston	2016	1	F	21401
+Launceston	2016	1	M	19863
+Meander Valley - West Tamar	2006		F	1209
+Meander Valley - West Tamar	2006		M	1247
+Meander Valley - West Tamar	2006	0	F	3846
+Meander Valley - West Tamar	2006	0	M	3622
+Meander Valley - West Tamar	2006	1	F	5952
+Meander Valley - West Tamar	2006	1	M	6025
+Meander Valley - West Tamar	2011		F	1051
+Meander Valley - West Tamar	2011		M	1147
+Meander Valley - West Tamar	2011	0	F	3516
+Meander Valley - West Tamar	2011	0	M	3140
+Meander Valley - West Tamar	2011	1	F	6621
+Meander Valley - West Tamar	2011	1	M	6535
+Meander Valley - West Tamar	2016		F	1365
+Meander Valley - West Tamar	2016		M	1401
+Meander Valley - West Tamar	2016	0	F	3411
+Meander Valley - West Tamar	2016	0	M	3095
+Meander Valley - West Tamar	2016	1	F	6526
+Meander Valley - West Tamar	2016	1	M	6646
+North East	2006		F	1978
+North East	2006		M	2104
+North East	2006	0	F	6148
+North East	2006	0	M	5990
+North East	2006	1	F	9826
+North East	2006	1	M	10239
+North East	2011		F	1796
+North East	2011		M	1942
+North East	2011	0	F	5822
+North East	2011	0	M	5413
+North East	2011	1	F	10531
+North East	2011	1	M	11008
+North East	2016		F	2455
+North East	2016		M	2662
+North East	2016	0	F	5293
+North East	2016	0	M	5001
+North East	2016	1	F	10703
+North East	2016	1	M	11007
+Central Highlands (Tas.)	2006		F	585
+Central Highlands (Tas.)	2006		M	761
+Central Highlands (Tas.)	2006	0	F	1688
+Central Highlands (Tas.)	2006	0	M	1696
+Central Highlands (Tas.)	2006	1	F	2894
+Central Highlands (Tas.)	2006	1	M	3223
+Central Highlands (Tas.)	2011		F	656
+Central Highlands (Tas.)	2011		M	793
+Central Highlands (Tas.)	2011	0	F	1548
+Central Highlands (Tas.)	2011	0	M	1521
+Central Highlands (Tas.)	2011	1	F	3235
+Central Highlands (Tas.)	2011	1	M	3586
+Central Highlands (Tas.)	2016		F	735
+Central Highlands (Tas.)	2016		M	778
+Central Highlands (Tas.)	2016	0	F	1323
+Central Highlands (Tas.)	2016	0	M	1340
+Central Highlands (Tas.)	2016	1	F	3296
+Central Highlands (Tas.)	2016	1	M	3758
+Huon - Bruny Island	2006		F	875
+Huon - Bruny Island	2006		M	1038
+Huon - Bruny Island	2006	0	F	3071
+Huon - Bruny Island	2006	0	M	2918
+Huon - Bruny Island	2006	1	F	4209
+Huon - Bruny Island	2006	1	M	4507
+Huon - Bruny Island	2011		F	948
+Huon - Bruny Island	2011		M	1029
+Huon - Bruny Island	2011	0	F	3119
+Huon - Bruny Island	2011	0	M	3042
+Huon - Bruny Island	2011	1	F	4783
+Huon - Bruny Island	2011	1	M	5021
+Huon - Bruny Island	2016		F	1199
+Huon - Bruny Island	2016		M	1167
+Huon - Bruny Island	2016	0	F	3124
+Huon - Bruny Island	2016	0	M	2993
+Huon - Bruny Island	2016	1	F	5197
+Huon - Bruny Island	2016	1	M	5463
+South East Coast	2006		F	356
+South East Coast	2006		M	393
+South East Coast	2006	0	F	1158
+South East Coast	2006	0	M	1128
+South East Coast	2006	1	F	1644
+South East Coast	2006	1	M	1750
+South East Coast	2011		F	315
+South East Coast	2011		M	298
+South East Coast	2011	0	F	989
+South East Coast	2011	0	M	1001
+South East Coast	2011	1	F	1890
+South East Coast	2011	1	M	2021
+South East Coast	2016		F	499
+South East Coast	2016		M	494
+South East Coast	2016	0	F	970
+South East Coast	2016	0	M	964
+South East Coast	2016	1	F	1828
+South East Coast	2016	1	M	1993
+Burnie - Ulverstone	2006		F	2486
+Burnie - Ulverstone	2006		M	2494
+Burnie - Ulverstone	2006	0	F	8800
+Burnie - Ulverstone	2006	0	M	7840
+Burnie - Ulverstone	2006	1	F	13052
+Burnie - Ulverstone	2006	1	M	12415
+Burnie - Ulverstone	2011		F	2575
+Burnie - Ulverstone	2011		M	2698
+Burnie - Ulverstone	2011	0	F	8305
+Burnie - Ulverstone	2011	0	M	7314
+Burnie - Ulverstone	2011	1	F	13934
+Burnie - Ulverstone	2011	1	M	13143
+Burnie - Ulverstone	2016		F	2989
+Burnie - Ulverstone	2016		M	2942
+Burnie - Ulverstone	2016	0	F	7802
+Burnie - Ulverstone	2016	0	M	6929
+Burnie - Ulverstone	2016	1	F	13787
+Burnie - Ulverstone	2016	1	M	13078
+Devonport	2006		F	2082
+Devonport	2006		M	2203
+Devonport	2006	0	F	7385
+Devonport	2006	0	M	6798
+Devonport	2006	1	F	11349
+Devonport	2006	1	M	11003
+Devonport	2011		F	2205
+Devonport	2011		M	2343
+Devonport	2011	0	F	7769
+Devonport	2011	0	M	6970
+Devonport	2011	1	F	12162
+Devonport	2011	1	M	11775
+Devonport	2016		F	2786
+Devonport	2016		M	2659
+Devonport	2016	0	F	7533
+Devonport	2016	0	M	6673
+Devonport	2016	1	F	12521
+Devonport	2016	1	M	12077
+West Coast	2006		F	896
+West Coast	2006		M	1107
+West Coast	2006	0	F	3471
+West Coast	2006	0	M	3432
+West Coast	2006	1	F	4444
+West Coast	2006	1	M	4878
+West Coast	2011		F	985
+West Coast	2011		M	1219
+West Coast	2011	0	F	2907
+West Coast	2011	0	M	2819
+West Coast	2011	1	F	4794
+West Coast	2011	1	M	5229
+West Coast	2016		F	1162
+West Coast	2016		M	1252
+West Coast	2016	0	F	2612
+West Coast	2016	0	M	2592
+West Coast	2016	1	F	4568
+West Coast	2016	1	M	5057
+Migratory - Offshore - Shipping (Tas.)	2006		F	-4
+Migratory - Offshore - Shipping (Tas.)	2006		M	8
+Migratory - Offshore - Shipping (Tas.)	2006	0	F	9
+Migratory - Offshore - Shipping (Tas.)	2006	0	M	56
+Migratory - Offshore - Shipping (Tas.)	2006	1	F	5
+Migratory - Offshore - Shipping (Tas.)	2006	1	M	14
+Migratory - Offshore - Shipping (Tas.)	2011		F	6
+Migratory - Offshore - Shipping (Tas.)	2011		M	10
+Migratory - Offshore - Shipping (Tas.)	2011	0	F	16
+Migratory - Offshore - Shipping (Tas.)	2011	0	M	43
+Migratory - Offshore - Shipping (Tas.)	2011	1	F	14
+Migratory - Offshore - Shipping (Tas.)	2011	1	M	29
+Migratory - Offshore - Shipping (Tas.)	2016		F	0
+Migratory - Offshore - Shipping (Tas.)	2016		M	3
+Migratory - Offshore - Shipping (Tas.)	2016	0	F	8
+Migratory - Offshore - Shipping (Tas.)	2016	0	M	25
+Migratory - Offshore - Shipping (Tas.)	2016	1	F	13
+Migratory - Offshore - Shipping (Tas.)	2016	1	M	21
+No usual address (Tas.)	2006		F	51
+No usual address (Tas.)	2006		M	79
+No usual address (Tas.)	2006	0	F	325
+No usual address (Tas.)	2006	0	M	314
+No usual address (Tas.)	2006	1	F	37
+No usual address (Tas.)	2006	1	M	67
+No usual address (Tas.)	2011		F	67
+No usual address (Tas.)	2011		M	157
+No usual address (Tas.)	2011	0	F	355
+No usual address (Tas.)	2011	0	M	396
+No usual address (Tas.)	2011	1	F	38
+No usual address (Tas.)	2011	1	M	60
+No usual address (Tas.)	2016		F	90
+No usual address (Tas.)	2016		M	151
+No usual address (Tas.)	2016	0	F	258
+No usual address (Tas.)	2016	0	M	284
+No usual address (Tas.)	2016	1	F	45
+No usual address (Tas.)	2016	1	M	89
+Darwin City	2006		F	1560
+Darwin City	2006		M	2122
+Darwin City	2006	0	F	5054
+Darwin City	2006	0	M	5626
+Darwin City	2006	1	F	2268
+Darwin City	2006	1	M	2804
+Darwin City	2011		F	1730
+Darwin City	2011		M	2485
+Darwin City	2011	0	F	5916
+Darwin City	2011	0	M	6474
+Darwin City	2011	1	F	2853
+Darwin City	2011	1	M	3311
+Darwin City	2016		F	2100
+Darwin City	2016		M	2542
+Darwin City	2016	0	F	6863
+Darwin City	2016	0	M	7836
+Darwin City	2016	1	F	3084
+Darwin City	2016	1	M	3411
+Darwin Suburbs	2006		F	3737
+Darwin Suburbs	2006		M	4504
+Darwin Suburbs	2006	0	F	9847
+Darwin Suburbs	2006	0	M	9519
+Darwin Suburbs	2006	1	F	9863
+Darwin Suburbs	2006	1	M	10251
+Darwin Suburbs	2011		F	4177
+Darwin Suburbs	2011		M	5929
+Darwin Suburbs	2011	0	F	10067
+Darwin Suburbs	2011	0	M	9849
+Darwin Suburbs	2011	1	F	10720
+Darwin Suburbs	2011	1	M	10831
+Darwin Suburbs	2016		F	4708
+Darwin Suburbs	2016		M	4885
+Darwin Suburbs	2016	0	F	11348
+Darwin Suburbs	2016	0	M	11419
+Darwin Suburbs	2016	1	F	10623
+Darwin Suburbs	2016	1	M	10780
+Litchfield	2006		F	1214
+Litchfield	2006		M	1519
+Litchfield	2006	0	F	2424
+Litchfield	2006	0	M	3029
+Litchfield	2006	1	F	3195
+Litchfield	2006	1	M	3812
+Litchfield	2011		F	1600
+Litchfield	2011		M	1947
+Litchfield	2011	0	F	2912
+Litchfield	2011	0	M	3645
+Litchfield	2011	1	F	3979
+Litchfield	2011	1	M	4533
+Litchfield	2016		F	1856
+Litchfield	2016		M	4087
+Litchfield	2016	0	F	3207
+Litchfield	2016	0	M	4481
+Litchfield	2016	1	F	4457
+Litchfield	2016	1	M	5441
+Palmerston	2006		F	2550
+Palmerston	2006		M	2840
+Palmerston	2006	0	F	5964
+Palmerston	2006	0	M	5739
+Palmerston	2006	1	F	3228
+Palmerston	2006	1	M	3313
+Palmerston	2011		F	2532
+Palmerston	2011		M	2761
+Palmerston	2011	0	F	6951
+Palmerston	2011	0	M	6828
+Palmerston	2011	1	F	4247
+Palmerston	2011	1	M	4297
+Palmerston	2016		F	3181
+Palmerston	2016		M	3323
+Palmerston	2016	0	F	8617
+Palmerston	2016	0	M	8577
+Palmerston	2016	1	F	4900
+Palmerston	2016	1	M	5097
+Alice Springs	2006		F	2933
+Alice Springs	2006		M	3418
+Alice Springs	2006	0	F	6851
+Alice Springs	2006	0	M	6344
+Alice Springs	2006	1	F	7991
+Alice Springs	2006	1	M	7803
+Alice Springs	2011		F	2770
+Alice Springs	2011		M	3759
+Alice Springs	2011	0	F	6899
+Alice Springs	2011	0	M	6602
+Alice Springs	2011	1	F	8152
+Alice Springs	2011	1	M	7883
+Alice Springs	2016		F	3473
+Alice Springs	2016		M	4028
+Alice Springs	2016	0	F	6584
+Alice Springs	2016	0	M	6235
+Alice Springs	2016	1	F	8122
+Alice Springs	2016	1	M	7637
+Barkly	2006		F	594
+Barkly	2006		M	718
+Barkly	2006	0	F	720
+Barkly	2006	0	M	712
+Barkly	2006	1	F	1283
+Barkly	2006	1	M	1362
+Barkly	2011		F	574
+Barkly	2011		M	601
+Barkly	2011	0	F	775
+Barkly	2011	0	M	787
+Barkly	2011	1	F	1496
+Barkly	2011	1	M	1488
+Barkly	2016		F	447
+Barkly	2016		M	628
+Barkly	2016	0	F	771
+Barkly	2016	0	M	802
+Barkly	2016	1	F	1422
+Barkly	2016	1	M	1462
+Daly - Tiwi - West Arnhem	2006		F	1140
+Daly - Tiwi - West Arnhem	2006		M	1467
+Daly - Tiwi - West Arnhem	2006	0	F	1271
+Daly - Tiwi - West Arnhem	2006	0	M	1482
+Daly - Tiwi - West Arnhem	2006	1	F	4200
+Daly - Tiwi - West Arnhem	2006	1	M	4252
+Daly - Tiwi - West Arnhem	2011		F	969
+Daly - Tiwi - West Arnhem	2011		M	1237
+Daly - Tiwi - West Arnhem	2011	0	F	1676
+Daly - Tiwi - West Arnhem	2011	0	M	1835
+Daly - Tiwi - West Arnhem	2011	1	F	4880
+Daly - Tiwi - West Arnhem	2011	1	M	5154
+Daly - Tiwi - West Arnhem	2016		F	1379
+Daly - Tiwi - West Arnhem	2016		M	1571
+Daly - Tiwi - West Arnhem	2016	0	F	1407
+Daly - Tiwi - West Arnhem	2016	0	M	1461
+Daly - Tiwi - West Arnhem	2016	1	F	5046
+Daly - Tiwi - West Arnhem	2016	1	M	5240
+East Arnhem	2006		F	1045
+East Arnhem	2006		M	1236
+East Arnhem	2006	0	F	1627
+East Arnhem	2006	0	M	1933
+East Arnhem	2006	1	F	3699
+East Arnhem	2006	1	M	3709
+East Arnhem	2011		F	916
+East Arnhem	2011		M	1022
+East Arnhem	2011	0	F	1766
+East Arnhem	2011	0	M	1946
+East Arnhem	2011	1	F	4131
+East Arnhem	2011	1	M	4237
+East Arnhem	2016		F	922
+East Arnhem	2016		M	1094
+East Arnhem	2016	0	F	1419
+East Arnhem	2016	0	M	1356
+East Arnhem	2016	1	F	4098
+East Arnhem	2016	1	M	4127
+Katherine	2006		F	1788
+Katherine	2006		M	1961
+Katherine	2006	0	F	2713
+Katherine	2006	0	M	2770
+Katherine	2006	1	F	3888
+Katherine	2006	1	M	4000
+Katherine	2011		F	1649
+Katherine	2011		M	1705
+Katherine	2011	0	F	2821
+Katherine	2011	0	M	2774
+Katherine	2011	1	F	4392
+Katherine	2011	1	M	4484
+Katherine	2016		F	2070
+Katherine	2016		M	2356
+Katherine	2016	0	F	2501
+Katherine	2016	0	M	2709
+Katherine	2016	1	F	4491
+Katherine	2016	1	M	4583
+Migratory - Offshore - Shipping (NT)	2006		F	3
+Migratory - Offshore - Shipping (NT)	2006		M	14
+Migratory - Offshore - Shipping (NT)	2006	0	F	10
+Migratory - Offshore - Shipping (NT)	2006	0	M	36
+Migratory - Offshore - Shipping (NT)	2006	1	F	4
+Migratory - Offshore - Shipping (NT)	2006	1	M	28
+Migratory - Offshore - Shipping (NT)	2011		F	5
+Migratory - Offshore - Shipping (NT)	2011		M	14
+Migratory - Offshore - Shipping (NT)	2011	0	F	9
+Migratory - Offshore - Shipping (NT)	2011	0	M	42
+Migratory - Offshore - Shipping (NT)	2011	1	F	5
+Migratory - Offshore - Shipping (NT)	2011	1	M	34
+Migratory - Offshore - Shipping (NT)	2016		F	5
+Migratory - Offshore - Shipping (NT)	2016		M	18
+Migratory - Offshore - Shipping (NT)	2016	0	F	4
+Migratory - Offshore - Shipping (NT)	2016	0	M	4
+Migratory - Offshore - Shipping (NT)	2016	1	F	5
+Migratory - Offshore - Shipping (NT)	2016	1	M	39
+No usual address (NT)	2006		F	154
+No usual address (NT)	2006		M	219
+No usual address (NT)	2006	0	F	663
+No usual address (NT)	2006	0	M	709
+No usual address (NT)	2006	1	F	46
+No usual address (NT)	2006	1	M	115
+No usual address (NT)	2011		F	145
+No usual address (NT)	2011		M	195
+No usual address (NT)	2011	0	F	646
+No usual address (NT)	2011	0	M	711
+No usual address (NT)	2011	1	F	59
+No usual address (NT)	2011	1	M	111
+No usual address (NT)	2016		F	341
+No usual address (NT)	2016		M	435
+No usual address (NT)	2016	0	F	657
+No usual address (NT)	2016	0	M	666
+No usual address (NT)	2016	1	F	159
+No usual address (NT)	2016	1	M	231
+Belconnen	2006		F	4526
+Belconnen	2006		M	4947
+Belconnen	2006	0	F	15289
+Belconnen	2006	0	M	14809
+Belconnen	2006	1	F	22955
+Belconnen	2006	1	M	21861
+Belconnen	2011		F	5329
+Belconnen	2011		M	5742
+Belconnen	2011	0	F	17212
+Belconnen	2011	0	M	16586
+Belconnen	2011	1	F	24246
+Belconnen	2011	1	M	23353
+Belconnen	2016		F	5675
+Belconnen	2016		M	5947
+Belconnen	2016	0	F	17762
+Belconnen	2016	0	M	17598
+Belconnen	2016	1	F	25203
+Belconnen	2016	1	M	23864
+Canberra East	2006		F	70
+Canberra East	2006		M	84
+Canberra East	2006	0	F	210
+Canberra East	2006	0	M	279
+Canberra East	2006	1	F	170
+Canberra East	2006	1	M	292
+Canberra East	2011		F	66
+Canberra East	2011		M	394
+Canberra East	2011	0	F	178
+Canberra East	2011	0	M	230
+Canberra East	2011	1	F	240
+Canberra East	2011	1	M	353
+Canberra East	2016		F	143
+Canberra East	2016		M	544
+Canberra East	2016	0	F	154
+Canberra East	2016	0	M	205
+Canberra East	2016	1	F	218
+Canberra East	2016	1	M	313
+Gungahlin	2006		F	2241
+Gungahlin	2006		M	2318
+Gungahlin	2006	0	F	8224
+Gungahlin	2006	0	M	7682
+Gungahlin	2006	1	F	5748
+Gungahlin	2006	1	M	5451
+Gungahlin	2011		F	2808
+Gungahlin	2011		M	3132
+Gungahlin	2011	0	F	12567
+Gungahlin	2011	0	M	12120
+Gungahlin	2011	1	F	8582
+Gungahlin	2011	1	M	8094
+Gungahlin	2016		F	4732
+Gungahlin	2016		M	5104
+Gungahlin	2016	0	F	19188
+Gungahlin	2016	0	M	18570
+Gungahlin	2016	1	F	12000
+Gungahlin	2016	1	M	11548
+North Canberra	2006		F	2337
+North Canberra	2006		M	2815
+North Canberra	2006	0	F	10179
+North Canberra	2006	0	M	10740
+North Canberra	2006	1	F	8327
+North Canberra	2006	1	M	7548
+North Canberra	2011		F	2495
+North Canberra	2011		M	3008
+North Canberra	2011	0	F	12114
+North Canberra	2011	0	M	12789
+North Canberra	2011	1	F	9111
+North Canberra	2011	1	M	8515
+North Canberra	2016		F	3053
+North Canberra	2016		M	3304
+North Canberra	2016	0	F	14239
+North Canberra	2016	0	M	14604
+North Canberra	2016	1	F	9262
+North Canberra	2016	1	M	8541
+South Canberra	2006		F	1240
+South Canberra	2006		M	1338
+South Canberra	2006	0	F	5193
+South Canberra	2006	0	M	5047
+South Canberra	2006	1	F	5226
+South Canberra	2006	1	M	4685
+South Canberra	2011		F	1166
+South Canberra	2011		M	1312
+South Canberra	2011	0	F	5827
+South Canberra	2011	0	M	5539
+South Canberra	2011	1	F	5361
+South Canberra	2011	1	M	4989
+South Canberra	2016		F	1771
+South Canberra	2016		M	1701
+South Canberra	2016	0	F	6747
+South Canberra	2016	0	M	6346
+South Canberra	2016	1	F	5412
+South Canberra	2016	1	M	5035
+Tuggeranong	2006		F	4628
+Tuggeranong	2006		M	4881
+Tuggeranong	2006	0	F	14891
+Tuggeranong	2006	0	M	14214
+Tuggeranong	2006	1	F	24695
+Tuggeranong	2006	1	M	23809
+Tuggeranong	2011		F	4164
+Tuggeranong	2011		M	4596
+Tuggeranong	2011	0	F	13621
+Tuggeranong	2011	0	M	12979
+Tuggeranong	2011	1	F	26315
+Tuggeranong	2011	1	M	25227
+Tuggeranong	2016		F	4900
+Tuggeranong	2016		M	4893
+Tuggeranong	2016	0	F	12977
+Tuggeranong	2016	0	M	12304
+Tuggeranong	2016	1	F	25635
+Tuggeranong	2016	1	M	24445
+Weston Creek	2006		F	984
+Weston Creek	2006		M	1151
+Weston Creek	2006	0	F	3710
+Weston Creek	2006	0	M	3362
+Weston Creek	2006	1	F	6661
+Weston Creek	2006	1	M	6197
+Weston Creek	2011		F	1151
+Weston Creek	2011		M	1231
+Weston Creek	2011	0	F	3570
+Weston Creek	2011	0	M	3450
+Weston Creek	2011	1	F	6927
+Weston Creek	2011	1	M	6428
+Weston Creek	2016		F	1455
+Weston Creek	2016		M	1380
+Weston Creek	2016	0	F	3691
+Weston Creek	2016	0	M	3465
+Weston Creek	2016	1	F	6747
+Weston Creek	2016	1	M	6245
+Woden Valley	2006		F	1640
+Woden Valley	2006		M	1751
+Woden Valley	2006	0	F	6028
+Woden Valley	2006	0	M	5718
+Woden Valley	2006	1	F	8734
+Woden Valley	2006	1	M	8122
+Woden Valley	2011		F	1348
+Woden Valley	2011		M	1536
+Woden Valley	2011	0	F	6616
+Woden Valley	2011	0	M	6216
+Woden Valley	2011	1	F	8925
+Woden Valley	2011	1	M	8320
+Woden Valley	2016		F	1894
+Woden Valley	2016		M	1940
+Woden Valley	2016	0	F	7090
+Woden Valley	2016	0	M	6834
+Woden Valley	2016	1	F	8855
+Woden Valley	2016	1	M	8147
+Molonglo	2006		F	0
+Molonglo	2006		M	0
+Molonglo	2006	0	F	0
+Molonglo	2006	0	M	0
+Molonglo	2006	1	F	0
+Molonglo	2006	1	M	0
+Molonglo	2011		F	-2
+Molonglo	2011		M	0
+Molonglo	2011	0	F	3
+Molonglo	2011	0	M	0
+Molonglo	2011	1	F	3
+Molonglo	2011	1	M	3
+Molonglo	2016		F	360
+Molonglo	2016		M	393
+Molonglo	2016	0	F	1926
+Molonglo	2016	0	M	1799
+Molonglo	2016	1	F	55
+Molonglo	2016	1	M	44
+Urriarra - Namadgi	2006		F	16
+Urriarra - Namadgi	2006		M	13
+Urriarra - Namadgi	2006	0	F	53
+Urriarra - Namadgi	2006	0	M	77
+Urriarra - Namadgi	2006	1	F	76
+Urriarra - Namadgi	2006	1	M	97
+Urriarra - Namadgi	2011		F	15
+Urriarra - Namadgi	2011		M	20
+Urriarra - Namadgi	2011	0	F	123
+Urriarra - Namadgi	2011	0	M	139
+Urriarra - Namadgi	2011	1	F	86
+Urriarra - Namadgi	2011	1	M	106
+Urriarra - Namadgi	2016		F	40
+Urriarra - Namadgi	2016		M	51
+Urriarra - Namadgi	2016	0	F	118
+Urriarra - Namadgi	2016	0	M	116
+Urriarra - Namadgi	2016	1	F	130
+Urriarra - Namadgi	2016	1	M	145
+Migratory - Offshore - Shipping (ACT)	2006		F	0
+Migratory - Offshore - Shipping (ACT)	2006		M	0
+Migratory - Offshore - Shipping (ACT)	2006	0	F	0
+Migratory - Offshore - Shipping (ACT)	2006	0	M	0
+Migratory - Offshore - Shipping (ACT)	2006	1	F	0
+Migratory - Offshore - Shipping (ACT)	2006	1	M	0
+Migratory - Offshore - Shipping (ACT)	2011		F	0
+Migratory - Offshore - Shipping (ACT)	2011		M	0
+Migratory - Offshore - Shipping (ACT)	2011	0	F	0
+Migratory - Offshore - Shipping (ACT)	2011	0	M	0
+Migratory - Offshore - Shipping (ACT)	2011	1	F	0
+Migratory - Offshore - Shipping (ACT)	2011	1	M	0
+Migratory - Offshore - Shipping (ACT)	2016		F	0
+Migratory - Offshore - Shipping (ACT)	2016		M	0
+Migratory - Offshore - Shipping (ACT)	2016	0	F	0
+Migratory - Offshore - Shipping (ACT)	2016	0	M	0
+Migratory - Offshore - Shipping (ACT)	2016	1	F	0
+Migratory - Offshore - Shipping (ACT)	2016	1	M	0
+No usual address (ACT)	2006		F	61
+No usual address (ACT)	2006		M	80
+No usual address (ACT)	2006	0	F	250
+No usual address (ACT)	2006	0	M	259
+No usual address (ACT)	2006	1	F	26
+No usual address (ACT)	2006	1	M	32
+No usual address (ACT)	2011		F	45
+No usual address (ACT)	2011		M	63
+No usual address (ACT)	2011	0	F	248
+No usual address (ACT)	2011	0	M	233
+No usual address (ACT)	2011	1	F	12
+No usual address (ACT)	2011	1	M	32
+No usual address (ACT)	2016		F	44
+No usual address (ACT)	2016		M	97
+No usual address (ACT)	2016	0	F	155
+No usual address (ACT)	2016	0	M	180
+No usual address (ACT)	2016	1	F	29
+No usual address (ACT)	2016	1	M	35
+Christmas Island	2006		F	73
+Christmas Island	2006		M	132
+Christmas Island	2006	0	F	196
+Christmas Island	2006	0	M	235
+Christmas Island	2006	1	F	316
+Christmas Island	2006	1	M	400
+Christmas Island	2011		F	83
+Christmas Island	2011		M	833
+Christmas Island	2011	0	F	227
+Christmas Island	2011	0	M	265
+Christmas Island	2011	1	F	297
+Christmas Island	2011	1	M	367
+Christmas Island	2016		F	148
+Christmas Island	2016		M	458
+Christmas Island	2016	0	F	212
+Christmas Island	2016	0	M	247
+Christmas Island	2016	1	F	352
+Christmas Island	2016	1	M	425
+Cocos (Keeling) Islands	2006		F	29
+Cocos (Keeling) Islands	2006		M	30
+Cocos (Keeling) Islands	2006	0	F	62
+Cocos (Keeling) Islands	2006	0	M	57
+Cocos (Keeling) Islands	2006	1	F	201
+Cocos (Keeling) Islands	2006	1	M	191
+Cocos (Keeling) Islands	2011		F	21
+Cocos (Keeling) Islands	2011		M	31
+Cocos (Keeling) Islands	2011	0	F	48
+Cocos (Keeling) Islands	2011	0	M	68
+Cocos (Keeling) Islands	2011	1	F	199
+Cocos (Keeling) Islands	2011	1	M	188
+Cocos (Keeling) Islands	2016		F	51
+Cocos (Keeling) Islands	2016		M	48
+Cocos (Keeling) Islands	2016	0	F	40
+Cocos (Keeling) Islands	2016	0	M	42
+Cocos (Keeling) Islands	2016	1	F	182
+Cocos (Keeling) Islands	2016	1	M	178
+Jervis Bay	2006		F	16
+Jervis Bay	2006		M	25
+Jervis Bay	2006	0	F	66
+Jervis Bay	2006	0	M	100
+Jervis Bay	2006	1	F	89
+Jervis Bay	2006	1	M	75
+Jervis Bay	2011		F	24
+Jervis Bay	2011		M	28
+Jervis Bay	2011	0	F	47
+Jervis Bay	2011	0	M	89
+Jervis Bay	2011	1	F	96
+Jervis Bay	2011	1	M	96
+Jervis Bay	2016		F	48
+Jervis Bay	2016		M	50
+Jervis Bay	2016	0	F	41
+Jervis Bay	2016	0	M	80
+Jervis Bay	2016	1	F	83
+Jervis Bay	2016	1	M	86
+Norfolk Island	2006		F	0
+Norfolk Island	2006		M	0
+Norfolk Island	2006	0	F	0
+Norfolk Island	2006	0	M	0
+Norfolk Island	2006	1	F	0
+Norfolk Island	2006	1	M	0
+Norfolk Island	2011		F	0
+Norfolk Island	2011		M	0
+Norfolk Island	2011	0	F	0
+Norfolk Island	2011	0	M	0
+Norfolk Island	2011	1	F	0
+Norfolk Island	2011	1	M	0
+Norfolk Island	2016		F	111
+Norfolk Island	2016		M	95
+Norfolk Island	2016	0	F	241
+Norfolk Island	2016	0	M	208
+Norfolk Island	2016	1	F	578
+Norfolk Island	2016	1	M	516
+Migratory - Offshore - Shipping (OT)	2006		F	0
+Migratory - Offshore - Shipping (OT)	2006		M	0
+Migratory - Offshore - Shipping (OT)	2006	0	F	0
+Migratory - Offshore - Shipping (OT)	2006	0	M	0
+Migratory - Offshore - Shipping (OT)	2006	1	F	0
+Migratory - Offshore - Shipping (OT)	2006	1	M	0
+Migratory - Offshore - Shipping (OT)	2011		F	0
+Migratory - Offshore - Shipping (OT)	2011		M	0
+Migratory - Offshore - Shipping (OT)	2011	0	F	0
+Migratory - Offshore - Shipping (OT)	2011	0	M	0
+Migratory - Offshore - Shipping (OT)	2011	1	F	0
+Migratory - Offshore - Shipping (OT)	2011	1	M	0
+Migratory - Offshore - Shipping (OT)	2016		F	0
+Migratory - Offshore - Shipping (OT)	2016		M	-4
+Migratory - Offshore - Shipping (OT)	2016	0	F	0
+Migratory - Offshore - Shipping (OT)	2016	0	M	3
+Migratory - Offshore - Shipping (OT)	2016	1	F	0
+Migratory - Offshore - Shipping (OT)	2016	1	M	4
+No usual address (OT)	2006		F	0
+No usual address (OT)	2006		M	13
+No usual address (OT)	2006	0	F	4
+No usual address (OT)	2006	0	M	9
+No usual address (OT)	2006	1	F	0
+No usual address (OT)	2006	1	M	0
+No usual address (OT)	2011		F	0
+No usual address (OT)	2011		M	-4
+No usual address (OT)	2011	0	F	19
+No usual address (OT)	2011	0	M	11
+No usual address (OT)	2011	1	F	0
+No usual address (OT)	2011	1	M	0
+No usual address (OT)	2016		F	3
+No usual address (OT)	2016		M	7
+No usual address (OT)	2016	0	F	21
+No usual address (OT)	2016	0	M	8
+No usual address (OT)	2016	1	F	4
+No usual address (OT)	2016	1	M	6

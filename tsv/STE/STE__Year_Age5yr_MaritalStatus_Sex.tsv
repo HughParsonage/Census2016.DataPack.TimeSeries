@@ -1,0 +1,4051 @@
+STE_NAME16	Year	Age5yr	MaritalStatus	Sex	persons
+New South Wales	2006	15-19	Divorced	F	132
+New South Wales	2006	15-19	Divorced	M	155
+New South Wales	2006	15-19	Married	F	1311
+New South Wales	2006	15-19	Married	M	513
+New South Wales	2006	15-19	Never married	F	212551
+New South Wales	2006	15-19	Never married	M	224687
+New South Wales	2006	15-19	Separated	F	142
+New South Wales	2006	15-19	Separated	M	117
+New South Wales	2006	15-19	Widowed	F	155
+New South Wales	2006	15-19	Widowed	M	102
+New South Wales	2006	20-24	Divorced	F	690
+New South Wales	2006	20-24	Divorced	M	350
+New South Wales	2006	20-24	Married	F	22381
+New South Wales	2006	20-24	Married	M	9475
+New South Wales	2006	20-24	Never married	F	188856
+New South Wales	2006	20-24	Never married	M	207660
+New South Wales	2006	20-24	Separated	F	1508
+New South Wales	2006	20-24	Separated	M	566
+New South Wales	2006	20-24	Widowed	F	245
+New South Wales	2006	20-24	Widowed	M	130
+New South Wales	2006	25-29	Divorced	F	4263
+New South Wales	2006	25-29	Divorced	M	2056
+New South Wales	2006	25-29	Married	F	79727
+New South Wales	2006	25-29	Married	M	53461
+New South Wales	2006	25-29	Never married	F	124366
+New South Wales	2006	25-29	Never married	M	152219
+New South Wales	2006	25-29	Separated	F	4992
+New South Wales	2006	25-29	Separated	M	2498
+New South Wales	2006	25-29	Widowed	F	393
+New South Wales	2006	25-29	Widowed	M	182
+New South Wales	2006	30-34	Divorced	F	12617
+New South Wales	2006	30-34	Divorced	M	7437
+New South Wales	2006	30-34	Married	F	136177
+New South Wales	2006	30-34	Married	M	113223
+New South Wales	2006	30-34	Never married	F	80164
+New South Wales	2006	30-34	Never married	M	101788
+New South Wales	2006	30-34	Separated	F	8988
+New South Wales	2006	30-34	Separated	M	5490
+New South Wales	2006	30-34	Widowed	F	757
+New South Wales	2006	30-34	Widowed	M	250
+New South Wales	2006	35-39	Divorced	F	22174
+New South Wales	2006	35-39	Divorced	M	14409
+New South Wales	2006	35-39	Married	F	154990
+New South Wales	2006	35-39	Married	M	138614
+New South Wales	2006	35-39	Never married	F	52990
+New South Wales	2006	35-39	Never married	M	69826
+New South Wales	2006	35-39	Separated	F	11969
+New South Wales	2006	35-39	Separated	M	7858
+New South Wales	2006	35-39	Widowed	F	1493
+New South Wales	2006	35-39	Widowed	M	365
+New South Wales	2006	40-44	Divorced	F	30287
+New South Wales	2006	40-44	Divorced	M	21184
+New South Wales	2006	40-44	Married	F	160129
+New South Wales	2006	40-44	Married	M	152782
+New South Wales	2006	40-44	Never married	F	38648
+New South Wales	2006	40-44	Never married	M	53366
+New South Wales	2006	40-44	Separated	F	13499
+New South Wales	2006	40-44	Separated	M	9755
+New South Wales	2006	40-44	Widowed	F	2675
+New South Wales	2006	40-44	Widowed	M	834
+New South Wales	2006	45-49	Divorced	F	36365
+New South Wales	2006	45-49	Divorced	M	26740
+New South Wales	2006	45-49	Married	F	158268
+New South Wales	2006	45-49	Married	M	155264
+New South Wales	2006	45-49	Never married	F	28407
+New South Wales	2006	45-49	Never married	M	39747
+New South Wales	2006	45-49	Separated	F	13686
+New South Wales	2006	45-49	Separated	M	10810
+New South Wales	2006	45-49	Widowed	F	4561
+New South Wales	2006	45-49	Widowed	M	1384
+New South Wales	2006	50-54	Divorced	F	35800
+New South Wales	2006	50-54	Divorced	M	28061
+New South Wales	2006	50-54	Married	F	144350
+New South Wales	2006	50-54	Married	M	144656
+New South Wales	2006	50-54	Never married	F	18810
+New South Wales	2006	50-54	Never married	M	26750
+New South Wales	2006	50-54	Separated	F	11070
+New South Wales	2006	50-54	Separated	M	10140
+New South Wales	2006	50-54	Widowed	F	7398
+New South Wales	2006	50-54	Widowed	M	2073
+New South Wales	2006	55-59	Divorced	F	33368
+New South Wales	2006	55-59	Divorced	M	27274
+New South Wales	2006	55-59	Married	F	134588
+New South Wales	2006	55-59	Married	M	142846
+New South Wales	2006	55-59	Never married	F	12518
+New South Wales	2006	55-59	Never married	M	18492
+New South Wales	2006	55-59	Separated	F	8651
+New South Wales	2006	55-59	Separated	M	8918
+New South Wales	2006	55-59	Widowed	F	11818
+New South Wales	2006	55-59	Widowed	M	3437
+New South Wales	2006	60-64	Divorced	F	23658
+New South Wales	2006	60-64	Divorced	M	20082
+New South Wales	2006	60-64	Married	F	104441
+New South Wales	2006	60-64	Married	M	116476
+New South Wales	2006	60-64	Never married	F	7630
+New South Wales	2006	60-64	Never married	M	12274
+New South Wales	2006	60-64	Separated	F	5843
+New South Wales	2006	60-64	Separated	M	6076
+New South Wales	2006	60-64	Widowed	F	16880
+New South Wales	2006	60-64	Widowed	M	4271
+New South Wales	2006	65-69	Divorced	F	15396
+New South Wales	2006	65-69	Divorced	M	13421
+New South Wales	2006	65-69	Married	F	80823
+New South Wales	2006	65-69	Married	M	92730
+New South Wales	2006	65-69	Never married	F	5461
+New South Wales	2006	65-69	Never married	M	8489
+New South Wales	2006	65-69	Separated	F	3684
+New South Wales	2006	65-69	Separated	M	4496
+New South Wales	2006	65-69	Widowed	F	24097
+New South Wales	2006	65-69	Widowed	M	5822
+New South Wales	2006	70-74	Divorced	F	9974
+New South Wales	2006	70-74	Divorced	M	8427
+New South Wales	2006	70-74	Married	F	60230
+New South Wales	2006	70-74	Married	M	74450
+New South Wales	2006	70-74	Never married	F	4433
+New South Wales	2006	70-74	Never married	M	6737
+New South Wales	2006	70-74	Separated	F	2406
+New South Wales	2006	70-74	Separated	M	3022
+New South Wales	2006	70-74	Widowed	F	33312
+New South Wales	2006	70-74	Widowed	M	7916
+New South Wales	2006	75-79	Divorced	F	6964
+New South Wales	2006	75-79	Divorced	M	5510
+New South Wales	2006	75-79	Married	F	43946
+New South Wales	2006	75-79	Married	M	60987
+New South Wales	2006	75-79	Never married	F	4354
+New South Wales	2006	75-79	Never married	M	5332
+New South Wales	2006	75-79	Separated	F	1534
+New South Wales	2006	75-79	Separated	M	2024
+New South Wales	2006	75-79	Widowed	F	46171
+New South Wales	2006	75-79	Widowed	M	11270
+New South Wales	2006	80-84	Divorced	F	4202
+New South Wales	2006	80-84	Divorced	M	2762
+New South Wales	2006	80-84	Married	F	24317
+New South Wales	2006	80-84	Married	M	37957
+New South Wales	2006	80-84	Never married	F	3708
+New South Wales	2006	80-84	Never married	M	3010
+New South Wales	2006	80-84	Separated	F	723
+New South Wales	2006	80-84	Separated	M	991
+New South Wales	2006	80-84	Widowed	F	50670
+New South Wales	2006	80-84	Widowed	M	12370
+New South Wales	2006	85+	Divorced	F	2338
+New South Wales	2006	85+	Divorced	M	1221
+New South Wales	2006	85+	Married	F	10002
+New South Wales	2006	85+	Married	M	18973
+New South Wales	2006	85+	Never married	F	4045
+New South Wales	2006	85+	Never married	M	1960
+New South Wales	2006	85+	Separated	F	370
+New South Wales	2006	85+	Separated	M	539
+New South Wales	2006	85+	Widowed	F	58869
+New South Wales	2006	85+	Widowed	M	13336
+New South Wales	2011	15-19	Divorced	F	126
+New South Wales	2011	15-19	Divorced	M	153
+New South Wales	2011	15-19	Married	F	936
+New South Wales	2011	15-19	Married	M	467
+New South Wales	2011	15-19	Never married	F	213891
+New South Wales	2011	15-19	Never married	M	227359
+New South Wales	2011	15-19	Separated	F	123
+New South Wales	2011	15-19	Separated	M	123
+New South Wales	2011	15-19	Widowed	F	116
+New South Wales	2011	15-19	Widowed	M	123
+New South Wales	2011	20-24	Divorced	F	597
+New South Wales	2011	20-24	Divorced	M	327
+New South Wales	2011	20-24	Married	F	21514
+New South Wales	2011	20-24	Married	M	9351
+New South Wales	2011	20-24	Never married	F	199092
+New South Wales	2011	20-24	Never married	M	216605
+New South Wales	2011	20-24	Separated	F	1338
+New South Wales	2011	20-24	Separated	M	513
+New South Wales	2011	20-24	Widowed	F	193
+New South Wales	2011	20-24	Widowed	M	161
+New South Wales	2011	25-29	Divorced	F	3982
+New South Wales	2011	25-29	Divorced	M	2046
+New South Wales	2011	25-29	Married	F	88111
+New South Wales	2011	25-29	Married	M	59012
+New South Wales	2011	25-29	Never married	F	142296
+New South Wales	2011	25-29	Never married	M	170083
+New South Wales	2011	25-29	Separated	F	4730
+New South Wales	2011	25-29	Separated	M	2367
+New South Wales	2011	25-29	Widowed	F	348
+New South Wales	2011	25-29	Widowed	M	187
+New South Wales	2011	30-34	Divorced	F	9724
+New South Wales	2011	30-34	Divorced	M	5957
+New South Wales	2011	30-34	Married	F	134546
+New South Wales	2011	30-34	Married	M	115356
+New South Wales	2011	30-34	Never married	F	85203
+New South Wales	2011	30-34	Never married	M	104235
+New South Wales	2011	30-34	Separated	F	7653
+New South Wales	2011	30-34	Separated	M	4824
+New South Wales	2011	30-34	Widowed	F	600
+New South Wales	2011	30-34	Widowed	M	242
+New South Wales	2011	35-39	Divorced	F	18924
+New South Wales	2011	35-39	Divorced	M	12020
+New South Wales	2011	35-39	Married	F	156199
+New South Wales	2011	35-39	Married	M	144721
+New South Wales	2011	35-39	Never married	F	61653
+New South Wales	2011	35-39	Never married	M	74428
+New South Wales	2011	35-39	Separated	F	11192
+New South Wales	2011	35-39	Separated	M	7329
+New South Wales	2011	35-39	Widowed	F	1242
+New South Wales	2011	35-39	Widowed	M	419
+New South Wales	2011	40-44	Divorced	F	28708
+New South Wales	2011	40-44	Divorced	M	18554
+New South Wales	2011	40-44	Married	F	157695
+New South Wales	2011	40-44	Married	M	147835
+New South Wales	2011	40-44	Never married	F	46608
+New South Wales	2011	40-44	Never married	M	58319
+New South Wales	2011	40-44	Separated	F	13173
+New South Wales	2011	40-44	Separated	M	9453
+New South Wales	2011	40-44	Widowed	F	2423
+New South Wales	2011	40-44	Widowed	M	726
+New South Wales	2011	45-49	Divorced	F	36123
+New South Wales	2011	45-49	Divorced	M	25335
+New South Wales	2011	45-49	Married	F	154750
+New South Wales	2011	45-49	Married	M	152039
+New South Wales	2011	45-49	Never married	F	35818
+New South Wales	2011	45-49	Never married	M	47747
+New South Wales	2011	45-49	Separated	F	13719
+New South Wales	2011	45-49	Separated	M	10426
+New South Wales	2011	45-49	Widowed	F	4145
+New South Wales	2011	45-49	Widowed	M	1329
+New South Wales	2011	50-54	Divorced	F	40595
+New South Wales	2011	50-54	Divorced	M	30124
+New South Wales	2011	50-54	Married	F	151456
+New South Wales	2011	50-54	Married	M	150283
+New South Wales	2011	50-54	Never married	F	26821
+New South Wales	2011	50-54	Never married	M	36861
+New South Wales	2011	50-54	Separated	F	12842
+New South Wales	2011	50-54	Separated	M	10953
+New South Wales	2011	50-54	Widowed	F	6980
+New South Wales	2011	50-54	Widowed	M	2102
+New South Wales	2011	55-59	Divorced	F	37766
+New South Wales	2011	55-59	Divorced	M	29642
+New South Wales	2011	55-59	Married	F	137045
+New South Wales	2011	55-59	Married	M	139105
+New South Wales	2011	55-59	Never married	F	17763
+New South Wales	2011	55-59	Never married	M	24978
+New South Wales	2011	55-59	Separated	F	9999
+New South Wales	2011	55-59	Separated	M	9313
+New South Wales	2011	55-59	Widowed	F	10930
+New South Wales	2011	55-59	Widowed	M	3076
+New South Wales	2011	60-64	Divorced	F	33970
+New South Wales	2011	60-64	Divorced	M	27256
+New South Wales	2011	60-64	Married	F	126221
+New South Wales	2011	60-64	Married	M	136795
+New South Wales	2011	60-64	Never married	F	11638
+New South Wales	2011	60-64	Never married	M	16958
+New South Wales	2011	60-64	Separated	F	7798
+New South Wales	2011	60-64	Separated	M	8138
+New South Wales	2011	60-64	Widowed	F	17030
+New South Wales	2011	60-64	Widowed	M	4873
+New South Wales	2011	65-69	Divorced	F	23352
+New South Wales	2011	65-69	Divorced	M	19087
+New South Wales	2011	65-69	Married	F	94897
+New South Wales	2011	65-69	Married	M	108729
+New South Wales	2011	65-69	Never married	F	7085
+New South Wales	2011	65-69	Never married	M	10834
+New South Wales	2011	65-69	Separated	F	4873
+New South Wales	2011	65-69	Separated	M	5698
+New South Wales	2011	65-69	Widowed	F	23459
+New South Wales	2011	65-69	Widowed	M	6316
+New South Wales	2011	70-74	Divorced	F	14252
+New South Wales	2011	70-74	Divorced	M	12091
+New South Wales	2011	70-74	Married	F	69450
+New South Wales	2011	70-74	Married	M	83453
+New South Wales	2011	70-74	Never married	F	4975
+New South Wales	2011	70-74	Never married	M	7205
+New South Wales	2011	70-74	Separated	F	2843
+New South Wales	2011	70-74	Separated	M	3722
+New South Wales	2011	70-74	Widowed	F	31416
+New South Wales	2011	70-74	Widowed	M	7961
+New South Wales	2011	75-79	Divorced	F	8706
+New South Wales	2011	75-79	Divorced	M	6885
+New South Wales	2011	75-79	Married	F	46087
+New South Wales	2011	75-79	Married	M	62007
+New South Wales	2011	75-79	Never married	F	3750
+New South Wales	2011	75-79	Never married	M	5005
+New South Wales	2011	75-79	Separated	F	1720
+New South Wales	2011	75-79	Separated	M	2285
+New South Wales	2011	75-79	Widowed	F	39722
+New South Wales	2011	75-79	Widowed	M	9861
+New South Wales	2011	80-84	Divorced	F	5464
+New South Wales	2011	80-84	Divorced	M	3820
+New South Wales	2011	80-84	Married	F	27737
+New South Wales	2011	80-84	Married	M	43471
+New South Wales	2011	80-84	Never married	F	3406
+New South Wales	2011	80-84	Never married	M	3450
+New South Wales	2011	80-84	Separated	F	880
+New South Wales	2011	80-84	Separated	M	1344
+New South Wales	2011	80-84	Widowed	F	48587
+New South Wales	2011	80-84	Widowed	M	12570
+New South Wales	2011	85+	Divorced	F	3663
+New South Wales	2011	85+	Divorced	M	1894
+New South Wales	2011	85+	Married	F	13596
+New South Wales	2011	85+	Married	M	26001
+New South Wales	2011	85+	Never married	F	3990
+New South Wales	2011	85+	Never married	M	2163
+New South Wales	2011	85+	Separated	F	444
+New South Wales	2011	85+	Separated	M	597
+New South Wales	2011	85+	Widowed	F	70148
+New South Wales	2011	85+	Widowed	M	17231
+New South Wales	2016	15-19	Divorced	F	89
+New South Wales	2016	15-19	Divorced	M	124
+New South Wales	2016	15-19	Married	F	1006
+New South Wales	2016	15-19	Married	M	649
+New South Wales	2016	15-19	Never married	F	217023
+New South Wales	2016	15-19	Never married	M	229170
+New South Wales	2016	15-19	Separated	F	109
+New South Wales	2016	15-19	Separated	M	81
+New South Wales	2016	15-19	Widowed	F	89
+New South Wales	2016	15-19	Widowed	M	78
+New South Wales	2016	20-24	Divorced	F	558
+New South Wales	2016	20-24	Divorced	M	282
+New South Wales	2016	20-24	Married	F	19269
+New South Wales	2016	20-24	Married	M	8751
+New South Wales	2016	20-24	Never married	F	220024
+New South Wales	2016	20-24	Never married	M	238833
+New South Wales	2016	20-24	Separated	F	1156
+New South Wales	2016	20-24	Separated	M	458
+New South Wales	2016	20-24	Widowed	F	181
+New South Wales	2016	20-24	Widowed	M	162
+New South Wales	2016	25-29	Divorced	F	3637
+New South Wales	2016	25-29	Divorced	M	2092
+New South Wales	2016	25-29	Married	F	88802
+New South Wales	2016	25-29	Married	M	58545
+New South Wales	2016	25-29	Never married	F	169195
+New South Wales	2016	25-29	Never married	M	197324
+New South Wales	2016	25-29	Separated	F	4627
+New South Wales	2016	25-29	Separated	M	2389
+New South Wales	2016	25-29	Widowed	F	322
+New South Wales	2016	25-29	Widowed	M	237
+New South Wales	2016	30-34	Divorced	F	9693
+New South Wales	2016	30-34	Divorced	M	6087
+New South Wales	2016	30-34	Married	F	155491
+New South Wales	2016	30-34	Married	M	133454
+New South Wales	2016	30-34	Never married	F	100212
+New South Wales	2016	30-34	Never married	M	120755
+New South Wales	2016	30-34	Separated	F	8383
+New South Wales	2016	30-34	Separated	M	5453
+New South Wales	2016	30-34	Widowed	F	595
+New South Wales	2016	30-34	Widowed	M	236
+New South Wales	2016	35-39	Divorced	F	15895
+New South Wales	2016	35-39	Divorced	M	10328
+New South Wales	2016	35-39	Married	F	159321
+New South Wales	2016	35-39	Married	M	152644
+New South Wales	2016	35-39	Never married	F	65353
+New South Wales	2016	35-39	Never married	M	76547
+New South Wales	2016	35-39	Separated	F	10704
+New South Wales	2016	35-39	Separated	M	7482
+New South Wales	2016	35-39	Widowed	F	1091
+New South Wales	2016	35-39	Widowed	M	363
+New South Wales	2016	40-44	Divorced	F	25771
+New South Wales	2016	40-44	Divorced	M	16813
+New South Wales	2016	40-44	Married	F	161285
+New South Wales	2016	40-44	Married	M	157038
+New South Wales	2016	40-44	Never married	F	54017
+New South Wales	2016	40-44	Never married	M	62596
+New South Wales	2016	40-44	Separated	F	13191
+New South Wales	2016	40-44	Separated	M	9819
+New South Wales	2016	40-44	Widowed	F	2007
+New South Wales	2016	40-44	Widowed	M	638
+New South Wales	2016	45-49	Divorced	F	35507
+New South Wales	2016	45-49	Divorced	M	23577
+New South Wales	2016	45-49	Married	F	156165
+New South Wales	2016	45-49	Married	M	150640
+New South Wales	2016	45-49	Never married	F	43316
+New South Wales	2016	45-49	Never married	M	53266
+New South Wales	2016	45-49	Separated	F	14122
+New South Wales	2016	45-49	Separated	M	11022
+New South Wales	2016	45-49	Widowed	F	3741
+New South Wales	2016	45-49	Widowed	M	1092
+New South Wales	2016	50-54	Divorced	F	41273
+New South Wales	2016	50-54	Divorced	M	29550
+New South Wales	2016	50-54	Married	F	151110
+New South Wales	2016	50-54	Married	M	150905
+New South Wales	2016	50-54	Never married	F	34277
+New South Wales	2016	50-54	Never married	M	44983
+New South Wales	2016	50-54	Separated	F	13689
+New South Wales	2016	50-54	Separated	M	11493
+New South Wales	2016	50-54	Widowed	F	6337
+New South Wales	2016	50-54	Widowed	M	1922
+New South Wales	2016	55-59	Divorced	F	44282
+New South Wales	2016	55-59	Divorced	M	32511
+New South Wales	2016	55-59	Married	F	147472
+New South Wales	2016	55-59	Married	M	147679
+New South Wales	2016	55-59	Never married	F	26176
+New South Wales	2016	55-59	Never married	M	34620
+New South Wales	2016	55-59	Separated	F	12242
+New South Wales	2016	55-59	Separated	M	10920
+New South Wales	2016	55-59	Widowed	F	10773
+New South Wales	2016	55-59	Widowed	M	3041
+New South Wales	2016	60-64	Divorced	F	39548
+New South Wales	2016	60-64	Divorced	M	30395
+New South Wales	2016	60-64	Married	F	132933
+New South Wales	2016	60-64	Married	M	137342
+New South Wales	2016	60-64	Never married	F	17192
+New South Wales	2016	60-64	Never married	M	22957
+New South Wales	2016	60-64	Separated	F	9546
+New South Wales	2016	60-64	Separated	M	9158
+New South Wales	2016	60-64	Widowed	F	16539
+New South Wales	2016	60-64	Widowed	M	4433
+New South Wales	2016	65-69	Divorced	F	34161
+New South Wales	2016	65-69	Divorced	M	26708
+New South Wales	2016	65-69	Married	F	118850
+New South Wales	2016	65-69	Married	M	131292
+New South Wales	2016	65-69	Never married	F	11221
+New South Wales	2016	65-69	Never married	M	15344
+New South Wales	2016	65-69	Separated	F	7225
+New South Wales	2016	65-69	Separated	M	8151
+New South Wales	2016	65-69	Widowed	F	24640
+New South Wales	2016	65-69	Widowed	M	6872
+New South Wales	2016	70-74	Divorced	F	22447
+New South Wales	2016	70-74	Divorced	M	17653
+New South Wales	2016	70-74	Married	F	85037
+New South Wales	2016	70-74	Married	M	101489
+New South Wales	2016	70-74	Never married	F	6768
+New South Wales	2016	70-74	Never married	M	9423
+New South Wales	2016	70-74	Separated	F	4137
+New South Wales	2016	70-74	Separated	M	5150
+New South Wales	2016	70-74	Widowed	F	32065
+New South Wales	2016	70-74	Widowed	M	8398
+New South Wales	2016	75-79	Divorced	F	12712
+New South Wales	2016	75-79	Divorced	M	10174
+New South Wales	2016	75-79	Married	F	55910
+New South Wales	2016	75-79	Married	M	72702
+New South Wales	2016	75-79	Never married	F	4488
+New South Wales	2016	75-79	Never married	M	5809
+New South Wales	2016	75-79	Separated	F	2148
+New South Wales	2016	75-79	Separated	M	3077
+New South Wales	2016	75-79	Widowed	F	40020
+New South Wales	2016	75-79	Widowed	M	10263
+New South Wales	2016	80-84	Divorced	F	6994
+New South Wales	2016	80-84	Divorced	M	5084
+New South Wales	2016	80-84	Married	F	30824
+New South Wales	2016	80-84	Married	M	47290
+New South Wales	2016	80-84	Never married	F	3099
+New South Wales	2016	80-84	Never married	M	3530
+New South Wales	2016	80-84	Separated	F	1117
+New South Wales	2016	80-84	Separated	M	1552
+New South Wales	2016	80-84	Widowed	F	44898
+New South Wales	2016	80-84	Widowed	M	11416
+New South Wales	2016	85+	Divorced	F	5444
+New South Wales	2016	85+	Divorced	M	2919
+New South Wales	2016	85+	Married	F	17238
+New South Wales	2016	85+	Married	M	34136
+New South Wales	2016	85+	Never married	F	4128
+New South Wales	2016	85+	Never married	M	2838
+New South Wales	2016	85+	Separated	F	615
+New South Wales	2016	85+	Separated	M	989
+New South Wales	2016	85+	Widowed	F	78325
+New South Wales	2016	85+	Widowed	M	20865
+Victoria	2006	15-19	Divorced	F	104
+Victoria	2006	15-19	Divorced	M	124
+Victoria	2006	15-19	Married	F	780
+Victoria	2006	15-19	Married	M	330
+Victoria	2006	15-19	Never married	F	162514
+Victoria	2006	15-19	Never married	M	170972
+Victoria	2006	15-19	Separated	F	93
+Victoria	2006	15-19	Separated	M	84
+Victoria	2006	15-19	Widowed	F	112
+Victoria	2006	15-19	Widowed	M	59
+Victoria	2006	20-24	Divorced	F	412
+Victoria	2006	20-24	Divorced	M	244
+Victoria	2006	20-24	Married	F	13478
+Victoria	2006	20-24	Married	M	5538
+Victoria	2006	20-24	Never married	F	152634
+Victoria	2006	20-24	Never married	M	164930
+Victoria	2006	20-24	Separated	F	876
+Victoria	2006	20-24	Separated	M	312
+Victoria	2006	20-24	Widowed	F	180
+Victoria	2006	20-24	Widowed	M	109
+Victoria	2006	25-29	Divorced	F	2793
+Victoria	2006	25-29	Divorced	M	1309
+Victoria	2006	25-29	Married	F	54884
+Victoria	2006	25-29	Married	M	37251
+Victoria	2006	25-29	Never married	F	101520
+Victoria	2006	25-29	Never married	M	120974
+Victoria	2006	25-29	Separated	F	3132
+Victoria	2006	25-29	Separated	M	1577
+Victoria	2006	25-29	Widowed	F	281
+Victoria	2006	25-29	Widowed	M	107
+Victoria	2006	30-34	Divorced	F	8990
+Victoria	2006	30-34	Divorced	M	5284
+Victoria	2006	30-34	Married	F	100123
+Victoria	2006	30-34	Married	M	83577
+Victoria	2006	30-34	Never married	F	65395
+Victoria	2006	30-34	Never married	M	79653
+Victoria	2006	30-34	Separated	F	6404
+Victoria	2006	30-34	Separated	M	3880
+Victoria	2006	30-34	Widowed	F	566
+Victoria	2006	30-34	Widowed	M	187
+Victoria	2006	35-39	Divorced	F	17399
+Victoria	2006	35-39	Divorced	M	11218
+Victoria	2006	35-39	Married	F	121870
+Victoria	2006	35-39	Married	M	109130
+Victoria	2006	35-39	Never married	F	43893
+Victoria	2006	35-39	Never married	M	54892
+Victoria	2006	35-39	Separated	F	9159
+Victoria	2006	35-39	Separated	M	6023
+Victoria	2006	35-39	Widowed	F	1116
+Victoria	2006	35-39	Widowed	M	347
+Victoria	2006	40-44	Divorced	F	23271
+Victoria	2006	40-44	Divorced	M	16228
+Victoria	2006	40-44	Married	F	123074
+Victoria	2006	40-44	Married	M	116741
+Victoria	2006	40-44	Never married	F	29169
+Victoria	2006	40-44	Never married	M	37765
+Victoria	2006	40-44	Separated	F	10215
+Victoria	2006	40-44	Separated	M	7336
+Victoria	2006	40-44	Widowed	F	1882
+Victoria	2006	40-44	Widowed	M	618
+Victoria	2006	45-49	Divorced	F	27178
+Victoria	2006	45-49	Divorced	M	19737
+Victoria	2006	45-49	Married	F	120259
+Victoria	2006	45-49	Married	M	118002
+Victoria	2006	45-49	Never married	F	20913
+Victoria	2006	45-49	Never married	M	27597
+Victoria	2006	45-49	Separated	F	10153
+Victoria	2006	45-49	Separated	M	8213
+Victoria	2006	45-49	Widowed	F	3379
+Victoria	2006	45-49	Widowed	M	1064
+Victoria	2006	50-54	Divorced	F	26461
+Victoria	2006	50-54	Divorced	M	20580
+Victoria	2006	50-54	Married	F	110647
+Victoria	2006	50-54	Married	M	110517
+Victoria	2006	50-54	Never married	F	13768
+Victoria	2006	50-54	Never married	M	18467
+Victoria	2006	50-54	Separated	F	8282
+Victoria	2006	50-54	Separated	M	7458
+Victoria	2006	50-54	Widowed	F	5189
+Victoria	2006	50-54	Widowed	M	1643
+Victoria	2006	55-59	Divorced	F	24507
+Victoria	2006	55-59	Divorced	M	18642
+Victoria	2006	55-59	Married	F	104797
+Victoria	2006	55-59	Married	M	108051
+Victoria	2006	55-59	Never married	F	8606
+Victoria	2006	55-59	Never married	M	12318
+Victoria	2006	55-59	Separated	F	6558
+Victoria	2006	55-59	Separated	M	6358
+Victoria	2006	55-59	Widowed	F	8715
+Victoria	2006	55-59	Widowed	M	2333
+Victoria	2006	60-64	Divorced	F	16497
+Victoria	2006	60-64	Divorced	M	13396
+Victoria	2006	60-64	Married	F	79889
+Victoria	2006	60-64	Married	M	87379
+Victoria	2006	60-64	Never married	F	5157
+Victoria	2006	60-64	Never married	M	7761
+Victoria	2006	60-64	Separated	F	4197
+Victoria	2006	60-64	Separated	M	4425
+Victoria	2006	60-64	Widowed	F	11979
+Victoria	2006	60-64	Widowed	M	2930
+Victoria	2006	65-69	Divorced	F	10587
+Victoria	2006	65-69	Divorced	M	8667
+Victoria	2006	65-69	Married	F	61876
+Victoria	2006	65-69	Married	M	70785
+Victoria	2006	65-69	Never married	F	3656
+Victoria	2006	65-69	Never married	M	5492
+Victoria	2006	65-69	Separated	F	2679
+Victoria	2006	65-69	Separated	M	3028
+Victoria	2006	65-69	Widowed	F	17599
+Victoria	2006	65-69	Widowed	M	3982
+Victoria	2006	70-74	Divorced	F	6739
+Victoria	2006	70-74	Divorced	M	5435
+Victoria	2006	70-74	Married	F	46473
+Victoria	2006	70-74	Married	M	56818
+Victoria	2006	70-74	Never married	F	2997
+Victoria	2006	70-74	Never married	M	4211
+Victoria	2006	70-74	Separated	F	1674
+Victoria	2006	70-74	Separated	M	2066
+Victoria	2006	70-74	Widowed	F	25119
+Victoria	2006	70-74	Widowed	M	5653
+Victoria	2006	75-79	Divorced	F	4424
+Victoria	2006	75-79	Divorced	M	3529
+Victoria	2006	75-79	Married	F	33636
+Victoria	2006	75-79	Married	M	46658
+Victoria	2006	75-79	Never married	F	3005
+Victoria	2006	75-79	Never married	M	3619
+Victoria	2006	75-79	Separated	F	1084
+Victoria	2006	75-79	Separated	M	1474
+Victoria	2006	75-79	Widowed	F	34773
+Victoria	2006	75-79	Widowed	M	8254
+Victoria	2006	80-84	Divorced	F	2573
+Victoria	2006	80-84	Divorced	M	1628
+Victoria	2006	80-84	Married	F	18523
+Victoria	2006	80-84	Married	M	28697
+Victoria	2006	80-84	Never married	F	2630
+Victoria	2006	80-84	Never married	M	2131
+Victoria	2006	80-84	Separated	F	542
+Victoria	2006	80-84	Separated	M	741
+Victoria	2006	80-84	Widowed	F	38303
+Victoria	2006	80-84	Widowed	M	9286
+Victoria	2006	85+	Divorced	F	1437
+Victoria	2006	85+	Divorced	M	726
+Victoria	2006	85+	Married	F	7713
+Victoria	2006	85+	Married	M	14280
+Victoria	2006	85+	Never married	F	3119
+Victoria	2006	85+	Never married	M	1537
+Victoria	2006	85+	Separated	F	241
+Victoria	2006	85+	Separated	M	371
+Victoria	2006	85+	Widowed	F	44291
+Victoria	2006	85+	Widowed	M	10158
+Victoria	2011	15-19	Divorced	F	110
+Victoria	2011	15-19	Divorced	M	96
+Victoria	2011	15-19	Married	F	723
+Victoria	2011	15-19	Married	M	348
+Victoria	2011	15-19	Never married	F	167311
+Victoria	2011	15-19	Never married	M	176383
+Victoria	2011	15-19	Separated	F	87
+Victoria	2011	15-19	Separated	M	83
+Victoria	2011	15-19	Widowed	F	89
+Victoria	2011	15-19	Widowed	M	92
+Victoria	2011	20-24	Divorced	F	433
+Victoria	2011	20-24	Divorced	M	275
+Victoria	2011	20-24	Married	F	14668
+Victoria	2011	20-24	Married	M	6423
+Victoria	2011	20-24	Never married	F	168286
+Victoria	2011	20-24	Never married	M	183432
+Victoria	2011	20-24	Separated	F	860
+Victoria	2011	20-24	Separated	M	377
+Victoria	2011	20-24	Widowed	F	177
+Victoria	2011	20-24	Widowed	M	179
+Victoria	2011	25-29	Divorced	F	2610
+Victoria	2011	25-29	Divorced	M	1251
+Victoria	2011	25-29	Married	F	66707
+Victoria	2011	25-29	Married	M	45278
+Victoria	2011	25-29	Never married	F	122885
+Victoria	2011	25-29	Never married	M	144861
+Victoria	2011	25-29	Separated	F	3110
+Victoria	2011	25-29	Separated	M	1536
+Victoria	2011	25-29	Widowed	F	262
+Victoria	2011	25-29	Widowed	M	155
+Victoria	2011	30-34	Divorced	F	6955
+Victoria	2011	30-34	Divorced	M	4275
+Victoria	2011	30-34	Married	F	103170
+Victoria	2011	30-34	Married	M	90584
+Victoria	2011	30-34	Never married	F	72242
+Victoria	2011	30-34	Never married	M	85585
+Victoria	2011	30-34	Separated	F	5412
+Victoria	2011	30-34	Separated	M	3360
+Victoria	2011	30-34	Widowed	F	443
+Victoria	2011	30-34	Widowed	M	178
+Victoria	2011	35-39	Divorced	F	14130
+Victoria	2011	35-39	Divorced	M	8967
+Victoria	2011	35-39	Married	F	121229
+Victoria	2011	35-39	Married	M	112751
+Victoria	2011	35-39	Never married	F	51735
+Victoria	2011	35-39	Never married	M	59885
+Victoria	2011	35-39	Separated	F	8149
+Victoria	2011	35-39	Separated	M	5330
+Victoria	2011	35-39	Widowed	F	907
+Victoria	2011	35-39	Widowed	M	339
+Victoria	2011	40-44	Divorced	F	22811
+Victoria	2011	40-44	Divorced	M	14958
+Victoria	2011	40-44	Married	F	127548
+Victoria	2011	40-44	Married	M	120214
+Victoria	2011	40-44	Never married	F	38776
+Victoria	2011	40-44	Never married	M	46671
+Victoria	2011	40-44	Separated	F	10364
+Victoria	2011	40-44	Separated	M	7393
+Victoria	2011	40-44	Widowed	F	1890
+Victoria	2011	40-44	Widowed	M	565
+Victoria	2011	45-49	Divorced	F	28300
+Victoria	2011	45-49	Divorced	M	19564
+Victoria	2011	45-49	Married	F	121288
+Victoria	2011	45-49	Married	M	118727
+Victoria	2011	45-49	Never married	F	27339
+Victoria	2011	45-49	Never married	M	34483
+Victoria	2011	45-49	Separated	F	10469
+Victoria	2011	45-49	Separated	M	8326
+Victoria	2011	45-49	Widowed	F	2879
+Victoria	2011	45-49	Widowed	M	984
+Victoria	2011	50-54	Divorced	F	30714
+Victoria	2011	50-54	Divorced	M	22480
+Victoria	2011	50-54	Married	F	115638
+Victoria	2011	50-54	Married	M	115448
+Victoria	2011	50-54	Never married	F	19972
+Victoria	2011	50-54	Never married	M	25629
+Victoria	2011	50-54	Separated	F	9578
+Victoria	2011	50-54	Separated	M	7982
+Victoria	2011	50-54	Widowed	F	5087
+Victoria	2011	50-54	Widowed	M	1563
+Victoria	2011	55-59	Divorced	F	28680
+Victoria	2011	55-59	Divorced	M	21707
+Victoria	2011	55-59	Married	F	105304
+Victoria	2011	55-59	Married	M	106782
+Victoria	2011	55-59	Never married	F	13022
+Victoria	2011	55-59	Never married	M	17277
+Victoria	2011	55-59	Separated	F	7508
+Victoria	2011	55-59	Separated	M	6836
+Victoria	2011	55-59	Widowed	F	7895
+Victoria	2011	55-59	Widowed	M	2431
+Victoria	2011	60-64	Divorced	F	25438
+Victoria	2011	60-64	Divorced	M	18988
+Victoria	2011	60-64	Married	F	98546
+Victoria	2011	60-64	Married	M	103574
+Victoria	2011	60-64	Never married	F	8182
+Victoria	2011	60-64	Never married	M	11429
+Victoria	2011	60-64	Separated	F	5746
+Victoria	2011	60-64	Separated	M	5732
+Victoria	2011	60-64	Widowed	F	12709
+Victoria	2011	60-64	Widowed	M	3469
+Victoria	2011	65-69	Divorced	F	16423
+Victoria	2011	65-69	Divorced	M	12820
+Victoria	2011	65-69	Married	F	73112
+Victoria	2011	65-69	Married	M	81905
+Victoria	2011	65-69	Never married	F	4907
+Victoria	2011	65-69	Never married	M	7120
+Victoria	2011	65-69	Separated	F	3542
+Victoria	2011	65-69	Separated	M	3903
+Victoria	2011	65-69	Widowed	F	16908
+Victoria	2011	65-69	Widowed	M	4262
+Victoria	2011	70-74	Divorced	F	9920
+Victoria	2011	70-74	Divorced	M	8018
+Victoria	2011	70-74	Married	F	53503
+Victoria	2011	70-74	Married	M	64135
+Victoria	2011	70-74	Never married	F	3423
+Victoria	2011	70-74	Never married	M	4706
+Victoria	2011	70-74	Separated	F	2089
+Victoria	2011	70-74	Separated	M	2510
+Victoria	2011	70-74	Widowed	F	23481
+Victoria	2011	70-74	Widowed	M	5529
+Victoria	2011	75-79	Divorced	F	5723
+Victoria	2011	75-79	Divorced	M	4514
+Victoria	2011	75-79	Married	F	35988
+Victoria	2011	75-79	Married	M	47915
+Victoria	2011	75-79	Never married	F	2556
+Victoria	2011	75-79	Never married	M	3265
+Victoria	2011	75-79	Separated	F	1210
+Victoria	2011	75-79	Separated	M	1563
+Victoria	2011	75-79	Widowed	F	30395
+Victoria	2011	75-79	Widowed	M	7219
+Victoria	2011	80-84	Divorced	F	3480
+Victoria	2011	80-84	Divorced	M	2512
+Victoria	2011	80-84	Married	F	21263
+Victoria	2011	80-84	Married	M	33700
+Victoria	2011	80-84	Never married	F	2362
+Victoria	2011	80-84	Never married	M	2481
+Victoria	2011	80-84	Separated	F	668
+Victoria	2011	80-84	Separated	M	948
+Victoria	2011	80-84	Widowed	F	37349
+Victoria	2011	80-84	Widowed	M	9257
+Victoria	2011	85+	Divorced	F	2218
+Victoria	2011	85+	Divorced	M	1125
+Victoria	2011	85+	Married	F	10591
+Victoria	2011	85+	Married	M	19844
+Victoria	2011	85+	Never married	F	2947
+Victoria	2011	85+	Never married	M	1583
+Victoria	2011	85+	Separated	F	301
+Victoria	2011	85+	Separated	M	467
+Victoria	2011	85+	Widowed	F	52675
+Victoria	2011	85+	Widowed	M	13240
+Victoria	2016	15-19	Divorced	F	82
+Victoria	2016	15-19	Divorced	M	93
+Victoria	2016	15-19	Married	F	731
+Victoria	2016	15-19	Married	M	488
+Victoria	2016	15-19	Never married	F	173509
+Victoria	2016	15-19	Never married	M	181127
+Victoria	2016	15-19	Separated	F	75
+Victoria	2016	15-19	Separated	M	64
+Victoria	2016	15-19	Widowed	F	92
+Victoria	2016	15-19	Widowed	M	65
+Victoria	2016	20-24	Divorced	F	371
+Victoria	2016	20-24	Divorced	M	189
+Victoria	2016	20-24	Married	F	13320
+Victoria	2016	20-24	Married	M	5962
+Victoria	2016	20-24	Never married	F	189413
+Victoria	2016	20-24	Never married	M	203137
+Victoria	2016	20-24	Separated	F	789
+Victoria	2016	20-24	Separated	M	315
+Victoria	2016	20-24	Widowed	F	166
+Victoria	2016	20-24	Widowed	M	129
+Victoria	2016	25-29	Divorced	F	2539
+Victoria	2016	25-29	Divorced	M	1391
+Victoria	2016	25-29	Married	F	69610
+Victoria	2016	25-29	Married	M	45782
+Victoria	2016	25-29	Never married	F	147873
+Victoria	2016	25-29	Never married	M	168366
+Victoria	2016	25-29	Separated	F	3439
+Victoria	2016	25-29	Separated	M	1868
+Victoria	2016	25-29	Widowed	F	244
+Victoria	2016	25-29	Widowed	M	159
+Victoria	2016	30-34	Divorced	F	7151
+Victoria	2016	30-34	Divorced	M	4376
+Victoria	2016	30-34	Married	F	127581
+Victoria	2016	30-34	Married	M	110478
+Victoria	2016	30-34	Never married	F	86727
+Victoria	2016	30-34	Never married	M	100474
+Victoria	2016	30-34	Separated	F	6369
+Victoria	2016	30-34	Separated	M	4063
+Victoria	2016	30-34	Widowed	F	493
+Victoria	2016	30-34	Widowed	M	218
+Victoria	2016	35-39	Divorced	F	11622
+Victoria	2016	35-39	Divorced	M	7667
+Victoria	2016	35-39	Married	F	127683
+Victoria	2016	35-39	Married	M	123668
+Victoria	2016	35-39	Never married	F	55765
+Victoria	2016	35-39	Never married	M	62476
+Victoria	2016	35-39	Separated	F	8205
+Victoria	2016	35-39	Separated	M	5777
+Victoria	2016	35-39	Widowed	F	828
+Victoria	2016	35-39	Widowed	M	331
+Victoria	2016	40-44	Divorced	F	19699
+Victoria	2016	40-44	Divorced	M	12527
+Victoria	2016	40-44	Married	F	128157
+Victoria	2016	40-44	Married	M	125129
+Victoria	2016	40-44	Never married	F	45827
+Victoria	2016	40-44	Never married	M	50222
+Victoria	2016	40-44	Separated	F	10579
+Victoria	2016	40-44	Separated	M	7667
+Victoria	2016	40-44	Widowed	F	1578
+Victoria	2016	40-44	Widowed	M	512
+Victoria	2016	45-49	Divorced	F	28446
+Victoria	2016	45-49	Divorced	M	18728
+Victoria	2016	45-49	Married	F	127470
+Victoria	2016	45-49	Married	M	123648
+Victoria	2016	45-49	Never married	F	36663
+Victoria	2016	45-49	Never married	M	42189
+Victoria	2016	45-49	Separated	F	11869
+Victoria	2016	45-49	Separated	M	9297
+Victoria	2016	45-49	Widowed	F	2821
+Victoria	2016	45-49	Widowed	M	908
+Victoria	2016	50-54	Divorced	F	32634
+Victoria	2016	50-54	Divorced	M	22751
+Victoria	2016	50-54	Married	F	119337
+Victoria	2016	50-54	Married	M	118910
+Victoria	2016	50-54	Never married	F	26344
+Victoria	2016	50-54	Never married	M	32342
+Victoria	2016	50-54	Separated	F	10838
+Victoria	2016	50-54	Separated	M	9129
+Victoria	2016	50-54	Widowed	F	4623
+Victoria	2016	50-54	Widowed	M	1467
+Victoria	2016	55-59	Divorced	F	33685
+Victoria	2016	55-59	Divorced	M	24376
+Victoria	2016	55-59	Married	F	113879
+Victoria	2016	55-59	Married	M	114295
+Victoria	2016	55-59	Never married	F	19614
+Victoria	2016	55-59	Never married	M	23970
+Victoria	2016	55-59	Separated	F	9357
+Victoria	2016	55-59	Separated	M	8193
+Victoria	2016	55-59	Widowed	F	7912
+Victoria	2016	55-59	Widowed	M	2333
+Victoria	2016	60-64	Divorced	F	30399
+Victoria	2016	60-64	Divorced	M	22118
+Victoria	2016	60-64	Married	F	102791
+Victoria	2016	60-64	Married	M	105858
+Victoria	2016	60-64	Never married	F	12801
+Victoria	2016	60-64	Never married	M	16124
+Victoria	2016	60-64	Separated	F	7282
+Victoria	2016	60-64	Separated	M	6790
+Victoria	2016	60-64	Widowed	F	12165
+Victoria	2016	60-64	Widowed	M	3508
+Victoria	2016	65-69	Divorced	F	25913
+Victoria	2016	65-69	Divorced	M	18529
+Victoria	2016	65-69	Married	F	93594
+Victoria	2016	65-69	Married	M	100196
+Victoria	2016	65-69	Never married	F	7887
+Victoria	2016	65-69	Never married	M	10540
+Victoria	2016	65-69	Separated	F	5369
+Victoria	2016	65-69	Separated	M	5800
+Victoria	2016	65-69	Widowed	F	18544
+Victoria	2016	65-69	Widowed	M	5029
+Victoria	2016	70-74	Divorced	F	16003
+Victoria	2016	70-74	Divorced	M	11909
+Victoria	2016	70-74	Married	F	66043
+Victoria	2016	70-74	Married	M	77007
+Victoria	2016	70-74	Never married	F	4744
+Victoria	2016	70-74	Never married	M	6250
+Victoria	2016	70-74	Separated	F	3066
+Victoria	2016	70-74	Separated	M	3472
+Victoria	2016	70-74	Widowed	F	23602
+Victoria	2016	70-74	Widowed	M	6109
+Victoria	2016	75-79	Divorced	F	9031
+Victoria	2016	75-79	Divorced	M	6788
+Victoria	2016	75-79	Married	F	43651
+Victoria	2016	75-79	Married	M	56828
+Victoria	2016	75-79	Never married	F	3173
+Victoria	2016	75-79	Never married	M	3777
+Victoria	2016	75-79	Separated	F	1662
+Victoria	2016	75-79	Separated	M	2104
+Victoria	2016	75-79	Widowed	F	30678
+Victoria	2016	75-79	Widowed	M	7423
+Victoria	2016	80-84	Divorced	F	4820
+Victoria	2016	80-84	Divorced	M	3367
+Victoria	2016	80-84	Married	F	24562
+Victoria	2016	80-84	Married	M	37009
+Victoria	2016	80-84	Never married	F	2131
+Victoria	2016	80-84	Never married	M	2271
+Victoria	2016	80-84	Separated	F	809
+Victoria	2016	80-84	Separated	M	1091
+Victoria	2016	80-84	Widowed	F	35037
+Victoria	2016	80-84	Widowed	M	8796
+Victoria	2016	85+	Divorced	F	3419
+Victoria	2016	85+	Divorced	M	1913
+Victoria	2016	85+	Married	F	13734
+Victoria	2016	85+	Married	M	26729
+Victoria	2016	85+	Never married	F	3000
+Victoria	2016	85+	Never married	M	2141
+Victoria	2016	85+	Separated	F	439
+Victoria	2016	85+	Separated	M	716
+Victoria	2016	85+	Widowed	F	59835
+Victoria	2016	85+	Widowed	M	16065
+Queensland	2006	15-19	Divorced	F	107
+Queensland	2006	15-19	Divorced	M	122
+Queensland	2006	15-19	Married	F	579
+Queensland	2006	15-19	Married	M	308
+Queensland	2006	15-19	Never married	F	131279
+Queensland	2006	15-19	Never married	M	137598
+Queensland	2006	15-19	Separated	F	80
+Queensland	2006	15-19	Separated	M	85
+Queensland	2006	15-19	Widowed	F	83
+Queensland	2006	15-19	Widowed	M	58
+Queensland	2006	20-24	Divorced	F	345
+Queensland	2006	20-24	Divorced	M	222
+Queensland	2006	20-24	Married	F	13028
+Queensland	2006	20-24	Married	M	6517
+Queensland	2006	20-24	Never married	F	119183
+Queensland	2006	20-24	Never married	M	128031
+Queensland	2006	20-24	Separated	F	974
+Queensland	2006	20-24	Separated	M	390
+Queensland	2006	20-24	Widowed	F	141
+Queensland	2006	20-24	Widowed	M	82
+Queensland	2006	25-29	Divorced	F	2730
+Queensland	2006	25-29	Divorced	M	1429
+Queensland	2006	25-29	Married	F	44044
+Queensland	2006	25-29	Married	M	30729
+Queensland	2006	25-29	Never married	F	74982
+Queensland	2006	25-29	Never married	M	90012
+Queensland	2006	25-29	Separated	F	3049
+Queensland	2006	25-29	Separated	M	1654
+Queensland	2006	25-29	Widowed	F	234
+Queensland	2006	25-29	Widowed	M	89
+Queensland	2006	30-34	Divorced	F	8771
+Queensland	2006	30-34	Divorced	M	5414
+Queensland	2006	30-34	Married	F	76706
+Queensland	2006	30-34	Married	M	63650
+Queensland	2006	30-34	Never married	F	48550
+Queensland	2006	30-34	Never married	M	61726
+Queensland	2006	30-34	Separated	F	5693
+Queensland	2006	30-34	Separated	M	3548
+Queensland	2006	30-34	Widowed	F	435
+Queensland	2006	30-34	Widowed	M	151
+Queensland	2006	35-39	Divorced	F	15316
+Queensland	2006	35-39	Divorced	M	10420
+Queensland	2006	35-39	Married	F	90589
+Queensland	2006	35-39	Married	M	80924
+Queensland	2006	35-39	Never married	F	32916
+Queensland	2006	35-39	Never married	M	42867
+Queensland	2006	35-39	Separated	F	7638
+Queensland	2006	35-39	Separated	M	5301
+Queensland	2006	35-39	Widowed	F	877
+Queensland	2006	35-39	Widowed	M	290
+Queensland	2006	40-44	Divorced	F	21173
+Queensland	2006	40-44	Divorced	M	15020
+Queensland	2006	40-44	Married	F	94055
+Queensland	2006	40-44	Married	M	87598
+Queensland	2006	40-44	Never married	F	22132
+Queensland	2006	40-44	Never married	M	31012
+Queensland	2006	40-44	Separated	F	8852
+Queensland	2006	40-44	Separated	M	6456
+Queensland	2006	40-44	Widowed	F	1608
+Queensland	2006	40-44	Widowed	M	521
+Queensland	2006	45-49	Divorced	F	24301
+Queensland	2006	45-49	Divorced	M	19020
+Queensland	2006	45-49	Married	F	93240
+Queensland	2006	45-49	Married	M	89687
+Queensland	2006	45-49	Never married	F	14833
+Queensland	2006	45-49	Never married	M	21740
+Queensland	2006	45-49	Separated	F	8503
+Queensland	2006	45-49	Separated	M	7116
+Queensland	2006	45-49	Widowed	F	2691
+Queensland	2006	45-49	Widowed	M	823
+Queensland	2006	50-54	Divorced	F	23525
+Queensland	2006	50-54	Divorced	M	19348
+Queensland	2006	50-54	Married	F	86079
+Queensland	2006	50-54	Married	M	85935
+Queensland	2006	50-54	Never married	F	9281
+Queensland	2006	50-54	Never married	M	14239
+Queensland	2006	50-54	Separated	F	6759
+Queensland	2006	50-54	Separated	M	6533
+Queensland	2006	50-54	Widowed	F	4229
+Queensland	2006	50-54	Widowed	M	1310
+Queensland	2006	55-59	Divorced	F	21544
+Queensland	2006	55-59	Divorced	M	19206
+Queensland	2006	55-59	Married	F	82438
+Queensland	2006	55-59	Married	M	86638
+Queensland	2006	55-59	Never married	F	5789
+Queensland	2006	55-59	Never married	M	9850
+Queensland	2006	55-59	Separated	F	5501
+Queensland	2006	55-59	Separated	M	5783
+Queensland	2006	55-59	Widowed	F	6900
+Queensland	2006	55-59	Widowed	M	2091
+Queensland	2006	60-64	Divorced	F	14960
+Queensland	2006	60-64	Divorced	M	13808
+Queensland	2006	60-64	Married	F	62959
+Queensland	2006	60-64	Married	M	70545
+Queensland	2006	60-64	Never married	F	3483
+Queensland	2006	60-64	Never married	M	6295
+Queensland	2006	60-64	Separated	F	3564
+Queensland	2006	60-64	Separated	M	4045
+Queensland	2006	60-64	Widowed	F	9554
+Queensland	2006	60-64	Widowed	M	2594
+Queensland	2006	65-69	Divorced	F	9327
+Queensland	2006	65-69	Divorced	M	9055
+Queensland	2006	65-69	Married	F	45852
+Queensland	2006	65-69	Married	M	54247
+Queensland	2006	65-69	Never married	F	2638
+Queensland	2006	65-69	Never married	M	4443
+Queensland	2006	65-69	Separated	F	2213
+Queensland	2006	65-69	Separated	M	2720
+Queensland	2006	65-69	Widowed	F	12559
+Queensland	2006	65-69	Widowed	M	3377
+Queensland	2006	70-74	Divorced	F	5600
+Queensland	2006	70-74	Divorced	M	5542
+Queensland	2006	70-74	Married	F	31770
+Queensland	2006	70-74	Married	M	40452
+Queensland	2006	70-74	Never married	F	2107
+Queensland	2006	70-74	Never married	M	3507
+Queensland	2006	70-74	Separated	F	1236
+Queensland	2006	70-74	Separated	M	1745
+Queensland	2006	70-74	Widowed	F	16748
+Queensland	2006	70-74	Widowed	M	4304
+Queensland	2006	75-79	Divorced	F	3717
+Queensland	2006	75-79	Divorced	M	3432
+Queensland	2006	75-79	Married	F	22612
+Queensland	2006	75-79	Married	M	31640
+Queensland	2006	75-79	Never married	F	1906
+Queensland	2006	75-79	Never married	M	2766
+Queensland	2006	75-79	Separated	F	805
+Queensland	2006	75-79	Separated	M	1158
+Queensland	2006	75-79	Widowed	F	22778
+Queensland	2006	75-79	Widowed	M	5663
+Queensland	2006	80-84	Divorced	F	1941
+Queensland	2006	80-84	Divorced	M	1665
+Queensland	2006	80-84	Married	F	12115
+Queensland	2006	80-84	Married	M	19311
+Queensland	2006	80-84	Never married	F	1618
+Queensland	2006	80-84	Never married	M	1676
+Queensland	2006	80-84	Separated	F	382
+Queensland	2006	80-84	Separated	M	622
+Queensland	2006	80-84	Widowed	F	24842
+Queensland	2006	80-84	Widowed	M	6169
+Queensland	2006	85+	Divorced	F	1094
+Queensland	2006	85+	Divorced	M	726
+Queensland	2006	85+	Married	F	5343
+Queensland	2006	85+	Married	M	10005
+Queensland	2006	85+	Never married	F	1752
+Queensland	2006	85+	Never married	M	1111
+Queensland	2006	85+	Separated	F	212
+Queensland	2006	85+	Separated	M	314
+Queensland	2006	85+	Widowed	F	29083
+Queensland	2006	85+	Widowed	M	7026
+Queensland	2011	15-19	Divorced	F	117
+Queensland	2011	15-19	Divorced	M	120
+Queensland	2011	15-19	Married	F	607
+Queensland	2011	15-19	Married	M	342
+Queensland	2011	15-19	Never married	F	142618
+Queensland	2011	15-19	Never married	M	149814
+Queensland	2011	15-19	Separated	F	94
+Queensland	2011	15-19	Separated	M	95
+Queensland	2011	15-19	Widowed	F	55
+Queensland	2011	15-19	Widowed	M	65
+Queensland	2011	20-24	Divorced	F	348
+Queensland	2011	20-24	Divorced	M	241
+Queensland	2011	20-24	Married	F	12801
+Queensland	2011	20-24	Married	M	6506
+Queensland	2011	20-24	Never married	F	132007
+Queensland	2011	20-24	Never married	M	140254
+Queensland	2011	20-24	Separated	F	997
+Queensland	2011	20-24	Separated	M	446
+Queensland	2011	20-24	Widowed	F	126
+Queensland	2011	20-24	Widowed	M	126
+Queensland	2011	25-29	Divorced	F	2502
+Queensland	2011	25-29	Divorced	M	1398
+Queensland	2011	25-29	Married	F	51727
+Queensland	2011	25-29	Married	M	36141
+Queensland	2011	25-29	Never married	F	93534
+Queensland	2011	25-29	Never married	M	109801
+Queensland	2011	25-29	Separated	F	3370
+Queensland	2011	25-29	Separated	M	1852
+Queensland	2011	25-29	Widowed	F	232
+Queensland	2011	25-29	Widowed	M	149
+Queensland	2011	30-34	Divorced	F	6478
+Queensland	2011	30-34	Divorced	M	4145
+Queensland	2011	30-34	Married	F	77316
+Queensland	2011	30-34	Married	M	65524
+Queensland	2011	30-34	Never married	F	55715
+Queensland	2011	30-34	Never married	M	67884
+Queensland	2011	30-34	Separated	F	5563
+Queensland	2011	30-34	Separated	M	3503
+Queensland	2011	30-34	Widowed	F	388
+Queensland	2011	30-34	Widowed	M	182
+Queensland	2011	35-39	Divorced	F	13148
+Queensland	2011	35-39	Divorced	M	8970
+Queensland	2011	35-39	Married	F	94423
+Queensland	2011	35-39	Married	M	86202
+Queensland	2011	35-39	Never married	F	40683
+Queensland	2011	35-39	Never married	M	50129
+Queensland	2011	35-39	Separated	F	7881
+Queensland	2011	35-39	Separated	M	5603
+Queensland	2011	35-39	Widowed	F	879
+Queensland	2011	35-39	Widowed	M	267
+Queensland	2011	40-44	Divorced	F	20229
+Queensland	2011	40-44	Divorced	M	14058
+Queensland	2011	40-44	Married	F	98389
+Queensland	2011	40-44	Married	M	93124
+Queensland	2011	40-44	Never married	F	30384
+Queensland	2011	40-44	Never married	M	38131
+Queensland	2011	40-44	Separated	F	9209
+Queensland	2011	40-44	Separated	M	7098
+Queensland	2011	40-44	Widowed	F	1445
+Queensland	2011	40-44	Widowed	M	501
+Queensland	2011	45-49	Divorced	F	25450
+Queensland	2011	45-49	Divorced	M	18446
+Queensland	2011	45-49	Married	F	95722
+Queensland	2011	45-49	Married	M	92597
+Queensland	2011	45-49	Never married	F	21013
+Queensland	2011	45-49	Never married	M	29210
+Queensland	2011	45-49	Separated	F	9278
+Queensland	2011	45-49	Separated	M	7585
+Queensland	2011	45-49	Widowed	F	2626
+Queensland	2011	45-49	Widowed	M	820
+Queensland	2011	50-54	Divorced	F	27365
+Queensland	2011	50-54	Divorced	M	21440
+Queensland	2011	50-54	Married	F	92423
+Queensland	2011	50-54	Married	M	91170
+Queensland	2011	50-54	Never married	F	14448
+Queensland	2011	50-54	Never married	M	20650
+Queensland	2011	50-54	Separated	F	8093
+Queensland	2011	50-54	Separated	M	7082
+Queensland	2011	50-54	Widowed	F	4154
+Queensland	2011	50-54	Widowed	M	1303
+Queensland	2011	55-59	Divorced	F	25072
+Queensland	2011	55-59	Divorced	M	20819
+Queensland	2011	55-59	Married	F	83969
+Queensland	2011	55-59	Married	M	85389
+Queensland	2011	55-59	Never married	F	8882
+Queensland	2011	55-59	Never married	M	13352
+Queensland	2011	55-59	Separated	F	6162
+Queensland	2011	55-59	Separated	M	5965
+Queensland	2011	55-59	Widowed	F	6392
+Queensland	2011	55-59	Widowed	M	1959
+Queensland	2011	60-64	Divorced	F	22266
+Queensland	2011	60-64	Divorced	M	19463
+Queensland	2011	60-64	Married	F	78739
+Queensland	2011	60-64	Married	M	85046
+Queensland	2011	60-64	Never married	F	5507
+Queensland	2011	60-64	Never married	M	9065
+Queensland	2011	60-64	Separated	F	4716
+Queensland	2011	60-64	Separated	M	5131
+Queensland	2011	60-64	Widowed	F	10181
+Queensland	2011	60-64	Widowed	M	3024
+Queensland	2011	65-69	Divorced	F	14980
+Queensland	2011	65-69	Divorced	M	13278
+Queensland	2011	65-69	Married	F	57756
+Queensland	2011	65-69	Married	M	66727
+Queensland	2011	65-69	Never married	F	3399
+Queensland	2011	65-69	Never married	M	5785
+Queensland	2011	65-69	Separated	F	3040
+Queensland	2011	65-69	Separated	M	3577
+Queensland	2011	65-69	Widowed	F	13476
+Queensland	2011	65-69	Widowed	M	3745
+Queensland	2011	70-74	Divorced	F	8761
+Queensland	2011	70-74	Divorced	M	8131
+Queensland	2011	70-74	Married	F	39308
+Queensland	2011	70-74	Married	M	48961
+Queensland	2011	70-74	Never married	F	2349
+Queensland	2011	70-74	Never married	M	3826
+Queensland	2011	70-74	Separated	F	1693
+Queensland	2011	70-74	Separated	M	2302
+Queensland	2011	70-74	Widowed	F	17030
+Queensland	2011	70-74	Widowed	M	4528
+Queensland	2011	75-79	Divorced	F	4804
+Queensland	2011	75-79	Divorced	M	4503
+Queensland	2011	75-79	Married	F	24350
+Queensland	2011	75-79	Married	M	33453
+Queensland	2011	75-79	Never married	F	1769
+Queensland	2011	75-79	Never married	M	2619
+Queensland	2011	75-79	Separated	F	865
+Queensland	2011	75-79	Separated	M	1421
+Queensland	2011	75-79	Widowed	F	20542
+Queensland	2011	75-79	Widowed	M	5248
+Queensland	2011	80-84	Divorced	F	2893
+Queensland	2011	80-84	Divorced	M	2359
+Queensland	2011	80-84	Married	F	14089
+Queensland	2011	80-84	Married	M	22320
+Queensland	2011	80-84	Never married	F	1422
+Queensland	2011	80-84	Never married	M	1833
+Queensland	2011	80-84	Separated	F	456
+Queensland	2011	80-84	Separated	M	722
+Queensland	2011	80-84	Widowed	F	24564
+Queensland	2011	80-84	Widowed	M	6316
+Queensland	2011	85+	Divorced	F	1719
+Queensland	2011	85+	Divorced	M	1177
+Queensland	2011	85+	Married	F	6939
+Queensland	2011	85+	Married	M	13206
+Queensland	2011	85+	Never married	F	1744
+Queensland	2011	85+	Never married	M	1226
+Queensland	2011	85+	Separated	F	235
+Queensland	2011	85+	Separated	M	409
+Queensland	2011	85+	Widowed	F	34524
+Queensland	2011	85+	Widowed	M	8623
+Queensland	2016	15-19	Divorced	F	47
+Queensland	2016	15-19	Divorced	M	61
+Queensland	2016	15-19	Married	F	492
+Queensland	2016	15-19	Married	M	333
+Queensland	2016	15-19	Never married	F	144402
+Queensland	2016	15-19	Never married	M	150684
+Queensland	2016	15-19	Separated	F	74
+Queensland	2016	15-19	Separated	M	54
+Queensland	2016	15-19	Widowed	F	76
+Queensland	2016	15-19	Widowed	M	65
+Queensland	2016	20-24	Divorced	F	304
+Queensland	2016	20-24	Divorced	M	187
+Queensland	2016	20-24	Married	F	10686
+Queensland	2016	20-24	Married	M	5692
+Queensland	2016	20-24	Never married	F	145528
+Queensland	2016	20-24	Never married	M	152872
+Queensland	2016	20-24	Separated	F	920
+Queensland	2016	20-24	Separated	M	419
+Queensland	2016	20-24	Widowed	F	145
+Queensland	2016	20-24	Widowed	M	106
+Queensland	2016	25-29	Divorced	F	2203
+Queensland	2016	25-29	Divorced	M	1283
+Queensland	2016	25-29	Married	F	49742
+Queensland	2016	25-29	Married	M	34259
+Queensland	2016	25-29	Never married	F	106784
+Queensland	2016	25-29	Never married	M	120415
+Queensland	2016	25-29	Separated	F	3647
+Queensland	2016	25-29	Separated	M	2022
+Queensland	2016	25-29	Widowed	F	245
+Queensland	2016	25-29	Widowed	M	149
+Queensland	2016	30-34	Divorced	F	6269
+Queensland	2016	30-34	Divorced	M	4114
+Queensland	2016	30-34	Married	F	87284
+Queensland	2016	30-34	Married	M	73561
+Queensland	2016	30-34	Never married	F	65859
+Queensland	2016	30-34	Never married	M	77664
+Queensland	2016	30-34	Separated	F	6375
+Queensland	2016	30-34	Separated	M	4233
+Queensland	2016	30-34	Widowed	F	432
+Queensland	2016	30-34	Widowed	M	164
+Queensland	2016	35-39	Divorced	F	10734
+Queensland	2016	35-39	Divorced	M	7309
+Queensland	2016	35-39	Married	F	91914
+Queensland	2016	35-39	Married	M	84830
+Queensland	2016	35-39	Never married	F	44204
+Queensland	2016	35-39	Never married	M	51285
+Queensland	2016	35-39	Separated	F	8116
+Queensland	2016	35-39	Separated	M	5725
+Queensland	2016	35-39	Widowed	F	811
+Queensland	2016	35-39	Widowed	M	295
+Queensland	2016	40-44	Divorced	F	18245
+Queensland	2016	40-44	Divorced	M	12479
+Queensland	2016	40-44	Married	F	98896
+Queensland	2016	40-44	Married	M	94079
+Queensland	2016	40-44	Never married	F	36516
+Queensland	2016	40-44	Never married	M	42896
+Queensland	2016	40-44	Separated	F	10102
+Queensland	2016	40-44	Separated	M	7798
+Queensland	2016	40-44	Widowed	F	1440
+Queensland	2016	40-44	Widowed	M	453
+Queensland	2016	45-49	Divorced	F	25325
+Queensland	2016	45-49	Divorced	M	17672
+Queensland	2016	45-49	Married	F	98558
+Queensland	2016	45-49	Married	M	95371
+Queensland	2016	45-49	Never married	F	28651
+Queensland	2016	45-49	Never married	M	35048
+Queensland	2016	45-49	Separated	F	10631
+Queensland	2016	45-49	Separated	M	8601
+Queensland	2016	45-49	Widowed	F	2288
+Queensland	2016	45-49	Widowed	M	832
+Queensland	2016	50-54	Divorced	F	29492
+Queensland	2016	50-54	Divorced	M	21510
+Queensland	2016	50-54	Married	F	94296
+Queensland	2016	50-54	Married	M	92552
+Queensland	2016	50-54	Never married	F	20397
+Queensland	2016	50-54	Never married	M	27436
+Queensland	2016	50-54	Separated	F	9461
+Queensland	2016	50-54	Separated	M	8244
+Queensland	2016	50-54	Widowed	F	4060
+Queensland	2016	50-54	Widowed	M	1273
+Queensland	2016	55-59	Divorced	F	30084
+Queensland	2016	55-59	Divorced	M	23023
+Queensland	2016	55-59	Married	F	90879
+Queensland	2016	55-59	Married	M	90602
+Queensland	2016	55-59	Never married	F	14180
+Queensland	2016	55-59	Never married	M	19738
+Queensland	2016	55-59	Separated	F	7991
+Queensland	2016	55-59	Separated	M	7313
+Queensland	2016	55-59	Widowed	F	6344
+Queensland	2016	55-59	Widowed	M	2050
+Queensland	2016	60-64	Divorced	F	26636
+Queensland	2016	60-64	Divorced	M	21409
+Queensland	2016	60-64	Married	F	82071
+Queensland	2016	60-64	Married	M	84858
+Queensland	2016	60-64	Never married	F	8731
+Queensland	2016	60-64	Never married	M	12585
+Queensland	2016	60-64	Separated	F	6023
+Queensland	2016	60-64	Separated	M	5902
+Queensland	2016	60-64	Widowed	F	9664
+Queensland	2016	60-64	Widowed	M	2813
+Queensland	2016	65-69	Divorced	F	22995
+Queensland	2016	65-69	Divorced	M	19137
+Queensland	2016	65-69	Married	F	74618
+Queensland	2016	65-69	Married	M	82603
+Queensland	2016	65-69	Never married	F	5545
+Queensland	2016	65-69	Never married	M	8429
+Queensland	2016	65-69	Separated	F	4555
+Queensland	2016	65-69	Separated	M	5203
+Queensland	2016	65-69	Widowed	F	14815
+Queensland	2016	65-69	Widowed	M	4298
+Queensland	2016	70-74	Divorced	F	14705
+Queensland	2016	70-74	Divorced	M	12426
+Queensland	2016	70-74	Married	F	52210
+Queensland	2016	70-74	Married	M	62795
+Queensland	2016	70-74	Never married	F	3316
+Queensland	2016	70-74	Never married	M	5163
+Queensland	2016	70-74	Separated	F	2645
+Queensland	2016	70-74	Separated	M	3312
+Queensland	2016	70-74	Widowed	F	18606
+Queensland	2016	70-74	Widowed	M	5233
+Queensland	2016	75-79	Divorced	F	7973
+Queensland	2016	75-79	Divorced	M	6841
+Queensland	2016	75-79	Married	F	31726
+Queensland	2016	75-79	Married	M	43029
+Queensland	2016	75-79	Never married	F	2206
+Queensland	2016	75-79	Never married	M	3141
+Queensland	2016	75-79	Separated	F	1254
+Queensland	2016	75-79	Separated	M	1905
+Queensland	2016	75-79	Widowed	F	22099
+Queensland	2016	75-79	Widowed	M	5912
+Queensland	2016	80-84	Divorced	F	3969
+Queensland	2016	80-84	Divorced	M	3305
+Queensland	2016	80-84	Married	F	16268
+Queensland	2016	80-84	Married	M	25423
+Queensland	2016	80-84	Never married	F	1565
+Queensland	2016	80-84	Never married	M	1875
+Queensland	2016	80-84	Separated	F	587
+Queensland	2016	80-84	Separated	M	968
+Queensland	2016	80-84	Widowed	F	23458
+Queensland	2016	80-84	Widowed	M	6308
+Queensland	2016	85+	Divorced	F	2818
+Queensland	2016	85+	Divorced	M	1828
+Queensland	2016	85+	Married	F	8895
+Queensland	2016	85+	Married	M	17398
+Queensland	2016	85+	Never married	F	1911
+Queensland	2016	85+	Never married	M	1551
+Queensland	2016	85+	Separated	F	328
+Queensland	2016	85+	Separated	M	550
+Queensland	2016	85+	Widowed	F	39803
+Queensland	2016	85+	Widowed	M	10445
+South Australia	2006	15-19	Divorced	F	31
+South Australia	2006	15-19	Divorced	M	50
+South Australia	2006	15-19	Married	F	209
+South Australia	2006	15-19	Married	M	109
+South Australia	2006	15-19	Never married	F	48446
+South Australia	2006	15-19	Never married	M	51780
+South Australia	2006	15-19	Separated	F	38
+South Australia	2006	15-19	Separated	M	30
+South Australia	2006	15-19	Widowed	F	33
+South Australia	2006	15-19	Widowed	M	28
+South Australia	2006	20-24	Divorced	F	105
+South Australia	2006	20-24	Divorced	M	58
+South Australia	2006	20-24	Married	F	4171
+South Australia	2006	20-24	Married	M	1959
+South Australia	2006	20-24	Never married	F	44537
+South Australia	2006	20-24	Never married	M	48764
+South Australia	2006	20-24	Separated	F	302
+South Australia	2006	20-24	Separated	M	122
+South Australia	2006	20-24	Widowed	F	54
+South Australia	2006	20-24	Widowed	M	31
+South Australia	2006	25-29	Divorced	F	872
+South Australia	2006	25-29	Divorced	M	462
+South Australia	2006	25-29	Married	F	15372
+South Australia	2006	25-29	Married	M	10421
+South Australia	2006	25-29	Never married	F	26691
+South Australia	2006	25-29	Never married	M	33462
+South Australia	2006	25-29	Separated	F	936
+South Australia	2006	25-29	Separated	M	518
+South Australia	2006	25-29	Widowed	F	105
+South Australia	2006	25-29	Widowed	M	24
+South Australia	2006	30-34	Divorced	F	2874
+South Australia	2006	30-34	Divorced	M	1748
+South Australia	2006	30-34	Married	F	26611
+South Australia	2006	30-34	Married	M	21841
+South Australia	2006	30-34	Never married	F	17236
+South Australia	2006	30-34	Never married	M	23320
+South Australia	2006	30-34	Separated	F	1849
+South Australia	2006	30-34	Separated	M	1170
+South Australia	2006	30-34	Widowed	F	183
+South Australia	2006	30-34	Widowed	M	56
+South Australia	2006	35-39	Divorced	F	5483
+South Australia	2006	35-39	Divorced	M	3896
+South Australia	2006	35-39	Married	F	32936
+South Australia	2006	35-39	Married	M	29688
+South Australia	2006	35-39	Never married	F	12857
+South Australia	2006	35-39	Never married	M	17870
+South Australia	2006	35-39	Separated	F	2647
+South Australia	2006	35-39	Separated	M	1817
+South Australia	2006	35-39	Widowed	F	389
+South Australia	2006	35-39	Widowed	M	93
+South Australia	2006	40-44	Divorced	F	8055
+South Australia	2006	40-44	Divorced	M	5835
+South Australia	2006	40-44	Married	F	35128
+South Australia	2006	40-44	Married	M	33107
+South Australia	2006	40-44	Never married	F	9330
+South Australia	2006	40-44	Never married	M	13432
+South Australia	2006	40-44	Separated	F	3177
+South Australia	2006	40-44	Separated	M	2451
+South Australia	2006	40-44	Widowed	F	654
+South Australia	2006	40-44	Widowed	M	239
+South Australia	2006	45-49	Divorced	F	9864
+South Australia	2006	45-49	Divorced	M	7697
+South Australia	2006	45-49	Married	F	36426
+South Australia	2006	45-49	Married	M	35146
+South Australia	2006	45-49	Never married	F	6595
+South Australia	2006	45-49	Never married	M	9679
+South Australia	2006	45-49	Separated	F	3086
+South Australia	2006	45-49	Separated	M	2703
+South Australia	2006	45-49	Widowed	F	1103
+South Australia	2006	45-49	Widowed	M	378
+South Australia	2006	50-54	Divorced	F	9751
+South Australia	2006	50-54	Divorced	M	7940
+South Australia	2006	50-54	Married	F	34719
+South Australia	2006	50-54	Married	M	34173
+South Australia	2006	50-54	Never married	F	4144
+South Australia	2006	50-54	Never married	M	6107
+South Australia	2006	50-54	Separated	F	2708
+South Australia	2006	50-54	Separated	M	2440
+South Australia	2006	50-54	Widowed	F	1683
+South Australia	2006	50-54	Widowed	M	561
+South Australia	2006	55-59	Divorced	F	8736
+South Australia	2006	55-59	Divorced	M	7301
+South Australia	2006	55-59	Married	F	34529
+South Australia	2006	55-59	Married	M	35157
+South Australia	2006	55-59	Never married	F	2519
+South Australia	2006	55-59	Never married	M	3809
+South Australia	2006	55-59	Separated	F	1971
+South Australia	2006	55-59	Separated	M	2126
+South Australia	2006	55-59	Widowed	F	2940
+South Australia	2006	55-59	Widowed	M	827
+South Australia	2006	60-64	Divorced	F	5925
+South Australia	2006	60-64	Divorced	M	4896
+South Australia	2006	60-64	Married	F	26985
+South Australia	2006	60-64	Married	M	28855
+South Australia	2006	60-64	Never married	F	1500
+South Australia	2006	60-64	Never married	M	2213
+South Australia	2006	60-64	Separated	F	1218
+South Australia	2006	60-64	Separated	M	1323
+South Australia	2006	60-64	Widowed	F	3954
+South Australia	2006	60-64	Widowed	M	1026
+South Australia	2006	65-69	Divorced	F	3597
+South Australia	2006	65-69	Divorced	M	3157
+South Australia	2006	65-69	Married	F	21185
+South Australia	2006	65-69	Married	M	23279
+South Australia	2006	65-69	Never married	F	939
+South Australia	2006	65-69	Never married	M	1527
+South Australia	2006	65-69	Separated	F	762
+South Australia	2006	65-69	Separated	M	920
+South Australia	2006	65-69	Widowed	F	5799
+South Australia	2006	65-69	Widowed	M	1279
+South Australia	2006	70-74	Divorced	F	2560
+South Australia	2006	70-74	Divorced	M	2071
+South Australia	2006	70-74	Married	F	15768
+South Australia	2006	70-74	Married	M	19362
+South Australia	2006	70-74	Never married	F	757
+South Australia	2006	70-74	Never married	M	1139
+South Australia	2006	70-74	Separated	F	516
+South Australia	2006	70-74	Separated	M	576
+South Australia	2006	70-74	Widowed	F	8068
+South Australia	2006	70-74	Widowed	M	1839
+South Australia	2006	75-79	Divorced	F	1721
+South Australia	2006	75-79	Divorced	M	1362
+South Australia	2006	75-79	Married	F	11984
+South Australia	2006	75-79	Married	M	16456
+South Australia	2006	75-79	Never married	F	813
+South Australia	2006	75-79	Never married	M	1091
+South Australia	2006	75-79	Separated	F	345
+South Australia	2006	75-79	Separated	M	453
+South Australia	2006	75-79	Widowed	F	12198
+South Australia	2006	75-79	Widowed	M	2856
+South Australia	2006	80-84	Divorced	F	1016
+South Australia	2006	80-84	Divorced	M	702
+South Australia	2006	80-84	Married	F	6915
+South Australia	2006	80-84	Married	M	10402
+South Australia	2006	80-84	Never married	F	717
+South Australia	2006	80-84	Never married	M	620
+South Australia	2006	80-84	Separated	F	197
+South Australia	2006	80-84	Separated	M	277
+South Australia	2006	80-84	Widowed	F	14042
+South Australia	2006	80-84	Widowed	M	3273
+South Australia	2006	85+	Divorced	F	563
+South Australia	2006	85+	Divorced	M	306
+South Australia	2006	85+	Married	F	2745
+South Australia	2006	85+	Married	M	5173
+South Australia	2006	85+	Never married	F	909
+South Australia	2006	85+	Never married	M	427
+South Australia	2006	85+	Separated	F	78
+South Australia	2006	85+	Separated	M	132
+South Australia	2006	85+	Widowed	F	16439
+South Australia	2006	85+	Widowed	M	3832
+South Australia	2011	15-19	Divorced	F	24
+South Australia	2011	15-19	Divorced	M	36
+South Australia	2011	15-19	Married	F	192
+South Australia	2011	15-19	Married	M	116
+South Australia	2011	15-19	Never married	F	49871
+South Australia	2011	15-19	Never married	M	52873
+South Australia	2011	15-19	Separated	F	29
+South Australia	2011	15-19	Separated	M	43
+South Australia	2011	15-19	Widowed	F	43
+South Australia	2011	15-19	Widowed	M	21
+South Australia	2011	20-24	Divorced	F	130
+South Australia	2011	20-24	Divorced	M	51
+South Australia	2011	20-24	Married	F	4117
+South Australia	2011	20-24	Married	M	1869
+South Australia	2011	20-24	Never married	F	46977
+South Australia	2011	20-24	Never married	M	51870
+South Australia	2011	20-24	Separated	F	317
+South Australia	2011	20-24	Separated	M	132
+South Australia	2011	20-24	Widowed	F	75
+South Australia	2011	20-24	Widowed	M	55
+South Australia	2011	25-29	Divorced	F	801
+South Australia	2011	25-29	Divorced	M	456
+South Australia	2011	25-29	Married	F	18207
+South Australia	2011	25-29	Married	M	12337
+South Australia	2011	25-29	Never married	F	31951
+South Australia	2011	25-29	Never married	M	39029
+South Australia	2011	25-29	Separated	F	1042
+South Australia	2011	25-29	Separated	M	531
+South Australia	2011	25-29	Widowed	F	98
+South Australia	2011	25-29	Widowed	M	52
+South Australia	2011	30-34	Divorced	F	2114
+South Australia	2011	30-34	Divorced	M	1266
+South Australia	2011	30-34	Married	F	26690
+South Australia	2011	30-34	Married	M	23069
+South Australia	2011	30-34	Never married	F	18300
+South Australia	2011	30-34	Never married	M	23383
+South Australia	2011	30-34	Separated	F	1635
+South Australia	2011	30-34	Separated	M	1118
+South Australia	2011	30-34	Widowed	F	175
+South Australia	2011	30-34	Widowed	M	78
+South Australia	2011	35-39	Divorced	F	4302
+South Australia	2011	35-39	Divorced	M	2830
+South Australia	2011	35-39	Married	F	31408
+South Australia	2011	35-39	Married	M	28810
+South Australia	2011	35-39	Never married	F	13965
+South Australia	2011	35-39	Never married	M	18205
+South Australia	2011	35-39	Separated	F	2348
+South Australia	2011	35-39	Separated	M	1665
+South Australia	2011	35-39	Widowed	F	340
+South Australia	2011	35-39	Widowed	M	96
+South Australia	2011	40-44	Divorced	F	7191
+South Australia	2011	40-44	Divorced	M	5038
+South Australia	2011	40-44	Married	F	34218
+South Australia	2011	40-44	Married	M	32547
+South Australia	2011	40-44	Never married	F	11607
+South Australia	2011	40-44	Never married	M	15669
+South Australia	2011	40-44	Separated	F	3006
+South Australia	2011	40-44	Separated	M	2295
+South Australia	2011	40-44	Widowed	F	616
+South Australia	2011	40-44	Widowed	M	216
+South Australia	2011	45-49	Divorced	F	9532
+South Australia	2011	45-49	Divorced	M	7019
+South Australia	2011	45-49	Married	F	34494
+South Australia	2011	45-49	Married	M	33609
+South Australia	2011	45-49	Never married	F	8812
+South Australia	2011	45-49	Never married	M	12438
+South Australia	2011	45-49	Separated	F	3193
+South Australia	2011	45-49	Separated	M	2691
+South Australia	2011	45-49	Widowed	F	984
+South Australia	2011	45-49	Widowed	M	310
+South Australia	2011	50-54	Divorced	F	10800
+South Australia	2011	50-54	Divorced	M	8517
+South Australia	2011	50-54	Married	F	35076
+South Australia	2011	50-54	Married	M	34289
+South Australia	2011	50-54	Never married	F	6310
+South Australia	2011	50-54	Never married	M	9039
+South Australia	2011	50-54	Separated	F	2972
+South Australia	2011	50-54	Separated	M	2687
+South Australia	2011	50-54	Widowed	F	1578
+South Australia	2011	50-54	Widowed	M	593
+South Australia	2011	55-59	Divorced	F	10140
+South Australia	2011	55-59	Divorced	M	8120
+South Australia	2011	55-59	Married	F	33268
+South Australia	2011	55-59	Married	M	32992
+South Australia	2011	55-59	Never married	F	3916
+South Australia	2011	55-59	Never married	M	5679
+South Australia	2011	55-59	Separated	F	2260
+South Australia	2011	55-59	Separated	M	2319
+South Australia	2011	55-59	Widowed	F	2540
+South Australia	2011	55-59	Widowed	M	774
+South Australia	2011	60-64	Divorced	F	8865
+South Australia	2011	60-64	Divorced	M	7375
+South Australia	2011	60-64	Married	F	32644
+South Australia	2011	60-64	Married	M	33974
+South Australia	2011	60-64	Never married	F	2424
+South Australia	2011	60-64	Never married	M	3538
+South Australia	2011	60-64	Separated	F	1701
+South Australia	2011	60-64	Separated	M	1800
+South Australia	2011	60-64	Widowed	F	4103
+South Australia	2011	60-64	Widowed	M	1173
+South Australia	2011	65-69	Divorced	F	5770
+South Australia	2011	65-69	Divorced	M	4668
+South Australia	2011	65-69	Married	F	24668
+South Australia	2011	65-69	Married	M	27019
+South Australia	2011	65-69	Never married	F	1381
+South Australia	2011	65-69	Never married	M	2036
+South Australia	2011	65-69	Separated	F	1014
+South Australia	2011	65-69	Separated	M	1149
+South Australia	2011	65-69	Widowed	F	5517
+South Australia	2011	65-69	Widowed	M	1442
+South Australia	2011	70-74	Divorced	F	3362
+South Australia	2011	70-74	Divorced	M	2838
+South Australia	2011	70-74	Married	F	18178
+South Australia	2011	70-74	Married	M	21090
+South Australia	2011	70-74	Never married	F	870
+South Australia	2011	70-74	Never married	M	1274
+South Australia	2011	70-74	Separated	F	620
+South Australia	2011	70-74	Separated	M	762
+South Australia	2011	70-74	Widowed	F	7713
+South Australia	2011	70-74	Widowed	M	1840
+South Australia	2011	75-79	Divorced	F	2184
+South Australia	2011	75-79	Divorced	M	1664
+South Australia	2011	75-79	Married	F	12141
+South Australia	2011	75-79	Married	M	16109
+South Australia	2011	75-79	Never married	F	656
+South Australia	2011	75-79	Never married	M	846
+South Australia	2011	75-79	Separated	F	340
+South Australia	2011	75-79	Separated	M	474
+South Australia	2011	75-79	Widowed	F	9797
+South Australia	2011	75-79	Widowed	M	2416
+South Australia	2011	80-84	Divorced	F	1374
+South Australia	2011	80-84	Divorced	M	921
+South Australia	2011	80-84	Married	F	7609
+South Australia	2011	80-84	Married	M	11783
+South Australia	2011	80-84	Never married	F	608
+South Australia	2011	80-84	Never married	M	699
+South Australia	2011	80-84	Separated	F	219
+South Australia	2011	80-84	Separated	M	320
+South Australia	2011	80-84	Widowed	F	12818
+South Australia	2011	80-84	Widowed	M	3201
+South Australia	2011	85+	Divorced	F	834
+South Australia	2011	85+	Divorced	M	509
+South Australia	2011	85+	Married	F	3836
+South Australia	2011	85+	Married	M	7078
+South Australia	2011	85+	Never married	F	826
+South Australia	2011	85+	Never married	M	450
+South Australia	2011	85+	Separated	F	118
+South Australia	2011	85+	Separated	M	173
+South Australia	2011	85+	Widowed	F	19534
+South Australia	2011	85+	Widowed	M	4800
+South Australia	2016	15-19	Divorced	F	31
+South Australia	2016	15-19	Divorced	M	38
+South Australia	2016	15-19	Married	F	207
+South Australia	2016	15-19	Married	M	151
+South Australia	2016	15-19	Never married	F	48884
+South Australia	2016	15-19	Never married	M	51288
+South Australia	2016	15-19	Separated	F	15
+South Australia	2016	15-19	Separated	M	18
+South Australia	2016	15-19	Widowed	F	25
+South Australia	2016	15-19	Widowed	M	26
+South Australia	2016	20-24	Divorced	F	70
+South Australia	2016	20-24	Divorced	M	53
+South Australia	2016	20-24	Married	F	3627
+South Australia	2016	20-24	Married	M	1788
+South Australia	2016	20-24	Never married	F	48780
+South Australia	2016	20-24	Never married	M	53229
+South Australia	2016	20-24	Separated	F	242
+South Australia	2016	20-24	Separated	M	103
+South Australia	2016	20-24	Widowed	F	45
+South Australia	2016	20-24	Widowed	M	37
+South Australia	2016	25-29	Divorced	F	650
+South Australia	2016	25-29	Divorced	M	370
+South Australia	2016	25-29	Married	F	17185
+South Australia	2016	25-29	Married	M	11226
+South Australia	2016	25-29	Never married	F	34897
+South Australia	2016	25-29	Never married	M	41312
+South Australia	2016	25-29	Separated	F	1056
+South Australia	2016	25-29	Separated	M	551
+South Australia	2016	25-29	Widowed	F	64
+South Australia	2016	25-29	Widowed	M	50
+South Australia	2016	30-34	Divorced	F	2031
+South Australia	2016	30-34	Divorced	M	1268
+South Australia	2016	30-34	Married	F	30366
+South Australia	2016	30-34	Married	M	25782
+South Australia	2016	30-34	Never married	F	21469
+South Australia	2016	30-34	Never married	M	26400
+South Australia	2016	30-34	Separated	F	1935
+South Australia	2016	30-34	Separated	M	1253
+South Australia	2016	30-34	Widowed	F	181
+South Australia	2016	30-34	Widowed	M	53
+South Australia	2016	35-39	Divorced	F	3287
+South Australia	2016	35-39	Divorced	M	2281
+South Australia	2016	35-39	Married	F	31037
+South Australia	2016	35-39	Married	M	29519
+South Australia	2016	35-39	Never married	F	14592
+South Australia	2016	35-39	Never married	M	17433
+South Australia	2016	35-39	Separated	F	2525
+South Australia	2016	35-39	Separated	M	1786
+South Australia	2016	35-39	Widowed	F	265
+South Australia	2016	35-39	Widowed	M	95
+South Australia	2016	40-44	Divorced	F	5689
+South Australia	2016	40-44	Divorced	M	3870
+South Australia	2016	40-44	Married	F	31961
+South Australia	2016	40-44	Married	M	31132
+South Australia	2016	40-44	Never married	F	12357
+South Australia	2016	40-44	Never married	M	15543
+South Australia	2016	40-44	Separated	F	3080
+South Australia	2016	40-44	Separated	M	2385
+South Australia	2016	40-44	Widowed	F	498
+South Australia	2016	40-44	Widowed	M	142
+South Australia	2016	45-49	Divorced	F	8410
+South Australia	2016	45-49	Divorced	M	6125
+South Australia	2016	45-49	Married	F	33612
+South Australia	2016	45-49	Married	M	32652
+South Australia	2016	45-49	Never married	F	10996
+South Australia	2016	45-49	Never married	M	14245
+South Australia	2016	45-49	Separated	F	3518
+South Australia	2016	45-49	Separated	M	2851
+South Australia	2016	45-49	Widowed	F	905
+South Australia	2016	45-49	Widowed	M	317
+South Australia	2016	50-54	Divorced	F	10568
+South Australia	2016	50-54	Divorced	M	7793
+South Australia	2016	50-54	Married	F	33571
+South Australia	2016	50-54	Married	M	33107
+South Australia	2016	50-54	Never married	F	8466
+South Australia	2016	50-54	Never married	M	11678
+South Australia	2016	50-54	Separated	F	3229
+South Australia	2016	50-54	Separated	M	2908
+South Australia	2016	50-54	Widowed	F	1501
+South Australia	2016	50-54	Widowed	M	445
+South Australia	2016	55-59	Divorced	F	11526
+South Australia	2016	55-59	Divorced	M	8966
+South Australia	2016	55-59	Married	F	34363
+South Australia	2016	55-59	Married	M	33872
+South Australia	2016	55-59	Never married	F	6166
+South Australia	2016	55-59	Never married	M	8517
+South Australia	2016	55-59	Separated	F	2767
+South Australia	2016	55-59	Separated	M	2546
+South Australia	2016	55-59	Widowed	F	2410
+South Australia	2016	55-59	Widowed	M	768
+South Australia	2016	60-64	Divorced	F	10458
+South Australia	2016	60-64	Divorced	M	8146
+South Australia	2016	60-64	Married	F	32394
+South Australia	2016	60-64	Married	M	32746
+South Australia	2016	60-64	Never married	F	3910
+South Australia	2016	60-64	Never married	M	5236
+South Australia	2016	60-64	Separated	F	2043
+South Australia	2016	60-64	Separated	M	2211
+South Australia	2016	60-64	Widowed	F	3724
+South Australia	2016	60-64	Widowed	M	1175
+South Australia	2016	65-69	Divorced	F	8838
+South Australia	2016	65-69	Divorced	M	7002
+South Australia	2016	65-69	Married	F	30989
+South Australia	2016	65-69	Married	M	32939
+South Australia	2016	65-69	Never married	F	2342
+South Australia	2016	65-69	Never married	M	3251
+South Australia	2016	65-69	Separated	F	1498
+South Australia	2016	65-69	Separated	M	1761
+South Australia	2016	65-69	Widowed	F	5973
+South Australia	2016	65-69	Widowed	M	1696
+South Australia	2016	70-74	Divorced	F	5625
+South Australia	2016	70-74	Divorced	M	4330
+South Australia	2016	70-74	Married	F	22341
+South Australia	2016	70-74	Married	M	25489
+South Australia	2016	70-74	Never married	F	1408
+South Australia	2016	70-74	Never married	M	1814
+South Australia	2016	70-74	Separated	F	880
+South Australia	2016	70-74	Separated	M	1040
+South Australia	2016	70-74	Widowed	F	7640
+South Australia	2016	70-74	Widowed	M	2007
+South Australia	2016	75-79	Divorced	F	3023
+South Australia	2016	75-79	Divorced	M	2391
+South Australia	2016	75-79	Married	F	14778
+South Australia	2016	75-79	Married	M	18514
+South Australia	2016	75-79	Never married	F	798
+South Australia	2016	75-79	Never married	M	1052
+South Australia	2016	75-79	Separated	F	442
+South Australia	2016	75-79	Separated	M	596
+South Australia	2016	75-79	Widowed	F	9832
+South Australia	2016	75-79	Widowed	M	2451
+South Australia	2016	80-84	Divorced	F	1820
+South Australia	2016	80-84	Divorced	M	1231
+South Australia	2016	80-84	Married	F	8071
+South Australia	2016	80-84	Married	M	12257
+South Australia	2016	80-84	Never married	F	544
+South Australia	2016	80-84	Never married	M	628
+South Australia	2016	80-84	Separated	F	236
+South Australia	2016	80-84	Separated	M	326
+South Australia	2016	80-84	Widowed	F	11272
+South Australia	2016	80-84	Widowed	M	2991
+South Australia	2016	85+	Divorced	F	1318
+South Australia	2016	85+	Divorced	M	731
+South Australia	2016	85+	Married	F	4809
+South Australia	2016	85+	Married	M	9143
+South Australia	2016	85+	Never married	F	813
+South Australia	2016	85+	Never married	M	577
+South Australia	2016	85+	Separated	F	155
+South Australia	2016	85+	Separated	M	251
+South Australia	2016	85+	Widowed	F	21056
+South Australia	2016	85+	Widowed	M	5636
+Western Australia	2006	15-19	Divorced	F	43
+Western Australia	2006	15-19	Divorced	M	51
+Western Australia	2006	15-19	Married	F	362
+Western Australia	2006	15-19	Married	M	202
+Western Australia	2006	15-19	Never married	F	67610
+Western Australia	2006	15-19	Never married	M	71564
+Western Australia	2006	15-19	Separated	F	57
+Western Australia	2006	15-19	Separated	M	32
+Western Australia	2006	15-19	Widowed	F	34
+Western Australia	2006	15-19	Widowed	M	26
+Western Australia	2006	20-24	Divorced	F	157
+Western Australia	2006	20-24	Divorced	M	104
+Western Australia	2006	20-24	Married	F	5797
+Western Australia	2006	20-24	Married	M	2756
+Western Australia	2006	20-24	Never married	F	59844
+Western Australia	2006	20-24	Never married	M	66651
+Western Australia	2006	20-24	Separated	F	435
+Western Australia	2006	20-24	Separated	M	173
+Western Australia	2006	20-24	Widowed	F	58
+Western Australia	2006	20-24	Widowed	M	44
+Western Australia	2006	25-29	Divorced	F	1229
+Western Australia	2006	25-29	Divorced	M	600
+Western Australia	2006	25-29	Married	F	21186
+Western Australia	2006	25-29	Married	M	14276
+Western Australia	2006	25-29	Never married	F	38180
+Western Australia	2006	25-29	Never married	M	47167
+Western Australia	2006	25-29	Separated	F	1320
+Western Australia	2006	25-29	Separated	M	703
+Western Australia	2006	25-29	Widowed	F	102
+Western Australia	2006	25-29	Widowed	M	47
+Western Australia	2006	30-34	Divorced	F	3627
+Western Australia	2006	30-34	Divorced	M	2286
+Western Australia	2006	30-34	Married	F	38464
+Western Australia	2006	30-34	Married	M	31197
+Western Australia	2006	30-34	Never married	F	24354
+Western Australia	2006	30-34	Never married	M	32387
+Western Australia	2006	30-34	Separated	F	2403
+Western Australia	2006	30-34	Separated	M	1574
+Western Australia	2006	30-34	Widowed	F	230
+Western Australia	2006	30-34	Widowed	M	101
+Western Australia	2006	35-39	Divorced	F	7045
+Western Australia	2006	35-39	Divorced	M	4930
+Western Australia	2006	35-39	Married	F	47129
+Western Australia	2006	35-39	Married	M	42598
+Western Australia	2006	35-39	Never married	F	16624
+Western Australia	2006	35-39	Never married	M	23065
+Western Australia	2006	35-39	Separated	F	3452
+Western Australia	2006	35-39	Separated	M	2450
+Western Australia	2006	35-39	Widowed	F	408
+Western Australia	2006	35-39	Widowed	M	171
+Western Australia	2006	40-44	Divorced	F	10068
+Western Australia	2006	40-44	Divorced	M	7392
+Western Australia	2006	40-44	Married	F	49186
+Western Australia	2006	40-44	Married	M	46603
+Western Australia	2006	40-44	Never married	F	11067
+Western Australia	2006	40-44	Never married	M	16147
+Western Australia	2006	40-44	Separated	F	4104
+Western Australia	2006	40-44	Separated	M	3099
+Western Australia	2006	40-44	Widowed	F	824
+Western Australia	2006	40-44	Widowed	M	271
+Western Australia	2006	45-49	Divorced	F	11721
+Western Australia	2006	45-49	Divorced	M	9358
+Western Australia	2006	45-49	Married	F	49011
+Western Australia	2006	45-49	Married	M	47367
+Western Australia	2006	45-49	Never married	F	7423
+Western Australia	2006	45-49	Never married	M	11348
+Western Australia	2006	45-49	Separated	F	4284
+Western Australia	2006	45-49	Separated	M	3620
+Western Australia	2006	45-49	Widowed	F	1342
+Western Australia	2006	45-49	Widowed	M	453
+Western Australia	2006	50-54	Divorced	F	11754
+Western Australia	2006	50-54	Divorced	M	9640
+Western Australia	2006	50-54	Married	F	45605
+Western Australia	2006	50-54	Married	M	45256
+Western Australia	2006	50-54	Never married	F	4717
+Western Australia	2006	50-54	Never married	M	7255
+Western Australia	2006	50-54	Separated	F	3454
+Western Australia	2006	50-54	Separated	M	3402
+Western Australia	2006	50-54	Widowed	F	1993
+Western Australia	2006	50-54	Widowed	M	702
+Western Australia	2006	55-59	Divorced	F	10447
+Western Australia	2006	55-59	Divorced	M	9136
+Western Australia	2006	55-59	Married	F	41559
+Western Australia	2006	55-59	Married	M	44615
+Western Australia	2006	55-59	Never married	F	2806
+Western Australia	2006	55-59	Never married	M	4672
+Western Australia	2006	55-59	Separated	F	2716
+Western Australia	2006	55-59	Separated	M	2845
+Western Australia	2006	55-59	Widowed	F	3079
+Western Australia	2006	55-59	Widowed	M	932
+Western Australia	2006	60-64	Divorced	F	6904
+Western Australia	2006	60-64	Divorced	M	6104
+Western Australia	2006	60-64	Married	F	29978
+Western Australia	2006	60-64	Married	M	34250
+Western Australia	2006	60-64	Never married	F	1652
+Western Australia	2006	60-64	Never married	M	2850
+Western Australia	2006	60-64	Separated	F	1643
+Western Australia	2006	60-64	Separated	M	1871
+Western Australia	2006	60-64	Widowed	F	4087
+Western Australia	2006	60-64	Widowed	M	1157
+Western Australia	2006	65-69	Divorced	F	4674
+Western Australia	2006	65-69	Divorced	M	4058
+Western Australia	2006	65-69	Married	F	22864
+Western Australia	2006	65-69	Married	M	26734
+Western Australia	2006	65-69	Never married	F	1146
+Western Australia	2006	65-69	Never married	M	1952
+Western Australia	2006	65-69	Separated	F	1039
+Western Australia	2006	65-69	Separated	M	1236
+Western Australia	2006	65-69	Widowed	F	5923
+Western Australia	2006	65-69	Widowed	M	1401
+Western Australia	2006	70-74	Divorced	F	2871
+Western Australia	2006	70-74	Divorced	M	2527
+Western Australia	2006	70-74	Married	F	16474
+Western Australia	2006	70-74	Married	M	20229
+Western Australia	2006	70-74	Never married	F	861
+Western Australia	2006	70-74	Never married	M	1382
+Western Australia	2006	70-74	Separated	F	622
+Western Australia	2006	70-74	Separated	M	800
+Western Australia	2006	70-74	Widowed	F	8201
+Western Australia	2006	70-74	Widowed	M	1953
+Western Australia	2006	75-79	Divorced	F	1866
+Western Australia	2006	75-79	Divorced	M	1538
+Western Australia	2006	75-79	Married	F	11443
+Western Australia	2006	75-79	Married	M	16081
+Western Australia	2006	75-79	Never married	F	728
+Western Australia	2006	75-79	Never married	M	1045
+Western Australia	2006	75-79	Separated	F	371
+Western Australia	2006	75-79	Separated	M	563
+Western Australia	2006	75-79	Widowed	F	11072
+Western Australia	2006	75-79	Widowed	M	2640
+Western Australia	2006	80-84	Divorced	F	1025
+Western Australia	2006	80-84	Divorced	M	743
+Western Australia	2006	80-84	Married	F	5870
+Western Australia	2006	80-84	Married	M	9587
+Western Australia	2006	80-84	Never married	F	629
+Western Australia	2006	80-84	Never married	M	605
+Western Australia	2006	80-84	Separated	F	191
+Western Australia	2006	80-84	Separated	M	275
+Western Australia	2006	80-84	Widowed	F	12017
+Western Australia	2006	80-84	Widowed	M	2837
+Western Australia	2006	85+	Divorced	F	557
+Western Australia	2006	85+	Divorced	M	344
+Western Australia	2006	85+	Married	F	2552
+Western Australia	2006	85+	Married	M	4783
+Western Australia	2006	85+	Never married	F	723
+Western Australia	2006	85+	Never married	M	441
+Western Australia	2006	85+	Separated	F	91
+Western Australia	2006	85+	Separated	M	141
+Western Australia	2006	85+	Widowed	F	14734
+Western Australia	2006	85+	Widowed	M	3120
+Western Australia	2011	15-19	Divorced	F	42
+Western Australia	2011	15-19	Divorced	M	52
+Western Australia	2011	15-19	Married	F	357
+Western Australia	2011	15-19	Married	M	223
+Western Australia	2011	15-19	Never married	F	71242
+Western Australia	2011	15-19	Never married	M	76114
+Western Australia	2011	15-19	Separated	F	52
+Western Australia	2011	15-19	Separated	M	50
+Western Australia	2011	15-19	Widowed	F	40
+Western Australia	2011	15-19	Widowed	M	34
+Western Australia	2011	20-24	Divorced	F	170
+Western Australia	2011	20-24	Divorced	M	121
+Western Australia	2011	20-24	Married	F	6746
+Western Australia	2011	20-24	Married	M	3267
+Western Australia	2011	20-24	Never married	F	69320
+Western Australia	2011	20-24	Never married	M	78531
+Western Australia	2011	20-24	Separated	F	505
+Western Australia	2011	20-24	Separated	M	200
+Western Australia	2011	20-24	Widowed	F	82
+Western Australia	2011	20-24	Widowed	M	70
+Western Australia	2011	25-29	Divorced	F	1102
+Western Australia	2011	25-29	Divorced	M	648
+Western Australia	2011	25-29	Married	F	28064
+Western Australia	2011	25-29	Married	M	19397
+Western Australia	2011	25-29	Never married	F	50337
+Western Australia	2011	25-29	Never married	M	65733
+Western Australia	2011	25-29	Separated	F	1520
+Western Australia	2011	25-29	Separated	M	942
+Western Australia	2011	25-29	Widowed	F	133
+Western Australia	2011	25-29	Widowed	M	81
+Western Australia	2011	30-34	Divorced	F	2874
+Western Australia	2011	30-34	Divorced	M	1985
+Western Australia	2011	30-34	Married	F	42607
+Western Australia	2011	30-34	Married	M	36775
+Western Australia	2011	30-34	Never married	F	28966
+Western Australia	2011	30-34	Never married	M	38604
+Western Australia	2011	30-34	Separated	F	2322
+Western Australia	2011	30-34	Separated	M	1730
+Western Australia	2011	30-34	Widowed	F	213
+Western Australia	2011	30-34	Widowed	M	83
+Western Australia	2011	35-39	Divorced	F	5842
+Western Australia	2011	35-39	Divorced	M	4148
+Western Australia	2011	35-39	Married	F	50519
+Western Australia	2011	35-39	Married	M	47806
+Western Australia	2011	35-39	Never married	F	20113
+Western Australia	2011	35-39	Never married	M	26702
+Western Australia	2011	35-39	Separated	F	3348
+Western Australia	2011	35-39	Separated	M	2531
+Western Australia	2011	35-39	Widowed	F	372
+Western Australia	2011	35-39	Widowed	M	138
+Western Australia	2011	40-44	Divorced	F	9390
+Western Australia	2011	40-44	Divorced	M	6839
+Western Australia	2011	40-44	Married	F	53321
+Western Australia	2011	40-44	Married	M	52322
+Western Australia	2011	40-44	Never married	F	15308
+Western Australia	2011	40-44	Never married	M	20871
+Western Australia	2011	40-44	Separated	F	4224
+Western Australia	2011	40-44	Separated	M	3417
+Western Australia	2011	40-44	Widowed	F	776
+Western Australia	2011	40-44	Widowed	M	266
+Western Australia	2011	45-49	Divorced	F	12229
+Western Australia	2011	45-49	Divorced	M	9261
+Western Australia	2011	45-49	Married	F	51143
+Western Australia	2011	45-49	Married	M	51693
+Western Australia	2011	45-49	Never married	F	10512
+Western Australia	2011	45-49	Never married	M	15318
+Western Australia	2011	45-49	Separated	F	4235
+Western Australia	2011	45-49	Separated	M	3787
+Western Australia	2011	45-49	Widowed	F	1242
+Western Australia	2011	45-49	Widowed	M	427
+Western Australia	2011	50-54	Divorced	F	13380
+Western Australia	2011	50-54	Divorced	M	10850
+Western Australia	2011	50-54	Married	F	48598
+Western Australia	2011	50-54	Married	M	49267
+Western Australia	2011	50-54	Never married	F	7141
+Western Australia	2011	50-54	Never married	M	10835
+Western Australia	2011	50-54	Separated	F	3877
+Western Australia	2011	50-54	Separated	M	3650
+Western Australia	2011	50-54	Widowed	F	2061
+Western Australia	2011	50-54	Widowed	M	705
+Western Australia	2011	55-59	Divorced	F	12575
+Western Australia	2011	55-59	Divorced	M	10506
+Western Australia	2011	55-59	Married	F	44250
+Western Australia	2011	55-59	Married	M	45179
+Western Australia	2011	55-59	Never married	F	4455
+Western Australia	2011	55-59	Never married	M	6855
+Western Australia	2011	55-59	Separated	F	3015
+Western Australia	2011	55-59	Separated	M	3032
+Western Australia	2011	55-59	Widowed	F	3045
+Western Australia	2011	55-59	Widowed	M	989
+Western Australia	2011	60-64	Divorced	F	10695
+Western Australia	2011	60-64	Divorced	M	9148
+Western Australia	2011	60-64	Married	F	39406
+Western Australia	2011	60-64	Married	M	43461
+Western Australia	2011	60-64	Never married	F	2672
+Western Australia	2011	60-64	Never married	M	4247
+Western Australia	2011	60-64	Separated	F	2308
+Western Australia	2011	60-64	Separated	M	2489
+Western Australia	2011	60-64	Widowed	F	4693
+Western Australia	2011	60-64	Widowed	M	1411
+Western Australia	2011	65-69	Divorced	F	6853
+Western Australia	2011	65-69	Divorced	M	5668
+Western Australia	2011	65-69	Married	F	27301
+Western Australia	2011	65-69	Married	M	32229
+Western Australia	2011	65-69	Never married	F	1489
+Western Australia	2011	65-69	Never married	M	2475
+Western Australia	2011	65-69	Separated	F	1329
+Western Australia	2011	65-69	Separated	M	1622
+Western Australia	2011	65-69	Widowed	F	5792
+Western Australia	2011	65-69	Widowed	M	1579
+Western Australia	2011	70-74	Divorced	F	4407
+Western Australia	2011	70-74	Divorced	M	3583
+Western Australia	2011	70-74	Married	F	19701
+Western Australia	2011	70-74	Married	M	24199
+Western Australia	2011	70-74	Never married	F	1033
+Western Australia	2011	70-74	Never married	M	1578
+Western Australia	2011	70-74	Separated	F	767
+Western Australia	2011	70-74	Separated	M	969
+Western Australia	2011	70-74	Widowed	F	8040
+Western Australia	2011	70-74	Widowed	M	1940
+Western Australia	2011	75-79	Divorced	F	2536
+Western Australia	2011	75-79	Divorced	M	2001
+Western Australia	2011	75-79	Married	F	12891
+Western Australia	2011	75-79	Married	M	17006
+Western Australia	2011	75-79	Never married	F	738
+Western Australia	2011	75-79	Never married	M	996
+Western Australia	2011	75-79	Separated	F	425
+Western Australia	2011	75-79	Separated	M	596
+Western Australia	2011	75-79	Widowed	F	10177
+Western Australia	2011	75-79	Widowed	M	2470
+Western Australia	2011	80-84	Divorced	F	1468
+Western Australia	2011	80-84	Divorced	M	1031
+Western Australia	2011	80-84	Married	F	7284
+Western Australia	2011	80-84	Married	M	11632
+Western Australia	2011	80-84	Never married	F	574
+Western Australia	2011	80-84	Never married	M	657
+Western Australia	2011	80-84	Separated	F	221
+Western Australia	2011	80-84	Separated	M	340
+Western Australia	2011	80-84	Widowed	F	12105
+Western Australia	2011	80-84	Widowed	M	2977
+Western Australia	2011	85+	Divorced	F	898
+Western Australia	2011	85+	Divorced	M	503
+Western Australia	2011	85+	Married	F	3387
+Western Australia	2011	85+	Married	M	6724
+Western Australia	2011	85+	Never married	F	745
+Western Australia	2011	85+	Never married	M	423
+Western Australia	2011	85+	Separated	F	122
+Western Australia	2011	85+	Separated	M	189
+Western Australia	2011	85+	Widowed	F	17143
+Western Australia	2011	85+	Widowed	M	4090
+Western Australia	2016	15-19	Divorced	F	24
+Western Australia	2016	15-19	Divorced	M	43
+Western Australia	2016	15-19	Married	F	333
+Western Australia	2016	15-19	Married	M	221
+Western Australia	2016	15-19	Never married	F	72477
+Western Australia	2016	15-19	Never married	M	76801
+Western Australia	2016	15-19	Separated	F	35
+Western Australia	2016	15-19	Separated	M	28
+Western Australia	2016	15-19	Widowed	F	18
+Western Australia	2016	15-19	Widowed	M	28
+Western Australia	2016	20-24	Divorced	F	138
+Western Australia	2016	20-24	Divorced	M	79
+Western Australia	2016	20-24	Married	F	6019
+Western Australia	2016	20-24	Married	M	3032
+Western Australia	2016	20-24	Never married	F	71156
+Western Australia	2016	20-24	Never married	M	79233
+Western Australia	2016	20-24	Separated	F	403
+Western Australia	2016	20-24	Separated	M	169
+Western Australia	2016	20-24	Widowed	F	59
+Western Australia	2016	20-24	Widowed	M	51
+Western Australia	2016	25-29	Divorced	F	1126
+Western Australia	2016	25-29	Divorced	M	593
+Western Australia	2016	25-29	Married	F	30100
+Western Australia	2016	25-29	Married	M	20090
+Western Australia	2016	25-29	Never married	F	58858
+Western Australia	2016	25-29	Never married	M	71218
+Western Australia	2016	25-29	Separated	F	1728
+Western Australia	2016	25-29	Separated	M	990
+Western Australia	2016	25-29	Widowed	F	124
+Western Australia	2016	25-29	Widowed	M	79
+Western Australia	2016	30-34	Divorced	F	3110
+Western Australia	2016	30-34	Divorced	M	2082
+Western Australia	2016	30-34	Married	F	53400
+Western Australia	2016	30-34	Married	M	46523
+Western Australia	2016	30-34	Never married	F	36431
+Western Australia	2016	30-34	Never married	M	47097
+Western Australia	2016	30-34	Separated	F	3105
+Western Australia	2016	30-34	Separated	M	2176
+Western Australia	2016	30-34	Widowed	F	240
+Western Australia	2016	30-34	Widowed	M	96
+Western Australia	2016	35-39	Divorced	F	4915
+Western Australia	2016	35-39	Divorced	M	3597
+Western Australia	2016	35-39	Married	F	53986
+Western Australia	2016	35-39	Married	M	52409
+Western Australia	2016	35-39	Never married	F	22661
+Western Australia	2016	35-39	Never married	M	28270
+Western Australia	2016	35-39	Separated	F	3756
+Western Australia	2016	35-39	Separated	M	2897
+Western Australia	2016	35-39	Widowed	F	420
+Western Australia	2016	35-39	Widowed	M	128
+Western Australia	2016	40-44	Divorced	F	8128
+Western Australia	2016	40-44	Divorced	M	5723
+Western Australia	2016	40-44	Married	F	54578
+Western Australia	2016	40-44	Married	M	54472
+Western Australia	2016	40-44	Never married	F	17945
+Western Australia	2016	40-44	Never married	M	22143
+Western Australia	2016	40-44	Separated	F	4470
+Western Australia	2016	40-44	Separated	M	3650
+Western Australia	2016	40-44	Widowed	F	664
+Western Australia	2016	40-44	Widowed	M	228
+Western Australia	2016	45-49	Divorced	F	11824
+Western Australia	2016	45-49	Divorced	M	8477
+Western Australia	2016	45-49	Married	F	53847
+Western Australia	2016	45-49	Married	M	54997
+Western Australia	2016	45-49	Never married	F	14243
+Western Australia	2016	45-49	Never married	M	18461
+Western Australia	2016	45-49	Separated	F	4873
+Western Australia	2016	45-49	Separated	M	4265
+Western Australia	2016	45-49	Widowed	F	1157
+Western Australia	2016	45-49	Widowed	M	381
+Western Australia	2016	50-54	Divorced	F	13836
+Western Australia	2016	50-54	Divorced	M	10586
+Western Australia	2016	50-54	Married	F	50528
+Western Australia	2016	50-54	Married	M	52101
+Western Australia	2016	50-54	Never married	F	10248
+Western Australia	2016	50-54	Never married	M	14046
+Western Australia	2016	50-54	Separated	F	4400
+Western Australia	2016	50-54	Separated	M	4140
+Western Australia	2016	50-54	Widowed	F	1878
+Western Australia	2016	50-54	Widowed	M	671
+Western Australia	2016	55-59	Divorced	F	14660
+Western Australia	2016	55-59	Divorced	M	11178
+Western Australia	2016	55-59	Married	F	47371
+Western Australia	2016	55-59	Married	M	48705
+Western Australia	2016	55-59	Never married	F	6939
+Western Australia	2016	55-59	Never married	M	9792
+Western Australia	2016	55-59	Separated	F	3673
+Western Australia	2016	55-59	Separated	M	3453
+Western Australia	2016	55-59	Widowed	F	3138
+Western Australia	2016	55-59	Widowed	M	990
+Western Australia	2016	60-64	Divorced	F	13029
+Western Australia	2016	60-64	Divorced	M	10263
+Western Australia	2016	60-64	Married	F	42440
+Western Australia	2016	60-64	Married	M	44180
+Western Australia	2016	60-64	Never married	F	4354
+Western Australia	2016	60-64	Never married	M	6202
+Western Australia	2016	60-64	Separated	F	2722
+Western Australia	2016	60-64	Separated	M	2828
+Western Australia	2016	60-64	Widowed	F	4757
+Western Australia	2016	60-64	Widowed	M	1360
+Western Australia	2016	65-69	Divorced	F	10713
+Western Australia	2016	65-69	Divorced	M	8567
+Western Australia	2016	65-69	Married	F	36669
+Western Australia	2016	65-69	Married	M	41299
+Western Australia	2016	65-69	Never married	F	2524
+Western Australia	2016	65-69	Never married	M	3789
+Western Australia	2016	65-69	Separated	F	2058
+Western Australia	2016	65-69	Separated	M	2304
+Western Australia	2016	65-69	Widowed	F	6897
+Western Australia	2016	65-69	Widowed	M	1939
+Western Australia	2016	70-74	Divorced	F	6652
+Western Australia	2016	70-74	Divorced	M	5184
+Western Australia	2016	70-74	Married	F	24502
+Western Australia	2016	70-74	Married	M	29809
+Western Australia	2016	70-74	Never married	F	1463
+Western Australia	2016	70-74	Never married	M	2168
+Western Australia	2016	70-74	Separated	F	1160
+Western Australia	2016	70-74	Separated	M	1473
+Western Australia	2016	70-74	Widowed	F	8279
+Western Australia	2016	70-74	Widowed	M	2224
+Western Australia	2016	75-79	Divorced	F	4052
+Western Australia	2016	75-79	Divorced	M	3016
+Western Australia	2016	75-79	Married	F	16162
+Western Australia	2016	75-79	Married	M	21388
+Western Australia	2016	75-79	Never married	F	984
+Western Australia	2016	75-79	Never married	M	1327
+Western Australia	2016	75-79	Separated	F	603
+Western Australia	2016	75-79	Separated	M	734
+Western Australia	2016	75-79	Widowed	F	10659
+Western Australia	2016	75-79	Widowed	M	2590
+Western Australia	2016	80-84	Divorced	F	2098
+Western Australia	2016	80-84	Divorced	M	1469
+Western Australia	2016	80-84	Married	F	8919
+Western Australia	2016	80-84	Married	M	13258
+Western Australia	2016	80-84	Never married	F	610
+Western Australia	2016	80-84	Never married	M	709
+Western Australia	2016	80-84	Separated	F	291
+Western Australia	2016	80-84	Separated	M	394
+Western Australia	2016	80-84	Widowed	F	11868
+Western Australia	2016	80-84	Widowed	M	2980
+Western Australia	2016	85+	Divorced	F	1426
+Western Australia	2016	85+	Divorced	M	782
+Western Australia	2016	85+	Married	F	4552
+Western Australia	2016	85+	Married	M	9180
+Western Australia	2016	85+	Never married	F	735
+Western Australia	2016	85+	Never married	M	595
+Western Australia	2016	85+	Separated	F	155
+Western Australia	2016	85+	Separated	M	269
+Western Australia	2016	85+	Widowed	F	19707
+Western Australia	2016	85+	Widowed	M	5019
+Tasmania	2006	15-19	Divorced	F	18
+Tasmania	2006	15-19	Divorced	M	22
+Tasmania	2006	15-19	Married	F	56
+Tasmania	2006	15-19	Married	M	44
+Tasmania	2006	15-19	Never married	F	15860
+Tasmania	2006	15-19	Never married	M	16752
+Tasmania	2006	15-19	Separated	F	10
+Tasmania	2006	15-19	Separated	M	19
+Tasmania	2006	15-19	Widowed	F	25
+Tasmania	2006	15-19	Widowed	M	18
+Tasmania	2006	20-24	Divorced	F	34
+Tasmania	2006	20-24	Divorced	M	22
+Tasmania	2006	20-24	Married	F	1220
+Tasmania	2006	20-24	Married	M	581
+Tasmania	2006	20-24	Never married	F	13077
+Tasmania	2006	20-24	Never married	M	13819
+Tasmania	2006	20-24	Separated	F	101
+Tasmania	2006	20-24	Separated	M	44
+Tasmania	2006	20-24	Widowed	F	21
+Tasmania	2006	20-24	Widowed	M	14
+Tasmania	2006	25-29	Divorced	F	257
+Tasmania	2006	25-29	Divorced	M	140
+Tasmania	2006	25-29	Married	F	4206
+Tasmania	2006	25-29	Married	M	2847
+Tasmania	2006	25-29	Never married	F	8170
+Tasmania	2006	25-29	Never married	M	9115
+Tasmania	2006	25-29	Separated	F	333
+Tasmania	2006	25-29	Separated	M	140
+Tasmania	2006	25-29	Widowed	F	37
+Tasmania	2006	25-29	Widowed	M	14
+Tasmania	2006	30-34	Divorced	F	871
+Tasmania	2006	30-34	Divorced	M	513
+Tasmania	2006	30-34	Married	F	7739
+Tasmania	2006	30-34	Married	M	6110
+Tasmania	2006	30-34	Never married	F	5687
+Tasmania	2006	30-34	Never married	M	6801
+Tasmania	2006	30-34	Separated	F	619
+Tasmania	2006	30-34	Separated	M	357
+Tasmania	2006	30-34	Widowed	F	68
+Tasmania	2006	30-34	Widowed	M	21
+Tasmania	2006	35-39	Divorced	F	1867
+Tasmania	2006	35-39	Divorced	M	1149
+Tasmania	2006	35-39	Married	F	9975
+Tasmania	2006	35-39	Married	M	8762
+Tasmania	2006	35-39	Never married	F	4058
+Tasmania	2006	35-39	Never married	M	5146
+Tasmania	2006	35-39	Separated	F	919
+Tasmania	2006	35-39	Separated	M	598
+Tasmania	2006	35-39	Widowed	F	121
+Tasmania	2006	35-39	Widowed	M	37
+Tasmania	2006	40-44	Divorced	F	2693
+Tasmania	2006	40-44	Divorced	M	1964
+Tasmania	2006	40-44	Married	F	10768
+Tasmania	2006	40-44	Married	M	9918
+Tasmania	2006	40-44	Never married	F	2798
+Tasmania	2006	40-44	Never married	M	3903
+Tasmania	2006	40-44	Separated	F	1074
+Tasmania	2006	40-44	Separated	M	797
+Tasmania	2006	40-44	Widowed	F	245
+Tasmania	2006	40-44	Widowed	M	77
+Tasmania	2006	45-49	Divorced	F	3242
+Tasmania	2006	45-49	Divorced	M	2546
+Tasmania	2006	45-49	Married	F	11747
+Tasmania	2006	45-49	Married	M	11256
+Tasmania	2006	45-49	Never married	F	2065
+Tasmania	2006	45-49	Never married	M	2849
+Tasmania	2006	45-49	Separated	F	1115
+Tasmania	2006	45-49	Separated	M	890
+Tasmania	2006	45-49	Widowed	F	371
+Tasmania	2006	45-49	Widowed	M	115
+Tasmania	2006	50-54	Divorced	F	3152
+Tasmania	2006	50-54	Divorced	M	2647
+Tasmania	2006	50-54	Married	F	11416
+Tasmania	2006	50-54	Married	M	11027
+Tasmania	2006	50-54	Never married	F	1229
+Tasmania	2006	50-54	Never married	M	1918
+Tasmania	2006	50-54	Separated	F	821
+Tasmania	2006	50-54	Separated	M	850
+Tasmania	2006	50-54	Widowed	F	576
+Tasmania	2006	50-54	Widowed	M	199
+Tasmania	2006	55-59	Divorced	F	2864
+Tasmania	2006	55-59	Divorced	M	2429
+Tasmania	2006	55-59	Married	F	11173
+Tasmania	2006	55-59	Married	M	11537
+Tasmania	2006	55-59	Never married	F	807
+Tasmania	2006	55-59	Never married	M	1254
+Tasmania	2006	55-59	Separated	F	682
+Tasmania	2006	55-59	Separated	M	718
+Tasmania	2006	55-59	Widowed	F	933
+Tasmania	2006	55-59	Widowed	M	267
+Tasmania	2006	60-64	Divorced	F	1977
+Tasmania	2006	60-64	Divorced	M	1783
+Tasmania	2006	60-64	Married	F	8660
+Tasmania	2006	60-64	Married	M	9497
+Tasmania	2006	60-64	Never married	F	510
+Tasmania	2006	60-64	Never married	M	765
+Tasmania	2006	60-64	Separated	F	369
+Tasmania	2006	60-64	Separated	M	467
+Tasmania	2006	60-64	Widowed	F	1441
+Tasmania	2006	60-64	Widowed	M	434
+Tasmania	2006	65-69	Divorced	F	1277
+Tasmania	2006	65-69	Divorced	M	1123
+Tasmania	2006	65-69	Married	F	6624
+Tasmania	2006	65-69	Married	M	7691
+Tasmania	2006	65-69	Never married	F	362
+Tasmania	2006	65-69	Never married	M	602
+Tasmania	2006	65-69	Separated	F	256
+Tasmania	2006	65-69	Separated	M	301
+Tasmania	2006	65-69	Widowed	F	2043
+Tasmania	2006	65-69	Widowed	M	511
+Tasmania	2006	70-74	Divorced	F	755
+Tasmania	2006	70-74	Divorced	M	708
+Tasmania	2006	70-74	Married	F	4747
+Tasmania	2006	70-74	Married	M	5874
+Tasmania	2006	70-74	Never married	F	291
+Tasmania	2006	70-74	Never married	M	460
+Tasmania	2006	70-74	Separated	F	182
+Tasmania	2006	70-74	Separated	M	214
+Tasmania	2006	70-74	Widowed	F	2686
+Tasmania	2006	70-74	Widowed	M	738
+Tasmania	2006	75-79	Divorced	F	473
+Tasmania	2006	75-79	Divorced	M	398
+Tasmania	2006	75-79	Married	F	3239
+Tasmania	2006	75-79	Married	M	4694
+Tasmania	2006	75-79	Never married	F	297
+Tasmania	2006	75-79	Never married	M	340
+Tasmania	2006	75-79	Separated	F	81
+Tasmania	2006	75-79	Separated	M	164
+Tasmania	2006	75-79	Widowed	F	3706
+Tasmania	2006	75-79	Widowed	M	899
+Tasmania	2006	80-84	Divorced	F	262
+Tasmania	2006	80-84	Divorced	M	182
+Tasmania	2006	80-84	Married	F	1914
+Tasmania	2006	80-84	Married	M	2869
+Tasmania	2006	80-84	Never married	F	237
+Tasmania	2006	80-84	Never married	M	229
+Tasmania	2006	80-84	Separated	F	45
+Tasmania	2006	80-84	Separated	M	66
+Tasmania	2006	80-84	Widowed	F	4031
+Tasmania	2006	80-84	Widowed	M	1021
+Tasmania	2006	85+	Divorced	F	158
+Tasmania	2006	85+	Divorced	M	86
+Tasmania	2006	85+	Married	F	725
+Tasmania	2006	85+	Married	M	1369
+Tasmania	2006	85+	Never married	F	311
+Tasmania	2006	85+	Never married	M	139
+Tasmania	2006	85+	Separated	F	30
+Tasmania	2006	85+	Separated	M	43
+Tasmania	2006	85+	Widowed	F	4638
+Tasmania	2006	85+	Widowed	M	1051
+Tasmania	2011	15-19	Divorced	F	16
+Tasmania	2011	15-19	Divorced	M	13
+Tasmania	2011	15-19	Married	F	55
+Tasmania	2011	15-19	Married	M	31
+Tasmania	2011	15-19	Never married	F	15742
+Tasmania	2011	15-19	Never married	M	16779
+Tasmania	2011	15-19	Separated	F	20
+Tasmania	2011	15-19	Separated	M	11
+Tasmania	2011	15-19	Widowed	F	11
+Tasmania	2011	15-19	Widowed	M	8
+Tasmania	2011	20-24	Divorced	F	40
+Tasmania	2011	20-24	Divorced	M	34
+Tasmania	2011	20-24	Married	F	1032
+Tasmania	2011	20-24	Married	M	496
+Tasmania	2011	20-24	Never married	F	13479
+Tasmania	2011	20-24	Never married	M	14339
+Tasmania	2011	20-24	Separated	F	93
+Tasmania	2011	20-24	Separated	M	44
+Tasmania	2011	20-24	Widowed	F	17
+Tasmania	2011	20-24	Widowed	M	15
+Tasmania	2011	25-29	Divorced	F	220
+Tasmania	2011	25-29	Divorced	M	126
+Tasmania	2011	25-29	Married	F	4368
+Tasmania	2011	25-29	Married	M	3055
+Tasmania	2011	25-29	Never married	F	9393
+Tasmania	2011	25-29	Never married	M	10303
+Tasmania	2011	25-29	Separated	F	364
+Tasmania	2011	25-29	Separated	M	192
+Tasmania	2011	25-29	Widowed	F	48
+Tasmania	2011	25-29	Widowed	M	18
+Tasmania	2011	30-34	Divorced	F	635
+Tasmania	2011	30-34	Divorced	M	402
+Tasmania	2011	30-34	Married	F	6870
+Tasmania	2011	30-34	Married	M	5563
+Tasmania	2011	30-34	Never married	F	6053
+Tasmania	2011	30-34	Never married	M	6728
+Tasmania	2011	30-34	Separated	F	550
+Tasmania	2011	30-34	Separated	M	345
+Tasmania	2011	30-34	Widowed	F	44
+Tasmania	2011	30-34	Widowed	M	20
+Tasmania	2011	35-39	Divorced	F	1388
+Tasmania	2011	35-39	Divorced	M	881
+Tasmania	2011	35-39	Married	F	8873
+Tasmania	2011	35-39	Married	M	7701
+Tasmania	2011	35-39	Never married	F	4913
+Tasmania	2011	35-39	Never married	M	5595
+Tasmania	2011	35-39	Separated	F	828
+Tasmania	2011	35-39	Separated	M	587
+Tasmania	2011	35-39	Widowed	F	107
+Tasmania	2011	35-39	Widowed	M	31
+Tasmania	2011	40-44	Divorced	F	2404
+Tasmania	2011	40-44	Divorced	M	1543
+Tasmania	2011	40-44	Married	F	10153
+Tasmania	2011	40-44	Married	M	9240
+Tasmania	2011	40-44	Never married	F	3884
+Tasmania	2011	40-44	Never married	M	4664
+Tasmania	2011	40-44	Separated	F	1000
+Tasmania	2011	40-44	Separated	M	816
+Tasmania	2011	40-44	Widowed	F	177
+Tasmania	2011	40-44	Widowed	M	63
+Tasmania	2011	45-49	Divorced	F	3174
+Tasmania	2011	45-49	Divorced	M	2385
+Tasmania	2011	45-49	Married	F	10596
+Tasmania	2011	45-49	Married	M	9941
+Tasmania	2011	45-49	Never married	F	2717
+Tasmania	2011	45-49	Never married	M	3758
+Tasmania	2011	45-49	Separated	F	1087
+Tasmania	2011	45-49	Separated	M	879
+Tasmania	2011	45-49	Widowed	F	371
+Tasmania	2011	45-49	Widowed	M	124
+Tasmania	2011	50-54	Divorced	F	3623
+Tasmania	2011	50-54	Divorced	M	2784
+Tasmania	2011	50-54	Married	F	11577
+Tasmania	2011	50-54	Married	M	11067
+Tasmania	2011	50-54	Never married	F	2019
+Tasmania	2011	50-54	Never married	M	2802
+Tasmania	2011	50-54	Separated	F	1014
+Tasmania	2011	50-54	Separated	M	900
+Tasmania	2011	50-54	Widowed	F	550
+Tasmania	2011	50-54	Widowed	M	187
+Tasmania	2011	55-59	Divorced	F	3398
+Tasmania	2011	55-59	Divorced	M	2798
+Tasmania	2011	55-59	Married	F	11186
+Tasmania	2011	55-59	Married	M	11038
+Tasmania	2011	55-59	Never married	F	1190
+Tasmania	2011	55-59	Never married	M	1856
+Tasmania	2011	55-59	Separated	F	726
+Tasmania	2011	55-59	Separated	M	733
+Tasmania	2011	55-59	Widowed	F	880
+Tasmania	2011	55-59	Widowed	M	280
+Tasmania	2011	60-64	Divorced	F	3023
+Tasmania	2011	60-64	Divorced	M	2559
+Tasmania	2011	60-64	Married	F	10657
+Tasmania	2011	60-64	Married	M	11404
+Tasmania	2011	60-64	Never married	F	795
+Tasmania	2011	60-64	Never married	M	1198
+Tasmania	2011	60-64	Separated	F	603
+Tasmania	2011	60-64	Separated	M	626
+Tasmania	2011	60-64	Widowed	F	1419
+Tasmania	2011	60-64	Widowed	M	456
+Tasmania	2011	65-69	Divorced	F	1986
+Tasmania	2011	65-69	Divorced	M	1749
+Tasmania	2011	65-69	Married	F	7935
+Tasmania	2011	65-69	Married	M	9074
+Tasmania	2011	65-69	Never married	F	481
+Tasmania	2011	65-69	Never married	M	750
+Tasmania	2011	65-69	Separated	F	326
+Tasmania	2011	65-69	Separated	M	409
+Tasmania	2011	65-69	Widowed	F	1980
+Tasmania	2011	65-69	Widowed	M	615
+Tasmania	2011	70-74	Divorced	F	1180
+Tasmania	2011	70-74	Divorced	M	1039
+Tasmania	2011	70-74	Married	F	5579
+Tasmania	2011	70-74	Married	M	6930
+Tasmania	2011	70-74	Never married	F	311
+Tasmania	2011	70-74	Never married	M	511
+Tasmania	2011	70-74	Separated	F	190
+Tasmania	2011	70-74	Separated	M	270
+Tasmania	2011	70-74	Widowed	F	2703
+Tasmania	2011	70-74	Widowed	M	735
+Tasmania	2011	75-79	Divorced	F	677
+Tasmania	2011	75-79	Divorced	M	551
+Tasmania	2011	75-79	Married	F	3602
+Tasmania	2011	75-79	Married	M	4764
+Tasmania	2011	75-79	Never married	F	246
+Tasmania	2011	75-79	Never married	M	322
+Tasmania	2011	75-79	Separated	F	109
+Tasmania	2011	75-79	Separated	M	153
+Tasmania	2011	75-79	Widowed	F	3200
+Tasmania	2011	75-79	Widowed	M	891
+Tasmania	2011	80-84	Divorced	F	351
+Tasmania	2011	80-84	Divorced	M	278
+Tasmania	2011	80-84	Married	F	1998
+Tasmania	2011	80-84	Married	M	3242
+Tasmania	2011	80-84	Never married	F	217
+Tasmania	2011	80-84	Never married	M	205
+Tasmania	2011	80-84	Separated	F	42
+Tasmania	2011	80-84	Separated	M	94
+Tasmania	2011	80-84	Widowed	F	3717
+Tasmania	2011	80-84	Widowed	M	1034
+Tasmania	2011	85+	Divorced	F	214
+Tasmania	2011	85+	Divorced	M	115
+Tasmania	2011	85+	Married	F	984
+Tasmania	2011	85+	Married	M	1901
+Tasmania	2011	85+	Never married	F	258
+Tasmania	2011	85+	Never married	M	140
+Tasmania	2011	85+	Separated	F	42
+Tasmania	2011	85+	Separated	M	50
+Tasmania	2011	85+	Widowed	F	5234
+Tasmania	2011	85+	Widowed	M	1310
+Tasmania	2016	15-19	Divorced	F	0
+Tasmania	2016	15-19	Divorced	M	8
+Tasmania	2016	15-19	Married	F	40
+Tasmania	2016	15-19	Married	M	26
+Tasmania	2016	15-19	Never married	F	15042
+Tasmania	2016	15-19	Never married	M	15906
+Tasmania	2016	15-19	Separated	F	15
+Tasmania	2016	15-19	Separated	M	11
+Tasmania	2016	15-19	Widowed	F	8
+Tasmania	2016	15-19	Widowed	M	6
+Tasmania	2016	20-24	Divorced	F	23
+Tasmania	2016	20-24	Divorced	M	9
+Tasmania	2016	20-24	Married	F	892
+Tasmania	2016	20-24	Married	M	519
+Tasmania	2016	20-24	Never married	F	13545
+Tasmania	2016	20-24	Never married	M	14718
+Tasmania	2016	20-24	Separated	F	90
+Tasmania	2016	20-24	Separated	M	35
+Tasmania	2016	20-24	Widowed	F	20
+Tasmania	2016	20-24	Widowed	M	7
+Tasmania	2016	25-29	Divorced	F	182
+Tasmania	2016	25-29	Divorced	M	112
+Tasmania	2016	25-29	Married	F	3971
+Tasmania	2016	25-29	Married	M	2721
+Tasmania	2016	25-29	Never married	F	10106
+Tasmania	2016	25-29	Never married	M	11096
+Tasmania	2016	25-29	Separated	F	324
+Tasmania	2016	25-29	Separated	M	153
+Tasmania	2016	25-29	Widowed	F	24
+Tasmania	2016	25-29	Widowed	M	13
+Tasmania	2016	30-34	Divorced	F	517
+Tasmania	2016	30-34	Divorced	M	381
+Tasmania	2016	30-34	Married	F	7190
+Tasmania	2016	30-34	Married	M	5987
+Tasmania	2016	30-34	Never married	F	6717
+Tasmania	2016	30-34	Never married	M	7527
+Tasmania	2016	30-34	Separated	F	594
+Tasmania	2016	30-34	Separated	M	338
+Tasmania	2016	30-34	Widowed	F	75
+Tasmania	2016	30-34	Widowed	M	12
+Tasmania	2016	35-39	Divorced	F	1030
+Tasmania	2016	35-39	Divorced	M	644
+Tasmania	2016	35-39	Married	F	7834
+Tasmania	2016	35-39	Married	M	6941
+Tasmania	2016	35-39	Never married	F	5096
+Tasmania	2016	35-39	Never married	M	5378
+Tasmania	2016	35-39	Separated	F	759
+Tasmania	2016	35-39	Separated	M	529
+Tasmania	2016	35-39	Widowed	F	95
+Tasmania	2016	35-39	Widowed	M	35
+Tasmania	2016	40-44	Divorced	F	1872
+Tasmania	2016	40-44	Divorced	M	1242
+Tasmania	2016	40-44	Married	F	9027
+Tasmania	2016	40-44	Married	M	8052
+Tasmania	2016	40-44	Never married	F	4415
+Tasmania	2016	40-44	Never married	M	4974
+Tasmania	2016	40-44	Separated	F	926
+Tasmania	2016	40-44	Separated	M	760
+Tasmania	2016	40-44	Widowed	F	181
+Tasmania	2016	40-44	Widowed	M	52
+Tasmania	2016	45-49	Divorced	F	2927
+Tasmania	2016	45-49	Divorced	M	2062
+Tasmania	2016	45-49	Married	F	9812
+Tasmania	2016	45-49	Married	M	9174
+Tasmania	2016	45-49	Never married	F	3723
+Tasmania	2016	45-49	Never married	M	4413
+Tasmania	2016	45-49	Separated	F	1109
+Tasmania	2016	45-49	Separated	M	912
+Tasmania	2016	45-49	Widowed	F	291
+Tasmania	2016	45-49	Widowed	M	74
+Tasmania	2016	50-54	Divorced	F	3491
+Tasmania	2016	50-54	Divorced	M	2652
+Tasmania	2016	50-54	Married	F	10387
+Tasmania	2016	50-54	Married	M	9808
+Tasmania	2016	50-54	Never married	F	2739
+Tasmania	2016	50-54	Never married	M	3618
+Tasmania	2016	50-54	Separated	F	1129
+Tasmania	2016	50-54	Separated	M	988
+Tasmania	2016	50-54	Widowed	F	535
+Tasmania	2016	50-54	Widowed	M	182
+Tasmania	2016	55-59	Divorced	F	3932
+Tasmania	2016	55-59	Divorced	M	3130
+Tasmania	2016	55-59	Married	F	11484
+Tasmania	2016	55-59	Married	M	11019
+Tasmania	2016	55-59	Never married	F	2064
+Tasmania	2016	55-59	Never married	M	2676
+Tasmania	2016	55-59	Separated	F	971
+Tasmania	2016	55-59	Separated	M	945
+Tasmania	2016	55-59	Widowed	F	857
+Tasmania	2016	55-59	Widowed	M	300
+Tasmania	2016	60-64	Divorced	F	3636
+Tasmania	2016	60-64	Divorced	M	2930
+Tasmania	2016	60-64	Married	F	10876
+Tasmania	2016	60-64	Married	M	11010
+Tasmania	2016	60-64	Never married	F	1226
+Tasmania	2016	60-64	Never married	M	1858
+Tasmania	2016	60-64	Separated	F	724
+Tasmania	2016	60-64	Separated	M	771
+Tasmania	2016	60-64	Widowed	F	1315
+Tasmania	2016	60-64	Widowed	M	428
+Tasmania	2016	65-69	Divorced	F	3108
+Tasmania	2016	65-69	Divorced	M	2492
+Tasmania	2016	65-69	Married	F	10208
+Tasmania	2016	65-69	Married	M	11209
+Tasmania	2016	65-69	Never married	F	791
+Tasmania	2016	65-69	Never married	M	1148
+Tasmania	2016	65-69	Separated	F	592
+Tasmania	2016	65-69	Separated	M	655
+Tasmania	2016	65-69	Widowed	F	2064
+Tasmania	2016	65-69	Widowed	M	676
+Tasmania	2016	70-74	Divorced	F	1927
+Tasmania	2016	70-74	Divorced	M	1581
+Tasmania	2016	70-74	Married	F	7130
+Tasmania	2016	70-74	Married	M	8424
+Tasmania	2016	70-74	Never married	F	464
+Tasmania	2016	70-74	Never married	M	653
+Tasmania	2016	70-74	Separated	F	296
+Tasmania	2016	70-74	Separated	M	405
+Tasmania	2016	70-74	Widowed	F	2718
+Tasmania	2016	70-74	Widowed	M	828
+Tasmania	2016	75-79	Divorced	F	1037
+Tasmania	2016	75-79	Divorced	M	874
+Tasmania	2016	75-79	Married	F	4355
+Tasmania	2016	75-79	Married	M	5902
+Tasmania	2016	75-79	Never married	F	306
+Tasmania	2016	75-79	Never married	M	381
+Tasmania	2016	75-79	Separated	F	151
+Tasmania	2016	75-79	Separated	M	220
+Tasmania	2016	75-79	Widowed	F	3428
+Tasmania	2016	75-79	Widowed	M	956
+Tasmania	2016	80-84	Divorced	F	540
+Tasmania	2016	80-84	Divorced	M	379
+Tasmania	2016	80-84	Married	F	2293
+Tasmania	2016	80-84	Married	M	3551
+Tasmania	2016	80-84	Never married	F	187
+Tasmania	2016	80-84	Never married	M	220
+Tasmania	2016	80-84	Separated	F	50
+Tasmania	2016	80-84	Separated	M	121
+Tasmania	2016	80-84	Widowed	F	3574
+Tasmania	2016	80-84	Widowed	M	1065
+Tasmania	2016	85+	Divorced	F	320
+Tasmania	2016	85+	Divorced	M	206
+Tasmania	2016	85+	Married	F	1186
+Tasmania	2016	85+	Married	M	2314
+Tasmania	2016	85+	Never married	F	281
+Tasmania	2016	85+	Never married	M	193
+Tasmania	2016	85+	Separated	F	39
+Tasmania	2016	85+	Separated	M	72
+Tasmania	2016	85+	Widowed	F	5587
+Tasmania	2016	85+	Widowed	M	1563
+Northern Territory	2006	15-19	Divorced	F	7
+Northern Territory	2006	15-19	Divorced	M	8
+Northern Territory	2006	15-19	Married	F	483
+Northern Territory	2006	15-19	Married	M	245
+Northern Territory	2006	15-19	Never married	F	6296
+Northern Territory	2006	15-19	Never married	M	7178
+Northern Territory	2006	15-19	Separated	F	26
+Northern Territory	2006	15-19	Separated	M	19
+Northern Territory	2006	15-19	Widowed	F	7
+Northern Territory	2006	15-19	Widowed	M	0
+Northern Territory	2006	20-24	Divorced	F	43
+Northern Territory	2006	20-24	Divorced	M	42
+Northern Territory	2006	20-24	Married	F	1474
+Northern Territory	2006	20-24	Married	M	1092
+Northern Territory	2006	20-24	Never married	F	5700
+Northern Territory	2006	20-24	Never married	M	6525
+Northern Territory	2006	20-24	Separated	F	120
+Northern Territory	2006	20-24	Separated	M	56
+Northern Territory	2006	20-24	Widowed	F	21
+Northern Territory	2006	20-24	Widowed	M	13
+Northern Territory	2006	25-29	Divorced	F	144
+Northern Territory	2006	25-29	Divorced	M	77
+Northern Territory	2006	25-29	Married	F	2906
+Northern Territory	2006	25-29	Married	M	2271
+Northern Territory	2006	25-29	Never married	F	4630
+Northern Territory	2006	25-29	Never married	M	5267
+Northern Territory	2006	25-29	Separated	F	202
+Northern Territory	2006	25-29	Separated	M	130
+Northern Territory	2006	25-29	Widowed	F	52
+Northern Territory	2006	25-29	Widowed	M	15
+Northern Territory	2006	30-34	Divorced	F	397
+Northern Territory	2006	30-34	Divorced	M	264
+Northern Territory	2006	30-34	Married	F	4009
+Northern Territory	2006	30-34	Married	M	3560
+Northern Territory	2006	30-34	Never married	F	3466
+Northern Territory	2006	30-34	Never married	M	4061
+Northern Territory	2006	30-34	Separated	F	303
+Northern Territory	2006	30-34	Separated	M	225
+Northern Territory	2006	30-34	Widowed	F	67
+Northern Territory	2006	30-34	Widowed	M	22
+Northern Territory	2006	35-39	Divorced	F	651
+Northern Territory	2006	35-39	Divorced	M	525
+Northern Territory	2006	35-39	Married	F	4433
+Northern Territory	2006	35-39	Married	M	4030
+Northern Territory	2006	35-39	Never married	F	2445
+Northern Territory	2006	35-39	Never married	M	3269
+Northern Territory	2006	35-39	Separated	F	373
+Northern Territory	2006	35-39	Separated	M	297
+Northern Territory	2006	35-39	Widowed	F	118
+Northern Territory	2006	35-39	Widowed	M	25
+Northern Territory	2006	40-44	Divorced	F	766
+Northern Territory	2006	40-44	Divorced	M	809
+Northern Territory	2006	40-44	Married	F	4052
+Northern Territory	2006	40-44	Married	M	4134
+Northern Territory	2006	40-44	Never married	F	1798
+Northern Territory	2006	40-44	Never married	M	2440
+Northern Territory	2006	40-44	Separated	F	437
+Northern Territory	2006	40-44	Separated	M	336
+Northern Territory	2006	40-44	Widowed	F	161
+Northern Territory	2006	40-44	Widowed	M	59
+Northern Territory	2006	45-49	Divorced	F	1011
+Northern Territory	2006	45-49	Divorced	M	942
+Northern Territory	2006	45-49	Married	F	3912
+Northern Territory	2006	45-49	Married	M	3964
+Northern Territory	2006	45-49	Never married	F	1201
+Northern Territory	2006	45-49	Never married	M	1860
+Northern Territory	2006	45-49	Separated	F	465
+Northern Territory	2006	45-49	Separated	M	415
+Northern Territory	2006	45-49	Widowed	F	248
+Northern Territory	2006	45-49	Widowed	M	72
+Northern Territory	2006	50-54	Divorced	F	1057
+Northern Territory	2006	50-54	Divorced	M	1077
+Northern Territory	2006	50-54	Married	F	3493
+Northern Territory	2006	50-54	Married	M	3625
+Northern Territory	2006	50-54	Never married	F	735
+Northern Territory	2006	50-54	Never married	M	1116
+Northern Territory	2006	50-54	Separated	F	364
+Northern Territory	2006	50-54	Separated	M	431
+Northern Territory	2006	50-54	Widowed	F	384
+Northern Territory	2006	50-54	Widowed	M	119
+Northern Territory	2006	55-59	Divorced	F	839
+Northern Territory	2006	55-59	Divorced	M	1066
+Northern Territory	2006	55-59	Married	F	2706
+Northern Territory	2006	55-59	Married	M	3375
+Northern Territory	2006	55-59	Never married	F	375
+Northern Territory	2006	55-59	Never married	M	726
+Northern Territory	2006	55-59	Separated	F	268
+Northern Territory	2006	55-59	Separated	M	319
+Northern Territory	2006	55-59	Widowed	F	437
+Northern Territory	2006	55-59	Widowed	M	144
+Northern Territory	2006	60-64	Divorced	F	504
+Northern Territory	2006	60-64	Divorced	M	658
+Northern Territory	2006	60-64	Married	F	1626
+Northern Territory	2006	60-64	Married	M	2248
+Northern Territory	2006	60-64	Never married	F	217
+Northern Territory	2006	60-64	Never married	M	444
+Northern Territory	2006	60-64	Separated	F	145
+Northern Territory	2006	60-64	Separated	M	244
+Northern Territory	2006	60-64	Widowed	F	450
+Northern Territory	2006	60-64	Widowed	M	151
+Northern Territory	2006	65-69	Divorced	F	274
+Northern Territory	2006	65-69	Divorced	M	407
+Northern Territory	2006	65-69	Married	F	823
+Northern Territory	2006	65-69	Married	M	1351
+Northern Territory	2006	65-69	Never married	F	100
+Northern Territory	2006	65-69	Never married	M	235
+Northern Territory	2006	65-69	Separated	F	93
+Northern Territory	2006	65-69	Separated	M	152
+Northern Territory	2006	65-69	Widowed	F	452
+Northern Territory	2006	65-69	Widowed	M	153
+Northern Territory	2006	70-74	Divorced	F	117
+Northern Territory	2006	70-74	Divorced	M	186
+Northern Territory	2006	70-74	Married	F	409
+Northern Territory	2006	70-74	Married	M	651
+Northern Territory	2006	70-74	Never married	F	110
+Northern Territory	2006	70-74	Never married	M	146
+Northern Territory	2006	70-74	Separated	F	41
+Northern Territory	2006	70-74	Separated	M	82
+Northern Territory	2006	70-74	Widowed	F	406
+Northern Territory	2006	70-74	Widowed	M	127
+Northern Territory	2006	75-79	Divorced	F	73
+Northern Territory	2006	75-79	Divorced	M	110
+Northern Territory	2006	75-79	Married	F	228
+Northern Territory	2006	75-79	Married	M	403
+Northern Territory	2006	75-79	Never married	F	56
+Northern Territory	2006	75-79	Never married	M	124
+Northern Territory	2006	75-79	Separated	F	23
+Northern Territory	2006	75-79	Separated	M	33
+Northern Territory	2006	75-79	Widowed	F	361
+Northern Territory	2006	75-79	Widowed	M	129
+Northern Territory	2006	80-84	Divorced	F	39
+Northern Territory	2006	80-84	Divorced	M	29
+Northern Territory	2006	80-84	Married	F	93
+Northern Territory	2006	80-84	Married	M	194
+Northern Territory	2006	80-84	Never married	F	27
+Northern Territory	2006	80-84	Never married	M	43
+Northern Territory	2006	80-84	Separated	F	16
+Northern Territory	2006	80-84	Separated	M	18
+Northern Territory	2006	80-84	Widowed	F	285
+Northern Territory	2006	80-84	Widowed	M	73
+Northern Territory	2006	85+	Divorced	F	27
+Northern Territory	2006	85+	Divorced	M	16
+Northern Territory	2006	85+	Married	F	64
+Northern Territory	2006	85+	Married	M	86
+Northern Territory	2006	85+	Never married	F	28
+Northern Territory	2006	85+	Never married	M	43
+Northern Territory	2006	85+	Separated	F	8
+Northern Territory	2006	85+	Separated	M	10
+Northern Territory	2006	85+	Widowed	F	262
+Northern Territory	2006	85+	Widowed	M	66
+Northern Territory	2011	15-19	Divorced	F	8
+Northern Territory	2011	15-19	Divorced	M	12
+Northern Territory	2011	15-19	Married	F	488
+Northern Territory	2011	15-19	Married	M	286
+Northern Territory	2011	15-19	Never married	F	6447
+Northern Territory	2011	15-19	Never married	M	7537
+Northern Territory	2011	15-19	Separated	F	23
+Northern Territory	2011	15-19	Separated	M	21
+Northern Territory	2011	15-19	Widowed	F	7
+Northern Territory	2011	15-19	Widowed	M	5
+Northern Territory	2011	20-24	Divorced	F	62
+Northern Territory	2011	20-24	Divorced	M	25
+Northern Territory	2011	20-24	Married	F	1671
+Northern Territory	2011	20-24	Married	M	1251
+Northern Territory	2011	20-24	Never married	F	5995
+Northern Territory	2011	20-24	Never married	M	7629
+Northern Territory	2011	20-24	Separated	F	99
+Northern Territory	2011	20-24	Separated	M	58
+Northern Territory	2011	20-24	Widowed	F	27
+Northern Territory	2011	20-24	Widowed	M	14
+Northern Territory	2011	25-29	Divorced	F	157
+Northern Territory	2011	25-29	Divorced	M	106
+Northern Territory	2011	25-29	Married	F	3475
+Northern Territory	2011	25-29	Married	M	2821
+Northern Territory	2011	25-29	Never married	F	5508
+Northern Territory	2011	25-29	Never married	M	6755
+Northern Territory	2011	25-29	Separated	F	210
+Northern Territory	2011	25-29	Separated	M	122
+Northern Territory	2011	25-29	Widowed	F	44
+Northern Territory	2011	25-29	Widowed	M	27
+Northern Territory	2011	30-34	Divorced	F	305
+Northern Territory	2011	30-34	Divorced	M	221
+Northern Territory	2011	30-34	Married	F	4384
+Northern Territory	2011	30-34	Married	M	3902
+Northern Territory	2011	30-34	Never married	F	3610
+Northern Territory	2011	30-34	Never married	M	4398
+Northern Territory	2011	30-34	Separated	F	259
+Northern Territory	2011	30-34	Separated	M	184
+Northern Territory	2011	30-34	Widowed	F	60
+Northern Territory	2011	30-34	Widowed	M	25
+Northern Territory	2011	35-39	Divorced	F	545
+Northern Territory	2011	35-39	Divorced	M	420
+Northern Territory	2011	35-39	Married	F	4573
+Northern Territory	2011	35-39	Married	M	4554
+Northern Territory	2011	35-39	Never married	F	2767
+Northern Territory	2011	35-39	Never married	M	3234
+Northern Territory	2011	35-39	Separated	F	313
+Northern Territory	2011	35-39	Separated	M	289
+Northern Territory	2011	35-39	Widowed	F	95
+Northern Territory	2011	35-39	Widowed	M	33
+Northern Territory	2011	40-44	Divorced	F	806
+Northern Territory	2011	40-44	Divorced	M	736
+Northern Territory	2011	40-44	Married	F	4597
+Northern Territory	2011	40-44	Married	M	4428
+Northern Territory	2011	40-44	Never married	F	2119
+Northern Territory	2011	40-44	Never married	M	2661
+Northern Territory	2011	40-44	Separated	F	401
+Northern Territory	2011	40-44	Separated	M	374
+Northern Territory	2011	40-44	Widowed	F	168
+Northern Territory	2011	40-44	Widowed	M	37
+Northern Territory	2011	45-49	Divorced	F	1006
+Northern Territory	2011	45-49	Divorced	M	863
+Northern Territory	2011	45-49	Married	F	4003
+Northern Territory	2011	45-49	Married	M	4218
+Northern Territory	2011	45-49	Never married	F	1582
+Northern Territory	2011	45-49	Never married	M	2084
+Northern Territory	2011	45-49	Separated	F	384
+Northern Territory	2011	45-49	Separated	M	396
+Northern Territory	2011	45-49	Widowed	F	219
+Northern Territory	2011	45-49	Widowed	M	57
+Northern Territory	2011	50-54	Divorced	F	1155
+Northern Territory	2011	50-54	Divorced	M	1080
+Northern Territory	2011	50-54	Married	F	3755
+Northern Territory	2011	50-54	Married	M	3928
+Northern Territory	2011	50-54	Never married	F	1142
+Northern Territory	2011	50-54	Never married	M	1576
+Northern Territory	2011	50-54	Separated	F	353
+Northern Territory	2011	50-54	Separated	M	354
+Northern Territory	2011	50-54	Widowed	F	346
+Northern Territory	2011	50-54	Widowed	M	95
+Northern Territory	2011	55-59	Divorced	F	1081
+Northern Territory	2011	55-59	Divorced	M	1095
+Northern Territory	2011	55-59	Married	F	3115
+Northern Territory	2011	55-59	Married	M	3523
+Northern Territory	2011	55-59	Never married	F	643
+Northern Territory	2011	55-59	Never married	M	932
+Northern Territory	2011	55-59	Separated	F	269
+Northern Territory	2011	55-59	Separated	M	369
+Northern Territory	2011	55-59	Widowed	F	441
+Northern Territory	2011	55-59	Widowed	M	160
+Northern Territory	2011	60-64	Divorced	F	805
+Northern Territory	2011	60-64	Divorced	M	970
+Northern Territory	2011	60-64	Married	F	2203
+Northern Territory	2011	60-64	Married	M	3060
+Northern Territory	2011	60-64	Never married	F	350
+Northern Territory	2011	60-64	Never married	M	581
+Northern Territory	2011	60-64	Separated	F	230
+Northern Territory	2011	60-64	Separated	M	259
+Northern Territory	2011	60-64	Widowed	F	511
+Northern Territory	2011	60-64	Widowed	M	159
+Northern Territory	2011	65-69	Divorced	F	412
+Northern Territory	2011	65-69	Divorced	M	527
+Northern Territory	2011	65-69	Married	F	1188
+Northern Territory	2011	65-69	Married	M	1734
+Northern Territory	2011	65-69	Never married	F	176
+Northern Territory	2011	65-69	Never married	M	328
+Northern Territory	2011	65-69	Separated	F	108
+Northern Territory	2011	65-69	Separated	M	180
+Northern Territory	2011	65-69	Widowed	F	476
+Northern Territory	2011	65-69	Widowed	M	152
+Northern Territory	2011	70-74	Divorced	F	224
+Northern Territory	2011	70-74	Divorced	M	281
+Northern Territory	2011	70-74	Married	F	621
+Northern Territory	2011	70-74	Married	M	1036
+Northern Territory	2011	70-74	Never married	F	92
+Northern Territory	2011	70-74	Never married	M	206
+Northern Territory	2011	70-74	Separated	F	48
+Northern Territory	2011	70-74	Separated	M	107
+Northern Territory	2011	70-74	Widowed	F	489
+Northern Territory	2011	70-74	Widowed	M	164
+Northern Territory	2011	75-79	Divorced	F	80
+Northern Territory	2011	75-79	Divorced	M	121
+Northern Territory	2011	75-79	Married	F	289
+Northern Territory	2011	75-79	Married	M	484
+Northern Territory	2011	75-79	Never married	F	63
+Northern Territory	2011	75-79	Never married	M	100
+Northern Territory	2011	75-79	Separated	F	25
+Northern Territory	2011	75-79	Separated	M	47
+Northern Territory	2011	75-79	Widowed	F	398
+Northern Territory	2011	75-79	Widowed	M	110
+Northern Territory	2011	80-84	Divorced	F	52
+Northern Territory	2011	80-84	Divorced	M	66
+Northern Territory	2011	80-84	Married	F	121
+Northern Territory	2011	80-84	Married	M	266
+Northern Territory	2011	80-84	Never married	F	34
+Northern Territory	2011	80-84	Never married	M	73
+Northern Territory	2011	80-84	Separated	F	15
+Northern Territory	2011	80-84	Separated	M	22
+Northern Territory	2011	80-84	Widowed	F	357
+Northern Territory	2011	80-84	Widowed	M	118
+Northern Territory	2011	85+	Divorced	F	37
+Northern Territory	2011	85+	Divorced	M	13
+Northern Territory	2011	85+	Married	F	52
+Northern Territory	2011	85+	Married	M	113
+Northern Territory	2011	85+	Never married	F	23
+Northern Territory	2011	85+	Never married	M	23
+Northern Territory	2011	85+	Separated	F	5
+Northern Territory	2011	85+	Separated	M	10
+Northern Territory	2011	85+	Widowed	F	329
+Northern Territory	2011	85+	Widowed	M	92
+Northern Territory	2016	15-19	Divorced	F	7
+Northern Territory	2016	15-19	Divorced	M	5
+Northern Territory	2016	15-19	Married	F	390
+Northern Territory	2016	15-19	Married	M	213
+Northern Territory	2016	15-19	Never married	F	6185
+Northern Territory	2016	15-19	Never married	M	7236
+Northern Territory	2016	15-19	Separated	F	11
+Northern Territory	2016	15-19	Separated	M	16
+Northern Territory	2016	15-19	Widowed	F	7
+Northern Territory	2016	15-19	Widowed	M	10
+Northern Territory	2016	20-24	Divorced	F	28
+Northern Territory	2016	20-24	Divorced	M	29
+Northern Territory	2016	20-24	Married	F	1525
+Northern Territory	2016	20-24	Married	M	1122
+Northern Territory	2016	20-24	Never married	F	6145
+Northern Territory	2016	20-24	Never married	M	7625
+Northern Territory	2016	20-24	Separated	F	84
+Northern Territory	2016	20-24	Separated	M	58
+Northern Territory	2016	20-24	Widowed	F	14
+Northern Territory	2016	20-24	Widowed	M	13
+Northern Territory	2016	25-29	Divorced	F	129
+Northern Territory	2016	25-29	Divorced	M	86
+Northern Territory	2016	25-29	Married	F	3706
+Northern Territory	2016	25-29	Married	M	3018
+Northern Territory	2016	25-29	Never married	F	6499
+Northern Territory	2016	25-29	Never married	M	7877
+Northern Territory	2016	25-29	Separated	F	209
+Northern Territory	2016	25-29	Separated	M	136
+Northern Territory	2016	25-29	Widowed	F	33
+Northern Territory	2016	25-29	Widowed	M	19
+Northern Territory	2016	30-34	Divorced	F	329
+Northern Territory	2016	30-34	Divorced	M	231
+Northern Territory	2016	30-34	Married	F	5402
+Northern Territory	2016	30-34	Married	M	5049
+Northern Territory	2016	30-34	Never married	F	4376
+Northern Territory	2016	30-34	Never married	M	5347
+Northern Territory	2016	30-34	Separated	F	318
+Northern Territory	2016	30-34	Separated	M	224
+Northern Territory	2016	30-34	Widowed	F	41
+Northern Territory	2016	30-34	Widowed	M	18
+Northern Territory	2016	35-39	Divorced	F	484
+Northern Territory	2016	35-39	Divorced	M	374
+Northern Territory	2016	35-39	Married	F	5036
+Northern Territory	2016	35-39	Married	M	5206
+Northern Territory	2016	35-39	Never married	F	2832
+Northern Territory	2016	35-39	Never married	M	3421
+Northern Territory	2016	35-39	Separated	F	312
+Northern Territory	2016	35-39	Separated	M	245
+Northern Territory	2016	35-39	Widowed	F	78
+Northern Territory	2016	35-39	Widowed	M	25
+Northern Territory	2016	40-44	Divorced	F	590
+Northern Territory	2016	40-44	Divorced	M	545
+Northern Territory	2016	40-44	Married	F	4499
+Northern Territory	2016	40-44	Married	M	4979
+Northern Territory	2016	40-44	Never married	F	2469
+Northern Territory	2016	40-44	Never married	M	2683
+Northern Territory	2016	40-44	Separated	F	354
+Northern Territory	2016	40-44	Separated	M	333
+Northern Territory	2016	40-44	Widowed	F	118
+Northern Territory	2016	40-44	Widowed	M	47
+Northern Territory	2016	45-49	Divorced	F	894
+Northern Territory	2016	45-49	Divorced	M	830
+Northern Territory	2016	45-49	Married	F	4380
+Northern Territory	2016	45-49	Married	M	4746
+Northern Territory	2016	45-49	Never married	F	2004
+Northern Territory	2016	45-49	Never married	M	2463
+Northern Territory	2016	45-49	Separated	F	423
+Northern Territory	2016	45-49	Separated	M	423
+Northern Territory	2016	45-49	Widowed	F	214
+Northern Territory	2016	45-49	Widowed	M	82
+Northern Territory	2016	50-54	Divorced	F	1039
+Northern Territory	2016	50-54	Divorced	M	1020
+Northern Territory	2016	50-54	Married	F	3780
+Northern Territory	2016	50-54	Married	M	4316
+Northern Territory	2016	50-54	Never married	F	1537
+Northern Territory	2016	50-54	Never married	M	1845
+Northern Territory	2016	50-54	Separated	F	389
+Northern Territory	2016	50-54	Separated	M	415
+Northern Territory	2016	50-54	Widowed	F	410
+Northern Territory	2016	50-54	Widowed	M	103
+Northern Territory	2016	55-59	Divorced	F	1151
+Northern Territory	2016	55-59	Divorced	M	1043
+Northern Territory	2016	55-59	Married	F	3359
+Northern Territory	2016	55-59	Married	M	3764
+Northern Territory	2016	55-59	Never married	F	1012
+Northern Territory	2016	55-59	Never married	M	1347
+Northern Territory	2016	55-59	Separated	F	359
+Northern Territory	2016	55-59	Separated	M	338
+Northern Territory	2016	55-59	Widowed	F	404
+Northern Territory	2016	55-59	Widowed	M	108
+Northern Territory	2016	60-64	Divorced	F	904
+Northern Territory	2016	60-64	Divorced	M	947
+Northern Territory	2016	60-64	Married	F	2555
+Northern Territory	2016	60-64	Married	M	3188
+Northern Territory	2016	60-64	Never married	F	591
+Northern Territory	2016	60-64	Never married	M	875
+Northern Territory	2016	60-64	Separated	F	275
+Northern Territory	2016	60-64	Separated	M	327
+Northern Territory	2016	60-64	Widowed	F	579
+Northern Territory	2016	60-64	Widowed	M	165
+Northern Territory	2016	65-69	Divorced	F	652
+Northern Territory	2016	65-69	Divorced	M	751
+Northern Territory	2016	65-69	Married	F	1661
+Northern Territory	2016	65-69	Married	M	2329
+Northern Territory	2016	65-69	Never married	F	282
+Northern Territory	2016	65-69	Never married	M	485
+Northern Territory	2016	65-69	Separated	F	176
+Northern Territory	2016	65-69	Separated	M	232
+Northern Territory	2016	65-69	Widowed	F	594
+Northern Territory	2016	65-69	Widowed	M	200
+Northern Territory	2016	70-74	Divorced	F	347
+Northern Territory	2016	70-74	Divorced	M	362
+Northern Territory	2016	70-74	Married	F	900
+Northern Territory	2016	70-74	Married	M	1342
+Northern Territory	2016	70-74	Never married	F	148
+Northern Territory	2016	70-74	Never married	M	274
+Northern Territory	2016	70-74	Separated	F	77
+Northern Territory	2016	70-74	Separated	M	166
+Northern Territory	2016	70-74	Widowed	F	519
+Northern Territory	2016	70-74	Widowed	M	169
+Northern Territory	2016	75-79	Divorced	F	197
+Northern Territory	2016	75-79	Divorced	M	213
+Northern Territory	2016	75-79	Married	F	402
+Northern Territory	2016	75-79	Married	M	747
+Northern Territory	2016	75-79	Never married	F	73
+Northern Territory	2016	75-79	Never married	M	126
+Northern Territory	2016	75-79	Separated	F	27
+Northern Territory	2016	75-79	Separated	M	72
+Northern Territory	2016	75-79	Widowed	F	492
+Northern Territory	2016	75-79	Widowed	M	164
+Northern Territory	2016	80-84	Divorced	F	82
+Northern Territory	2016	80-84	Divorced	M	80
+Northern Territory	2016	80-84	Married	F	163
+Northern Territory	2016	80-84	Married	M	300
+Northern Territory	2016	80-84	Never married	F	41
+Northern Territory	2016	80-84	Never married	M	64
+Northern Territory	2016	80-84	Separated	F	10
+Northern Territory	2016	80-84	Separated	M	11
+Northern Territory	2016	80-84	Widowed	F	395
+Northern Territory	2016	80-84	Widowed	M	114
+Northern Territory	2016	85+	Divorced	F	58
+Northern Territory	2016	85+	Divorced	M	39
+Northern Territory	2016	85+	Married	F	81
+Northern Territory	2016	85+	Married	M	165
+Northern Territory	2016	85+	Never married	F	31
+Northern Territory	2016	85+	Never married	M	47
+Northern Territory	2016	85+	Separated	F	6
+Northern Territory	2016	85+	Separated	M	12
+Northern Territory	2016	85+	Widowed	F	366
+Northern Territory	2016	85+	Widowed	M	128
+Australian Capital Territory	2006	15-19	Divorced	F	5
+Australian Capital Territory	2006	15-19	Divorced	M	3
+Australian Capital Territory	2006	15-19	Married	F	46
+Australian Capital Territory	2006	15-19	Married	M	17
+Australian Capital Territory	2006	15-19	Never married	F	11316
+Australian Capital Territory	2006	15-19	Never married	M	12182
+Australian Capital Territory	2006	15-19	Separated	F	6
+Australian Capital Territory	2006	15-19	Separated	M	4
+Australian Capital Territory	2006	15-19	Widowed	F	3
+Australian Capital Territory	2006	15-19	Widowed	M	0
+Australian Capital Territory	2006	20-24	Divorced	F	31
+Australian Capital Territory	2006	20-24	Divorced	M	13
+Australian Capital Territory	2006	20-24	Married	F	939
+Australian Capital Territory	2006	20-24	Married	M	455
+Australian Capital Territory	2006	20-24	Never married	F	12418
+Australian Capital Territory	2006	20-24	Never married	M	13623
+Australian Capital Territory	2006	20-24	Separated	F	54
+Australian Capital Territory	2006	20-24	Separated	M	32
+Australian Capital Territory	2006	20-24	Widowed	F	13
+Australian Capital Territory	2006	20-24	Widowed	M	10
+Australian Capital Territory	2006	25-29	Divorced	F	219
+Australian Capital Territory	2006	25-29	Divorced	M	142
+Australian Capital Territory	2006	25-29	Married	F	4067
+Australian Capital Territory	2006	25-29	Married	M	2774
+Australian Capital Territory	2006	25-29	Never married	F	8214
+Australian Capital Territory	2006	25-29	Never married	M	9475
+Australian Capital Territory	2006	25-29	Separated	F	226
+Australian Capital Territory	2006	25-29	Separated	M	102
+Australian Capital Territory	2006	25-29	Widowed	F	19
+Australian Capital Territory	2006	25-29	Widowed	M	4
+Australian Capital Territory	2006	30-34	Divorced	F	719
+Australian Capital Territory	2006	30-34	Divorced	M	392
+Australian Capital Territory	2006	30-34	Married	F	7037
+Australian Capital Territory	2006	30-34	Married	M	5983
+Australian Capital Territory	2006	30-34	Never married	F	4561
+Australian Capital Territory	2006	30-34	Never married	M	5665
+Australian Capital Territory	2006	30-34	Separated	F	386
+Australian Capital Territory	2006	30-34	Separated	M	270
+Australian Capital Territory	2006	30-34	Widowed	F	28
+Australian Capital Territory	2006	30-34	Widowed	M	16
+Australian Capital Territory	2006	35-39	Divorced	F	1210
+Australian Capital Territory	2006	35-39	Divorced	M	783
+Australian Capital Territory	2006	35-39	Married	F	7801
+Australian Capital Territory	2006	35-39	Married	M	7248
+Australian Capital Territory	2006	35-39	Never married	F	2997
+Australian Capital Territory	2006	35-39	Never married	M	3740
+Australian Capital Territory	2006	35-39	Separated	F	521
+Australian Capital Territory	2006	35-39	Separated	M	373
+Australian Capital Territory	2006	35-39	Widowed	F	58
+Australian Capital Territory	2006	35-39	Widowed	M	29
+Australian Capital Territory	2006	40-44	Divorced	F	1639
+Australian Capital Territory	2006	40-44	Divorced	M	1133
+Australian Capital Territory	2006	40-44	Married	F	7970
+Australian Capital Territory	2006	40-44	Married	M	7593
+Australian Capital Territory	2006	40-44	Never married	F	2090
+Australian Capital Territory	2006	40-44	Never married	M	2529
+Australian Capital Territory	2006	40-44	Separated	F	619
+Australian Capital Territory	2006	40-44	Separated	M	418
+Australian Capital Territory	2006	40-44	Widowed	F	116
+Australian Capital Territory	2006	40-44	Widowed	M	34
+Australian Capital Territory	2006	45-49	Divorced	F	2036
+Australian Capital Territory	2006	45-49	Divorced	M	1341
+Australian Capital Territory	2006	45-49	Married	F	7961
+Australian Capital Territory	2006	45-49	Married	M	7710
+Australian Capital Territory	2006	45-49	Never married	F	1596
+Australian Capital Territory	2006	45-49	Never married	M	1842
+Australian Capital Territory	2006	45-49	Separated	F	672
+Australian Capital Territory	2006	45-49	Separated	M	552
+Australian Capital Territory	2006	45-49	Widowed	F	207
+Australian Capital Territory	2006	45-49	Widowed	M	54
+Australian Capital Territory	2006	50-54	Divorced	F	2110
+Australian Capital Territory	2006	50-54	Divorced	M	1391
+Australian Capital Territory	2006	50-54	Married	F	7466
+Australian Capital Territory	2006	50-54	Married	M	7481
+Australian Capital Territory	2006	50-54	Never married	F	944
+Australian Capital Territory	2006	50-54	Never married	M	1171
+Australian Capital Territory	2006	50-54	Separated	F	586
+Australian Capital Territory	2006	50-54	Separated	M	475
+Australian Capital Territory	2006	50-54	Widowed	F	313
+Australian Capital Territory	2006	50-54	Widowed	M	90
+Australian Capital Territory	2006	55-59	Divorced	F	1932
+Australian Capital Territory	2006	55-59	Divorced	M	1335
+Australian Capital Territory	2006	55-59	Married	F	6826
+Australian Capital Territory	2006	55-59	Married	M	7386
+Australian Capital Territory	2006	55-59	Never married	F	587
+Australian Capital Territory	2006	55-59	Never married	M	712
+Australian Capital Territory	2006	55-59	Separated	F	439
+Australian Capital Territory	2006	55-59	Separated	M	369
+Australian Capital Territory	2006	55-59	Widowed	F	501
+Australian Capital Territory	2006	55-59	Widowed	M	124
+Australian Capital Territory	2006	60-64	Divorced	F	1275
+Australian Capital Territory	2006	60-64	Divorced	M	779
+Australian Capital Territory	2006	60-64	Married	F	4499
+Australian Capital Territory	2006	60-64	Married	M	5376
+Australian Capital Territory	2006	60-64	Never married	F	332
+Australian Capital Territory	2006	60-64	Never married	M	356
+Australian Capital Territory	2006	60-64	Separated	F	253
+Australian Capital Territory	2006	60-64	Separated	M	242
+Australian Capital Territory	2006	60-64	Widowed	F	661
+Australian Capital Territory	2006	60-64	Widowed	M	172
+Australian Capital Territory	2006	65-69	Divorced	F	779
+Australian Capital Territory	2006	65-69	Divorced	M	511
+Australian Capital Territory	2006	65-69	Married	F	3128
+Australian Capital Territory	2006	65-69	Married	M	3662
+Australian Capital Territory	2006	65-69	Never married	F	163
+Australian Capital Territory	2006	65-69	Never married	M	197
+Australian Capital Territory	2006	65-69	Separated	F	151
+Australian Capital Territory	2006	65-69	Separated	M	144
+Australian Capital Territory	2006	65-69	Widowed	F	849
+Australian Capital Territory	2006	65-69	Widowed	M	212
+Australian Capital Territory	2006	70-74	Divorced	F	443
+Australian Capital Territory	2006	70-74	Divorced	M	281
+Australian Capital Territory	2006	70-74	Married	F	2190
+Australian Capital Territory	2006	70-74	Married	M	2704
+Australian Capital Territory	2006	70-74	Never married	F	157
+Australian Capital Territory	2006	70-74	Never married	M	170
+Australian Capital Territory	2006	70-74	Separated	F	96
+Australian Capital Territory	2006	70-74	Separated	M	109
+Australian Capital Territory	2006	70-74	Widowed	F	1045
+Australian Capital Territory	2006	70-74	Widowed	M	250
+Australian Capital Territory	2006	75-79	Divorced	F	282
+Australian Capital Territory	2006	75-79	Divorced	M	147
+Australian Capital Territory	2006	75-79	Married	F	1494
+Australian Capital Territory	2006	75-79	Married	M	2143
+Australian Capital Territory	2006	75-79	Never married	F	99
+Australian Capital Territory	2006	75-79	Never married	M	103
+Australian Capital Territory	2006	75-79	Separated	F	42
+Australian Capital Territory	2006	75-79	Separated	M	62
+Australian Capital Territory	2006	75-79	Widowed	F	1377
+Australian Capital Territory	2006	75-79	Widowed	M	340
+Australian Capital Territory	2006	80-84	Divorced	F	183
+Australian Capital Territory	2006	80-84	Divorced	M	63
+Australian Capital Territory	2006	80-84	Married	F	866
+Australian Capital Territory	2006	80-84	Married	M	1369
+Australian Capital Territory	2006	80-84	Never married	F	90
+Australian Capital Territory	2006	80-84	Never married	M	60
+Australian Capital Territory	2006	80-84	Separated	F	25
+Australian Capital Territory	2006	80-84	Separated	M	31
+Australian Capital Territory	2006	80-84	Widowed	F	1704
+Australian Capital Territory	2006	80-84	Widowed	M	389
+Australian Capital Territory	2006	85+	Divorced	F	89
+Australian Capital Territory	2006	85+	Divorced	M	34
+Australian Capital Territory	2006	85+	Married	F	337
+Australian Capital Territory	2006	85+	Married	M	620
+Australian Capital Territory	2006	85+	Never married	F	89
+Australian Capital Territory	2006	85+	Never married	M	43
+Australian Capital Territory	2006	85+	Separated	F	12
+Australian Capital Territory	2006	85+	Separated	M	16
+Australian Capital Territory	2006	85+	Widowed	F	1772
+Australian Capital Territory	2006	85+	Widowed	M	449
+Australian Capital Territory	2011	15-19	Divorced	F	4
+Australian Capital Territory	2011	15-19	Divorced	M	4
+Australian Capital Territory	2011	15-19	Married	F	35
+Australian Capital Territory	2011	15-19	Married	M	28
+Australian Capital Territory	2011	15-19	Never married	F	11592
+Australian Capital Territory	2011	15-19	Never married	M	12330
+Australian Capital Territory	2011	15-19	Separated	F	3
+Australian Capital Territory	2011	15-19	Separated	M	0
+Australian Capital Territory	2011	15-19	Widowed	F	5
+Australian Capital Territory	2011	15-19	Widowed	M	4
+Australian Capital Territory	2011	20-24	Divorced	F	23
+Australian Capital Territory	2011	20-24	Divorced	M	7
+Australian Capital Territory	2011	20-24	Married	F	1005
+Australian Capital Territory	2011	20-24	Married	M	445
+Australian Capital Territory	2011	20-24	Never married	F	14001
+Australian Capital Territory	2011	20-24	Never married	M	15146
+Australian Capital Territory	2011	20-24	Separated	F	72
+Australian Capital Territory	2011	20-24	Separated	M	28
+Australian Capital Territory	2011	20-24	Widowed	F	8
+Australian Capital Territory	2011	20-24	Widowed	M	13
+Australian Capital Territory	2011	25-29	Divorced	F	178
+Australian Capital Territory	2011	25-29	Divorced	M	109
+Australian Capital Territory	2011	25-29	Married	F	5111
+Australian Capital Territory	2011	25-29	Married	M	3459
+Australian Capital Territory	2011	25-29	Never married	F	9759
+Australian Capital Territory	2011	25-29	Never married	M	11595
+Australian Capital Territory	2011	25-29	Separated	F	199
+Australian Capital Territory	2011	25-29	Separated	M	108
+Australian Capital Territory	2011	25-29	Widowed	F	10
+Australian Capital Territory	2011	25-29	Widowed	M	11
+Australian Capital Territory	2011	30-34	Divorced	F	544
+Australian Capital Territory	2011	30-34	Divorced	M	330
+Australian Capital Territory	2011	30-34	Married	F	7805
+Australian Capital Territory	2011	30-34	Married	M	6819
+Australian Capital Territory	2011	30-34	Never married	F	5272
+Australian Capital Territory	2011	30-34	Never married	M	6326
+Australian Capital Territory	2011	30-34	Separated	F	341
+Australian Capital Territory	2011	30-34	Separated	M	237
+Australian Capital Territory	2011	30-34	Widowed	F	23
+Australian Capital Territory	2011	30-34	Widowed	M	9
+Australian Capital Territory	2011	35-39	Divorced	F	1030
+Australian Capital Territory	2011	35-39	Divorced	M	671
+Australian Capital Territory	2011	35-39	Married	F	8498
+Australian Capital Territory	2011	35-39	Married	M	8093
+Australian Capital Territory	2011	35-39	Never married	F	3494
+Australian Capital Territory	2011	35-39	Never married	M	4181
+Australian Capital Territory	2011	35-39	Separated	F	511
+Australian Capital Territory	2011	35-39	Separated	M	383
+Australian Capital Territory	2011	35-39	Widowed	F	76
+Australian Capital Territory	2011	35-39	Widowed	M	27
+Australian Capital Territory	2011	40-44	Divorced	F	1611
+Australian Capital Territory	2011	40-44	Divorced	M	1015
+Australian Capital Territory	2011	40-44	Married	F	8260
+Australian Capital Territory	2011	40-44	Married	M	8144
+Australian Capital Territory	2011	40-44	Never married	F	2635
+Australian Capital Territory	2011	40-44	Never married	M	3100
+Australian Capital Territory	2011	40-44	Separated	F	580
+Australian Capital Territory	2011	40-44	Separated	M	501
+Australian Capital Territory	2011	40-44	Widowed	F	99
+Australian Capital Territory	2011	40-44	Widowed	M	32
+Australian Capital Territory	2011	45-49	Divorced	F	1998
+Australian Capital Territory	2011	45-49	Divorced	M	1325
+Australian Capital Territory	2011	45-49	Married	F	7887
+Australian Capital Territory	2011	45-49	Married	M	7838
+Australian Capital Territory	2011	45-49	Never married	F	1957
+Australian Capital Territory	2011	45-49	Never married	M	2226
+Australian Capital Territory	2011	45-49	Separated	F	651
+Australian Capital Territory	2011	45-49	Separated	M	498
+Australian Capital Territory	2011	45-49	Widowed	F	163
+Australian Capital Territory	2011	45-49	Widowed	M	53
+Australian Capital Territory	2011	50-54	Divorced	F	2194
+Australian Capital Territory	2011	50-54	Divorced	M	1419
+Australian Capital Territory	2011	50-54	Married	F	7492
+Australian Capital Territory	2011	50-54	Married	M	7612
+Australian Capital Territory	2011	50-54	Never married	F	1522
+Australian Capital Territory	2011	50-54	Never married	M	1707
+Australian Capital Territory	2011	50-54	Separated	F	556
+Australian Capital Territory	2011	50-54	Separated	M	513
+Australian Capital Territory	2011	50-54	Widowed	F	308
+Australian Capital Territory	2011	50-54	Widowed	M	85
+Australian Capital Territory	2011	55-59	Divorced	F	2069
+Australian Capital Territory	2011	55-59	Divorced	M	1391
+Australian Capital Territory	2011	55-59	Married	F	6684
+Australian Capital Territory	2011	55-59	Married	M	6902
+Australian Capital Territory	2011	55-59	Never married	F	864
+Australian Capital Territory	2011	55-59	Never married	M	1053
+Australian Capital Territory	2011	55-59	Separated	F	461
+Australian Capital Territory	2011	55-59	Separated	M	405
+Australian Capital Territory	2011	55-59	Widowed	F	450
+Australian Capital Territory	2011	55-59	Widowed	M	129
+Australian Capital Territory	2011	60-64	Divorced	F	1823
+Australian Capital Territory	2011	60-64	Divorced	M	1207
+Australian Capital Territory	2011	60-64	Married	F	5980
+Australian Capital Territory	2011	60-64	Married	M	6632
+Australian Capital Territory	2011	60-64	Never married	F	538
+Australian Capital Territory	2011	60-64	Never married	M	626
+Australian Capital Territory	2011	60-64	Separated	F	361
+Australian Capital Territory	2011	60-64	Separated	M	295
+Australian Capital Territory	2011	60-64	Widowed	F	707
+Australian Capital Territory	2011	60-64	Widowed	M	202
+Australian Capital Territory	2011	65-69	Divorced	F	1136
+Australian Capital Territory	2011	65-69	Divorced	M	696
+Australian Capital Territory	2011	65-69	Married	F	3953
+Australian Capital Territory	2011	65-69	Married	M	4744
+Australian Capital Territory	2011	65-69	Never married	F	313
+Australian Capital Territory	2011	65-69	Never married	M	325
+Australian Capital Territory	2011	65-69	Separated	F	188
+Australian Capital Territory	2011	65-69	Separated	M	190
+Australian Capital Territory	2011	65-69	Widowed	F	898
+Australian Capital Territory	2011	65-69	Widowed	M	223
+Australian Capital Territory	2011	70-74	Divorced	F	694
+Australian Capital Territory	2011	70-74	Divorced	M	428
+Australian Capital Territory	2011	70-74	Married	F	2717
+Australian Capital Territory	2011	70-74	Married	M	3273
+Australian Capital Territory	2011	70-74	Never married	F	146
+Australian Capital Territory	2011	70-74	Never married	M	144
+Australian Capital Territory	2011	70-74	Separated	F	98
+Australian Capital Territory	2011	70-74	Separated	M	120
+Australian Capital Territory	2011	70-74	Widowed	F	1098
+Australian Capital Territory	2011	70-74	Widowed	M	267
+Australian Capital Territory	2011	75-79	Divorced	F	381
+Australian Capital Territory	2011	75-79	Divorced	M	238
+Australian Capital Territory	2011	75-79	Married	F	1704
+Australian Capital Territory	2011	75-79	Married	M	2265
+Australian Capital Territory	2011	75-79	Never married	F	125
+Australian Capital Territory	2011	75-79	Never married	M	114
+Australian Capital Territory	2011	75-79	Separated	F	66
+Australian Capital Territory	2011	75-79	Separated	M	74
+Australian Capital Territory	2011	75-79	Widowed	F	1301
+Australian Capital Territory	2011	75-79	Widowed	M	326
+Australian Capital Territory	2011	80-84	Divorced	F	227
+Australian Capital Territory	2011	80-84	Divorced	M	123
+Australian Capital Territory	2011	80-84	Married	F	1011
+Australian Capital Territory	2011	80-84	Married	M	1576
+Australian Capital Territory	2011	80-84	Never married	F	76
+Australian Capital Territory	2011	80-84	Never married	M	72
+Australian Capital Territory	2011	80-84	Separated	F	23
+Australian Capital Territory	2011	80-84	Separated	M	33
+Australian Capital Territory	2011	80-84	Widowed	F	1547
+Australian Capital Territory	2011	80-84	Widowed	M	370
+Australian Capital Territory	2011	85+	Divorced	F	146
+Australian Capital Territory	2011	85+	Divorced	M	53
+Australian Capital Territory	2011	85+	Married	F	555
+Australian Capital Territory	2011	85+	Married	M	995
+Australian Capital Territory	2011	85+	Never married	F	91
+Australian Capital Territory	2011	85+	Never married	M	47
+Australian Capital Territory	2011	85+	Separated	F	20
+Australian Capital Territory	2011	85+	Separated	M	22
+Australian Capital Territory	2011	85+	Widowed	F	2360
+Australian Capital Territory	2011	85+	Widowed	M	543
+Australian Capital Territory	2016	15-19	Divorced	F	6
+Australian Capital Territory	2016	15-19	Divorced	M	7
+Australian Capital Territory	2016	15-19	Married	F	32
+Australian Capital Territory	2016	15-19	Married	M	28
+Australian Capital Territory	2016	15-19	Never married	F	12098
+Australian Capital Territory	2016	15-19	Never married	M	12316
+Australian Capital Territory	2016	15-19	Separated	F	8
+Australian Capital Territory	2016	15-19	Separated	M	8
+Australian Capital Territory	2016	15-19	Widowed	F	3
+Australian Capital Territory	2016	15-19	Widowed	M	10
+Australian Capital Territory	2016	20-24	Divorced	F	20
+Australian Capital Territory	2016	20-24	Divorced	M	17
+Australian Capital Territory	2016	20-24	Married	F	864
+Australian Capital Territory	2016	20-24	Married	M	403
+Australian Capital Territory	2016	20-24	Never married	F	14625
+Australian Capital Territory	2016	20-24	Never married	M	15415
+Australian Capital Territory	2016	20-24	Separated	F	49
+Australian Capital Territory	2016	20-24	Separated	M	25
+Australian Capital Territory	2016	20-24	Widowed	F	13
+Australian Capital Territory	2016	20-24	Widowed	M	0
+Australian Capital Territory	2016	25-29	Divorced	F	182
+Australian Capital Territory	2016	25-29	Divorced	M	117
+Australian Capital Territory	2016	25-29	Married	F	5162
+Australian Capital Territory	2016	25-29	Married	M	3251
+Australian Capital Territory	2016	25-29	Never married	F	10944
+Australian Capital Territory	2016	25-29	Never married	M	12455
+Australian Capital Territory	2016	25-29	Separated	F	241
+Australian Capital Territory	2016	25-29	Separated	M	119
+Australian Capital Territory	2016	25-29	Widowed	F	16
+Australian Capital Territory	2016	25-29	Widowed	M	12
+Australian Capital Territory	2016	30-34	Divorced	F	554
+Australian Capital Territory	2016	30-34	Divorced	M	367
+Australian Capital Territory	2016	30-34	Married	F	9981
+Australian Capital Territory	2016	30-34	Married	M	8458
+Australian Capital Territory	2016	30-34	Never married	F	6169
+Australian Capital Territory	2016	30-34	Never married	M	7342
+Australian Capital Territory	2016	30-34	Separated	F	420
+Australian Capital Territory	2016	30-34	Separated	M	293
+Australian Capital Territory	2016	30-34	Widowed	F	25
+Australian Capital Territory	2016	30-34	Widowed	M	20
+Australian Capital Territory	2016	35-39	Divorced	F	889
+Australian Capital Territory	2016	35-39	Divorced	M	602
+Australian Capital Territory	2016	35-39	Married	F	9740
+Australian Capital Territory	2016	35-39	Married	M	9532
+Australian Capital Territory	2016	35-39	Never married	F	3984
+Australian Capital Territory	2016	35-39	Never married	M	4472
+Australian Capital Territory	2016	35-39	Separated	F	500
+Australian Capital Territory	2016	35-39	Separated	M	382
+Australian Capital Territory	2016	35-39	Widowed	F	53
+Australian Capital Territory	2016	35-39	Widowed	M	28
+Australian Capital Territory	2016	40-44	Divorced	F	1389
+Australian Capital Territory	2016	40-44	Divorced	M	885
+Australian Capital Territory	2016	40-44	Married	F	9106
+Australian Capital Territory	2016	40-44	Married	M	9204
+Australian Capital Territory	2016	40-44	Never married	F	3113
+Australian Capital Territory	2016	40-44	Never married	M	3335
+Australian Capital Territory	2016	40-44	Separated	F	578
+Australian Capital Territory	2016	40-44	Separated	M	475
+Australian Capital Territory	2016	40-44	Widowed	F	100
+Australian Capital Territory	2016	40-44	Widowed	M	27
+Australian Capital Territory	2016	45-49	Divorced	F	1888
+Australian Capital Territory	2016	45-49	Divorced	M	1258
+Australian Capital Territory	2016	45-49	Married	F	8274
+Australian Capital Territory	2016	45-49	Married	M	8533
+Australian Capital Territory	2016	45-49	Never married	F	2450
+Australian Capital Territory	2016	45-49	Never married	M	2730
+Australian Capital Territory	2016	45-49	Separated	F	624
+Australian Capital Territory	2016	45-49	Separated	M	569
+Australian Capital Territory	2016	45-49	Widowed	F	150
+Australian Capital Territory	2016	45-49	Widowed	M	68
+Australian Capital Territory	2016	50-54	Divorced	F	2252
+Australian Capital Territory	2016	50-54	Divorced	M	1464
+Australian Capital Territory	2016	50-54	Married	F	7625
+Australian Capital Territory	2016	50-54	Married	M	7760
+Australian Capital Territory	2016	50-54	Never married	F	1848
+Australian Capital Territory	2016	50-54	Never married	M	2032
+Australian Capital Territory	2016	50-54	Separated	F	598
+Australian Capital Territory	2016	50-54	Separated	M	489
+Australian Capital Territory	2016	50-54	Widowed	F	268
+Australian Capital Territory	2016	50-54	Widowed	M	97
+Australian Capital Territory	2016	55-59	Divorced	F	2222
+Australian Capital Territory	2016	55-59	Divorced	M	1486
+Australian Capital Territory	2016	55-59	Married	F	7021
+Australian Capital Territory	2016	55-59	Married	M	7215
+Australian Capital Territory	2016	55-59	Never married	F	1372
+Australian Capital Territory	2016	55-59	Never married	M	1507
+Australian Capital Territory	2016	55-59	Separated	F	478
+Australian Capital Territory	2016	55-59	Separated	M	467
+Australian Capital Territory	2016	55-59	Widowed	F	472
+Australian Capital Territory	2016	55-59	Widowed	M	123
+Australian Capital Territory	2016	60-64	Divorced	F	2045
+Australian Capital Territory	2016	60-64	Divorced	M	1241
+Australian Capital Territory	2016	60-64	Married	F	6109
+Australian Capital Territory	2016	60-64	Married	M	6435
+Australian Capital Territory	2016	60-64	Never married	F	842
+Australian Capital Territory	2016	60-64	Never married	M	937
+Australian Capital Territory	2016	60-64	Separated	F	377
+Australian Capital Territory	2016	60-64	Separated	M	320
+Australian Capital Territory	2016	60-64	Widowed	F	665
+Australian Capital Territory	2016	60-64	Widowed	M	172
+Australian Capital Territory	2016	65-69	Divorced	F	1780
+Australian Capital Territory	2016	65-69	Divorced	M	1098
+Australian Capital Territory	2016	65-69	Married	F	5468
+Australian Capital Territory	2016	65-69	Married	M	6054
+Australian Capital Territory	2016	65-69	Never married	F	504
+Australian Capital Territory	2016	65-69	Never married	M	544
+Australian Capital Territory	2016	65-69	Separated	F	303
+Australian Capital Territory	2016	65-69	Separated	M	247
+Australian Capital Territory	2016	65-69	Widowed	F	1019
+Australian Capital Territory	2016	65-69	Widowed	M	260
+Australian Capital Territory	2016	70-74	Divorced	F	1140
+Australian Capital Territory	2016	70-74	Divorced	M	590
+Australian Capital Territory	2016	70-74	Married	F	3571
+Australian Capital Territory	2016	70-74	Married	M	4377
+Australian Capital Territory	2016	70-74	Never married	F	290
+Australian Capital Territory	2016	70-74	Never married	M	305
+Australian Capital Territory	2016	70-74	Separated	F	150
+Australian Capital Territory	2016	70-74	Separated	M	144
+Australian Capital Territory	2016	70-74	Widowed	F	1280
+Australian Capital Territory	2016	70-74	Widowed	M	324
+Australian Capital Territory	2016	75-79	Divorced	F	634
+Australian Capital Territory	2016	75-79	Divorced	M	373
+Australian Capital Territory	2016	75-79	Married	F	2294
+Australian Capital Territory	2016	75-79	Married	M	2957
+Australian Capital Territory	2016	75-79	Never married	F	137
+Australian Capital Territory	2016	75-79	Never married	M	134
+Australian Capital Territory	2016	75-79	Separated	F	87
+Australian Capital Territory	2016	75-79	Separated	M	86
+Australian Capital Territory	2016	75-79	Widowed	F	1473
+Australian Capital Territory	2016	75-79	Widowed	M	351
+Australian Capital Territory	2016	80-84	Divorced	F	330
+Australian Capital Territory	2016	80-84	Divorced	M	177
+Australian Capital Territory	2016	80-84	Married	F	1227
+Australian Capital Territory	2016	80-84	Married	M	1847
+Australian Capital Territory	2016	80-84	Never married	F	110
+Australian Capital Territory	2016	80-84	Never married	M	70
+Australian Capital Territory	2016	80-84	Separated	F	45
+Australian Capital Territory	2016	80-84	Separated	M	44
+Australian Capital Territory	2016	80-84	Widowed	F	1581
+Australian Capital Territory	2016	80-84	Widowed	M	401
+Australian Capital Territory	2016	85+	Divorced	F	232
+Australian Capital Territory	2016	85+	Divorced	M	110
+Australian Capital Territory	2016	85+	Married	F	706
+Australian Capital Territory	2016	85+	Married	M	1366
+Australian Capital Territory	2016	85+	Never married	F	108
+Australian Capital Territory	2016	85+	Never married	M	78
+Australian Capital Territory	2016	85+	Separated	F	12
+Australian Capital Territory	2016	85+	Separated	M	26
+Australian Capital Territory	2016	85+	Widowed	F	2783
+Australian Capital Territory	2016	85+	Widowed	M	737
+Other Territories	2006	15-19	Divorced	F	0
+Other Territories	2006	15-19	Divorced	M	0
+Other Territories	2006	15-19	Married	F	3
+Other Territories	2006	15-19	Married	M	0
+Other Territories	2006	15-19	Never married	F	56
+Other Territories	2006	15-19	Never married	M	63
+Other Territories	2006	15-19	Separated	F	0
+Other Territories	2006	15-19	Separated	M	0
+Other Territories	2006	15-19	Widowed	F	0
+Other Territories	2006	15-19	Widowed	M	0
+Other Territories	2006	20-24	Divorced	F	0
+Other Territories	2006	20-24	Divorced	M	0
+Other Territories	2006	20-24	Married	F	17
+Other Territories	2006	20-24	Married	M	10
+Other Territories	2006	20-24	Never married	F	51
+Other Territories	2006	20-24	Never married	M	80
+Other Territories	2006	20-24	Separated	F	0
+Other Territories	2006	20-24	Separated	M	0
+Other Territories	2006	20-24	Widowed	F	0
+Other Territories	2006	20-24	Widowed	M	0
+Other Territories	2006	25-29	Divorced	F	0
+Other Territories	2006	25-29	Divorced	M	0
+Other Territories	2006	25-29	Married	F	37
+Other Territories	2006	25-29	Married	M	23
+Other Territories	2006	25-29	Never married	F	24
+Other Territories	2006	25-29	Never married	M	60
+Other Territories	2006	25-29	Separated	F	0
+Other Territories	2006	25-29	Separated	M	0
+Other Territories	2006	25-29	Widowed	F	0
+Other Territories	2006	25-29	Widowed	M	0
+Other Territories	2006	30-34	Divorced	F	4
+Other Territories	2006	30-34	Divorced	M	0
+Other Territories	2006	30-34	Married	F	46
+Other Territories	2006	30-34	Married	M	45
+Other Territories	2006	30-34	Never married	F	25
+Other Territories	2006	30-34	Never married	M	33
+Other Territories	2006	30-34	Separated	F	0
+Other Territories	2006	30-34	Separated	M	0
+Other Territories	2006	30-34	Widowed	F	0
+Other Territories	2006	30-34	Widowed	M	0
+Other Territories	2006	35-39	Divorced	F	5
+Other Territories	2006	35-39	Divorced	M	3
+Other Territories	2006	35-39	Married	F	76
+Other Territories	2006	35-39	Married	M	57
+Other Territories	2006	35-39	Never married	F	20
+Other Territories	2006	35-39	Never married	M	33
+Other Territories	2006	35-39	Separated	F	3
+Other Territories	2006	35-39	Separated	M	4
+Other Territories	2006	35-39	Widowed	F	0
+Other Territories	2006	35-39	Widowed	M	0
+Other Territories	2006	40-44	Divorced	F	0
+Other Territories	2006	40-44	Divorced	M	10
+Other Territories	2006	40-44	Married	F	78
+Other Territories	2006	40-44	Married	M	81
+Other Territories	2006	40-44	Never married	F	10
+Other Territories	2006	40-44	Never married	M	27
+Other Territories	2006	40-44	Separated	F	3
+Other Territories	2006	40-44	Separated	M	5
+Other Territories	2006	40-44	Widowed	F	0
+Other Territories	2006	40-44	Widowed	M	0
+Other Territories	2006	45-49	Divorced	F	3
+Other Territories	2006	45-49	Divorced	M	13
+Other Territories	2006	45-49	Married	F	65
+Other Territories	2006	45-49	Married	M	67
+Other Territories	2006	45-49	Never married	F	12
+Other Territories	2006	45-49	Never married	M	26
+Other Territories	2006	45-49	Separated	F	3
+Other Territories	2006	45-49	Separated	M	0
+Other Territories	2006	45-49	Widowed	F	4
+Other Territories	2006	45-49	Widowed	M	0
+Other Territories	2006	50-54	Divorced	F	12
+Other Territories	2006	50-54	Divorced	M	13
+Other Territories	2006	50-54	Married	F	62
+Other Territories	2006	50-54	Married	M	71
+Other Territories	2006	50-54	Never married	F	8
+Other Territories	2006	50-54	Never married	M	6
+Other Territories	2006	50-54	Separated	F	3
+Other Territories	2006	50-54	Separated	M	11
+Other Territories	2006	50-54	Widowed	F	0
+Other Territories	2006	50-54	Widowed	M	0
+Other Territories	2006	55-59	Divorced	F	0
+Other Territories	2006	55-59	Divorced	M	16
+Other Territories	2006	55-59	Married	F	43
+Other Territories	2006	55-59	Married	M	87
+Other Territories	2006	55-59	Never married	F	3
+Other Territories	2006	55-59	Never married	M	8
+Other Territories	2006	55-59	Separated	F	3
+Other Territories	2006	55-59	Separated	M	3
+Other Territories	2006	55-59	Widowed	F	9
+Other Territories	2006	55-59	Widowed	M	4
+Other Territories	2006	60-64	Divorced	F	3
+Other Territories	2006	60-64	Divorced	M	6
+Other Territories	2006	60-64	Married	F	33
+Other Territories	2006	60-64	Married	M	51
+Other Territories	2006	60-64	Never married	F	0
+Other Territories	2006	60-64	Never married	M	4
+Other Territories	2006	60-64	Separated	F	0
+Other Territories	2006	60-64	Separated	M	3
+Other Territories	2006	60-64	Widowed	F	0
+Other Territories	2006	60-64	Widowed	M	3
+Other Territories	2006	65-69	Divorced	F	0
+Other Territories	2006	65-69	Divorced	M	6
+Other Territories	2006	65-69	Married	F	19
+Other Territories	2006	65-69	Married	M	30
+Other Territories	2006	65-69	Never married	F	0
+Other Territories	2006	65-69	Never married	M	0
+Other Territories	2006	65-69	Separated	F	0
+Other Territories	2006	65-69	Separated	M	0
+Other Territories	2006	65-69	Widowed	F	4
+Other Territories	2006	65-69	Widowed	M	10
+Other Territories	2006	70-74	Divorced	F	0
+Other Territories	2006	70-74	Divorced	M	0
+Other Territories	2006	70-74	Married	F	5
+Other Territories	2006	70-74	Married	M	15
+Other Territories	2006	70-74	Never married	F	0
+Other Territories	2006	70-74	Never married	M	3
+Other Territories	2006	70-74	Separated	F	0
+Other Territories	2006	70-74	Separated	M	0
+Other Territories	2006	70-74	Widowed	F	4
+Other Territories	2006	70-74	Widowed	M	3
+Other Territories	2006	75-79	Divorced	F	0
+Other Territories	2006	75-79	Divorced	M	0
+Other Territories	2006	75-79	Married	F	0
+Other Territories	2006	75-79	Married	M	6
+Other Territories	2006	75-79	Never married	F	3
+Other Territories	2006	75-79	Never married	M	0
+Other Territories	2006	75-79	Separated	F	0
+Other Territories	2006	75-79	Separated	M	0
+Other Territories	2006	75-79	Widowed	F	7
+Other Territories	2006	75-79	Widowed	M	0
+Other Territories	2006	80-84	Divorced	F	0
+Other Territories	2006	80-84	Divorced	M	0
+Other Territories	2006	80-84	Married	F	0
+Other Territories	2006	80-84	Married	M	0
+Other Territories	2006	80-84	Never married	F	0
+Other Territories	2006	80-84	Never married	M	0
+Other Territories	2006	80-84	Separated	F	0
+Other Territories	2006	80-84	Separated	M	0
+Other Territories	2006	80-84	Widowed	F	3
+Other Territories	2006	80-84	Widowed	M	0
+Other Territories	2006	85+	Divorced	F	0
+Other Territories	2006	85+	Divorced	M	0
+Other Territories	2006	85+	Married	F	0
+Other Territories	2006	85+	Married	M	0
+Other Territories	2006	85+	Never married	F	0
+Other Territories	2006	85+	Never married	M	3
+Other Territories	2006	85+	Separated	F	0
+Other Territories	2006	85+	Separated	M	0
+Other Territories	2006	85+	Widowed	F	3
+Other Territories	2006	85+	Widowed	M	0
+Other Territories	2011	15-19	Divorced	F	0
+Other Territories	2011	15-19	Divorced	M	0
+Other Territories	2011	15-19	Married	F	0
+Other Territories	2011	15-19	Married	M	0
+Other Territories	2011	15-19	Never married	F	51
+Other Territories	2011	15-19	Never married	M	107
+Other Territories	2011	15-19	Separated	F	0
+Other Territories	2011	15-19	Separated	M	0
+Other Territories	2011	15-19	Widowed	F	0
+Other Territories	2011	15-19	Widowed	M	0
+Other Territories	2011	20-24	Divorced	F	0
+Other Territories	2011	20-24	Divorced	M	0
+Other Territories	2011	20-24	Married	F	15
+Other Territories	2011	20-24	Married	M	9
+Other Territories	2011	20-24	Never married	F	49
+Other Territories	2011	20-24	Never married	M	191
+Other Territories	2011	20-24	Separated	F	0
+Other Territories	2011	20-24	Separated	M	0
+Other Territories	2011	20-24	Widowed	F	0
+Other Territories	2011	20-24	Widowed	M	0
+Other Territories	2011	25-29	Divorced	F	0
+Other Territories	2011	25-29	Divorced	M	3
+Other Territories	2011	25-29	Married	F	35
+Other Territories	2011	25-29	Married	M	122
+Other Territories	2011	25-29	Never married	F	35
+Other Territories	2011	25-29	Never married	M	231
+Other Territories	2011	25-29	Separated	F	0
+Other Territories	2011	25-29	Separated	M	7
+Other Territories	2011	25-29	Widowed	F	0
+Other Territories	2011	25-29	Widowed	M	0
+Other Territories	2011	30-34	Divorced	F	0
+Other Territories	2011	30-34	Divorced	M	0
+Other Territories	2011	30-34	Married	F	46
+Other Territories	2011	30-34	Married	M	124
+Other Territories	2011	30-34	Never married	F	28
+Other Territories	2011	30-34	Never married	M	92
+Other Territories	2011	30-34	Separated	F	0
+Other Territories	2011	30-34	Separated	M	8
+Other Territories	2011	30-34	Widowed	F	0
+Other Territories	2011	30-34	Widowed	M	0
+Other Territories	2011	35-39	Divorced	F	3
+Other Territories	2011	35-39	Divorced	M	3
+Other Territories	2011	35-39	Married	F	56
+Other Territories	2011	35-39	Married	M	94
+Other Territories	2011	35-39	Never married	F	16
+Other Territories	2011	35-39	Never married	M	42
+Other Territories	2011	35-39	Separated	F	3
+Other Territories	2011	35-39	Separated	M	3
+Other Territories	2011	35-39	Widowed	F	0
+Other Territories	2011	35-39	Widowed	M	0
+Other Territories	2011	40-44	Divorced	F	5
+Other Territories	2011	40-44	Divorced	M	6
+Other Territories	2011	40-44	Married	F	62
+Other Territories	2011	40-44	Married	M	81
+Other Territories	2011	40-44	Never married	F	19
+Other Territories	2011	40-44	Never married	M	33
+Other Territories	2011	40-44	Separated	F	3
+Other Territories	2011	40-44	Separated	M	5
+Other Territories	2011	40-44	Widowed	F	3
+Other Territories	2011	40-44	Widowed	M	0
+Other Territories	2011	45-49	Divorced	F	3
+Other Territories	2011	45-49	Divorced	M	9
+Other Territories	2011	45-49	Married	F	71
+Other Territories	2011	45-49	Married	M	104
+Other Territories	2011	45-49	Never married	F	8
+Other Territories	2011	45-49	Never married	M	14
+Other Territories	2011	45-49	Separated	F	3
+Other Territories	2011	45-49	Separated	M	6
+Other Territories	2011	45-49	Widowed	F	0
+Other Territories	2011	45-49	Widowed	M	0
+Other Territories	2011	50-54	Divorced	F	5
+Other Territories	2011	50-54	Divorced	M	12
+Other Territories	2011	50-54	Married	F	68
+Other Territories	2011	50-54	Married	M	76
+Other Territories	2011	50-54	Never married	F	9
+Other Territories	2011	50-54	Never married	M	19
+Other Territories	2011	50-54	Separated	F	0
+Other Territories	2011	50-54	Separated	M	3
+Other Territories	2011	50-54	Widowed	F	5
+Other Territories	2011	50-54	Widowed	M	0
+Other Territories	2011	55-59	Divorced	F	6
+Other Territories	2011	55-59	Divorced	M	14
+Other Territories	2011	55-59	Married	F	68
+Other Territories	2011	55-59	Married	M	83
+Other Territories	2011	55-59	Never married	F	7
+Other Territories	2011	55-59	Never married	M	11
+Other Territories	2011	55-59	Separated	F	4
+Other Territories	2011	55-59	Separated	M	4
+Other Territories	2011	55-59	Widowed	F	3
+Other Territories	2011	55-59	Widowed	M	0
+Other Territories	2011	60-64	Divorced	F	0
+Other Territories	2011	60-64	Divorced	M	6
+Other Territories	2011	60-64	Married	F	28
+Other Territories	2011	60-64	Married	M	83
+Other Territories	2011	60-64	Never married	F	4
+Other Territories	2011	60-64	Never married	M	8
+Other Territories	2011	60-64	Separated	F	0
+Other Territories	2011	60-64	Separated	M	3
+Other Territories	2011	60-64	Widowed	F	12
+Other Territories	2011	60-64	Widowed	M	3
+Other Territories	2011	65-69	Divorced	F	0
+Other Territories	2011	65-69	Divorced	M	6
+Other Territories	2011	65-69	Married	F	26
+Other Territories	2011	65-69	Married	M	26
+Other Territories	2011	65-69	Never married	F	0
+Other Territories	2011	65-69	Never married	M	3
+Other Territories	2011	65-69	Separated	F	0
+Other Territories	2011	65-69	Separated	M	5
+Other Territories	2011	65-69	Widowed	F	4
+Other Territories	2011	65-69	Widowed	M	3
+Other Territories	2011	70-74	Divorced	F	0
+Other Territories	2011	70-74	Divorced	M	0
+Other Territories	2011	70-74	Married	F	11
+Other Territories	2011	70-74	Married	M	30
+Other Territories	2011	70-74	Never married	F	0
+Other Territories	2011	70-74	Never married	M	0
+Other Territories	2011	70-74	Separated	F	0
+Other Territories	2011	70-74	Separated	M	0
+Other Territories	2011	70-74	Widowed	F	4
+Other Territories	2011	70-74	Widowed	M	7
+Other Territories	2011	75-79	Divorced	F	0
+Other Territories	2011	75-79	Divorced	M	0
+Other Territories	2011	75-79	Married	F	4
+Other Territories	2011	75-79	Married	M	4
+Other Territories	2011	75-79	Never married	F	0
+Other Territories	2011	75-79	Never married	M	5
+Other Territories	2011	75-79	Separated	F	0
+Other Territories	2011	75-79	Separated	M	0
+Other Territories	2011	75-79	Widowed	F	3
+Other Territories	2011	75-79	Widowed	M	3
+Other Territories	2011	80-84	Divorced	F	0
+Other Territories	2011	80-84	Divorced	M	0
+Other Territories	2011	80-84	Married	F	0
+Other Territories	2011	80-84	Married	M	4
+Other Territories	2011	80-84	Never married	F	0
+Other Territories	2011	80-84	Never married	M	0
+Other Territories	2011	80-84	Separated	F	0
+Other Territories	2011	80-84	Separated	M	0
+Other Territories	2011	80-84	Widowed	F	7
+Other Territories	2011	80-84	Widowed	M	0
+Other Territories	2011	85+	Divorced	F	0
+Other Territories	2011	85+	Divorced	M	0
+Other Territories	2011	85+	Married	F	0
+Other Territories	2011	85+	Married	M	3
+Other Territories	2011	85+	Never married	F	0
+Other Territories	2011	85+	Never married	M	0
+Other Territories	2011	85+	Separated	F	0
+Other Territories	2011	85+	Separated	M	0
+Other Territories	2011	85+	Widowed	F	0
+Other Territories	2011	85+	Widowed	M	0
+Other Territories	2016	15-19	Divorced	F	0
+Other Territories	2016	15-19	Divorced	M	0
+Other Territories	2016	15-19	Married	F	0
+Other Territories	2016	15-19	Married	M	0
+Other Territories	2016	15-19	Never married	F	110
+Other Territories	2016	15-19	Never married	M	106
+Other Territories	2016	15-19	Separated	F	0
+Other Territories	2016	15-19	Separated	M	0
+Other Territories	2016	15-19	Widowed	F	0
+Other Territories	2016	15-19	Widowed	M	0
+Other Territories	2016	20-24	Divorced	F	0
+Other Territories	2016	20-24	Divorced	M	0
+Other Territories	2016	20-24	Married	F	12
+Other Territories	2016	20-24	Married	M	6
+Other Territories	2016	20-24	Never married	F	61
+Other Territories	2016	20-24	Never married	M	135
+Other Territories	2016	20-24	Separated	F	0
+Other Territories	2016	20-24	Separated	M	0
+Other Territories	2016	20-24	Widowed	F	0
+Other Territories	2016	20-24	Widowed	M	0
+Other Territories	2016	25-29	Divorced	F	0
+Other Territories	2016	25-29	Divorced	M	0
+Other Territories	2016	25-29	Married	F	51
+Other Territories	2016	25-29	Married	M	25
+Other Territories	2016	25-29	Never married	F	52
+Other Territories	2016	25-29	Never married	M	128
+Other Territories	2016	25-29	Separated	F	0
+Other Territories	2016	25-29	Separated	M	0
+Other Territories	2016	25-29	Widowed	F	0
+Other Territories	2016	25-29	Widowed	M	3
+Other Territories	2016	30-34	Divorced	F	0
+Other Territories	2016	30-34	Divorced	M	4
+Other Territories	2016	30-34	Married	F	80
+Other Territories	2016	30-34	Married	M	77
+Other Territories	2016	30-34	Never married	F	61
+Other Territories	2016	30-34	Never married	M	84
+Other Territories	2016	30-34	Separated	F	9
+Other Territories	2016	30-34	Separated	M	5
+Other Territories	2016	30-34	Widowed	F	4
+Other Territories	2016	30-34	Widowed	M	0
+Other Territories	2016	35-39	Divorced	F	9
+Other Territories	2016	35-39	Divorced	M	6
+Other Territories	2016	35-39	Married	F	90
+Other Territories	2016	35-39	Married	M	105
+Other Territories	2016	35-39	Never married	F	40
+Other Territories	2016	35-39	Never married	M	58
+Other Territories	2016	35-39	Separated	F	3
+Other Territories	2016	35-39	Separated	M	10
+Other Territories	2016	35-39	Widowed	F	0
+Other Territories	2016	35-39	Widowed	M	0
+Other Territories	2016	40-44	Divorced	F	8
+Other Territories	2016	40-44	Divorced	M	15
+Other Territories	2016	40-44	Married	F	90
+Other Territories	2016	40-44	Married	M	92
+Other Territories	2016	40-44	Never married	F	46
+Other Territories	2016	40-44	Never married	M	47
+Other Territories	2016	40-44	Separated	F	7
+Other Territories	2016	40-44	Separated	M	10
+Other Territories	2016	40-44	Widowed	F	0
+Other Territories	2016	40-44	Widowed	M	0
+Other Territories	2016	45-49	Divorced	F	16
+Other Territories	2016	45-49	Divorced	M	22
+Other Territories	2016	45-49	Married	F	90
+Other Territories	2016	45-49	Married	M	81
+Other Territories	2016	45-49	Never married	F	41
+Other Territories	2016	45-49	Never married	M	58
+Other Territories	2016	45-49	Separated	F	12
+Other Territories	2016	45-49	Separated	M	7
+Other Territories	2016	45-49	Widowed	F	4
+Other Territories	2016	45-49	Widowed	M	0
+Other Territories	2016	50-54	Divorced	F	16
+Other Territories	2016	50-54	Divorced	M	25
+Other Territories	2016	50-54	Married	F	112
+Other Territories	2016	50-54	Married	M	136
+Other Territories	2016	50-54	Never married	F	28
+Other Territories	2016	50-54	Never married	M	39
+Other Territories	2016	50-54	Separated	F	9
+Other Territories	2016	50-54	Separated	M	4
+Other Territories	2016	50-54	Widowed	F	7
+Other Territories	2016	50-54	Widowed	M	0
+Other Territories	2016	55-59	Divorced	F	29
+Other Territories	2016	55-59	Divorced	M	33
+Other Territories	2016	55-59	Married	F	113
+Other Territories	2016	55-59	Married	M	110
+Other Territories	2016	55-59	Never married	F	24
+Other Territories	2016	55-59	Never married	M	33
+Other Territories	2016	55-59	Separated	F	9
+Other Territories	2016	55-59	Separated	M	12
+Other Territories	2016	55-59	Widowed	F	16
+Other Territories	2016	55-59	Widowed	M	0
+Other Territories	2016	60-64	Divorced	F	23
+Other Territories	2016	60-64	Divorced	M	34
+Other Territories	2016	60-64	Married	F	108
+Other Territories	2016	60-64	Married	M	110
+Other Territories	2016	60-64	Never married	F	20
+Other Territories	2016	60-64	Never married	M	19
+Other Territories	2016	60-64	Separated	F	4
+Other Territories	2016	60-64	Separated	M	6
+Other Territories	2016	60-64	Widowed	F	15
+Other Territories	2016	60-64	Widowed	M	4
+Other Territories	2016	65-69	Divorced	F	20
+Other Territories	2016	65-69	Divorced	M	12
+Other Territories	2016	65-69	Married	F	77
+Other Territories	2016	65-69	Married	M	138
+Other Territories	2016	65-69	Never married	F	7
+Other Territories	2016	65-69	Never married	M	13
+Other Territories	2016	65-69	Separated	F	6
+Other Territories	2016	65-69	Separated	M	6
+Other Territories	2016	65-69	Widowed	F	19
+Other Territories	2016	65-69	Widowed	M	7
+Other Territories	2016	70-74	Divorced	F	7
+Other Territories	2016	70-74	Divorced	M	11
+Other Territories	2016	70-74	Married	F	54
+Other Territories	2016	70-74	Married	M	67
+Other Territories	2016	70-74	Never married	F	5
+Other Territories	2016	70-74	Never married	M	5
+Other Territories	2016	70-74	Separated	F	0
+Other Territories	2016	70-74	Separated	M	0
+Other Territories	2016	70-74	Widowed	F	15
+Other Territories	2016	70-74	Widowed	M	7
+Other Territories	2016	75-79	Divorced	F	6
+Other Territories	2016	75-79	Divorced	M	12
+Other Territories	2016	75-79	Married	F	26
+Other Territories	2016	75-79	Married	M	48
+Other Territories	2016	75-79	Never married	F	3
+Other Territories	2016	75-79	Never married	M	0
+Other Territories	2016	75-79	Separated	F	0
+Other Territories	2016	75-79	Separated	M	0
+Other Territories	2016	75-79	Widowed	F	20
+Other Territories	2016	75-79	Widowed	M	8
+Other Territories	2016	80-84	Divorced	F	3
+Other Territories	2016	80-84	Divorced	M	5
+Other Territories	2016	80-84	Married	F	13
+Other Territories	2016	80-84	Married	M	19
+Other Territories	2016	80-84	Never married	F	3
+Other Territories	2016	80-84	Never married	M	0
+Other Territories	2016	80-84	Separated	F	0
+Other Territories	2016	80-84	Separated	M	0
+Other Territories	2016	80-84	Widowed	F	18
+Other Territories	2016	80-84	Widowed	M	4
+Other Territories	2016	85+	Divorced	F	3
+Other Territories	2016	85+	Divorced	M	0
+Other Territories	2016	85+	Married	F	7
+Other Territories	2016	85+	Married	M	19
+Other Territories	2016	85+	Never married	F	0
+Other Territories	2016	85+	Never married	M	3
+Other Territories	2016	85+	Separated	F	0
+Other Territories	2016	85+	Separated	M	0
+Other Territories	2016	85+	Widowed	F	20
+Other Territories	2016	85+	Widowed	M	4

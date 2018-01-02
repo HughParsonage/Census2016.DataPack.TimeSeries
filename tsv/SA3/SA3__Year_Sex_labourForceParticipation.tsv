@@ -1,0 +1,2149 @@
+SA3_NAME16	Year	Sex	labourForceParticipation
+Queanbeyan	2006	F	64.4
+Queanbeyan	2006	M	73.5
+Queanbeyan	2011	F	67.3
+Queanbeyan	2011	M	74.6
+Queanbeyan	2016	F	65
+Queanbeyan	2016	M	70.7
+Snowy Mountains	2006	F	55.9
+Snowy Mountains	2006	M	64.2
+Snowy Mountains	2011	F	57.7
+Snowy Mountains	2011	M	64.8
+Snowy Mountains	2016	F	58.8
+Snowy Mountains	2016	M	62.4
+South Coast	2006	F	45.4
+South Coast	2006	M	54.5
+South Coast	2011	F	45.6
+South Coast	2011	M	52.1
+South Coast	2016	F	44.4
+South Coast	2016	M	48.7
+Goulburn - Mulwaree	2006	F	52.3
+Goulburn - Mulwaree	2006	M	61.6
+Goulburn - Mulwaree	2011	F	54
+Goulburn - Mulwaree	2011	M	62.4
+Goulburn - Mulwaree	2016	F	52.8
+Goulburn - Mulwaree	2016	M	59.4
+Young - Yass	2006	F	54.8
+Young - Yass	2006	M	68.8
+Young - Yass	2011	F	55.5
+Young - Yass	2011	M	67.1
+Young - Yass	2016	F	55.1
+Young - Yass	2016	M	63.6
+Gosford	2006	F	50.4
+Gosford	2006	M	62.4
+Gosford	2011	F	52.2
+Gosford	2011	M	63
+Gosford	2016	F	53
+Gosford	2016	M	61.7
+Wyong	2006	F	47.2
+Wyong	2006	M	60
+Wyong	2011	F	49.1
+Wyong	2011	M	60.3
+Wyong	2016	F	50.5
+Wyong	2016	M	59.4
+Bathurst	2006	F	56.7
+Bathurst	2006	M	64.5
+Bathurst	2011	F	57.1
+Bathurst	2011	M	64.3
+Bathurst	2016	F	55.9
+Bathurst	2016	M	59.7
+Lachlan Valley	2006	F	49.2
+Lachlan Valley	2006	M	64.2
+Lachlan Valley	2011	F	49.7
+Lachlan Valley	2011	M	61.5
+Lachlan Valley	2016	F	48.3
+Lachlan Valley	2016	M	58
+Lithgow - Mudgee	2006	F	48.2
+Lithgow - Mudgee	2006	M	60.4
+Lithgow - Mudgee	2011	F	49.1
+Lithgow - Mudgee	2011	M	59.5
+Lithgow - Mudgee	2016	F	47.4
+Lithgow - Mudgee	2016	M	54.8
+Orange	2006	F	54.6
+Orange	2006	M	67.3
+Orange	2011	F	56
+Orange	2011	M	67.8
+Orange	2016	F	56.3
+Orange	2016	M	64.5
+Clarence Valley	2006	F	43.9
+Clarence Valley	2006	M	53.6
+Clarence Valley	2011	F	44.6
+Clarence Valley	2011	M	51.9
+Clarence Valley	2016	F	42.9
+Clarence Valley	2016	M	48.2
+Coffs Harbour	2006	F	49.6
+Coffs Harbour	2006	M	58.4
+Coffs Harbour	2011	F	51.1
+Coffs Harbour	2011	M	58.5
+Coffs Harbour	2016	F	50.3
+Coffs Harbour	2016	M	56.2
+Bourke - Cobar - Coonamble	2006	F	52.7
+Bourke - Cobar - Coonamble	2006	M	63.7
+Bourke - Cobar - Coonamble	2011	F	52.1
+Bourke - Cobar - Coonamble	2011	M	61.2
+Bourke - Cobar - Coonamble	2016	F	49.3
+Bourke - Cobar - Coonamble	2016	M	55.8
+Broken Hill and Far West	2006	F	44.5
+Broken Hill and Far West	2006	M	55.9
+Broken Hill and Far West	2011	F	47
+Broken Hill and Far West	2011	M	56.6
+Broken Hill and Far West	2016	F	47.8
+Broken Hill and Far West	2016	M	54.5
+Dubbo	2006	F	53.2
+Dubbo	2006	M	65.8
+Dubbo	2011	F	55.2
+Dubbo	2011	M	64.3
+Dubbo	2016	F	53.9
+Dubbo	2016	M	60.7
+Lower Hunter	2006	F	49.8
+Lower Hunter	2006	M	65.6
+Lower Hunter	2011	F	52.2
+Lower Hunter	2011	M	65.9
+Lower Hunter	2016	F	51.8
+Lower Hunter	2016	M	61.2
+Maitland	2006	F	54.1
+Maitland	2006	M	69.2
+Maitland	2011	F	55.8
+Maitland	2011	M	70.3
+Maitland	2016	F	57.6
+Maitland	2016	M	67.5
+Port Stephens	2006	F	46.9
+Port Stephens	2006	M	59.2
+Port Stephens	2011	F	48.2
+Port Stephens	2011	M	59
+Port Stephens	2016	F	47.5
+Port Stephens	2016	M	55.2
+Upper Hunter	2006	F	53.9
+Upper Hunter	2006	M	70
+Upper Hunter	2011	F	56
+Upper Hunter	2011	M	70
+Upper Hunter	2016	F	53.5
+Upper Hunter	2016	M	64.4
+Dapto - Port Kembla	2006	F	46.3
+Dapto - Port Kembla	2006	M	61.4
+Dapto - Port Kembla	2011	F	47.9
+Dapto - Port Kembla	2011	M	60.8
+Dapto - Port Kembla	2016	F	49.8
+Dapto - Port Kembla	2016	M	59.3
+Illawarra Catchment Reserve	2006	F	0
+Illawarra Catchment Reserve	2006	M	0
+Illawarra Catchment Reserve	2011	F	0
+Illawarra Catchment Reserve	2011	M	50
+Illawarra Catchment Reserve	2016	F	0
+Illawarra Catchment Reserve	2016	M	100
+Kiama - Shellharbour	2006	F	51.2
+Kiama - Shellharbour	2006	M	65.6
+Kiama - Shellharbour	2011	F	52.6
+Kiama - Shellharbour	2011	M	65
+Kiama - Shellharbour	2016	F	53.1
+Kiama - Shellharbour	2016	M	62
+Wollongong	2006	F	52
+Wollongong	2006	M	63.5
+Wollongong	2011	F	54.1
+Wollongong	2011	M	62.7
+Wollongong	2016	F	55.2
+Wollongong	2016	M	61.5
+Great Lakes	2006	F	39.4
+Great Lakes	2006	M	48.2
+Great Lakes	2011	F	39.1
+Great Lakes	2011	M	45.5
+Great Lakes	2016	F	39.1
+Great Lakes	2016	M	43
+Kempsey - Nambucca	2006	F	42
+Kempsey - Nambucca	2006	M	50
+Kempsey - Nambucca	2011	F	42.2
+Kempsey - Nambucca	2011	M	47.5
+Kempsey - Nambucca	2016	F	41.4
+Kempsey - Nambucca	2016	M	44.9
+Lord Howe Island	2006	F	69.4
+Lord Howe Island	2006	M	81.3
+Lord Howe Island	2011	F	69.5
+Lord Howe Island	2011	M	73.3
+Lord Howe Island	2016	F	68.1
+Lord Howe Island	2016	M	70.9
+Port Macquarie	2006	F	44.6
+Port Macquarie	2006	M	54
+Port Macquarie	2011	F	46.2
+Port Macquarie	2011	M	53.5
+Port Macquarie	2016	F	45.9
+Port Macquarie	2016	M	51.6
+Taree - Gloucester	2006	F	44.3
+Taree - Gloucester	2006	M	55.3
+Taree - Gloucester	2011	F	43.8
+Taree - Gloucester	2011	M	52.5
+Taree - Gloucester	2016	F	42.6
+Taree - Gloucester	2016	M	48.6
+Albury	2006	F	56.1
+Albury	2006	M	69.1
+Albury	2011	F	56.8
+Albury	2011	M	67
+Albury	2016	F	55.6
+Albury	2016	M	63.3
+Lower Murray	2006	F	54
+Lower Murray	2006	M	67.1
+Lower Murray	2011	F	52.3
+Lower Murray	2011	M	64.1
+Lower Murray	2016	F	50.9
+Lower Murray	2016	M	58.8
+Upper Murray exc. Albury	2006	F	51.1
+Upper Murray exc. Albury	2006	M	64.3
+Upper Murray exc. Albury	2011	F	50.1
+Upper Murray exc. Albury	2011	M	60.4
+Upper Murray exc. Albury	2016	F	48.7
+Upper Murray exc. Albury	2016	M	56.2
+Armidale	2006	F	53.4
+Armidale	2006	M	64.2
+Armidale	2011	F	54.1
+Armidale	2011	M	63.6
+Armidale	2016	F	52.5
+Armidale	2016	M	60.2
+Inverell - Tenterfield	2006	F	46.6
+Inverell - Tenterfield	2006	M	60.1
+Inverell - Tenterfield	2011	F	47.5
+Inverell - Tenterfield	2011	M	57
+Inverell - Tenterfield	2016	F	46.2
+Inverell - Tenterfield	2016	M	52.9
+Moree - Narrabri	2006	F	54.7
+Moree - Narrabri	2006	M	69.8
+Moree - Narrabri	2011	F	54.7
+Moree - Narrabri	2011	M	67.9
+Moree - Narrabri	2016	F	53.5
+Moree - Narrabri	2016	M	63.3
+Tamworth - Gunnedah	2006	F	51.7
+Tamworth - Gunnedah	2006	M	65.2
+Tamworth - Gunnedah	2011	F	53.3
+Tamworth - Gunnedah	2011	M	64.3
+Tamworth - Gunnedah	2016	F	53.2
+Tamworth - Gunnedah	2016	M	62.1
+Lake Macquarie - East	2006	F	51
+Lake Macquarie - East	2006	M	63.4
+Lake Macquarie - East	2011	F	53.8
+Lake Macquarie - East	2011	M	63.9
+Lake Macquarie - East	2016	F	54.1
+Lake Macquarie - East	2016	M	62
+Lake Macquarie - West	2006	F	47.5
+Lake Macquarie - West	2006	M	60.4
+Lake Macquarie - West	2011	F	49.8
+Lake Macquarie - West	2011	M	60.8
+Lake Macquarie - West	2016	F	50.9
+Lake Macquarie - West	2016	M	59.3
+Newcastle	2006	F	51.9
+Newcastle	2006	M	62.7
+Newcastle	2011	F	55.6
+Newcastle	2011	M	64.8
+Newcastle	2016	F	57.5
+Newcastle	2016	M	63.6
+Richmond Valley - Coastal	2006	F	51.3
+Richmond Valley - Coastal	2006	M	59.9
+Richmond Valley - Coastal	2011	F	52.2
+Richmond Valley - Coastal	2011	M	59.3
+Richmond Valley - Coastal	2016	F	50.9
+Richmond Valley - Coastal	2016	M	56.6
+Richmond Valley - Hinterland	2006	F	50.9
+Richmond Valley - Hinterland	2006	M	61.7
+Richmond Valley - Hinterland	2011	F	51.7
+Richmond Valley - Hinterland	2011	M	60.1
+Richmond Valley - Hinterland	2016	F	49.9
+Richmond Valley - Hinterland	2016	M	56
+Tweed Valley	2006	F	43.7
+Tweed Valley	2006	M	54
+Tweed Valley	2011	F	47
+Tweed Valley	2011	M	55.2
+Tweed Valley	2016	F	47.7
+Tweed Valley	2016	M	53.7
+Griffith - Murrumbidgee (West)	2006	F	54.4
+Griffith - Murrumbidgee (West)	2006	M	68.6
+Griffith - Murrumbidgee (West)	2011	F	54.6
+Griffith - Murrumbidgee (West)	2011	M	67.1
+Griffith - Murrumbidgee (West)	2016	F	53.6
+Griffith - Murrumbidgee (West)	2016	M	64.1
+Tumut - Tumbarumba	2006	F	50.4
+Tumut - Tumbarumba	2006	M	65
+Tumut - Tumbarumba	2011	F	51.7
+Tumut - Tumbarumba	2011	M	64.6
+Tumut - Tumbarumba	2016	F	49
+Tumut - Tumbarumba	2016	M	58.3
+Wagga Wagga	2006	F	55.7
+Wagga Wagga	2006	M	68.1
+Wagga Wagga	2011	F	56
+Wagga Wagga	2011	M	66.6
+Wagga Wagga	2016	F	56
+Wagga Wagga	2016	M	62.9
+Shoalhaven	2006	F	43.5
+Shoalhaven	2006	M	53.4
+Shoalhaven	2011	F	44.4
+Shoalhaven	2011	M	51.7
+Shoalhaven	2016	F	44
+Shoalhaven	2016	M	49.5
+Southern Highlands	2006	F	50
+Southern Highlands	2006	M	64.2
+Southern Highlands	2011	F	50.4
+Southern Highlands	2011	M	62.5
+Southern Highlands	2016	F	49.7
+Southern Highlands	2016	M	59.5
+Baulkham Hills	2006	F	62.7
+Baulkham Hills	2006	M	76.1
+Baulkham Hills	2011	F	61.9
+Baulkham Hills	2011	M	74.2
+Baulkham Hills	2016	F	60.9
+Baulkham Hills	2016	M	71.8
+Dural - Wisemans Ferry	2006	F	60.2
+Dural - Wisemans Ferry	2006	M	72.3
+Dural - Wisemans Ferry	2011	F	60.9
+Dural - Wisemans Ferry	2011	M	71.7
+Dural - Wisemans Ferry	2016	F	59.2
+Dural - Wisemans Ferry	2016	M	68.6
+Hawkesbury	2006	F	62.6
+Hawkesbury	2006	M	73.2
+Hawkesbury	2011	F	63.7
+Hawkesbury	2011	M	72.1
+Hawkesbury	2016	F	62.5
+Hawkesbury	2016	M	70.5
+Rouse Hill - McGraths Hill	2006	F	66
+Rouse Hill - McGraths Hill	2006	M	79.4
+Rouse Hill - McGraths Hill	2011	F	67
+Rouse Hill - McGraths Hill	2011	M	78.2
+Rouse Hill - McGraths Hill	2016	F	67
+Rouse Hill - McGraths Hill	2016	M	77.1
+Blacktown	2006	F	54.2
+Blacktown	2006	M	69.5
+Blacktown	2011	F	55.2
+Blacktown	2011	M	69.1
+Blacktown	2016	F	55.5
+Blacktown	2016	M	68.2
+Blacktown - North	2006	F	64
+Blacktown - North	2006	M	75.5
+Blacktown - North	2011	F	66.7
+Blacktown - North	2011	M	76.9
+Blacktown - North	2016	F	66.6
+Blacktown - North	2016	M	74.9
+Mount Druitt	2006	F	48.7
+Mount Druitt	2006	M	65.9
+Mount Druitt	2011	F	49.3
+Mount Druitt	2011	M	65.6
+Mount Druitt	2016	F	50.5
+Mount Druitt	2016	M	64.9
+Botany	2006	F	52.5
+Botany	2006	M	65.9
+Botany	2011	F	55.1
+Botany	2011	M	65.7
+Botany	2016	F	58.4
+Botany	2016	M	67.2
+Marrickville - Sydenham - Petersham	2006	F	59.9
+Marrickville - Sydenham - Petersham	2006	M	66.6
+Marrickville - Sydenham - Petersham	2011	F	64.2
+Marrickville - Sydenham - Petersham	2011	M	68.6
+Marrickville - Sydenham - Petersham	2016	F	66.1
+Marrickville - Sydenham - Petersham	2016	M	69.5
+Sydney Inner City	2006	F	54.8
+Sydney Inner City	2006	M	58.3
+Sydney Inner City	2011	F	63.2
+Sydney Inner City	2011	M	67.9
+Sydney Inner City	2016	F	62.2
+Sydney Inner City	2016	M	66.8
+Eastern Suburbs - North	2006	F	56.5
+Eastern Suburbs - North	2006	M	65
+Eastern Suburbs - North	2011	F	60.2
+Eastern Suburbs - North	2011	M	69.7
+Eastern Suburbs - North	2016	F	61.6
+Eastern Suburbs - North	2016	M	70.5
+Eastern Suburbs - South	2006	F	57.5
+Eastern Suburbs - South	2006	M	63.6
+Eastern Suburbs - South	2011	F	58.3
+Eastern Suburbs - South	2011	M	63.5
+Eastern Suburbs - South	2016	F	58.8
+Eastern Suburbs - South	2016	M	62.1
+Bankstown	2006	F	45.4
+Bankstown	2006	M	62.5
+Bankstown	2011	F	46.1
+Bankstown	2011	M	61.5
+Bankstown	2016	F	47.5
+Bankstown	2016	M	61.5
+Canterbury	2006	F	43.8
+Canterbury	2006	M	61.2
+Canterbury	2011	F	45.1
+Canterbury	2011	M	61.7
+Canterbury	2016	F	47.6
+Canterbury	2016	M	63
+Hurstville	2006	F	51.8
+Hurstville	2006	M	65.8
+Hurstville	2011	F	53.4
+Hurstville	2011	M	65.6
+Hurstville	2016	F	54
+Hurstville	2016	M	65.1
+Kogarah - Rockdale	2006	F	51.3
+Kogarah - Rockdale	2006	M	64.5
+Kogarah - Rockdale	2011	F	54
+Kogarah - Rockdale	2011	M	66.4
+Kogarah - Rockdale	2016	F	56.4
+Kogarah - Rockdale	2016	M	67
+Canada Bay	2006	F	58.6
+Canada Bay	2006	M	69.4
+Canada Bay	2011	F	59.5
+Canada Bay	2011	M	69.5
+Canada Bay	2016	F	59.2
+Canada Bay	2016	M	68.9
+Leichhardt	2006	F	67.7
+Leichhardt	2006	M	73.2
+Leichhardt	2011	F	69.4
+Leichhardt	2011	M	74.9
+Leichhardt	2016	F	67
+Leichhardt	2016	M	72.3
+Strathfield - Burwood - Ashfield	2006	F	54.3
+Strathfield - Burwood - Ashfield	2006	M	64.6
+Strathfield - Burwood - Ashfield	2011	F	57
+Strathfield - Burwood - Ashfield	2011	M	66.9
+Strathfield - Burwood - Ashfield	2016	F	58.3
+Strathfield - Burwood - Ashfield	2016	M	67.4
+Chatswood - Lane Cove	2006	F	58.6
+Chatswood - Lane Cove	2006	M	70.8
+Chatswood - Lane Cove	2011	F	60.4
+Chatswood - Lane Cove	2011	M	72.5
+Chatswood - Lane Cove	2016	F	60.8
+Chatswood - Lane Cove	2016	M	71.1
+Hornsby	2006	F	61
+Hornsby	2006	M	73.5
+Hornsby	2011	F	61.5
+Hornsby	2011	M	73.2
+Hornsby	2016	F	61.9
+Hornsby	2016	M	71.7
+Ku-ring-gai	2006	F	53.1
+Ku-ring-gai	2006	M	69.2
+Ku-ring-gai	2011	F	54.1
+Ku-ring-gai	2011	M	68.1
+Ku-ring-gai	2016	F	55.7
+Ku-ring-gai	2016	M	67.4
+North Sydney - Mosman	2006	F	61.6
+North Sydney - Mosman	2006	M	73.1
+North Sydney - Mosman	2011	F	63.3
+North Sydney - Mosman	2011	M	73.9
+North Sydney - Mosman	2016	F	64
+North Sydney - Mosman	2016	M	73.3
+Manly	2006	F	57.5
+Manly	2006	M	69.3
+Manly	2011	F	61.1
+Manly	2011	M	72.4
+Manly	2016	F	63.1
+Manly	2016	M	72.6
+Pittwater	2006	F	59
+Pittwater	2006	M	70.5
+Pittwater	2011	F	59.8
+Pittwater	2011	M	70.6
+Pittwater	2016	F	59.9
+Pittwater	2016	M	68.7
+Warringah	2006	F	60
+Warringah	2006	M	71.8
+Warringah	2011	F	61.3
+Warringah	2011	M	72.3
+Warringah	2016	F	62.4
+Warringah	2016	M	71
+Camden	2006	F	63.9
+Camden	2006	M	79
+Camden	2011	F	65.5
+Camden	2011	M	78.2
+Camden	2016	F	65.8
+Camden	2016	M	76.8
+Campbelltown (NSW)	2006	F	55.2
+Campbelltown (NSW)	2006	M	70.3
+Campbelltown (NSW)	2011	F	54.5
+Campbelltown (NSW)	2011	M	68.9
+Campbelltown (NSW)	2016	F	54.4
+Campbelltown (NSW)	2016	M	66.9
+Wollondilly	2006	F	59
+Wollondilly	2006	M	72.6
+Wollondilly	2011	F	60.3
+Wollondilly	2011	M	71.5
+Wollondilly	2016	F	60.8
+Wollondilly	2016	M	70
+Blue Mountains	2006	F	56.9
+Blue Mountains	2006	M	69.1
+Blue Mountains	2011	F	56.5
+Blue Mountains	2011	M	66.7
+Blue Mountains	2016	F	56.4
+Blue Mountains	2016	M	63.9
+Blue Mountains - South	2006	F	0
+Blue Mountains - South	2006	M	0
+Blue Mountains - South	2011	F	0
+Blue Mountains - South	2011	M	0
+Blue Mountains - South	2016	F	0
+Blue Mountains - South	2016	M	0
+Penrith	2006	F	60.6
+Penrith	2006	M	75.2
+Penrith	2011	F	61.1
+Penrith	2011	M	73.7
+Penrith	2016	F	61.5
+Penrith	2016	M	71.9
+Richmond - Windsor	2006	F	56.7
+Richmond - Windsor	2006	M	69.6
+Richmond - Windsor	2011	F	57.9
+Richmond - Windsor	2011	M	69.1
+Richmond - Windsor	2016	F	56.5
+Richmond - Windsor	2016	M	65.9
+St Marys	2006	F	57.5
+St Marys	2006	M	73.1
+St Marys	2011	F	58.3
+St Marys	2011	M	71.3
+St Marys	2016	F	57.3
+St Marys	2016	M	69.4
+Auburn	2006	F	42.5
+Auburn	2006	M	56.2
+Auburn	2011	F	46.1
+Auburn	2011	M	60.1
+Auburn	2016	F	49.5
+Auburn	2016	M	63.1
+Carlingford	2006	F	53.3
+Carlingford	2006	M	65.5
+Carlingford	2011	F	54.5
+Carlingford	2011	M	65.3
+Carlingford	2016	F	54.7
+Carlingford	2016	M	65.6
+Merrylands - Guildford	2006	F	44.9
+Merrylands - Guildford	2006	M	61.1
+Merrylands - Guildford	2011	F	45.2
+Merrylands - Guildford	2011	M	61
+Merrylands - Guildford	2016	F	45.9
+Merrylands - Guildford	2016	M	60.4
+Parramatta	2006	F	53.8
+Parramatta	2006	M	67.5
+Parramatta	2011	F	55.1
+Parramatta	2011	M	68.7
+Parramatta	2016	F	56
+Parramatta	2016	M	69.8
+Pennant Hills - Epping	2006	F	57.2
+Pennant Hills - Epping	2006	M	69.3
+Pennant Hills - Epping	2011	F	58
+Pennant Hills - Epping	2011	M	69.9
+Pennant Hills - Epping	2016	F	58.4
+Pennant Hills - Epping	2016	M	68.4
+Ryde - Hunters Hill	2006	F	54.8
+Ryde - Hunters Hill	2006	M	65.8
+Ryde - Hunters Hill	2011	F	56.3
+Ryde - Hunters Hill	2011	M	67.2
+Ryde - Hunters Hill	2016	F	57.5
+Ryde - Hunters Hill	2016	M	67
+Bringelly - Green Valley	2006	F	50.4
+Bringelly - Green Valley	2006	M	68
+Bringelly - Green Valley	2011	F	51.1
+Bringelly - Green Valley	2011	M	66.6
+Bringelly - Green Valley	2016	F	53.6
+Bringelly - Green Valley	2016	M	66.5
+Fairfield	2006	F	43.4
+Fairfield	2006	M	61.9
+Fairfield	2011	F	43.6
+Fairfield	2011	M	59.5
+Fairfield	2016	F	43.7
+Fairfield	2016	M	57.6
+Liverpool	2006	F	51.4
+Liverpool	2006	M	67.4
+Liverpool	2011	F	50.8
+Liverpool	2011	M	65.3
+Liverpool	2016	F	50.6
+Liverpool	2016	M	63.7
+Cronulla - Miranda - Caringbah	2006	F	57.5
+Cronulla - Miranda - Caringbah	2006	M	69.7
+Cronulla - Miranda - Caringbah	2011	F	60
+Cronulla - Miranda - Caringbah	2011	M	70.5
+Cronulla - Miranda - Caringbah	2016	F	59.9
+Cronulla - Miranda - Caringbah	2016	M	69
+Sutherland - Menai - Heathcote	2006	F	64.7
+Sutherland - Menai - Heathcote	2006	M	76.3
+Sutherland - Menai - Heathcote	2011	F	64.4
+Sutherland - Menai - Heathcote	2011	M	74.4
+Sutherland - Menai - Heathcote	2016	F	64.2
+Sutherland - Menai - Heathcote	2016	M	72.1
+Migratory - Offshore - Shipping (NSW)	2006	F	100
+Migratory - Offshore - Shipping (NSW)	2006	M	89.2
+Migratory - Offshore - Shipping (NSW)	2011	F	20
+Migratory - Offshore - Shipping (NSW)	2011	M	47.1
+Migratory - Offshore - Shipping (NSW)	2016	F	32.7
+Migratory - Offshore - Shipping (NSW)	2016	M	38.9
+No usual address (NSW)	2006	F	42.5
+No usual address (NSW)	2006	M	51.7
+No usual address (NSW)	2011	F	39
+No usual address (NSW)	2011	M	41
+No usual address (NSW)	2016	F	35.9
+No usual address (NSW)	2016	M	37.7
+Ballarat	2006	F	52.8
+Ballarat	2006	M	65.8
+Ballarat	2011	F	54.9
+Ballarat	2011	M	65.4
+Ballarat	2016	F	54.6
+Ballarat	2016	M	63.3
+Creswick - Daylesford - Ballan	2006	F	52.1
+Creswick - Daylesford - Ballan	2006	M	64.7
+Creswick - Daylesford - Ballan	2011	F	53.3
+Creswick - Daylesford - Ballan	2011	M	64.1
+Creswick - Daylesford - Ballan	2016	F	51.9
+Creswick - Daylesford - Ballan	2016	M	60.1
+Maryborough - Pyrenees	2006	F	42.6
+Maryborough - Pyrenees	2006	M	55.4
+Maryborough - Pyrenees	2011	F	44.8
+Maryborough - Pyrenees	2011	M	53.6
+Maryborough - Pyrenees	2016	F	44.1
+Maryborough - Pyrenees	2016	M	49.5
+Bendigo	2006	F	53.4
+Bendigo	2006	M	65.4
+Bendigo	2011	F	54.7
+Bendigo	2011	M	65.6
+Bendigo	2016	F	54.4
+Bendigo	2016	M	62.8
+Heathcote - Castlemaine - Kyneton	2006	F	51.6
+Heathcote - Castlemaine - Kyneton	2006	M	61.7
+Heathcote - Castlemaine - Kyneton	2011	F	53.2
+Heathcote - Castlemaine - Kyneton	2011	M	60.9
+Heathcote - Castlemaine - Kyneton	2016	F	52
+Heathcote - Castlemaine - Kyneton	2016	M	57.2
+Loddon - Elmore	2006	F	50.6
+Loddon - Elmore	2006	M	63.4
+Loddon - Elmore	2011	F	49
+Loddon - Elmore	2011	M	58.8
+Loddon - Elmore	2016	F	47.6
+Loddon - Elmore	2016	M	54.8
+Barwon - West	2006	F	57.7
+Barwon - West	2006	M	72.9
+Barwon - West	2011	F	59.2
+Barwon - West	2011	M	72.1
+Barwon - West	2016	F	59.5
+Barwon - West	2016	M	69.1
+Geelong	2006	F	51.5
+Geelong	2006	M	65.5
+Geelong	2011	F	54
+Geelong	2011	M	65.1
+Geelong	2016	F	54.4
+Geelong	2016	M	62.7
+Surf Coast - Bellarine Peninsula	2006	F	50.8
+Surf Coast - Bellarine Peninsula	2006	M	63
+Surf Coast - Bellarine Peninsula	2011	F	53.1
+Surf Coast - Bellarine Peninsula	2011	M	63.7
+Surf Coast - Bellarine Peninsula	2016	F	53.8
+Surf Coast - Bellarine Peninsula	2016	M	61.4
+Upper Goulburn Valley	2006	F	51.7
+Upper Goulburn Valley	2006	M	63.4
+Upper Goulburn Valley	2011	F	52.3
+Upper Goulburn Valley	2011	M	62.8
+Upper Goulburn Valley	2016	F	50.7
+Upper Goulburn Valley	2016	M	58.4
+Wangaratta - Benalla	2006	F	53.9
+Wangaratta - Benalla	2006	M	67.5
+Wangaratta - Benalla	2011	F	53.9
+Wangaratta - Benalla	2011	M	65.2
+Wangaratta - Benalla	2016	F	51.4
+Wangaratta - Benalla	2016	M	59.5
+Wodonga - Alpine	2006	F	56.6
+Wodonga - Alpine	2006	M	69.4
+Wodonga - Alpine	2011	F	57.2
+Wodonga - Alpine	2011	M	67.6
+Wodonga - Alpine	2016	F	56
+Wodonga - Alpine	2016	M	63.8
+Baw Baw	2006	F	53.8
+Baw Baw	2006	M	68
+Baw Baw	2011	F	54.5
+Baw Baw	2011	M	67.5
+Baw Baw	2016	F	52.3
+Baw Baw	2016	M	62.8
+Gippsland - East	2006	F	46.9
+Gippsland - East	2006	M	56.9
+Gippsland - East	2011	F	47.9
+Gippsland - East	2011	M	55.6
+Gippsland - East	2016	F	45.6
+Gippsland - East	2016	M	50.4
+Gippsland - South West	2006	F	47.3
+Gippsland - South West	2006	M	59
+Gippsland - South West	2011	F	49.4
+Gippsland - South West	2011	M	61.3
+Gippsland - South West	2016	F	47.3
+Gippsland - South West	2016	M	55.7
+Latrobe Valley	2006	F	49
+Latrobe Valley	2006	M	64
+Latrobe Valley	2011	F	50.4
+Latrobe Valley	2011	M	62.6
+Latrobe Valley	2016	F	49.9
+Latrobe Valley	2016	M	59.3
+Wellington	2006	F	51.4
+Wellington	2006	M	61.4
+Wellington	2011	F	51.7
+Wellington	2011	M	60.7
+Wellington	2016	F	51.3
+Wellington	2016	M	57
+Brunswick - Coburg	2006	F	57.3
+Brunswick - Coburg	2006	M	65.2
+Brunswick - Coburg	2011	F	62.1
+Brunswick - Coburg	2011	M	68.7
+Brunswick - Coburg	2016	F	65
+Brunswick - Coburg	2016	M	70.9
+Darebin - South	2006	F	59.9
+Darebin - South	2006	M	66.8
+Darebin - South	2011	F	64.5
+Darebin - South	2011	M	70.1
+Darebin - South	2016	F	66.3
+Darebin - South	2016	M	70.7
+Essendon	2006	F	57.6
+Essendon	2006	M	66.8
+Essendon	2011	F	61.1
+Essendon	2011	M	70.1
+Essendon	2016	F	62.4
+Essendon	2016	M	69.9
+Melbourne City	2006	F	55.7
+Melbourne City	2006	M	59.3
+Melbourne City	2011	F	58.7
+Melbourne City	2011	M	63.4
+Melbourne City	2016	F	54.6
+Melbourne City	2016	M	60.5
+Port Phillip	2006	F	63.3
+Port Phillip	2006	M	67.3
+Port Phillip	2011	F	68.6
+Port Phillip	2011	M	72.7
+Port Phillip	2016	F	66
+Port Phillip	2016	M	70.6
+Stonnington - West	2006	F	59.2
+Stonnington - West	2006	M	68.1
+Stonnington - West	2011	F	61.7
+Stonnington - West	2011	M	71.3
+Stonnington - West	2016	F	62.8
+Stonnington - West	2016	M	71.3
+Yarra	2006	F	63.9
+Yarra	2006	M	67.7
+Yarra	2011	F	66.9
+Yarra	2011	M	71.6
+Yarra	2016	F	67.3
+Yarra	2016	M	72.1
+Boroondara	2006	F	57.5
+Boroondara	2006	M	69.8
+Boroondara	2011	F	58.6
+Boroondara	2011	M	69.9
+Boroondara	2016	F	58.3
+Boroondara	2016	M	68.1
+Manningham - West	2006	F	52.6
+Manningham - West	2006	M	65.6
+Manningham - West	2011	F	52.3
+Manningham - West	2011	M	64.5
+Manningham - West	2016	F	50.8
+Manningham - West	2016	M	62.1
+Whitehorse - West	2006	F	53.3
+Whitehorse - West	2006	M	66
+Whitehorse - West	2011	F	53.8
+Whitehorse - West	2011	M	64.7
+Whitehorse - West	2016	F	54.1
+Whitehorse - West	2016	M	63.5
+Bayside	2006	F	53.7
+Bayside	2006	M	69
+Bayside	2011	F	55.3
+Bayside	2011	M	68.7
+Bayside	2016	F	56.1
+Bayside	2016	M	67.1
+Glen Eira	2006	F	56.1
+Glen Eira	2006	M	67.5
+Glen Eira	2011	F	59.3
+Glen Eira	2011	M	70
+Glen Eira	2016	F	59.7
+Glen Eira	2016	M	69.3
+Kingston	2006	F	55.4
+Kingston	2006	M	68.8
+Kingston	2011	F	58.5
+Kingston	2011	M	69.8
+Kingston	2016	F	59.7
+Kingston	2016	M	69.1
+Stonnington - East	2006	F	56.6
+Stonnington - East	2006	M	69.2
+Stonnington - East	2011	F	59.9
+Stonnington - East	2011	M	70.7
+Stonnington - East	2016	F	58.7
+Stonnington - East	2016	M	69
+Banyule	2006	F	56.3
+Banyule	2006	M	68.4
+Banyule	2011	F	58
+Banyule	2011	M	68.7
+Banyule	2016	F	58
+Banyule	2016	M	67.2
+Darebin - North	2006	F	45.4
+Darebin - North	2006	M	58.5
+Darebin - North	2011	F	49.8
+Darebin - North	2011	M	61.1
+Darebin - North	2016	F	53.1
+Darebin - North	2016	M	62.5
+Nillumbik - Kinglake	2006	F	66.4
+Nillumbik - Kinglake	2006	M	77.1
+Nillumbik - Kinglake	2011	F	66.4
+Nillumbik - Kinglake	2011	M	76.6
+Nillumbik - Kinglake	2016	F	65.1
+Nillumbik - Kinglake	2016	M	72.7
+Whittlesea - Wallan	2006	F	53.2
+Whittlesea - Wallan	2006	M	68.5
+Whittlesea - Wallan	2011	F	55.7
+Whittlesea - Wallan	2011	M	68.9
+Whittlesea - Wallan	2016	F	55.8
+Whittlesea - Wallan	2016	M	68
+Keilor	2006	F	51.9
+Keilor	2006	M	64.9
+Keilor	2011	F	53.5
+Keilor	2011	M	65.1
+Keilor	2016	F	54.4
+Keilor	2016	M	64.1
+Macedon Ranges	2006	F	59.3
+Macedon Ranges	2006	M	73.3
+Macedon Ranges	2011	F	61.6
+Macedon Ranges	2011	M	73.3
+Macedon Ranges	2016	F	59.8
+Macedon Ranges	2016	M	68.8
+Moreland - North	2006	F	42.1
+Moreland - North	2006	M	58.1
+Moreland - North	2011	F	46.5
+Moreland - North	2011	M	61.2
+Moreland - North	2016	F	50.7
+Moreland - North	2016	M	64.7
+Sunbury	2006	F	60.4
+Sunbury	2006	M	75.3
+Sunbury	2011	F	62
+Sunbury	2011	M	74
+Sunbury	2016	F	61.4
+Sunbury	2016	M	70.6
+Tullamarine - Broadmeadows	2006	F	48
+Tullamarine - Broadmeadows	2006	M	65.4
+Tullamarine - Broadmeadows	2011	F	48.2
+Tullamarine - Broadmeadows	2011	M	64.7
+Tullamarine - Broadmeadows	2016	F	48.6
+Tullamarine - Broadmeadows	2016	M	63.5
+Knox	2006	F	60.4
+Knox	2006	M	74.9
+Knox	2011	F	60.9
+Knox	2011	M	73
+Knox	2016	F	59.5
+Knox	2016	M	69.8
+Manningham - East	2006	F	60.4
+Manningham - East	2006	M	72.7
+Manningham - East	2011	F	61.3
+Manningham - East	2011	M	72.6
+Manningham - East	2016	F	58.1
+Manningham - East	2016	M	68.8
+Maroondah	2006	F	57.7
+Maroondah	2006	M	71.6
+Maroondah	2011	F	59.6
+Maroondah	2011	M	72.2
+Maroondah	2016	F	59.3
+Maroondah	2016	M	70.3
+Whitehorse - East	2006	F	55.5
+Whitehorse - East	2006	M	69.2
+Whitehorse - East	2011	F	56.2
+Whitehorse - East	2011	M	68.8
+Whitehorse - East	2016	F	55.9
+Whitehorse - East	2016	M	67.3
+Yarra Ranges	2006	F	59.3
+Yarra Ranges	2006	M	72.8
+Yarra Ranges	2011	F	60.5
+Yarra Ranges	2011	M	72.3
+Yarra Ranges	2016	F	59.8
+Yarra Ranges	2016	M	69.3
+Cardinia	2006	F	58.4
+Cardinia	2006	M	73.9
+Cardinia	2011	F	60.1
+Cardinia	2011	M	73.9
+Cardinia	2016	F	60
+Cardinia	2016	M	71.6
+Casey - North	2006	F	57
+Casey - North	2006	M	72.8
+Casey - North	2011	F	57.3
+Casey - North	2011	M	71.4
+Casey - North	2016	F	55.9
+Casey - North	2016	M	69
+Casey - South	2006	F	58
+Casey - South	2006	M	75.2
+Casey - South	2011	F	59.2
+Casey - South	2011	M	74.8
+Casey - South	2016	F	59.2
+Casey - South	2016	M	72.4
+Dandenong	2006	F	46
+Dandenong	2006	M	61.7
+Dandenong	2011	F	47
+Dandenong	2011	M	62.3
+Dandenong	2016	F	47.7
+Dandenong	2016	M	61.8
+Monash	2006	F	52.2
+Monash	2006	M	63.8
+Monash	2011	F	52.8
+Monash	2011	M	63.8
+Monash	2016	F	51.7
+Monash	2016	M	61.5
+Brimbank	2006	F	47.8
+Brimbank	2006	M	63.5
+Brimbank	2011	F	48.9
+Brimbank	2011	M	63.3
+Brimbank	2016	F	49.8
+Brimbank	2016	M	62.7
+Hobsons Bay	2006	F	53.1
+Hobsons Bay	2006	M	66.4
+Hobsons Bay	2011	F	55.1
+Hobsons Bay	2011	M	67.4
+Hobsons Bay	2016	F	57.2
+Hobsons Bay	2016	M	67.5
+Maribyrnong	2006	F	53
+Maribyrnong	2006	M	63.8
+Maribyrnong	2011	F	57.9
+Maribyrnong	2011	M	66.7
+Maribyrnong	2016	F	61.7
+Maribyrnong	2016	M	69.7
+Melton - Bacchus Marsh	2006	F	58
+Melton - Bacchus Marsh	2006	M	73.8
+Melton - Bacchus Marsh	2011	F	58.4
+Melton - Bacchus Marsh	2011	M	72.7
+Melton - Bacchus Marsh	2016	F	57.5
+Melton - Bacchus Marsh	2016	M	69.3
+Wyndham	2006	F	58.4
+Wyndham	2006	M	72.8
+Wyndham	2011	F	59.4
+Wyndham	2011	M	73.9
+Wyndham	2016	F	58.6
+Wyndham	2016	M	72.5
+Frankston	2006	F	54.6
+Frankston	2006	M	68.9
+Frankston	2011	F	56.8
+Frankston	2011	M	69.4
+Frankston	2016	F	57.3
+Frankston	2016	M	67.3
+Mornington Peninsula	2006	F	48.2
+Mornington Peninsula	2006	M	61.9
+Mornington Peninsula	2011	F	50.5
+Mornington Peninsula	2011	M	62.9
+Mornington Peninsula	2016	F	50.8
+Mornington Peninsula	2016	M	60.4
+Grampians	2006	F	51.3
+Grampians	2006	M	64.6
+Grampians	2011	F	51
+Grampians	2011	M	62.4
+Grampians	2016	F	50.7
+Grampians	2016	M	58.5
+Mildura	2006	F	53
+Mildura	2006	M	65.5
+Mildura	2011	F	52.2
+Mildura	2011	M	62.2
+Mildura	2016	F	51.9
+Mildura	2016	M	59.6
+Murray River - Swan Hill	2006	F	50.3
+Murray River - Swan Hill	2006	M	64.9
+Murray River - Swan Hill	2011	F	49.4
+Murray River - Swan Hill	2011	M	62.9
+Murray River - Swan Hill	2016	F	47.9
+Murray River - Swan Hill	2016	M	57.9
+Campaspe	2006	F	52.2
+Campaspe	2006	M	65.8
+Campaspe	2011	F	52.1
+Campaspe	2011	M	63
+Campaspe	2016	F	51.1
+Campaspe	2016	M	59.4
+Moira	2006	F	50
+Moira	2006	M	62.6
+Moira	2011	F	49
+Moira	2011	M	59.2
+Moira	2016	F	48.1
+Moira	2016	M	55.7
+Shepparton	2006	F	55.2
+Shepparton	2006	M	67.4
+Shepparton	2011	F	54.3
+Shepparton	2011	M	64.6
+Shepparton	2016	F	52.4
+Shepparton	2016	M	60.4
+Glenelg - Southern Grampians	2006	F	53.1
+Glenelg - Southern Grampians	2006	M	68.5
+Glenelg - Southern Grampians	2011	F	53.3
+Glenelg - Southern Grampians	2011	M	65.2
+Glenelg - Southern Grampians	2016	F	50.9
+Glenelg - Southern Grampians	2016	M	60.4
+Colac - Corangamite	2006	F	53.3
+Colac - Corangamite	2006	M	67.7
+Colac - Corangamite	2011	F	53.8
+Colac - Corangamite	2011	M	66
+Colac - Corangamite	2016	F	52.5
+Colac - Corangamite	2016	M	62
+Warrnambool	2006	F	55.5
+Warrnambool	2006	M	68.8
+Warrnambool	2011	F	57.2
+Warrnambool	2011	M	68.9
+Warrnambool	2016	F	55.7
+Warrnambool	2016	M	65
+Migratory - Offshore - Shipping (Vic.)	2006	F	0
+Migratory - Offshore - Shipping (Vic.)	2006	M	71.4
+Migratory - Offshore - Shipping (Vic.)	2011	F	0
+Migratory - Offshore - Shipping (Vic.)	2011	M	83.3
+Migratory - Offshore - Shipping (Vic.)	2016	F	0
+Migratory - Offshore - Shipping (Vic.)	2016	M	85.2
+No usual address (Vic.)	2006	F	47.8
+No usual address (Vic.)	2006	M	58.4
+No usual address (Vic.)	2011	F	42.6
+No usual address (Vic.)	2011	M	44.7
+No usual address (Vic.)	2016	F	36
+No usual address (Vic.)	2016	M	40.8
+Capalaba	2006	F	61.8
+Capalaba	2006	M	74.8
+Capalaba	2011	F	63.8
+Capalaba	2011	M	74.1
+Capalaba	2016	F	62.9
+Capalaba	2016	M	71.1
+Cleveland - Stradbroke	2006	F	54.2
+Cleveland - Stradbroke	2006	M	66.3
+Cleveland - Stradbroke	2011	F	56.9
+Cleveland - Stradbroke	2011	M	66.8
+Cleveland - Stradbroke	2016	F	55.6
+Cleveland - Stradbroke	2016	M	63.6
+Wynnum - Manly	2006	F	57.9
+Wynnum - Manly	2006	M	70.9
+Wynnum - Manly	2011	F	62
+Wynnum - Manly	2011	M	72.8
+Wynnum - Manly	2016	F	62.7
+Wynnum - Manly	2016	M	71
+Bald Hills - Everton Park	2006	F	60.3
+Bald Hills - Everton Park	2006	M	73.3
+Bald Hills - Everton Park	2011	F	62.2
+Bald Hills - Everton Park	2011	M	73.3
+Bald Hills - Everton Park	2016	F	62.1
+Bald Hills - Everton Park	2016	M	71.1
+Chermside	2006	F	57.1
+Chermside	2006	M	69.8
+Chermside	2011	F	60.2
+Chermside	2011	M	70.8
+Chermside	2016	F	61.3
+Chermside	2016	M	70
+Nundah	2006	F	59.3
+Nundah	2006	M	70.4
+Nundah	2011	F	63.6
+Nundah	2011	M	72.2
+Nundah	2016	F	64.9
+Nundah	2016	M	72.5
+Sandgate	2006	F	55.1
+Sandgate	2006	M	67.5
+Sandgate	2011	F	58.9
+Sandgate	2011	M	68.9
+Sandgate	2016	F	59.4
+Sandgate	2016	M	68.3
+Carindale	2006	F	62.1
+Carindale	2006	M	73.8
+Carindale	2011	F	63.8
+Carindale	2011	M	74.2
+Carindale	2016	F	63.8
+Carindale	2016	M	72.5
+Holland Park - Yeronga	2006	F	63.7
+Holland Park - Yeronga	2006	M	71.8
+Holland Park - Yeronga	2011	F	66.3
+Holland Park - Yeronga	2011	M	72.9
+Holland Park - Yeronga	2016	F	66.2
+Holland Park - Yeronga	2016	M	71.6
+Mt Gravatt	2006	F	57.3
+Mt Gravatt	2006	M	68.9
+Mt Gravatt	2011	F	57.8
+Mt Gravatt	2011	M	68.2
+Mt Gravatt	2016	F	57.3
+Mt Gravatt	2016	M	67
+Nathan	2006	F	55.6
+Nathan	2006	M	65.6
+Nathan	2011	F	58
+Nathan	2011	M	67.2
+Nathan	2016	F	60.6
+Nathan	2016	M	68.2
+Rocklea - Acacia Ridge	2006	F	60.8
+Rocklea - Acacia Ridge	2006	M	73.9
+Rocklea - Acacia Ridge	2011	F	61.8
+Rocklea - Acacia Ridge	2011	M	72.5
+Rocklea - Acacia Ridge	2016	F	60.3
+Rocklea - Acacia Ridge	2016	M	70.9
+Sunnybank	2006	F	55.7
+Sunnybank	2006	M	68.4
+Sunnybank	2011	F	55.4
+Sunnybank	2011	M	67.4
+Sunnybank	2016	F	53
+Sunnybank	2016	M	65.8
+Centenary	2006	F	64.1
+Centenary	2006	M	76.7
+Centenary	2011	F	64.8
+Centenary	2011	M	76.1
+Centenary	2016	F	63.9
+Centenary	2016	M	72.6
+Kenmore - Brookfield - Moggill	2006	F	62
+Kenmore - Brookfield - Moggill	2006	M	74.6
+Kenmore - Brookfield - Moggill	2011	F	62
+Kenmore - Brookfield - Moggill	2011	M	73
+Kenmore - Brookfield - Moggill	2016	F	61.7
+Kenmore - Brookfield - Moggill	2016	M	70
+Sherwood - Indooroopilly	2006	F	59.8
+Sherwood - Indooroopilly	2006	M	67.9
+Sherwood - Indooroopilly	2011	F	59.2
+Sherwood - Indooroopilly	2011	M	66.8
+Sherwood - Indooroopilly	2016	F	57.3
+Sherwood - Indooroopilly	2016	M	65.2
+The Gap - Enoggera	2006	F	60.7
+The Gap - Enoggera	2006	M	73
+The Gap - Enoggera	2011	F	62.9
+The Gap - Enoggera	2011	M	74.3
+The Gap - Enoggera	2016	F	62.5
+The Gap - Enoggera	2016	M	71.9
+Brisbane Inner	2006	F	58.2
+Brisbane Inner	2006	M	61.4
+Brisbane Inner	2011	F	63.8
+Brisbane Inner	2011	M	67.6
+Brisbane Inner	2016	F	63.6
+Brisbane Inner	2016	M	68.3
+Brisbane Inner - East	2006	F	66.6
+Brisbane Inner - East	2006	M	74.3
+Brisbane Inner - East	2011	F	70.5
+Brisbane Inner - East	2011	M	77.1
+Brisbane Inner - East	2016	F	70.5
+Brisbane Inner - East	2016	M	76.1
+Brisbane Inner - North	2006	F	64.4
+Brisbane Inner - North	2006	M	73
+Brisbane Inner - North	2011	F	67.9
+Brisbane Inner - North	2011	M	75.1
+Brisbane Inner - North	2016	F	66.6
+Brisbane Inner - North	2016	M	72.9
+Brisbane Inner - West	2006	F	67.4
+Brisbane Inner - West	2006	M	73.6
+Brisbane Inner - West	2011	F	70.3
+Brisbane Inner - West	2011	M	76.1
+Brisbane Inner - West	2016	F	68.2
+Brisbane Inner - West	2016	M	73.3
+Cairns - North	2006	F	66.7
+Cairns - North	2006	M	74.9
+Cairns - North	2011	F	68
+Cairns - North	2011	M	73.6
+Cairns - North	2016	F	65.6
+Cairns - North	2016	M	69
+Cairns - South	2006	F	59.3
+Cairns - South	2006	M	68.6
+Cairns - South	2011	F	59
+Cairns - South	2011	M	67
+Cairns - South	2016	F	58.1
+Cairns - South	2016	M	63.6
+Innisfail - Cassowary Coast	2006	F	53.1
+Innisfail - Cassowary Coast	2006	M	65.2
+Innisfail - Cassowary Coast	2011	F	53.5
+Innisfail - Cassowary Coast	2011	M	64
+Innisfail - Cassowary Coast	2016	F	51.5
+Innisfail - Cassowary Coast	2016	M	58
+Port Douglas - Daintree	2006	F	64.5
+Port Douglas - Daintree	2006	M	68.5
+Port Douglas - Daintree	2011	F	61.9
+Port Douglas - Daintree	2011	M	65
+Port Douglas - Daintree	2016	F	58
+Port Douglas - Daintree	2016	M	61.1
+Tablelands (East) - Kuranda	2006	F	50.2
+Tablelands (East) - Kuranda	2006	M	59.8
+Tablelands (East) - Kuranda	2011	F	51.3
+Tablelands (East) - Kuranda	2011	M	59.2
+Tablelands (East) - Kuranda	2016	F	49.8
+Tablelands (East) - Kuranda	2016	M	55
+Darling Downs (West) - Maranoa	2006	F	59.4
+Darling Downs (West) - Maranoa	2006	M	72.9
+Darling Downs (West) - Maranoa	2011	F	59.5
+Darling Downs (West) - Maranoa	2011	M	71
+Darling Downs (West) - Maranoa	2016	F	56.5
+Darling Downs (West) - Maranoa	2016	M	65.6
+Darling Downs - East	2006	F	53.4
+Darling Downs - East	2006	M	69.9
+Darling Downs - East	2011	F	52.5
+Darling Downs - East	2011	M	66.9
+Darling Downs - East	2016	F	53.3
+Darling Downs - East	2016	M	64.2
+Granite Belt	2006	F	51.3
+Granite Belt	2006	M	64.6
+Granite Belt	2011	F	51.3
+Granite Belt	2011	M	62.3
+Granite Belt	2016	F	49.2
+Granite Belt	2016	M	57.6
+Central Highlands (Qld)	2006	F	63.8
+Central Highlands (Qld)	2006	M	79.7
+Central Highlands (Qld)	2011	F	64.7
+Central Highlands (Qld)	2011	M	77.5
+Central Highlands (Qld)	2016	F	61.4
+Central Highlands (Qld)	2016	M	71.3
+Rockhampton	2006	F	52.8
+Rockhampton	2006	M	64.1
+Rockhampton	2011	F	56.1
+Rockhampton	2011	M	65.4
+Rockhampton	2016	F	55.8
+Rockhampton	2016	M	62
+Biloela	2006	F	60.2
+Biloela	2006	M	79
+Biloela	2011	F	61.1
+Biloela	2011	M	78.1
+Biloela	2016	F	60.5
+Biloela	2016	M	73.3
+Gladstone	2006	F	56.7
+Gladstone	2006	M	73.4
+Gladstone	2011	F	58.4
+Gladstone	2011	M	73.5
+Gladstone	2016	F	57.3
+Gladstone	2016	M	70
+Broadbeach - Burleigh	2006	F	51.6
+Broadbeach - Burleigh	2006	M	59.8
+Broadbeach - Burleigh	2011	F	56.3
+Broadbeach - Burleigh	2011	M	64.4
+Broadbeach - Burleigh	2016	F	58.6
+Broadbeach - Burleigh	2016	M	65.7
+Coolangatta	2006	F	51.9
+Coolangatta	2006	M	61.5
+Coolangatta	2011	F	55.8
+Coolangatta	2011	M	63.7
+Coolangatta	2016	F	56.1
+Coolangatta	2016	M	63
+Gold Coast - North	2006	F	50.5
+Gold Coast - North	2006	M	61.2
+Gold Coast - North	2011	F	52.2
+Gold Coast - North	2011	M	61.6
+Gold Coast - North	2016	F	51.2
+Gold Coast - North	2016	M	58.9
+Gold Coast Hinterland	2006	F	56.3
+Gold Coast Hinterland	2006	M	66.5
+Gold Coast Hinterland	2011	F	57.1
+Gold Coast Hinterland	2011	M	66
+Gold Coast Hinterland	2016	F	55.2
+Gold Coast Hinterland	2016	M	61.6
+Mudgeeraba - Tallebudgera	2006	F	60.7
+Mudgeeraba - Tallebudgera	2006	M	72.1
+Mudgeeraba - Tallebudgera	2011	F	63.1
+Mudgeeraba - Tallebudgera	2011	M	72.5
+Mudgeeraba - Tallebudgera	2016	F	63.8
+Mudgeeraba - Tallebudgera	2016	M	70.8
+Nerang	2006	F	60
+Nerang	2006	M	72.4
+Nerang	2011	F	60.7
+Nerang	2011	M	71.1
+Nerang	2016	F	60.6
+Nerang	2016	M	68.5
+Ormeau - Oxenford	2006	F	60.9
+Ormeau - Oxenford	2006	M	74.3
+Ormeau - Oxenford	2011	F	62.8
+Ormeau - Oxenford	2011	M	74.3
+Ormeau - Oxenford	2016	F	62.4
+Ormeau - Oxenford	2016	M	72
+Robina	2006	F	56.3
+Robina	2006	M	66.7
+Robina	2011	F	57.1
+Robina	2011	M	66
+Robina	2016	F	57.6
+Robina	2016	M	65.8
+Southport	2006	F	54.8
+Southport	2006	M	65.3
+Southport	2011	F	54.7
+Southport	2011	M	63.4
+Southport	2016	F	54.2
+Southport	2016	M	62
+Surfers Paradise	2006	F	49.7
+Surfers Paradise	2006	M	56.3
+Surfers Paradise	2011	F	54.8
+Surfers Paradise	2011	M	62.9
+Surfers Paradise	2016	F	54.4
+Surfers Paradise	2016	M	60.8
+Forest Lake - Oxley	2006	F	51.3
+Forest Lake - Oxley	2006	M	62.2
+Forest Lake - Oxley	2011	F	53.4
+Forest Lake - Oxley	2011	M	61.3
+Forest Lake - Oxley	2016	F	53
+Forest Lake - Oxley	2016	M	58.5
+Ipswich Hinterland	2006	F	50.6
+Ipswich Hinterland	2006	M	62.1
+Ipswich Hinterland	2011	F	51.8
+Ipswich Hinterland	2011	M	61.1
+Ipswich Hinterland	2016	F	50.8
+Ipswich Hinterland	2016	M	57.1
+Ipswich Inner	2006	F	53.8
+Ipswich Inner	2006	M	68
+Ipswich Inner	2011	F	55.6
+Ipswich Inner	2011	M	66.8
+Ipswich Inner	2016	F	55.5
+Ipswich Inner	2016	M	64.6
+Springfield - Redbank	2006	F	59.9
+Springfield - Redbank	2006	M	73.8
+Springfield - Redbank	2011	F	62.1
+Springfield - Redbank	2011	M	75.9
+Springfield - Redbank	2016	F	62.4
+Springfield - Redbank	2016	M	73.1
+Beaudesert	2006	F	50.9
+Beaudesert	2006	M	61.9
+Beaudesert	2011	F	51.7
+Beaudesert	2011	M	62
+Beaudesert	2016	F	47.9
+Beaudesert	2016	M	56.4
+Beenleigh	2006	F	52.3
+Beenleigh	2006	M	67.4
+Beenleigh	2011	F	53.1
+Beenleigh	2011	M	65.4
+Beenleigh	2016	F	51.7
+Beenleigh	2016	M	63.2
+Browns Plains	2006	F	58.1
+Browns Plains	2006	M	73.6
+Browns Plains	2011	F	58.8
+Browns Plains	2011	M	72.8
+Browns Plains	2016	F	56.8
+Browns Plains	2016	M	68.9
+Jimboomba	2006	F	61.5
+Jimboomba	2006	M	76
+Jimboomba	2011	F	64.6
+Jimboomba	2011	M	75.8
+Jimboomba	2016	F	63.8
+Jimboomba	2016	M	71.9
+Loganlea - Carbrook	2006	F	60.7
+Loganlea - Carbrook	2006	M	73.5
+Loganlea - Carbrook	2011	F	60.8
+Loganlea - Carbrook	2011	M	71.8
+Loganlea - Carbrook	2016	F	57.9
+Loganlea - Carbrook	2016	M	68
+Springwood - Kingston	2006	F	54.8
+Springwood - Kingston	2006	M	69.3
+Springwood - Kingston	2011	F	55.4
+Springwood - Kingston	2011	M	67.3
+Springwood - Kingston	2016	F	52.8
+Springwood - Kingston	2016	M	64.3
+Bowen Basin - North	2006	F	57.4
+Bowen Basin - North	2006	M	71.2
+Bowen Basin - North	2011	F	61.3
+Bowen Basin - North	2011	M	73
+Bowen Basin - North	2016	F	57.8
+Bowen Basin - North	2016	M	67.1
+Mackay	2006	F	56
+Mackay	2006	M	70.9
+Mackay	2011	F	60.6
+Mackay	2011	M	72.9
+Mackay	2016	F	58.8
+Mackay	2016	M	67.6
+Whitsunday	2006	F	64.6
+Whitsunday	2006	M	69.5
+Whitsunday	2011	F	63.2
+Whitsunday	2011	M	69.5
+Whitsunday	2016	F	60.8
+Whitsunday	2016	M	65.7
+Bribie - Beachmere	2006	F	37.5
+Bribie - Beachmere	2006	M	46.5
+Bribie - Beachmere	2011	F	39.7
+Bribie - Beachmere	2011	M	47.1
+Bribie - Beachmere	2016	F	37.7
+Bribie - Beachmere	2016	M	43.5
+Caboolture	2006	F	52.5
+Caboolture	2006	M	66.2
+Caboolture	2011	F	53.2
+Caboolture	2011	M	65.3
+Caboolture	2016	F	53
+Caboolture	2016	M	62.9
+Caboolture Hinterland	2006	F	51.1
+Caboolture Hinterland	2006	M	51.2
+Caboolture Hinterland	2011	F	52.5
+Caboolture Hinterland	2011	M	55.7
+Caboolture Hinterland	2016	F	50.9
+Caboolture Hinterland	2016	M	49.7
+Narangba - Burpengary	2006	F	56.7
+Narangba - Burpengary	2006	M	70.8
+Narangba - Burpengary	2011	F	58.3
+Narangba - Burpengary	2011	M	69.8
+Narangba - Burpengary	2016	F	57.4
+Narangba - Burpengary	2016	M	67.1
+Redcliffe	2006	F	47.4
+Redcliffe	2006	M	61.2
+Redcliffe	2011	F	51.1
+Redcliffe	2011	M	62
+Redcliffe	2016	F	49.9
+Redcliffe	2016	M	59
+The Hills District	2006	F	68.1
+The Hills District	2006	M	79.5
+The Hills District	2011	F	68.2
+The Hills District	2011	M	77.9
+The Hills District	2016	F	66.9
+The Hills District	2016	M	74.1
+North Lakes	2006	F	61.2
+North Lakes	2006	M	75.8
+North Lakes	2011	F	63.6
+North Lakes	2011	M	76.5
+North Lakes	2016	F	63.5
+North Lakes	2016	M	74.7
+Strathpine	2006	F	60
+Strathpine	2006	M	73.9
+Strathpine	2011	F	61.9
+Strathpine	2011	M	73.9
+Strathpine	2016	F	59.9
+Strathpine	2016	M	69.1
+Far North	2006	F	57.3
+Far North	2006	M	65.5
+Far North	2011	F	54.5
+Far North	2011	M	58.1
+Far North	2016	F	51.1
+Far North	2016	M	52.8
+Outback - North	2006	F	58.7
+Outback - North	2006	M	72.6
+Outback - North	2011	F	59.9
+Outback - North	2011	M	70.2
+Outback - North	2016	F	61.2
+Outback - North	2016	M	69.6
+Outback - South	2006	F	62.9
+Outback - South	2006	M	72.4
+Outback - South	2011	F	63.1
+Outback - South	2011	M	72.5
+Outback - South	2016	F	62.1
+Outback - South	2016	M	67.7
+Buderim	2006	F	54.1
+Buderim	2006	M	65
+Buderim	2011	F	56.7
+Buderim	2011	M	66.8
+Buderim	2016	F	57.4
+Buderim	2016	M	65
+Caloundra	2006	F	48.2
+Caloundra	2006	M	59.9
+Caloundra	2011	F	51.3
+Caloundra	2011	M	61
+Caloundra	2016	F	51.8
+Caloundra	2016	M	60.1
+Maroochy	2006	F	54.7
+Maroochy	2006	M	64.1
+Maroochy	2011	F	57
+Maroochy	2011	M	64.5
+Maroochy	2016	F	55.4
+Maroochy	2016	M	62.2
+Noosa	2006	F	50
+Noosa	2006	M	58.5
+Noosa	2011	F	51.4
+Noosa	2011	M	60.3
+Noosa	2016	F	51.2
+Noosa	2016	M	57.9
+Sunshine Coast Hinterland	2006	F	53.3
+Sunshine Coast Hinterland	2006	M	63.6
+Sunshine Coast Hinterland	2011	F	54.1
+Sunshine Coast Hinterland	2011	M	62.8
+Sunshine Coast Hinterland	2016	F	53.9
+Sunshine Coast Hinterland	2016	M	60
+Nambour	2006	F	53.4
+Nambour	2006	M	65.2
+Nambour	2011	F	55.7
+Nambour	2011	M	64.4
+Nambour	2016	F	54.7
+Nambour	2016	M	62
+Noosa Hinterland	2006	F	52.7
+Noosa Hinterland	2006	M	61.5
+Noosa Hinterland	2011	F	54.3
+Noosa Hinterland	2011	M	60.3
+Noosa Hinterland	2016	F	53.7
+Noosa Hinterland	2016	M	58.2
+Toowoomba	2006	F	54.3
+Toowoomba	2006	M	67.7
+Toowoomba	2011	F	55.7
+Toowoomba	2011	M	67.5
+Toowoomba	2016	F	55.3
+Toowoomba	2016	M	64.9
+Charters Towers - Ayr - Ingham	2006	F	50.4
+Charters Towers - Ayr - Ingham	2006	M	65.5
+Charters Towers - Ayr - Ingham	2011	F	51.7
+Charters Towers - Ayr - Ingham	2011	M	65
+Charters Towers - Ayr - Ingham	2016	F	51.1
+Charters Towers - Ayr - Ingham	2016	M	59.3
+Townsville	2006	F	60.4
+Townsville	2006	M	71.5
+Townsville	2011	F	62.8
+Townsville	2011	M	70.5
+Townsville	2016	F	61.1
+Townsville	2016	M	66.3
+Bundaberg	2006	F	46.8
+Bundaberg	2006	M	57.3
+Bundaberg	2011	F	47.8
+Bundaberg	2011	M	56.3
+Bundaberg	2016	F	46.9
+Bundaberg	2016	M	53.6
+Burnett	2006	F	48.4
+Burnett	2006	M	59.5
+Burnett	2011	F	47.6
+Burnett	2011	M	57.1
+Burnett	2016	F	45.5
+Burnett	2016	M	51.1
+Gympie - Cooloola	2006	F	47.8
+Gympie - Cooloola	2006	M	58.8
+Gympie - Cooloola	2011	F	47.4
+Gympie - Cooloola	2011	M	56.1
+Gympie - Cooloola	2016	F	44.8
+Gympie - Cooloola	2016	M	51
+Hervey Bay	2006	F	43
+Hervey Bay	2006	M	51.4
+Hervey Bay	2011	F	43.6
+Hervey Bay	2011	M	49.6
+Hervey Bay	2016	F	42.4
+Hervey Bay	2016	M	46.5
+Maryborough	2006	F	43.9
+Maryborough	2006	M	52.3
+Maryborough	2011	F	44.3
+Maryborough	2011	M	49.9
+Maryborough	2016	F	40.8
+Maryborough	2016	M	43.8
+Migratory - Offshore - Shipping (Qld)	2006	F	127.3
+Migratory - Offshore - Shipping (Qld)	2006	M	85.5
+Migratory - Offshore - Shipping (Qld)	2011	F	46.5
+Migratory - Offshore - Shipping (Qld)	2011	M	59.6
+Migratory - Offshore - Shipping (Qld)	2016	F	43.2
+Migratory - Offshore - Shipping (Qld)	2016	M	46.2
+No usual address (Qld)	2006	F	38.1
+No usual address (Qld)	2006	M	46.8
+No usual address (Qld)	2011	F	36.6
+No usual address (Qld)	2011	M	42
+No usual address (Qld)	2016	F	33.1
+No usual address (Qld)	2016	M	36.3
+Adelaide City	2006	F	51.3
+Adelaide City	2006	M	55.7
+Adelaide City	2011	F	52.6
+Adelaide City	2011	M	55.5
+Adelaide City	2016	F	49.5
+Adelaide City	2016	M	51.5
+Adelaide Hills	2006	F	61.8
+Adelaide Hills	2006	M	72.6
+Adelaide Hills	2011	F	63.1
+Adelaide Hills	2011	M	73
+Adelaide Hills	2016	F	61.2
+Adelaide Hills	2016	M	68.3
+Burnside	2006	F	53.8
+Burnside	2006	M	65.6
+Burnside	2011	F	55.3
+Burnside	2011	M	65.1
+Burnside	2016	F	54.2
+Burnside	2016	M	63.9
+Campbelltown (SA)	2006	F	51.6
+Campbelltown (SA)	2006	M	62.9
+Campbelltown (SA)	2011	F	53.6
+Campbelltown (SA)	2011	M	63.9
+Campbelltown (SA)	2016	F	54.7
+Campbelltown (SA)	2016	M	63.4
+Norwood - Payneham - St Peters	2006	F	54
+Norwood - Payneham - St Peters	2006	M	63.6
+Norwood - Payneham - St Peters	2011	F	56.7
+Norwood - Payneham - St Peters	2011	M	64.9
+Norwood - Payneham - St Peters	2016	F	56.4
+Norwood - Payneham - St Peters	2016	M	64
+Prospect - Walkerville	2006	F	57.8
+Prospect - Walkerville	2006	M	68.3
+Prospect - Walkerville	2011	F	60
+Prospect - Walkerville	2011	M	68.4
+Prospect - Walkerville	2016	F	59.8
+Prospect - Walkerville	2016	M	67.5
+Unley	2006	F	58.7
+Unley	2006	M	69.5
+Unley	2011	F	59.6
+Unley	2011	M	69.4
+Unley	2016	F	58.1
+Unley	2016	M	66.3
+Gawler - Two Wells	2006	F	54.6
+Gawler - Two Wells	2006	M	67.4
+Gawler - Two Wells	2011	F	57.5
+Gawler - Two Wells	2011	M	67.3
+Gawler - Two Wells	2016	F	56.9
+Gawler - Two Wells	2016	M	64.1
+Playford	2006	F	45.3
+Playford	2006	M	61.8
+Playford	2011	F	48.6
+Playford	2011	M	62.2
+Playford	2016	F	48.4
+Playford	2016	M	60.1
+Port Adelaide - East	2006	F	48.4
+Port Adelaide - East	2006	M	59.1
+Port Adelaide - East	2011	F	51.5
+Port Adelaide - East	2011	M	61.2
+Port Adelaide - East	2016	F	53.3
+Port Adelaide - East	2016	M	61.9
+Salisbury	2006	F	52.4
+Salisbury	2006	M	66.9
+Salisbury	2011	F	53.5
+Salisbury	2011	M	65.9
+Salisbury	2016	F	52.6
+Salisbury	2016	M	63.3
+Tea Tree Gully	2006	F	60
+Tea Tree Gully	2006	M	72
+Tea Tree Gully	2011	F	60.6
+Tea Tree Gully	2011	M	70.1
+Tea Tree Gully	2016	F	59
+Tea Tree Gully	2016	M	67
+Holdfast Bay	2006	F	51.9
+Holdfast Bay	2006	M	63.5
+Holdfast Bay	2011	F	54.2
+Holdfast Bay	2011	M	64.9
+Holdfast Bay	2016	F	54.8
+Holdfast Bay	2016	M	62.4
+Marion	2006	F	53.9
+Marion	2006	M	65.2
+Marion	2011	F	56.8
+Marion	2011	M	66.1
+Marion	2016	F	57
+Marion	2016	M	64.7
+Mitcham	2006	F	56.6
+Mitcham	2006	M	67.7
+Mitcham	2011	F	58.4
+Mitcham	2011	M	67.6
+Mitcham	2016	F	58.1
+Mitcham	2016	M	65.2
+Onkaparinga	2006	F	56.9
+Onkaparinga	2006	M	68.5
+Onkaparinga	2011	F	57.9
+Onkaparinga	2011	M	68.1
+Onkaparinga	2016	F	56.1
+Onkaparinga	2016	M	63.9
+Charles Sturt	2006	F	49.7
+Charles Sturt	2006	M	61.1
+Charles Sturt	2011	F	53
+Charles Sturt	2011	M	63.1
+Charles Sturt	2016	F	54.8
+Charles Sturt	2016	M	63
+Port Adelaide - West	2006	F	48.3
+Port Adelaide - West	2006	M	59.9
+Port Adelaide - West	2011	F	52.1
+Port Adelaide - West	2011	M	61.9
+Port Adelaide - West	2016	F	53.1
+Port Adelaide - West	2016	M	60.5
+West Torrens	2006	F	52.4
+West Torrens	2006	M	62.2
+West Torrens	2011	F	56
+West Torrens	2011	M	65.2
+West Torrens	2016	F	57.1
+West Torrens	2016	M	65.1
+Barossa	2006	F	56.7
+Barossa	2006	M	70.4
+Barossa	2011	F	57.9
+Barossa	2011	M	69.5
+Barossa	2016	F	56.4
+Barossa	2016	M	66.5
+Lower North	2006	F	51
+Lower North	2006	M	63.9
+Lower North	2011	F	51.5
+Lower North	2011	M	62.7
+Lower North	2016	F	49.8
+Lower North	2016	M	59
+Mid North	2006	F	46
+Mid North	2006	M	57.8
+Mid North	2011	F	48.2
+Mid North	2011	M	57.5
+Mid North	2016	F	47.9
+Mid North	2016	M	55.6
+Yorke Peninsula	2006	F	42
+Yorke Peninsula	2006	M	51.9
+Yorke Peninsula	2011	F	43.4
+Yorke Peninsula	2011	M	52.1
+Yorke Peninsula	2016	F	41.9
+Yorke Peninsula	2016	M	48.8
+Eyre Peninsula and South West	2006	F	52.6
+Eyre Peninsula and South West	2006	M	65.7
+Eyre Peninsula and South West	2011	F	54.2
+Eyre Peninsula and South West	2011	M	65.4
+Eyre Peninsula and South West	2016	F	52.6
+Eyre Peninsula and South West	2016	M	60.7
+Outback - North and East	2006	F	55.7
+Outback - North and East	2006	M	62.7
+Outback - North and East	2011	F	56.2
+Outback - North and East	2011	M	62.7
+Outback - North and East	2016	F	53.3
+Outback - North and East	2016	M	57.9
+Fleurieu - Kangaroo Island	2006	F	44.4
+Fleurieu - Kangaroo Island	2006	M	54.6
+Fleurieu - Kangaroo Island	2011	F	46.4
+Fleurieu - Kangaroo Island	2011	M	54.9
+Fleurieu - Kangaroo Island	2016	F	43.9
+Fleurieu - Kangaroo Island	2016	M	49.9
+Limestone Coast	2006	F	56.8
+Limestone Coast	2006	M	71.6
+Limestone Coast	2011	F	57.4
+Limestone Coast	2011	M	69.4
+Limestone Coast	2016	F	55.8
+Limestone Coast	2016	M	64.3
+Murray and Mallee	2006	F	52.7
+Murray and Mallee	2006	M	63.7
+Murray and Mallee	2011	F	51.2
+Murray and Mallee	2011	M	60.3
+Murray and Mallee	2016	F	50
+Murray and Mallee	2016	M	57.3
+Migratory - Offshore - Shipping (SA)	2006	F	0
+Migratory - Offshore - Shipping (SA)	2006	M	85.7
+Migratory - Offshore - Shipping (SA)	2011	F	0
+Migratory - Offshore - Shipping (SA)	2011	M	100
+Migratory - Offshore - Shipping (SA)	2016	F	0
+Migratory - Offshore - Shipping (SA)	2016	M	100
+No usual address (SA)	2006	F	43.4
+No usual address (SA)	2006	M	52.9
+No usual address (SA)	2011	F	36.2
+No usual address (SA)	2011	M	45.9
+No usual address (SA)	2016	F	36.1
+No usual address (SA)	2016	M	41.1
+Augusta - Margaret River - Busselton	2006	F	56.2
+Augusta - Margaret River - Busselton	2006	M	69.1
+Augusta - Margaret River - Busselton	2011	F	56.1
+Augusta - Margaret River - Busselton	2011	M	68
+Augusta - Margaret River - Busselton	2016	F	55.9
+Augusta - Margaret River - Busselton	2016	M	64.6
+Bunbury	2006	F	54.1
+Bunbury	2006	M	69.8
+Bunbury	2011	F	55.7
+Bunbury	2011	M	70
+Bunbury	2016	F	54.7
+Bunbury	2016	M	64.9
+Manjimup	2006	F	54.9
+Manjimup	2006	M	68.2
+Manjimup	2011	F	55.6
+Manjimup	2011	M	66
+Manjimup	2016	F	51.9
+Manjimup	2016	M	60.8
+Mandurah	2006	F	42.4
+Mandurah	2006	M	56.8
+Mandurah	2011	F	46.7
+Mandurah	2011	M	59.4
+Mandurah	2016	F	47.7
+Mandurah	2016	M	57.7
+Cottesloe - Claremont	2006	F	51.9
+Cottesloe - Claremont	2006	M	65.4
+Cottesloe - Claremont	2011	F	53.3
+Cottesloe - Claremont	2011	M	66.8
+Cottesloe - Claremont	2016	F	53.7
+Cottesloe - Claremont	2016	M	64.9
+Perth City	2006	F	58.8
+Perth City	2006	M	66
+Perth City	2011	F	62.8
+Perth City	2011	M	71.5
+Perth City	2016	F	62.5
+Perth City	2016	M	70.2
+Bayswater - Bassendean	2006	F	56.3
+Bayswater - Bassendean	2006	M	68.2
+Bayswater - Bassendean	2011	F	59.1
+Bayswater - Bassendean	2011	M	70
+Bayswater - Bassendean	2016	F	59.5
+Bayswater - Bassendean	2016	M	69
+Mundaring	2006	F	57.6
+Mundaring	2006	M	67
+Mundaring	2011	F	59
+Mundaring	2011	M	64.8
+Mundaring	2016	F	57.9
+Mundaring	2016	M	60.1
+Swan	2006	F	57.7
+Swan	2006	M	72.4
+Swan	2011	F	60.6
+Swan	2011	M	73.7
+Swan	2016	F	61
+Swan	2016	M	71.8
+Joondalup	2006	F	64.2
+Joondalup	2006	M	76.7
+Joondalup	2011	F	64.6
+Joondalup	2011	M	76.1
+Joondalup	2016	F	63.5
+Joondalup	2016	M	72.4
+Stirling	2006	F	54.4
+Stirling	2006	M	67.1
+Stirling	2011	F	57.4
+Stirling	2011	M	69
+Stirling	2016	F	58.6
+Stirling	2016	M	68.7
+Wanneroo	2006	F	56.4
+Wanneroo	2006	M	72
+Wanneroo	2011	F	60.4
+Wanneroo	2011	M	74
+Wanneroo	2016	F	61.7
+Wanneroo	2016	M	72.9
+Armadale	2006	F	52.8
+Armadale	2006	M	69.6
+Armadale	2011	F	57.2
+Armadale	2011	M	71.6
+Armadale	2016	F	58.5
+Armadale	2016	M	70.8
+Belmont - Victoria Park	2006	F	54.9
+Belmont - Victoria Park	2006	M	66
+Belmont - Victoria Park	2011	F	58.9
+Belmont - Victoria Park	2011	M	69.7
+Belmont - Victoria Park	2016	F	59.3
+Belmont - Victoria Park	2016	M	68.3
+Canning	2006	F	55.5
+Canning	2006	M	68.4
+Canning	2011	F	56.5
+Canning	2011	M	69.4
+Canning	2016	F	56.1
+Canning	2016	M	67.6
+Gosnells	2006	F	56.4
+Gosnells	2006	M	71.7
+Gosnells	2011	F	57.9
+Gosnells	2011	M	70.8
+Gosnells	2016	F	56.6
+Gosnells	2016	M	68.9
+Kalamunda	2006	F	58.9
+Kalamunda	2006	M	73.3
+Kalamunda	2011	F	59.2
+Kalamunda	2011	M	72.1
+Kalamunda	2016	F	57.9
+Kalamunda	2016	M	69
+Serpentine - Jarrahdale	2006	F	59.3
+Serpentine - Jarrahdale	2006	M	72.3
+Serpentine - Jarrahdale	2011	F	62
+Serpentine - Jarrahdale	2011	M	73
+Serpentine - Jarrahdale	2016	F	63.3
+Serpentine - Jarrahdale	2016	M	72.1
+South Perth	2006	F	56.5
+South Perth	2006	M	67.4
+South Perth	2011	F	58.9
+South Perth	2011	M	69.4
+South Perth	2016	F	57.7
+South Perth	2016	M	67.1
+Cockburn	2006	F	57.6
+Cockburn	2006	M	71.4
+Cockburn	2011	F	61.7
+Cockburn	2011	M	74.3
+Cockburn	2016	F	62.3
+Cockburn	2016	M	72.1
+Fremantle	2006	F	56
+Fremantle	2006	M	64
+Fremantle	2011	F	59
+Fremantle	2011	M	66.7
+Fremantle	2016	F	58.4
+Fremantle	2016	M	64.7
+Kwinana	2006	F	48.1
+Kwinana	2006	M	61.7
+Kwinana	2011	F	55.8
+Kwinana	2011	M	65.3
+Kwinana	2016	F	58.6
+Kwinana	2016	M	65.8
+Melville	2006	F	55.7
+Melville	2006	M	69
+Melville	2011	F	57.9
+Melville	2011	M	70.3
+Melville	2016	F	56.7
+Melville	2016	M	67.4
+Rockingham	2006	F	50.5
+Rockingham	2006	M	67.4
+Rockingham	2011	F	56.4
+Rockingham	2011	M	70.9
+Rockingham	2016	F	56.9
+Rockingham	2016	M	68.4
+Albany	2006	F	53.7
+Albany	2006	M	66.1
+Albany	2011	F	54.4
+Albany	2011	M	64.9
+Albany	2016	F	52.7
+Albany	2016	M	60.7
+Wheat Belt - North	2006	F	53.2
+Wheat Belt - North	2006	M	67.7
+Wheat Belt - North	2011	F	54.1
+Wheat Belt - North	2011	M	65.6
+Wheat Belt - North	2016	F	51.6
+Wheat Belt - North	2016	M	59.8
+Wheat Belt - South	2006	F	57.4
+Wheat Belt - South	2006	M	73.6
+Wheat Belt - South	2011	F	57.8
+Wheat Belt - South	2011	M	70.2
+Wheat Belt - South	2016	F	53.4
+Wheat Belt - South	2016	M	64.8
+Kimberley	2006	F	57.8
+Kimberley	2006	M	65.2
+Kimberley	2011	F	58
+Kimberley	2011	M	58
+Kimberley	2016	F	55.2
+Kimberley	2016	M	59.8
+East Pilbara	2006	F	54.3
+East Pilbara	2006	M	66.7
+East Pilbara	2011	F	60.8
+East Pilbara	2011	M	71.3
+East Pilbara	2016	F	61.4
+East Pilbara	2016	M	71.7
+West Pilbara	2006	F	63.5
+West Pilbara	2006	M	75.8
+West Pilbara	2011	F	65
+West Pilbara	2011	M	72.2
+West Pilbara	2016	F	66.3
+West Pilbara	2016	M	75.6
+Esperance	2006	F	57.4
+Esperance	2006	M	72.7
+Esperance	2011	F	57.4
+Esperance	2011	M	70.3
+Esperance	2016	F	53.4
+Esperance	2016	M	64.3
+Gascoyne	2006	F	59.8
+Gascoyne	2006	M	67.6
+Gascoyne	2011	F	58.7
+Gascoyne	2011	M	65.2
+Gascoyne	2016	F	58.4
+Gascoyne	2016	M	61.2
+Goldfields	2006	F	59.4
+Goldfields	2006	M	74.6
+Goldfields	2011	F	59.8
+Goldfields	2011	M	72.8
+Goldfields	2016	F	59.6
+Goldfields	2016	M	69.5
+Mid West	2006	F	54.2
+Mid West	2006	M	66.3
+Mid West	2011	F	56.8
+Mid West	2011	M	67.7
+Mid West	2016	F	54.8
+Mid West	2016	M	62.2
+Migratory - Offshore - Shipping (WA)	2006	F	80.8
+Migratory - Offshore - Shipping (WA)	2006	M	88.5
+Migratory - Offshore - Shipping (WA)	2011	F	63.6
+Migratory - Offshore - Shipping (WA)	2011	M	82.9
+Migratory - Offshore - Shipping (WA)	2016	F	65.4
+Migratory - Offshore - Shipping (WA)	2016	M	78.9
+No usual address (WA)	2006	F	41.7
+No usual address (WA)	2006	M	52.4
+No usual address (WA)	2011	F	42.6
+No usual address (WA)	2011	M	47.9
+No usual address (WA)	2016	F	35.7
+No usual address (WA)	2016	M	42.8
+Brighton	2006	F	49.9
+Brighton	2006	M	63.4
+Brighton	2011	F	52
+Brighton	2011	M	63.3
+Brighton	2016	F	53.4
+Brighton	2016	M	61.4
+Hobart - North East	2006	F	53.6
+Hobart - North East	2006	M	63.1
+Hobart - North East	2011	F	55.7
+Hobart - North East	2011	M	62.8
+Hobart - North East	2016	F	55.5
+Hobart - North East	2016	M	59.7
+Hobart - North West	2006	F	48.8
+Hobart - North West	2006	M	60.4
+Hobart - North West	2011	F	51.4
+Hobart - North West	2011	M	61.3
+Hobart - North West	2016	F	50.6
+Hobart - North West	2016	M	59.1
+Hobart - South and West	2006	F	57.8
+Hobart - South and West	2006	M	68.3
+Hobart - South and West	2011	F	59.6
+Hobart - South and West	2011	M	68
+Hobart - South and West	2016	F	57.8
+Hobart - South and West	2016	M	64.7
+Hobart Inner	2006	F	59.3
+Hobart Inner	2006	M	64.8
+Hobart Inner	2011	F	59.7
+Hobart Inner	2011	M	65.2
+Hobart Inner	2016	F	57.9
+Hobart Inner	2016	M	62.7
+Sorell - Dodges Ferry	2006	F	54.9
+Sorell - Dodges Ferry	2006	M	64.4
+Sorell - Dodges Ferry	2011	F	57.3
+Sorell - Dodges Ferry	2011	M	63.9
+Sorell - Dodges Ferry	2016	F	55.1
+Sorell - Dodges Ferry	2016	M	60.9
+Launceston	2006	F	52.6
+Launceston	2006	M	64.6
+Launceston	2011	F	54.5
+Launceston	2011	M	64.7
+Launceston	2016	F	53.1
+Launceston	2016	M	60.8
+Meander Valley - West Tamar	2006	F	48.8
+Meander Valley - West Tamar	2006	M	63.2
+Meander Valley - West Tamar	2011	F	51.4
+Meander Valley - West Tamar	2011	M	60.9
+Meander Valley - West Tamar	2016	F	49.1
+Meander Valley - West Tamar	2016	M	56.5
+North East	2006	F	47.8
+North East	2006	M	60.8
+North East	2011	F	49.3
+North East	2011	M	58.7
+North East	2016	F	47.3
+North East	2016	M	54.4
+Central Highlands (Tas.)	2006	F	49.1
+Central Highlands (Tas.)	2006	M	61.5
+Central Highlands (Tas.)	2011	F	51.2
+Central Highlands (Tas.)	2011	M	59.2
+Central Highlands (Tas.)	2016	F	50.9
+Central Highlands (Tas.)	2016	M	56.9
+Huon - Bruny Island	2006	F	49.7
+Huon - Bruny Island	2006	M	58.7
+Huon - Bruny Island	2011	F	50.8
+Huon - Bruny Island	2011	M	58.1
+Huon - Bruny Island	2016	F	48.2
+Huon - Bruny Island	2016	M	53.5
+South East Coast	2006	F	46.4
+South East Coast	2006	M	54.6
+South East Coast	2011	F	44.8
+South East Coast	2011	M	51.9
+South East Coast	2016	F	41.5
+South East Coast	2016	M	46.1
+Burnie - Ulverstone	2006	F	47.3
+Burnie - Ulverstone	2006	M	61.8
+Burnie - Ulverstone	2011	F	49.2
+Burnie - Ulverstone	2011	M	60.5
+Burnie - Ulverstone	2016	F	48.6
+Burnie - Ulverstone	2016	M	57
+Devonport	2006	F	49.6
+Devonport	2006	M	63.1
+Devonport	2011	F	50.2
+Devonport	2011	M	61.3
+Devonport	2016	F	49
+Devonport	2016	M	57.4
+West Coast	2006	F	55
+West Coast	2006	M	68.8
+West Coast	2011	F	55.1
+West Coast	2011	M	67.2
+West Coast	2016	F	53.2
+West Coast	2016	M	61.5
+Migratory - Offshore - Shipping (Tas.)	2006	F	110
+Migratory - Offshore - Shipping (Tas.)	2006	M	84.6
+Migratory - Offshore - Shipping (Tas.)	2011	F	72.4
+Migratory - Offshore - Shipping (Tas.)	2011	M	76.8
+Migratory - Offshore - Shipping (Tas.)	2016	F	83.3
+Migratory - Offshore - Shipping (Tas.)	2016	M	77.6
+No usual address (Tas.)	2006	F	45.6
+No usual address (Tas.)	2006	M	54.8
+No usual address (Tas.)	2011	F	39.9
+No usual address (Tas.)	2011	M	44.9
+No usual address (Tas.)	2016	F	38.9
+No usual address (Tas.)	2016	M	42.4
+Darwin City	2006	F	66.6
+Darwin City	2006	M	70.7
+Darwin City	2011	F	69.3
+Darwin City	2011	M	70.5
+Darwin City	2016	F	67.8
+Darwin City	2016	M	73.8
+Darwin Suburbs	2006	F	65.5
+Darwin Suburbs	2006	M	70.2
+Darwin Suburbs	2011	F	65.3
+Darwin Suburbs	2011	M	66.9
+Darwin Suburbs	2016	F	64.4
+Darwin Suburbs	2016	M	70.2
+Litchfield	2006	F	64.7
+Litchfield	2006	M	70.7
+Litchfield	2011	F	65
+Litchfield	2011	M	70.4
+Litchfield	2016	F	65.9
+Litchfield	2016	M	59.8
+Palmerston	2006	F	64.7
+Palmerston	2006	M	74.4
+Palmerston	2011	F	69
+Palmerston	2011	M	77.3
+Palmerston	2016	F	67.8
+Palmerston	2016	M	77.8
+Alice Springs	2006	F	57.5
+Alice Springs	2006	M	63.8
+Alice Springs	2011	F	58.9
+Alice Springs	2011	M	63.8
+Alice Springs	2016	F	58.2
+Alice Springs	2016	M	61.7
+Barkly	2006	F	43.2
+Barkly	2006	M	50.6
+Barkly	2011	F	44.5
+Barkly	2011	M	51.1
+Barkly	2016	F	46.6
+Barkly	2016	M	51.9
+Daly - Tiwi - West Arnhem	2006	F	42
+Daly - Tiwi - West Arnhem	2006	M	51.5
+Daly - Tiwi - West Arnhem	2011	F	46.1
+Daly - Tiwi - West Arnhem	2011	M	55.9
+Daly - Tiwi - West Arnhem	2016	F	39.4
+Daly - Tiwi - West Arnhem	2016	M	44.3
+East Arnhem	2006	F	47.5
+East Arnhem	2006	M	61.9
+East Arnhem	2011	F	49.1
+East Arnhem	2011	M	62.2
+East Arnhem	2016	F	41.9
+East Arnhem	2016	M	46.5
+Katherine	2006	F	51
+Katherine	2006	M	60.1
+Katherine	2011	F	56
+Katherine	2011	M	62.2
+Katherine	2016	F	46
+Katherine	2016	M	50.7
+Migratory - Offshore - Shipping (NT)	2006	F	58.8
+Migratory - Offshore - Shipping (NT)	2006	M	80.8
+Migratory - Offshore - Shipping (NT)	2011	F	42.1
+Migratory - Offshore - Shipping (NT)	2011	M	84.4
+Migratory - Offshore - Shipping (NT)	2016	F	77.8
+Migratory - Offshore - Shipping (NT)	2016	M	36.1
+No usual address (NT)	2006	F	35.4
+No usual address (NT)	2006	M	41.8
+No usual address (NT)	2011	F	37.5
+No usual address (NT)	2011	M	40.9
+No usual address (NT)	2016	F	26.8
+No usual address (NT)	2016	M	29.8
+Belconnen	2006	F	66
+Belconnen	2006	M	73.3
+Belconnen	2011	F	64.6
+Belconnen	2011	M	72
+Belconnen	2016	F	61.6
+Belconnen	2016	M	68.4
+Canberra East	2006	F	58.5
+Canberra East	2006	M	66.9
+Canberra East	2011	F	57.3
+Canberra East	2011	M	43.1
+Canberra East	2016	F	48.8
+Canberra East	2016	M	32.9
+Gungahlin	2006	F	71.7
+Gungahlin	2006	M	81.7
+Gungahlin	2011	F	73.5
+Gungahlin	2011	M	82.2
+Gungahlin	2016	F	71.4
+Gungahlin	2016	M	79.3
+North Canberra	2006	F	61.4
+North Canberra	2006	M	67.3
+North Canberra	2011	F	63.6
+North Canberra	2011	M	67.6
+North Canberra	2016	F	62.2
+North Canberra	2016	M	66.3
+South Canberra	2006	F	61.6
+South Canberra	2006	M	69.3
+South Canberra	2011	F	63.1
+South Canberra	2011	M	71.3
+South Canberra	2016	F	61.5
+South Canberra	2016	M	68.2
+Tuggeranong	2006	F	70.6
+Tuggeranong	2006	M	78.6
+Tuggeranong	2011	F	71
+Tuggeranong	2011	M	77.9
+Tuggeranong	2016	F	65.5
+Tuggeranong	2016	M	71.8
+Weston Creek	2006	F	63.3
+Weston Creek	2006	M	71.4
+Weston Creek	2011	F	61.7
+Weston Creek	2011	M	70
+Weston Creek	2016	F	58.2
+Weston Creek	2016	M	64
+Woden Valley	2006	F	59.7
+Woden Valley	2006	M	68
+Woden Valley	2011	F	61.6
+Woden Valley	2011	M	69.1
+Woden Valley	2016	F	58.6
+Woden Valley	2016	M	65.7
+Molonglo	2006	F	0
+Molonglo	2006	M	0
+Molonglo	2011	F	75
+Molonglo	2011	M	100
+Molonglo	2016	F	77.9
+Molonglo	2016	M	83.2
+Urriarra - Namadgi	2006	F	78
+Urriarra - Namadgi	2006	M	83.9
+Urriarra - Namadgi	2011	F	77
+Urriarra - Namadgi	2011	M	82.5
+Urriarra - Namadgi	2016	F	69.4
+Urriarra - Namadgi	2016	M	75.7
+Migratory - Offshore - Shipping (ACT)	2006	F	0
+Migratory - Offshore - Shipping (ACT)	2006	M	0
+Migratory - Offshore - Shipping (ACT)	2011	F	0
+Migratory - Offshore - Shipping (ACT)	2011	M	0
+Migratory - Offshore - Shipping (ACT)	2016	F	0
+Migratory - Offshore - Shipping (ACT)	2016	M	0
+No usual address (ACT)	2006	F	56.8
+No usual address (ACT)	2006	M	63.3
+No usual address (ACT)	2011	F	60.3
+No usual address (ACT)	2011	M	54.5
+No usual address (ACT)	2016	F	55
+No usual address (ACT)	2016	M	44.8
+Christmas Island	2006	F	60.4
+Christmas Island	2006	M	74.7
+Christmas Island	2011	F	69.1
+Christmas Island	2011	M	36.6
+Christmas Island	2016	F	57.9
+Christmas Island	2016	M	53.3
+Cocos (Keeling) Islands	2006	F	42.1
+Cocos (Keeling) Islands	2006	M	71.8
+Cocos (Keeling) Islands	2011	F	48.3
+Cocos (Keeling) Islands	2011	M	64.7
+Cocos (Keeling) Islands	2016	F	46.8
+Cocos (Keeling) Islands	2016	M	62.6
+Jervis Bay	2006	F	48.8
+Jervis Bay	2006	M	72.8
+Jervis Bay	2011	F	41.8
+Jervis Bay	2011	M	64.1
+Jervis Bay	2016	F	37.1
+Jervis Bay	2016	M	53.7
+Norfolk Island	2006	F	0
+Norfolk Island	2006	M	0
+Norfolk Island	2011	F	0
+Norfolk Island	2011	M	0
+Norfolk Island	2016	F	66.1
+Norfolk Island	2016	M	69.8
+Migratory - Offshore - Shipping (OT)	2006	F	0
+Migratory - Offshore - Shipping (OT)	2006	M	0
+Migratory - Offshore - Shipping (OT)	2011	F	0
+Migratory - Offshore - Shipping (OT)	2011	M	0
+Migratory - Offshore - Shipping (OT)	2016	F	0
+Migratory - Offshore - Shipping (OT)	2016	M	100
+No usual address (OT)	2006	F	100
+No usual address (OT)	2006	M	54.5
+No usual address (OT)	2011	F	68.4
+No usual address (OT)	2011	M	140
+No usual address (OT)	2016	F	36.7
+No usual address (OT)	2016	M	33.3

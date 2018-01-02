@@ -1,0 +1,325 @@
+STE_NAME16	Year	LabourForceStatus	Sex	adults
+New South Wales	2006		F	173881
+New South Wales	2006		M	182769
+New South Wales	2006	Employed (away from work)	F	89191
+New South Wales	2006	Employed (away from work)	M	97912
+New South Wales	2006	Employed (full-time)	F	679139
+New South Wales	2006	Employed (full-time)	M	1200491
+New South Wales	2006	Employed (part-time)	F	570666
+New South Wales	2006	Employed (part-time)	M	272048
+New South Wales	2006	Not in the labour force	F	1093506
+New South Wales	2006	Not in the labour force	M	707500
+New South Wales	2006	Unemployed (looking for work)	F	83010
+New South Wales	2006	Unemployed (looking for work)	M	100146
+New South Wales	2011		F	153466
+New South Wales	2011		M	163556
+New South Wales	2011	Employed (away from work)	F	96903
+New South Wales	2011	Employed (away from work)	M	94040
+New South Wales	2011	Employed (full-time)	F	736381
+New South Wales	2011	Employed (full-time)	M	1271541
+New South Wales	2011	Employed (part-time)	F	630626
+New South Wales	2011	Employed (part-time)	M	308833
+New South Wales	2011	Not in the labour force	F	1152321
+New South Wales	2011	Not in the labour force	M	780957
+New South Wales	2011	Unemployed (looking for work)	F	91144
+New South Wales	2011	Unemployed (looking for work)	M	105377
+New South Wales	2016		F	201295
+New South Wales	2016		M	198493
+New South Wales	2016	Employed (away from work)	F	93094
+New South Wales	2016	Employed (away from work)	M	81562
+New South Wales	2016	Employed (full-time)	F	804943
+New South Wales	2016	Employed (full-time)	M	1329576
+New South Wales	2016	Employed (part-time)	F	703243
+New South Wales	2016	Employed (part-time)	M	367907
+New South Wales	2016	Not in the labour force	F	1211012
+New South Wales	2016	Not in the labour force	M	877226
+New South Wales	2016	Unemployed (looking for work)	F	106247
+New South Wales	2016	Unemployed (looking for work)	M	119299
+Victoria	2006		F	123232
+Victoria	2006		M	123825
+Victoria	2006	Employed (away from work)	F	70947
+Victoria	2006	Employed (away from work)	M	75440
+Victoria	2006	Employed (full-time)	F	505723
+Victoria	2006	Employed (full-time)	M	939739
+Victoria	2006	Employed (part-time)	F	472251
+Victoria	2006	Employed (part-time)	M	210354
+Victoria	2006	Not in the labour force	F	816513
+Victoria	2006	Not in the labour force	M	513856
+Victoria	2006	Unemployed (looking for work)	F	60483
+Victoria	2006	Unemployed (looking for work)	M	69673
+Victoria	2011		F	111292
+Victoria	2011		M	116874
+Victoria	2011	Employed (away from work)	F	79309
+Victoria	2011	Employed (away from work)	M	76224
+Victoria	2011	Employed (full-time)	F	560290
+Victoria	2011	Employed (full-time)	M	1022982
+Victoria	2011	Employed (part-time)	F	539519
+Victoria	2011	Employed (part-time)	M	252320
+Victoria	2011	Not in the labour force	F	876083
+Victoria	2011	Not in the labour force	M	575509
+Victoria	2011	Unemployed (looking for work)	F	68930
+Victoria	2011	Unemployed (looking for work)	M	75914
+Victoria	2016		F	155930
+Victoria	2016		M	150034
+Victoria	2016	Employed (away from work)	F	78431
+Victoria	2016	Employed (away from work)	M	66269
+Victoria	2016	Employed (full-time)	F	602794
+Victoria	2016	Employed (full-time)	M	1067762
+Victoria	2016	Employed (part-time)	F	614789
+Victoria	2016	Employed (part-time)	M	306086
+Victoria	2016	Not in the labour force	F	947863
+Victoria	2016	Not in the labour force	M	662276
+Victoria	2016	Unemployed (looking for work)	F	92396
+Victoria	2016	Unemployed (looking for work)	M	101072
+Queensland	2006		F	99958
+Queensland	2006		M	110257
+Queensland	2006	Employed (away from work)	F	53133
+Queensland	2006	Employed (away from work)	M	60473
+Queensland	2006	Employed (full-time)	F	419245
+Queensland	2006	Employed (full-time)	M	761645
+Queensland	2006	Employed (part-time)	F	368052
+Queensland	2006	Employed (part-time)	M	162452
+Queensland	2006	Not in the labour force	F	590793
+Queensland	2006	Not in the labour force	M	381036
+Queensland	2006	Unemployed (looking for work)	F	45316
+Queensland	2006	Unemployed (looking for work)	M	45637
+Queensland	2011		F	94861
+Queensland	2011		M	111632
+Queensland	2011	Employed (away from work)	F	61840
+Queensland	2011	Employed (away from work)	M	63188
+Queensland	2011	Employed (full-time)	F	477301
+Queensland	2011	Employed (full-time)	M	825654
+Queensland	2011	Employed (part-time)	F	418656
+Queensland	2011	Employed (part-time)	M	192645
+Queensland	2011	Not in the labour force	F	643662
+Queensland	2011	Not in the labour force	M	435634
+Queensland	2011	Unemployed (looking for work)	F	62080
+Queensland	2011	Unemployed (looking for work)	M	69719
+Queensland	2016		F	133691
+Queensland	2016		M	138641
+Queensland	2016	Employed (away from work)	F	58829
+Queensland	2016	Employed (away from work)	M	52685
+Queensland	2016	Employed (full-time)	F	501391
+Queensland	2016	Employed (full-time)	M	831801
+Queensland	2016	Employed (part-time)	F	466256
+Queensland	2016	Employed (part-time)	M	225498
+Queensland	2016	Not in the labour force	F	695490
+Queensland	2016	Not in the labour force	M	510549
+Queensland	2016	Unemployed (looking for work)	F	81469
+Queensland	2016	Unemployed (looking for work)	M	94194
+South Australia	2006		F	31411
+South Australia	2006		M	32226
+South Australia	2006	Employed (away from work)	F	21585
+South Australia	2006	Employed (away from work)	M	23589
+South Australia	2006	Employed (full-time)	F	146645
+South Australia	2006	Employed (full-time)	M	279530
+South Australia	2006	Employed (part-time)	F	152200
+South Australia	2006	Employed (part-time)	M	66339
+South Australia	2006	Not in the labour force	F	263836
+South Australia	2006	Not in the labour force	M	177979
+South Australia	2006	Unemployed (looking for work)	F	16627
+South Australia	2006	Unemployed (looking for work)	M	21551
+South Australia	2011		F	28378
+South Australia	2011		M	30495
+South Australia	2011	Employed (away from work)	F	23805
+South Australia	2011	Employed (away from work)	M	22883
+South Australia	2011	Employed (full-time)	F	155054
+South Australia	2011	Employed (full-time)	M	290020
+South Australia	2011	Employed (part-time)	F	169222
+South Australia	2011	Employed (part-time)	M	78374
+South Australia	2011	Not in the labour force	F	272852
+South Australia	2011	Not in the labour force	M	193578
+South Australia	2011	Unemployed (looking for work)	F	20077
+South Australia	2011	Unemployed (looking for work)	M	24897
+South Australia	2016		F	37533
+South Australia	2016		M	37537
+South Australia	2016	Employed (away from work)	F	22076
+South Australia	2016	Employed (away from work)	M	18508
+South Australia	2016	Employed (full-time)	F	154498
+South Australia	2016	Employed (full-time)	M	280612
+South Australia	2016	Employed (part-time)	F	182009
+South Australia	2016	Employed (part-time)	M	88403
+South Australia	2016	Not in the labour force	F	285630
+South Australia	2016	Not in the labour force	M	216360
+South Australia	2016	Unemployed (looking for work)	F	26328
+South Australia	2016	Unemployed (looking for work)	M	34158
+Western Australia	2006		F	51933
+Western Australia	2006		M	59674
+Western Australia	2006	Employed (away from work)	F	29768
+Western Australia	2006	Employed (away from work)	M	36743
+Western Australia	2006	Employed (full-time)	F	200236
+Western Australia	2006	Employed (full-time)	M	393441
+Western Australia	2006	Employed (part-time)	F	192636
+Western Australia	2006	Employed (part-time)	M	83312
+Western Australia	2006	Not in the labour force	F	297878
+Western Australia	2006	Not in the labour force	M	180372
+Western Australia	2006	Unemployed (looking for work)	F	17691
+Western Australia	2006	Unemployed (looking for work)	M	18966
+Western Australia	2011		F	51165
+Western Australia	2011		M	66178
+Western Australia	2011	Employed (away from work)	F	34151
+Western Australia	2011	Employed (away from work)	M	40062
+Western Australia	2011	Employed (full-time)	F	239235
+Western Australia	2011	Employed (full-time)	M	460179
+Western Australia	2011	Employed (part-time)	F	223758
+Western Australia	2011	Employed (part-time)	M	100495
+Western Australia	2011	Not in the labour force	F	324861
+Western Australia	2011	Not in the labour force	M	204697
+Western Australia	2011	Unemployed (looking for work)	F	25690
+Western Australia	2011	Unemployed (looking for work)	M	28628
+Western Australia	2016		F	69328
+Western Australia	2016		M	77237
+Western Australia	2016	Employed (away from work)	F	32128
+Western Australia	2016	Employed (away from work)	M	33735
+Western Australia	2016	Employed (full-time)	F	250575
+Western Australia	2016	Employed (full-time)	M	464714
+Western Australia	2016	Employed (part-time)	F	255437
+Western Australia	2016	Employed (part-time)	M	121151
+Western Australia	2016	Not in the labour force	F	352667
+Western Australia	2016	Not in the labour force	M	242787
+Western Australia	2016	Unemployed (looking for work)	F	43906
+Western Australia	2016	Unemployed (looking for work)	M	54061
+Tasmania	2006		F	10115
+Tasmania	2006		M	10079
+Tasmania	2006	Employed (away from work)	F	7048
+Tasmania	2006	Employed (away from work)	M	7497
+Tasmania	2006	Employed (full-time)	F	41826
+Tasmania	2006	Employed (full-time)	M	80987
+Tasmania	2006	Employed (part-time)	F	47058
+Tasmania	2006	Employed (part-time)	M	20327
+Tasmania	2006	Not in the labour force	F	85035
+Tasmania	2006	Not in the labour force	M	58068
+Tasmania	2006	Unemployed (looking for work)	F	6398
+Tasmania	2006	Unemployed (looking for work)	M	8016
+Tasmania	2011		F	8840
+Tasmania	2011		M	9147
+Tasmania	2011	Employed (away from work)	F	7382
+Tasmania	2011	Employed (away from work)	M	7062
+Tasmania	2011	Employed (full-time)	F	44305
+Tasmania	2011	Employed (full-time)	M	82166
+Tasmania	2011	Employed (part-time)	F	52536
+Tasmania	2011	Employed (part-time)	M	23844
+Tasmania	2011	Not in the labour force	F	87561
+Tasmania	2011	Not in the labour force	M	63815
+Tasmania	2011	Unemployed (looking for work)	F	6315
+Tasmania	2011	Unemployed (looking for work)	M	8511
+Tasmania	2016		F	13594
+Tasmania	2016		M	13158
+Tasmania	2016	Employed (away from work)	F	7107
+Tasmania	2016	Employed (away from work)	M	6056
+Tasmania	2016	Employed (full-time)	F	43443
+Tasmania	2016	Employed (full-time)	M	78377
+Tasmania	2016	Employed (part-time)	F	55547
+Tasmania	2016	Employed (part-time)	M	26054
+Tasmania	2016	Not in the labour force	F	89930
+Tasmania	2016	Not in the labour force	M	70118
+Tasmania	2016	Unemployed (looking for work)	F	6875
+Tasmania	2016	Unemployed (looking for work)	M	9493
+Northern Territory	2006		F	7680
+Northern Territory	2006		M	9287
+Northern Territory	2006	Employed (away from work)	F	3246
+Northern Territory	2006	Employed (away from work)	M	3666
+Northern Territory	2006	Employed (full-time)	F	24278
+Northern Territory	2006	Employed (full-time)	M	35813
+Northern Territory	2006	Employed (part-time)	F	12253
+Northern Territory	2006	Employed (part-time)	M	7924
+Northern Territory	2006	Not in the labour force	F	21132
+Northern Territory	2006	Not in the labour force	M	16017
+Northern Territory	2006	Unemployed (looking for work)	F	1852
+Northern Territory	2006	Unemployed (looking for work)	M	2147
+Northern Territory	2011		F	7546
+Northern Territory	2011		M	9597
+Northern Territory	2011	Employed (away from work)	F	3735
+Northern Territory	2011	Employed (away from work)	M	4319
+Northern Territory	2011	Employed (full-time)	F	28749
+Northern Territory	2011	Employed (full-time)	M	40801
+Northern Territory	2011	Employed (part-time)	F	13135
+Northern Territory	2011	Employed (part-time)	M	7742
+Northern Territory	2011	Not in the labour force	F	22928
+Northern Territory	2011	Not in the labour force	M	18761
+Northern Territory	2011	Unemployed (looking for work)	F	2417
+Northern Territory	2011	Unemployed (looking for work)	M	3070
+Northern Territory	2016		F	10284
+Northern Territory	2016		M	12675
+Northern Territory	2016	Employed (away from work)	F	3484
+Northern Territory	2016	Employed (away from work)	M	3625
+Northern Territory	2016	Employed (full-time)	F	30527
+Northern Territory	2016	Employed (full-time)	M	43576
+Northern Territory	2016	Employed (part-time)	F	13580
+Northern Territory	2016	Employed (part-time)	M	7913
+Northern Territory	2016	Not in the labour force	F	24940
+Northern Territory	2016	Not in the labour force	M	21067
+Northern Territory	2016	Unemployed (looking for work)	F	3439
+Northern Territory	2016	Unemployed (looking for work)	M	4245
+Australian Capital Territory	2006		F	5854
+Australian Capital Territory	2006		M	6689
+Australian Capital Territory	2006	Employed (away from work)	F	6158
+Australian Capital Territory	2006	Employed (away from work)	M	5079
+Australian Capital Territory	2006	Employed (full-time)	F	48443
+Australian Capital Territory	2006	Employed (full-time)	M	69499
+Australian Capital Territory	2006	Employed (part-time)	F	30960
+Australian Capital Territory	2006	Employed (part-time)	M	16147
+Australian Capital Territory	2006	Not in the labour force	F	39880
+Australian Capital Territory	2006	Not in the labour force	M	27198
+Australian Capital Territory	2006	Unemployed (looking for work)	F	2694
+Australian Capital Territory	2006	Unemployed (looking for work)	M	3505
+Australian Capital Territory	2011		F	5913
+Australian Capital Territory	2011		M	6873
+Australian Capital Territory	2011	Employed (away from work)	F	7274
+Australian Capital Territory	2011	Employed (away from work)	M	5547
+Australian Capital Territory	2011	Employed (full-time)	F	54878
+Australian Capital Territory	2011	Employed (full-time)	M	77161
+Australian Capital Territory	2011	Employed (part-time)	F	33150
+Australian Capital Territory	2011	Employed (part-time)	M	17877
+Australian Capital Territory	2011	Not in the labour force	F	43798
+Australian Capital Territory	2011	Not in the labour force	M	31089
+Australian Capital Territory	2011	Unemployed (looking for work)	F	3323
+Australian Capital Territory	2011	Unemployed (looking for work)	M	3991
+Australian Capital Territory	2016		F	9309
+Australian Capital Territory	2016		M	9195
+Australian Capital Territory	2016	Employed (away from work)	F	6849
+Australian Capital Territory	2016	Employed (away from work)	M	4660
+Australian Capital Territory	2016	Employed (full-time)	F	57431
+Australian Capital Territory	2016	Employed (full-time)	M	79627
+Australian Capital Territory	2016	Employed (part-time)	F	36623
+Australian Capital Territory	2016	Employed (part-time)	M	20435
+Australian Capital Territory	2016	Not in the labour force	F	50674
+Australian Capital Territory	2016	Not in the labour force	M	37909
+Australian Capital Territory	2016	Unemployed (looking for work)	F	4808
+Australian Capital Territory	2016	Unemployed (looking for work)	M	5394
+Other Territories	2006		F	27
+Other Territories	2006		M	89
+Other Territories	2006	Employed (away from work)	F	34
+Other Territories	2006	Employed (away from work)	M	52
+Other Territories	2006	Employed (full-time)	F	210
+Other Territories	2006	Employed (full-time)	M	550
+Other Territories	2006	Employed (part-time)	F	129
+Other Territories	2006	Employed (part-time)	M	84
+Other Territories	2006	Not in the labour force	F	335
+Other Territories	2006	Not in the labour force	M	178
+Other Territories	2006	Unemployed (looking for work)	F	38
+Other Territories	2006	Unemployed (looking for work)	M	38
+Other Territories	2011		F	52
+Other Territories	2011		M	57
+Other Territories	2011	Employed (away from work)	F	35
+Other Territories	2011	Employed (away from work)	M	48
+Other Territories	2011	Employed (full-time)	F	301
+Other Territories	2011	Employed (full-time)	M	564
+Other Territories	2011	Employed (part-time)	F	135
+Other Territories	2011	Employed (part-time)	M	95
+Other Territories	2011	Not in the labour force	F	282
+Other Territories	2011	Not in the labour force	M	923
+Other Territories	2011	Unemployed (looking for work)	F	17
+Other Territories	2011	Unemployed (looking for work)	M	26
+Other Territories	2016		F	200
+Other Territories	2016		M	231
+Other Territories	2016	Employed (away from work)	F	98
+Other Territories	2016	Employed (away from work)	M	93
+Other Territories	2016	Employed (full-time)	F	524
+Other Territories	2016	Employed (full-time)	M	885
+Other Territories	2016	Employed (part-time)	F	361
+Other Territories	2016	Employed (part-time)	M	206
+Other Territories	2016	Not in the labour force	F	513
+Other Territories	2016	Not in the labour force	M	594
+Other Territories	2016	Unemployed (looking for work)	F	34
+Other Territories	2016	Unemployed (looking for work)	M	28

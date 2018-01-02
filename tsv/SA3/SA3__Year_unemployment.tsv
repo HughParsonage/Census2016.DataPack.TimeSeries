@@ -1,0 +1,1075 @@
+SA3_NAME16	Year	unemployment
+Queanbeyan	2006	2.8
+Queanbeyan	2011	2.8
+Queanbeyan	2016	4
+Snowy Mountains	2006	4
+Snowy Mountains	2011	3.6
+Snowy Mountains	2016	3.4
+South Coast	2006	8.1
+South Coast	2011	6.7
+South Coast	2016	6.2
+Goulburn - Mulwaree	2006	5.6
+Goulburn - Mulwaree	2011	5.3
+Goulburn - Mulwaree	2016	5.9
+Young - Yass	2006	4.3
+Young - Yass	2011	4
+Young - Yass	2016	4.2
+Gosford	2006	6.2
+Gosford	2011	6.1
+Gosford	2016	6.2
+Wyong	2006	8.2
+Wyong	2011	7.8
+Wyong	2016	7.4
+Bathurst	2006	6
+Bathurst	2011	5.3
+Bathurst	2016	6
+Lachlan Valley	2006	6.5
+Lachlan Valley	2011	5.2
+Lachlan Valley	2016	6.1
+Lithgow - Mudgee	2006	7.7
+Lithgow - Mudgee	2011	6.4
+Lithgow - Mudgee	2016	7.2
+Orange	2006	5.4
+Orange	2011	4.2
+Orange	2016	5.8
+Clarence Valley	2006	9.9
+Clarence Valley	2011	8.9
+Clarence Valley	2016	9
+Coffs Harbour	2006	9.1
+Coffs Harbour	2011	8.3
+Coffs Harbour	2016	7.3
+Bourke - Cobar - Coonamble	2006	7.8
+Bourke - Cobar - Coonamble	2011	6.6
+Bourke - Cobar - Coonamble	2016	8.2
+Broken Hill and Far West	2006	8.8
+Broken Hill and Far West	2011	8.2
+Broken Hill and Far West	2016	8.7
+Dubbo	2006	6.1
+Dubbo	2011	5.7
+Dubbo	2016	6.2
+Lower Hunter	2006	6.8
+Lower Hunter	2011	5.3
+Lower Hunter	2016	7.6
+Maitland	2006	6.4
+Maitland	2011	4.8
+Maitland	2016	7.1
+Port Stephens	2006	7.1
+Port Stephens	2011	6.2
+Port Stephens	2016	7.3
+Upper Hunter	2006	5
+Upper Hunter	2011	4.3
+Upper Hunter	2016	6.6
+Dapto - Port Kembla	2006	8.3
+Dapto - Port Kembla	2011	7.4
+Dapto - Port Kembla	2016	7.7
+Illawarra Catchment Reserve	2006	0
+Illawarra Catchment Reserve	2011	0
+Illawarra Catchment Reserve	2016	0
+Kiama - Shellharbour	2006	6.7
+Kiama - Shellharbour	2011	6.1
+Kiama - Shellharbour	2016	6.3
+Wollongong	2006	7
+Wollongong	2011	6.7
+Wollongong	2016	6.8
+Great Lakes	2006	9.5
+Great Lakes	2011	8.4
+Great Lakes	2016	8.3
+Kempsey - Nambucca	2006	13.1
+Kempsey - Nambucca	2011	9.6
+Kempsey - Nambucca	2016	8.9
+Lord Howe Island	2006	1.3
+Lord Howe Island	2011	1.4
+Lord Howe Island	2016	1.3
+Port Macquarie	2006	8.5
+Port Macquarie	2011	6.9
+Port Macquarie	2016	6.8
+Taree - Gloucester	2006	10.1
+Taree - Gloucester	2011	8.8
+Taree - Gloucester	2016	9.5
+Albury	2006	5.7
+Albury	2011	5.5
+Albury	2016	6.5
+Lower Murray	2006	4.9
+Lower Murray	2011	5
+Lower Murray	2016	5.4
+Upper Murray exc. Albury	2006	4.4
+Upper Murray exc. Albury	2011	4.3
+Upper Murray exc. Albury	2016	4.6
+Armidale	2006	7.4
+Armidale	2011	6.4
+Armidale	2016	6.8
+Inverell - Tenterfield	2006	7.9
+Inverell - Tenterfield	2011	7.1
+Inverell - Tenterfield	2016	7.4
+Moree - Narrabri	2006	6.4
+Moree - Narrabri	2011	5.5
+Moree - Narrabri	2016	6
+Tamworth - Gunnedah	2006	7.1
+Tamworth - Gunnedah	2011	5.9
+Tamworth - Gunnedah	2016	5.9
+Lake Macquarie - East	2006	6.5
+Lake Macquarie - East	2011	5.1
+Lake Macquarie - East	2016	6.6
+Lake Macquarie - West	2006	7.1
+Lake Macquarie - West	2011	5.7
+Lake Macquarie - West	2016	7.4
+Newcastle	2006	7.3
+Newcastle	2011	5.8
+Newcastle	2016	7.5
+Richmond Valley - Coastal	2006	8
+Richmond Valley - Coastal	2011	7.3
+Richmond Valley - Coastal	2016	6.2
+Richmond Valley - Hinterland	2006	9.2
+Richmond Valley - Hinterland	2011	8.3
+Richmond Valley - Hinterland	2016	7.9
+Tweed Valley	2006	7.1
+Tweed Valley	2011	8.3
+Tweed Valley	2016	7.1
+Griffith - Murrumbidgee (West)	2006	4.3
+Griffith - Murrumbidgee (West)	2011	4.7
+Griffith - Murrumbidgee (West)	2016	4.9
+Tumut - Tumbarumba	2006	6.1
+Tumut - Tumbarumba	2011	5.5
+Tumut - Tumbarumba	2016	5.4
+Wagga Wagga	2006	5.8
+Wagga Wagga	2011	4.9
+Wagga Wagga	2016	5.4
+Shoalhaven	2006	9.2
+Shoalhaven	2011	7.6
+Shoalhaven	2016	6.6
+Southern Highlands	2006	4.3
+Southern Highlands	2011	4.2
+Southern Highlands	2016	3.8
+Baulkham Hills	2006	3.3
+Baulkham Hills	2011	4.3
+Baulkham Hills	2016	4.9
+Dural - Wisemans Ferry	2006	2.8
+Dural - Wisemans Ferry	2011	3.4
+Dural - Wisemans Ferry	2016	3.3
+Hawkesbury	2006	3.4
+Hawkesbury	2011	3.7
+Hawkesbury	2016	3.7
+Rouse Hill - McGraths Hill	2006	2.9
+Rouse Hill - McGraths Hill	2011	3.7
+Rouse Hill - McGraths Hill	2016	3.7
+Blacktown	2006	6.6
+Blacktown	2011	7
+Blacktown	2016	7.3
+Blacktown - North	2006	4.1
+Blacktown - North	2011	5.1
+Blacktown - North	2016	5.4
+Mount Druitt	2006	9.2
+Mount Druitt	2011	9.3
+Mount Druitt	2016	9.2
+Botany	2006	5.4
+Botany	2011	5.3
+Botany	2016	5.6
+Marrickville - Sydenham - Petersham	2006	5.4
+Marrickville - Sydenham - Petersham	2011	5.5
+Marrickville - Sydenham - Petersham	2016	4.9
+Sydney Inner City	2006	5.3
+Sydney Inner City	2011	5.7
+Sydney Inner City	2016	5.9
+Eastern Suburbs - North	2006	3.1
+Eastern Suburbs - North	2011	3.9
+Eastern Suburbs - North	2016	3.6
+Eastern Suburbs - South	2006	4.5
+Eastern Suburbs - South	2011	5.5
+Eastern Suburbs - South	2016	5.6
+Bankstown	2006	7.2
+Bankstown	2011	7.4
+Bankstown	2016	8
+Canterbury	2006	8.2
+Canterbury	2011	8.4
+Canterbury	2016	8.6
+Hurstville	2006	5.7
+Hurstville	2011	6
+Hurstville	2016	6.9
+Kogarah - Rockdale	2006	5.4
+Kogarah - Rockdale	2011	5.9
+Kogarah - Rockdale	2016	6.2
+Canada Bay	2006	3.1
+Canada Bay	2011	4.2
+Canada Bay	2016	4.9
+Leichhardt	2006	3.2
+Leichhardt	2011	4
+Leichhardt	2016	4
+Strathfield - Burwood - Ashfield	2006	5.7
+Strathfield - Burwood - Ashfield	2011	6.2
+Strathfield - Burwood - Ashfield	2016	6.4
+Chatswood - Lane Cove	2006	3.3
+Chatswood - Lane Cove	2011	4.3
+Chatswood - Lane Cove	2016	4.8
+Hornsby	2006	3.7
+Hornsby	2011	4.7
+Hornsby	2016	4.9
+Ku-ring-gai	2006	3.2
+Ku-ring-gai	2011	4.4
+Ku-ring-gai	2016	4.7
+North Sydney - Mosman	2006	2.8
+North Sydney - Mosman	2011	3.7
+North Sydney - Mosman	2016	3.8
+Manly	2006	2.9
+Manly	2011	3.6
+Manly	2016	3.7
+Pittwater	2006	2.7
+Pittwater	2011	3.5
+Pittwater	2016	3.3
+Warringah	2006	2.6
+Warringah	2011	3.5
+Warringah	2016	3.5
+Camden	2006	3.8
+Camden	2011	4
+Camden	2016	4.2
+Campbelltown (NSW)	2006	7.4
+Campbelltown (NSW)	2011	7.4
+Campbelltown (NSW)	2016	7.8
+Wollondilly	2006	4.5
+Wollondilly	2011	4.4
+Wollondilly	2016	4.1
+Blue Mountains	2006	4.9
+Blue Mountains	2011	5
+Blue Mountains	2016	4.7
+Blue Mountains - South	2006	0
+Blue Mountains - South	2011	0
+Blue Mountains - South	2016	0
+Penrith	2006	4.8
+Penrith	2011	5.1
+Penrith	2016	5.3
+Richmond - Windsor	2006	4.8
+Richmond - Windsor	2011	5.4
+Richmond - Windsor	2016	5
+St Marys	2006	6.5
+St Marys	2011	6.5
+St Marys	2016	6.9
+Auburn	2006	9.1
+Auburn	2011	8.6
+Auburn	2016	9.6
+Carlingford	2006	4.8
+Carlingford	2011	5.5
+Carlingford	2016	6.4
+Merrylands - Guildford	2006	8.4
+Merrylands - Guildford	2011	8.3
+Merrylands - Guildford	2016	9.2
+Parramatta	2006	6.1
+Parramatta	2011	6.6
+Parramatta	2016	7.6
+Pennant Hills - Epping	2006	3.7
+Pennant Hills - Epping	2011	5.3
+Pennant Hills - Epping	2016	5.9
+Ryde - Hunters Hill	2006	4.5
+Ryde - Hunters Hill	2011	5.5
+Ryde - Hunters Hill	2016	6.1
+Bringelly - Green Valley	2006	7.1
+Bringelly - Green Valley	2011	7.1
+Bringelly - Green Valley	2016	6.8
+Fairfield	2006	10.4
+Fairfield	2011	9.5
+Fairfield	2016	10.4
+Liverpool	2006	7
+Liverpool	2011	6.9
+Liverpool	2016	7.5
+Cronulla - Miranda - Caringbah	2006	3
+Cronulla - Miranda - Caringbah	2011	3.6
+Cronulla - Miranda - Caringbah	2016	3.6
+Sutherland - Menai - Heathcote	2006	2.8
+Sutherland - Menai - Heathcote	2011	3.5
+Sutherland - Menai - Heathcote	2016	3.5
+Migratory - Offshore - Shipping (NSW)	2006	0
+Migratory - Offshore - Shipping (NSW)	2011	0
+Migratory - Offshore - Shipping (NSW)	2016	3.1
+No usual address (NSW)	2006	20.9
+No usual address (NSW)	2011	22.6
+No usual address (NSW)	2016	22
+Ballarat	2006	6.4
+Ballarat	2011	5.8
+Ballarat	2016	7
+Creswick - Daylesford - Ballan	2006	6.1
+Creswick - Daylesford - Ballan	2011	5
+Creswick - Daylesford - Ballan	2016	5.2
+Maryborough - Pyrenees	2006	8.7
+Maryborough - Pyrenees	2011	6.7
+Maryborough - Pyrenees	2016	7.7
+Bendigo	2006	6.6
+Bendigo	2011	5.3
+Bendigo	2016	6.6
+Heathcote - Castlemaine - Kyneton	2006	5.9
+Heathcote - Castlemaine - Kyneton	2011	4.5
+Heathcote - Castlemaine - Kyneton	2016	5
+Loddon - Elmore	2006	5.7
+Loddon - Elmore	2011	5.5
+Loddon - Elmore	2016	5
+Barwon - West	2006	4.2
+Barwon - West	2011	3.8
+Barwon - West	2016	3.9
+Geelong	2006	6.5
+Geelong	2011	5.7
+Geelong	2016	6.6
+Surf Coast - Bellarine Peninsula	2006	4.5
+Surf Coast - Bellarine Peninsula	2011	4.4
+Surf Coast - Bellarine Peninsula	2016	4.7
+Upper Goulburn Valley	2006	4.7
+Upper Goulburn Valley	2011	4.7
+Upper Goulburn Valley	2016	5
+Wangaratta - Benalla	2006	4.8
+Wangaratta - Benalla	2011	4.7
+Wangaratta - Benalla	2016	4.8
+Wodonga - Alpine	2006	4.7
+Wodonga - Alpine	2011	5
+Wodonga - Alpine	2016	5.2
+Baw Baw	2006	4.9
+Baw Baw	2011	4.9
+Baw Baw	2016	5.5
+Gippsland - East	2006	6.2
+Gippsland - East	2011	5.5
+Gippsland - East	2016	6.4
+Gippsland - South West	2006	5
+Gippsland - South West	2011	4.2
+Gippsland - South West	2016	5.7
+Latrobe Valley	2006	8.4
+Latrobe Valley	2011	7.9
+Latrobe Valley	2016	9.7
+Wellington	2006	5.9
+Wellington	2011	5.2
+Wellington	2016	6.3
+Brunswick - Coburg	2006	5.6
+Brunswick - Coburg	2011	5.7
+Brunswick - Coburg	2016	6.3
+Darebin - South	2006	4.8
+Darebin - South	2011	4.5
+Darebin - South	2016	5.1
+Essendon	2006	5.3
+Essendon	2011	5
+Essendon	2016	6
+Melbourne City	2006	7.6
+Melbourne City	2011	8.2
+Melbourne City	2016	10.9
+Port Phillip	2006	4.4
+Port Phillip	2011	4.3
+Port Phillip	2016	5.1
+Stonnington - West	2006	4.1
+Stonnington - West	2011	4.3
+Stonnington - West	2016	4.9
+Yarra	2006	5.1
+Yarra	2011	4.7
+Yarra	2016	5.2
+Boroondara	2006	3.9
+Boroondara	2011	4.5
+Boroondara	2016	5.6
+Manningham - West	2006	4.5
+Manningham - West	2011	5
+Manningham - West	2016	6.6
+Whitehorse - West	2006	5
+Whitehorse - West	2011	5.8
+Whitehorse - West	2016	7.6
+Bayside	2006	3.3
+Bayside	2011	3.8
+Bayside	2016	4.6
+Glen Eira	2006	4.1
+Glen Eira	2011	4.7
+Glen Eira	2016	5.8
+Kingston	2006	4.1
+Kingston	2011	4.2
+Kingston	2016	5
+Stonnington - East	2006	4.1
+Stonnington - East	2011	4.6
+Stonnington - East	2016	5.8
+Banyule	2006	4.2
+Banyule	2011	4.4
+Banyule	2016	5.5
+Darebin - North	2006	7.7
+Darebin - North	2011	7.3
+Darebin - North	2016	8.5
+Nillumbik - Kinglake	2006	3.1
+Nillumbik - Kinglake	2011	3.6
+Nillumbik - Kinglake	2016	4.3
+Whittlesea - Wallan	2006	5.7
+Whittlesea - Wallan	2011	5.5
+Whittlesea - Wallan	2016	7.1
+Keilor	2006	4.3
+Keilor	2011	4.2
+Keilor	2016	5.1
+Macedon Ranges	2006	3.1
+Macedon Ranges	2011	3.4
+Macedon Ranges	2016	4.4
+Moreland - North	2006	6.7
+Moreland - North	2011	6
+Moreland - North	2016	7.7
+Sunbury	2006	4.5
+Sunbury	2011	4.4
+Sunbury	2016	6.1
+Tullamarine - Broadmeadows	2006	7.9
+Tullamarine - Broadmeadows	2011	7.6
+Tullamarine - Broadmeadows	2016	9.4
+Knox	2006	4.2
+Knox	2011	4.6
+Knox	2016	5.6
+Manningham - East	2006	3.3
+Manningham - East	2011	3.7
+Manningham - East	2016	4.4
+Maroondah	2006	3.9
+Maroondah	2011	4.3
+Maroondah	2016	5.2
+Whitehorse - East	2006	3.9
+Whitehorse - East	2011	4.5
+Whitehorse - East	2016	5.9
+Yarra Ranges	2006	4.1
+Yarra Ranges	2011	4
+Yarra Ranges	2016	4.6
+Cardinia	2006	4.3
+Cardinia	2011	4.6
+Cardinia	2016	5.5
+Casey - North	2006	5.4
+Casey - North	2011	5.8
+Casey - North	2016	7.2
+Casey - South	2006	5.3
+Casey - South	2011	5.9
+Casey - South	2016	7.1
+Dandenong	2006	8.6
+Dandenong	2011	8.2
+Dandenong	2016	9.6
+Monash	2006	5.6
+Monash	2011	6.2
+Monash	2016	8
+Brimbank	2006	9.3
+Brimbank	2011	8.5
+Brimbank	2016	10.6
+Hobsons Bay	2006	5.5
+Hobsons Bay	2011	5.4
+Hobsons Bay	2016	6.3
+Maribyrnong	2006	8.5
+Maribyrnong	2011	7
+Maribyrnong	2016	8.3
+Melton - Bacchus Marsh	2006	5.8
+Melton - Bacchus Marsh	2011	5.9
+Melton - Bacchus Marsh	2016	7.5
+Wyndham	2006	5.6
+Wyndham	2011	6.4
+Wyndham	2016	8.3
+Frankston	2006	6
+Frankston	2011	5.7
+Frankston	2016	6.4
+Mornington Peninsula	2006	4.7
+Mornington Peninsula	2011	4.5
+Mornington Peninsula	2016	4.9
+Grampians	2006	4.9
+Grampians	2011	3.8
+Grampians	2016	5
+Mildura	2006	5.7
+Mildura	2011	6.6
+Mildura	2016	7.3
+Murray River - Swan Hill	2006	4.2
+Murray River - Swan Hill	2011	4.4
+Murray River - Swan Hill	2016	4.8
+Campaspe	2006	4.7
+Campaspe	2011	4.4
+Campaspe	2016	4.9
+Moira	2006	4.7
+Moira	2011	4.8
+Moira	2016	5.1
+Shepparton	2006	6.1
+Shepparton	2011	5.5
+Shepparton	2016	6.4
+Glenelg - Southern Grampians	2006	5.3
+Glenelg - Southern Grampians	2011	4.4
+Glenelg - Southern Grampians	2016	5.2
+Colac - Corangamite	2006	4.2
+Colac - Corangamite	2011	3.4
+Colac - Corangamite	2016	4
+Warrnambool	2006	4.5
+Warrnambool	2011	4.5
+Warrnambool	2016	4.7
+Migratory - Offshore - Shipping (Vic.)	2006	0
+Migratory - Offshore - Shipping (Vic.)	2011	0
+Migratory - Offshore - Shipping (Vic.)	2016	0
+No usual address (Vic.)	2006	18.1
+No usual address (Vic.)	2011	21.9
+No usual address (Vic.)	2016	23.2
+Capalaba	2006	3.9
+Capalaba	2011	5.2
+Capalaba	2016	6
+Cleveland - Stradbroke	2006	4.2
+Cleveland - Stradbroke	2011	5.4
+Cleveland - Stradbroke	2016	6.1
+Wynnum - Manly	2006	4
+Wynnum - Manly	2011	4.9
+Wynnum - Manly	2016	6
+Bald Hills - Everton Park	2006	2.7
+Bald Hills - Everton Park	2011	3.9
+Bald Hills - Everton Park	2016	5.6
+Chermside	2006	3.6
+Chermside	2011	4.9
+Chermside	2016	5.8
+Nundah	2006	3.9
+Nundah	2011	5.2
+Nundah	2016	6.2
+Sandgate	2006	4.1
+Sandgate	2011	5.2
+Sandgate	2016	6.8
+Carindale	2006	3.1
+Carindale	2011	4.1
+Carindale	2016	5.2
+Holland Park - Yeronga	2006	4
+Holland Park - Yeronga	2011	5
+Holland Park - Yeronga	2016	6.5
+Mt Gravatt	2006	4.2
+Mt Gravatt	2011	6
+Mt Gravatt	2016	7.7
+Nathan	2006	4.7
+Nathan	2011	6.3
+Nathan	2016	7.6
+Rocklea - Acacia Ridge	2006	4.4
+Rocklea - Acacia Ridge	2011	5.9
+Rocklea - Acacia Ridge	2016	8.4
+Sunnybank	2006	5.5
+Sunnybank	2011	7.7
+Sunnybank	2016	10
+Centenary	2006	3.2
+Centenary	2011	4.5
+Centenary	2016	5.8
+Kenmore - Brookfield - Moggill	2006	3
+Kenmore - Brookfield - Moggill	2011	4
+Kenmore - Brookfield - Moggill	2016	6
+Sherwood - Indooroopilly	2006	4.9
+Sherwood - Indooroopilly	2011	7.4
+Sherwood - Indooroopilly	2016	9.3
+The Gap - Enoggera	2006	3.2
+The Gap - Enoggera	2011	4.2
+The Gap - Enoggera	2016	5.9
+Brisbane Inner	2006	5.1
+Brisbane Inner	2011	6.3
+Brisbane Inner	2016	7.8
+Brisbane Inner - East	2006	3.3
+Brisbane Inner - East	2011	4
+Brisbane Inner - East	2016	4.8
+Brisbane Inner - North	2006	3.3
+Brisbane Inner - North	2011	4.5
+Brisbane Inner - North	2016	5.8
+Brisbane Inner - West	2006	3.6
+Brisbane Inner - West	2011	4.5
+Brisbane Inner - West	2016	5.9
+Cairns - North	2006	3.6
+Cairns - North	2011	5.3
+Cairns - North	2016	6.2
+Cairns - South	2006	4.7
+Cairns - South	2011	7.5
+Cairns - South	2016	8.6
+Innisfail - Cassowary Coast	2006	4.7
+Innisfail - Cassowary Coast	2011	8.9
+Innisfail - Cassowary Coast	2016	9.4
+Port Douglas - Daintree	2006	2.3
+Port Douglas - Daintree	2011	5.1
+Port Douglas - Daintree	2016	4.9
+Tablelands (East) - Kuranda	2006	5.4
+Tablelands (East) - Kuranda	2011	6.9
+Tablelands (East) - Kuranda	2016	8
+Darling Downs (West) - Maranoa	2006	3.4
+Darling Downs (West) - Maranoa	2011	3.1
+Darling Downs (West) - Maranoa	2016	4.6
+Darling Downs - East	2006	4.3
+Darling Downs - East	2011	3.8
+Darling Downs - East	2016	5.9
+Granite Belt	2006	5
+Granite Belt	2011	5.1
+Granite Belt	2016	6.1
+Central Highlands (Qld)	2006	2.3
+Central Highlands (Qld)	2011	2.9
+Central Highlands (Qld)	2016	5.6
+Rockhampton	2006	5.3
+Rockhampton	2011	5.1
+Rockhampton	2016	8.8
+Biloela	2006	2.3
+Biloela	2011	2.6
+Biloela	2016	4
+Gladstone	2006	5.3
+Gladstone	2011	4.5
+Gladstone	2016	11.1
+Broadbeach - Burleigh	2006	4.9
+Broadbeach - Burleigh	2011	6.6
+Broadbeach - Burleigh	2016	5.7
+Coolangatta	2006	5.7
+Coolangatta	2011	7.9
+Coolangatta	2016	6.4
+Gold Coast - North	2006	5.9
+Gold Coast - North	2011	8.1
+Gold Coast - North	2016	8
+Gold Coast Hinterland	2006	4.2
+Gold Coast Hinterland	2011	6.1
+Gold Coast Hinterland	2016	5.5
+Mudgeeraba - Tallebudgera	2006	4.6
+Mudgeeraba - Tallebudgera	2011	6.5
+Mudgeeraba - Tallebudgera	2016	5.6
+Nerang	2006	5.1
+Nerang	2011	7.5
+Nerang	2016	6.9
+Ormeau - Oxenford	2006	4.6
+Ormeau - Oxenford	2011	6.6
+Ormeau - Oxenford	2016	6.8
+Robina	2006	5.2
+Robina	2011	7.5
+Robina	2016	6.8
+Southport	2006	5.8
+Southport	2011	8.8
+Southport	2016	8.9
+Surfers Paradise	2006	5.3
+Surfers Paradise	2011	8.1
+Surfers Paradise	2016	7.8
+Forest Lake - Oxley	2006	5.6
+Forest Lake - Oxley	2011	7.6
+Forest Lake - Oxley	2016	10
+Ipswich Hinterland	2006	5
+Ipswich Hinterland	2011	6.3
+Ipswich Hinterland	2016	7.6
+Ipswich Inner	2006	5.1
+Ipswich Inner	2011	7.1
+Ipswich Inner	2016	8.6
+Springfield - Redbank	2006	5.2
+Springfield - Redbank	2011	7.4
+Springfield - Redbank	2016	9.4
+Beaudesert	2006	4.5
+Beaudesert	2011	6.7
+Beaudesert	2016	7.7
+Beenleigh	2006	6.2
+Beenleigh	2011	8.2
+Beenleigh	2016	10.2
+Browns Plains	2006	5.7
+Browns Plains	2011	7.2
+Browns Plains	2016	9.2
+Jimboomba	2006	3.6
+Jimboomba	2011	5.4
+Jimboomba	2016	6.1
+Loganlea - Carbrook	2006	4.7
+Loganlea - Carbrook	2011	6.3
+Loganlea - Carbrook	2016	7.7
+Springwood - Kingston	2006	6.5
+Springwood - Kingston	2011	8.2
+Springwood - Kingston	2016	10.7
+Bowen Basin - North	2006	3
+Bowen Basin - North	2011	2.9
+Bowen Basin - North	2016	6.1
+Mackay	2006	3.8
+Mackay	2011	3.6
+Mackay	2016	8.6
+Whitsunday	2006	3.1
+Whitsunday	2011	4.7
+Whitsunday	2016	5.8
+Bribie - Beachmere	2006	7.2
+Bribie - Beachmere	2011	8.4
+Bribie - Beachmere	2016	9.5
+Caboolture	2006	6.7
+Caboolture	2011	8.8
+Caboolture	2016	10.7
+Caboolture Hinterland	2006	4.6
+Caboolture Hinterland	2011	5
+Caboolture Hinterland	2016	6.4
+Narangba - Burpengary	2006	5.2
+Narangba - Burpengary	2011	6.6
+Narangba - Burpengary	2016	8.2
+Redcliffe	2006	6
+Redcliffe	2011	7
+Redcliffe	2016	8.4
+The Hills District	2006	2.5
+The Hills District	2011	3.9
+The Hills District	2016	4.8
+North Lakes	2006	3.9
+North Lakes	2011	5.3
+North Lakes	2016	7.6
+Strathpine	2006	4.5
+Strathpine	2011	6.2
+Strathpine	2016	8.1
+Far North	2006	4.4
+Far North	2011	7.9
+Far North	2016	12.4
+Outback - North	2006	3.7
+Outback - North	2011	4.7
+Outback - North	2016	6.5
+Outback - South	2006	3.3
+Outback - South	2011	3.3
+Outback - South	2016	4
+Buderim	2006	5.3
+Buderim	2011	6.6
+Buderim	2016	7.4
+Caloundra	2006	5.8
+Caloundra	2011	7.1
+Caloundra	2016	7
+Maroochy	2006	6.2
+Maroochy	2011	7.6
+Maroochy	2016	7.1
+Noosa	2006	5.8
+Noosa	2011	7.1
+Noosa	2016	6.4
+Sunshine Coast Hinterland	2006	5.2
+Sunshine Coast Hinterland	2011	6.4
+Sunshine Coast Hinterland	2016	6.9
+Nambour	2006	5.7
+Nambour	2011	7.3
+Nambour	2016	7.6
+Noosa Hinterland	2006	6.7
+Noosa Hinterland	2011	7.5
+Noosa Hinterland	2016	6.9
+Toowoomba	2006	4.5
+Toowoomba	2011	5
+Toowoomba	2016	7
+Charters Towers - Ayr - Ingham	2006	4.5
+Charters Towers - Ayr - Ingham	2011	5.2
+Charters Towers - Ayr - Ingham	2016	7.5
+Townsville	2006	4.4
+Townsville	2011	5.1
+Townsville	2016	8.9
+Bundaberg	2006	7.6
+Bundaberg	2011	8.8
+Bundaberg	2016	10.4
+Burnett	2006	5.7
+Burnett	2011	6.9
+Burnett	2016	8
+Gympie - Cooloola	2006	7.7
+Gympie - Cooloola	2011	7.7
+Gympie - Cooloola	2016	9.7
+Hervey Bay	2006	8.5
+Hervey Bay	2011	11.4
+Hervey Bay	2016	11.7
+Maryborough	2006	8.3
+Maryborough	2011	9.4
+Maryborough	2016	12.5
+Migratory - Offshore - Shipping (Qld)	2006	4.9
+Migratory - Offshore - Shipping (Qld)	2011	2.4
+Migratory - Offshore - Shipping (Qld)	2016	5.9
+No usual address (Qld)	2006	17.8
+No usual address (Qld)	2011	21.3
+No usual address (Qld)	2016	24.2
+Adelaide City	2006	7.9
+Adelaide City	2011	9.1
+Adelaide City	2016	11.9
+Adelaide Hills	2006	3.4
+Adelaide Hills	2011	4
+Adelaide Hills	2016	4.8
+Burnside	2006	3.6
+Burnside	2011	4.4
+Burnside	2016	5.9
+Campbelltown (SA)	2006	4.5
+Campbelltown (SA)	2011	5.2
+Campbelltown (SA)	2016	6.9
+Norwood - Payneham - St Peters	2006	4.4
+Norwood - Payneham - St Peters	2011	5.2
+Norwood - Payneham - St Peters	2016	6.7
+Prospect - Walkerville	2006	4.2
+Prospect - Walkerville	2011	4.5
+Prospect - Walkerville	2016	6.3
+Unley	2006	3.9
+Unley	2011	4.7
+Unley	2016	5.8
+Gawler - Two Wells	2006	5
+Gawler - Two Wells	2011	5.3
+Gawler - Two Wells	2016	7.6
+Playford	2006	8.5
+Playford	2011	9.5
+Playford	2016	12.7
+Port Adelaide - East	2006	6.8
+Port Adelaide - East	2011	6.8
+Port Adelaide - East	2016	9.4
+Salisbury	2006	5.8
+Salisbury	2011	7.2
+Salisbury	2016	10
+Tea Tree Gully	2006	4
+Tea Tree Gully	2011	4.7
+Tea Tree Gully	2016	6.4
+Holdfast Bay	2006	4.2
+Holdfast Bay	2011	4.6
+Holdfast Bay	2016	5.6
+Marion	2006	5
+Marion	2011	5.4
+Marion	2016	7
+Mitcham	2006	3.8
+Mitcham	2011	4.4
+Mitcham	2016	6
+Onkaparinga	2006	5.6
+Onkaparinga	2011	5.9
+Onkaparinga	2016	7.6
+Charles Sturt	2006	5.3
+Charles Sturt	2011	5.6
+Charles Sturt	2016	7.1
+Port Adelaide - West	2006	6.9
+Port Adelaide - West	2011	6.7
+Port Adelaide - West	2016	9.3
+West Torrens	2006	5.5
+West Torrens	2011	5.7
+West Torrens	2016	7.5
+Barossa	2006	3.8
+Barossa	2011	4
+Barossa	2016	5
+Lower North	2006	4
+Lower North	2011	4.1
+Lower North	2016	5.1
+Mid North	2006	8.3
+Mid North	2011	6.3
+Mid North	2016	9
+Yorke Peninsula	2006	7.1
+Yorke Peninsula	2011	5.7
+Yorke Peninsula	2016	7.4
+Eyre Peninsula and South West	2006	5.9
+Eyre Peninsula and South West	2011	5.8
+Eyre Peninsula and South West	2016	7.7
+Outback - North and East	2006	5.6
+Outback - North and East	2011	5.1
+Outback - North and East	2016	8.6
+Fleurieu - Kangaroo Island	2006	5.2
+Fleurieu - Kangaroo Island	2011	5.8
+Fleurieu - Kangaroo Island	2016	6.1
+Limestone Coast	2006	4.9
+Limestone Coast	2011	5.3
+Limestone Coast	2016	5.2
+Murray and Mallee	2006	5.2
+Murray and Mallee	2011	6.1
+Murray and Mallee	2016	6.8
+Migratory - Offshore - Shipping (SA)	2006	0
+Migratory - Offshore - Shipping (SA)	2011	0
+Migratory - Offshore - Shipping (SA)	2016	0
+No usual address (SA)	2006	19.4
+No usual address (SA)	2011	21.6
+No usual address (SA)	2016	29
+Augusta - Margaret River - Busselton	2006	3.3
+Augusta - Margaret River - Busselton	2011	4.6
+Augusta - Margaret River - Busselton	2016	5.4
+Bunbury	2006	4
+Bunbury	2011	4.8
+Bunbury	2016	8.1
+Manjimup	2006	3.3
+Manjimup	2011	4.2
+Manjimup	2016	5.7
+Mandurah	2006	5.4
+Mandurah	2011	6.9
+Mandurah	2016	10.7
+Cottesloe - Claremont	2006	3.2
+Cottesloe - Claremont	2011	4
+Cottesloe - Claremont	2016	6.3
+Perth City	2006	3.5
+Perth City	2011	4.1
+Perth City	2016	6.7
+Bayswater - Bassendean	2006	3.7
+Bayswater - Bassendean	2011	4.6
+Bayswater - Bassendean	2016	7.8
+Mundaring	2006	3.3
+Mundaring	2011	4.2
+Mundaring	2016	7.3
+Swan	2006	3.5
+Swan	2011	4.7
+Swan	2016	8.2
+Joondalup	2006	2.9
+Joondalup	2011	3.9
+Joondalup	2016	6.9
+Stirling	2006	3.6
+Stirling	2011	4.4
+Stirling	2016	7.3
+Wanneroo	2006	4
+Wanneroo	2011	4.9
+Wanneroo	2016	8.5
+Armadale	2006	4.4
+Armadale	2011	5.4
+Armadale	2016	9.2
+Belmont - Victoria Park	2006	4.3
+Belmont - Victoria Park	2011	5.1
+Belmont - Victoria Park	2016	8.5
+Canning	2006	4.2
+Canning	2011	5.7
+Canning	2016	10.3
+Gosnells	2006	3.8
+Gosnells	2011	5.5
+Gosnells	2016	9.7
+Kalamunda	2006	2.7
+Kalamunda	2011	3.7
+Kalamunda	2016	7.1
+Serpentine - Jarrahdale	2006	2.5
+Serpentine - Jarrahdale	2011	3.9
+Serpentine - Jarrahdale	2016	7.1
+South Perth	2006	3.8
+South Perth	2011	4.6
+South Perth	2016	7.2
+Cockburn	2006	3.3
+Cockburn	2011	4.3
+Cockburn	2016	7.6
+Fremantle	2006	4.1
+Fremantle	2011	4.6
+Fremantle	2016	7
+Kwinana	2006	5.8
+Kwinana	2011	6.7
+Kwinana	2016	10.8
+Melville	2006	3
+Melville	2011	4.1
+Melville	2016	6.8
+Rockingham	2006	4.7
+Rockingham	2011	5.9
+Rockingham	2016	9.8
+Albany	2006	3.9
+Albany	2011	4.9
+Albany	2016	5
+Wheat Belt - North	2006	4.3
+Wheat Belt - North	2011	4.5
+Wheat Belt - North	2016	6.1
+Wheat Belt - South	2006	3.1
+Wheat Belt - South	2011	4
+Wheat Belt - South	2016	4.9
+Kimberley	2006	3.8
+Kimberley	2011	5.4
+Kimberley	2016	8.7
+East Pilbara	2006	4
+East Pilbara	2011	2.9
+East Pilbara	2016	4.8
+West Pilbara	2006	2.7
+West Pilbara	2011	2.2
+West Pilbara	2016	4.3
+Esperance	2006	3.9
+Esperance	2011	4.2
+Esperance	2016	4.7
+Gascoyne	2006	3.1
+Gascoyne	2011	4.4
+Gascoyne	2016	5.8
+Goldfields	2006	3.6
+Goldfields	2011	4.4
+Goldfields	2016	6.6
+Mid West	2006	5.6
+Mid West	2011	5.2
+Mid West	2016	8.2
+Migratory - Offshore - Shipping (WA)	2006	0
+Migratory - Offshore - Shipping (WA)	2011	0.9
+Migratory - Offshore - Shipping (WA)	2016	0
+No usual address (WA)	2006	14.9
+No usual address (WA)	2011	15.2
+No usual address (WA)	2016	20
+Brighton	2006	8.5
+Brighton	2011	7.2
+Brighton	2016	7.8
+Hobart - North East	2006	5.4
+Hobart - North East	2011	5
+Hobart - North East	2016	5.2
+Hobart - North West	2006	7
+Hobart - North West	2011	7
+Hobart - North West	2016	7.9
+Hobart - South and West	2006	4.3
+Hobart - South and West	2011	4.4
+Hobart - South and West	2016	5.1
+Hobart Inner	2006	5.5
+Hobart Inner	2011	5.5
+Hobart Inner	2016	6.7
+Sorell - Dodges Ferry	2006	6.1
+Sorell - Dodges Ferry	2011	6.1
+Sorell - Dodges Ferry	2016	6.3
+Launceston	2006	6.4
+Launceston	2011	6.7
+Launceston	2016	7.7
+Meander Valley - West Tamar	2006	6.1
+Meander Valley - West Tamar	2011	5.9
+Meander Valley - West Tamar	2016	6.6
+North East	2006	6.6
+North East	2011	7.5
+North East	2016	8.1
+Central Highlands (Tas.)	2006	7.2
+Central Highlands (Tas.)	2011	6.8
+Central Highlands (Tas.)	2016	6.7
+Huon - Bruny Island	2006	7.2
+Huon - Bruny Island	2011	6.6
+Huon - Bruny Island	2016	6.3
+South East Coast	2006	6.7
+South East Coast	2011	7.5
+South East Coast	2016	5.7
+Burnie - Ulverstone	2006	8.4
+Burnie - Ulverstone	2011	7.5
+Burnie - Ulverstone	2016	8
+Devonport	2006	8.3
+Devonport	2011	7
+Devonport	2016	7.5
+West Coast	2006	6
+West Coast	2011	5.6
+West Coast	2016	7
+Migratory - Offshore - Shipping (Tas.)	2006	0
+Migratory - Offshore - Shipping (Tas.)	2011	7.3
+Migratory - Offshore - Shipping (Tas.)	2016	0
+No usual address (Tas.)	2006	27.6
+No usual address (Tas.)	2011	27.3
+No usual address (Tas.)	2016	27.5
+Darwin City	2006	3
+Darwin City	2011	3
+Darwin City	2016	3.9
+Darwin Suburbs	2006	3.7
+Darwin Suburbs	2011	3.9
+Darwin Suburbs	2016	5
+Litchfield	2006	2.9
+Litchfield	2011	3.4
+Litchfield	2016	3.9
+Palmerston	2006	3.8
+Palmerston	2011	3.7
+Palmerston	2016	5.1
+Alice Springs	2006	4.8
+Alice Springs	2011	5.1
+Alice Springs	2016	9.6
+Barkly	2006	6.3
+Barkly	2011	8.7
+Barkly	2016	14
+Daly - Tiwi - West Arnhem	2006	6.4
+Daly - Tiwi - West Arnhem	2011	12.4
+Daly - Tiwi - West Arnhem	2016	21.2
+East Arnhem	2006	7.9
+East Arnhem	2011	10.2
+East Arnhem	2016	13.7
+Katherine	2006	5.7
+Katherine	2011	9.6
+Katherine	2016	8.7
+Migratory - Offshore - Shipping (NT)	2006	0
+Migratory - Offshore - Shipping (NT)	2011	3.6
+Migratory - Offshore - Shipping (NT)	2016	0
+No usual address (NT)	2006	12.4
+No usual address (NT)	2011	13.5
+No usual address (NT)	2016	11.7
+Belconnen	2006	3.6
+Belconnen	2011	3.8
+Belconnen	2016	5
+Canberra East	2006	5.2
+Canberra East	2011	5.9
+Canberra East	2016	7.5
+Gungahlin	2006	2.5
+Gungahlin	2011	3.1
+Gungahlin	2016	4.4
+North Canberra	2006	4.5
+North Canberra	2011	5.1
+North Canberra	2016	6.3
+South Canberra	2006	3.2
+South Canberra	2011	3.3
+South Canberra	2016	4
+Tuggeranong	2006	3.2
+Tuggeranong	2011	3.1
+Tuggeranong	2016	4.3
+Weston Creek	2006	2.9
+Weston Creek	2011	3.1
+Weston Creek	2016	4
+Woden Valley	2006	3
+Woden Valley	2011	3.3
+Woden Valley	2016	4.3
+Molonglo	2006	0
+Molonglo	2011	0
+Molonglo	2016	2.6
+Urriarra - Namadgi	2006	2.3
+Urriarra - Namadgi	2011	1.6
+Urriarra - Namadgi	2016	2
+Migratory - Offshore - Shipping (ACT)	2006	0
+Migratory - Offshore - Shipping (ACT)	2011	0
+Migratory - Offshore - Shipping (ACT)	2016	0
+No usual address (ACT)	2006	14.2
+No usual address (ACT)	2011	17.8
+No usual address (ACT)	2016	17.7
+Christmas Island	2006	4.8
+Christmas Island	2011	1.2
+Christmas Island	2016	1.9
+Cocos (Keeling) Islands	2006	10.9
+Cocos (Keeling) Islands	2011	6.6
+Cocos (Keeling) Islands	2016	3.8
+Jervis Bay	2006	7.3
+Jervis Bay	2011	12.9
+Jervis Bay	2016	8.9
+Norfolk Island	2006	0
+Norfolk Island	2011	0
+Norfolk Island	2016	1.6
+Migratory - Offshore - Shipping (OT)	2006	0
+Migratory - Offshore - Shipping (OT)	2011	0
+Migratory - Offshore - Shipping (OT)	2016	0
+No usual address (OT)	2006	0
+No usual address (OT)	2011	0
+No usual address (OT)	2016	16.7

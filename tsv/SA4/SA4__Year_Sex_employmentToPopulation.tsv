@@ -1,0 +1,643 @@
+SA4_NAME16	Year	Sex	employmentToPopulation
+Capital Region	2006	F	51
+Capital Region	2006	M	60
+Capital Region	2011	F	52.7
+Capital Region	2011	M	60
+Capital Region	2016	F	51.5
+Capital Region	2016	M	56.7
+Central Coast	2006	F	45.5
+Central Coast	2006	M	56.9
+Central Coast	2011	F	47.3
+Central Coast	2011	M	57.4
+Central Coast	2016	F	48.3
+Central Coast	2016	M	56.5
+Central West	2006	F	48.8
+Central West	2006	M	60.1
+Central West	2011	F	50.2
+Central West	2011	M	60
+Central West	2016	F	49
+Central West	2016	M	55.5
+Coffs Harbour - Grafton	2006	F	43.2
+Coffs Harbour - Grafton	2006	M	51
+Coffs Harbour - Grafton	2011	F	44.9
+Coffs Harbour - Grafton	2011	M	50.8
+Coffs Harbour - Grafton	2016	F	44.2
+Coffs Harbour - Grafton	2016	M	48.5
+Far West and Orana	2006	F	48.1
+Far West and Orana	2006	M	58.6
+Far West and Orana	2011	F	49.9
+Far West and Orana	2011	M	57.9
+Far West and Orana	2016	F	48.5
+Far West and Orana	2016	M	54
+Hunter Valley exc Newcastle	2006	F	47
+Hunter Valley exc Newcastle	2006	M	61.3
+Hunter Valley exc Newcastle	2011	F	49.4
+Hunter Valley exc Newcastle	2011	M	62.4
+Hunter Valley exc Newcastle	2016	F	48.6
+Hunter Valley exc Newcastle	2016	M	57.2
+Illawarra	2006	F	46.6
+Illawarra	2006	M	58.9
+Illawarra	2011	F	48.6
+Illawarra	2011	M	58.6
+Illawarra	2016	F	49.7
+Illawarra	2016	M	56.7
+Mid North Coast	2006	F	39.2
+Mid North Coast	2006	M	46.8
+Mid North Coast	2011	F	40.5
+Mid North Coast	2011	M	46
+Mid North Coast	2016	F	40
+Mid North Coast	2016	M	43.7
+Murray	2006	F	51.1
+Murray	2006	M	63.8
+Murray	2011	F	51.2
+Murray	2011	M	61
+Murray	2016	F	49.7
+Murray	2016	M	56.6
+New England and North West	2006	F	47.8
+New England and North West	2006	M	59.9
+New England and North West	2011	F	49.3
+New England and North West	2011	M	59.1
+New England and North West	2016	F	48.3
+New England and North West	2016	M	56
+Newcastle and Lake Macquarie	2006	F	47.4
+Newcastle and Lake Macquarie	2006	M	57.8
+Newcastle and Lake Macquarie	2011	F	51
+Newcastle and Lake Macquarie	2011	M	60
+Newcastle and Lake Macquarie	2016	F	51.5
+Newcastle and Lake Macquarie	2016	M	57.2
+Richmond - Tweed	2006	F	44.5
+Richmond - Tweed	2006	M	53.5
+Richmond - Tweed	2011	F	46.5
+Richmond - Tweed	2011	M	53
+Richmond - Tweed	2016	F	46.2
+Richmond - Tweed	2016	M	51.1
+Riverina	2006	F	51.7
+Riverina	2006	M	64.5
+Riverina	2011	F	52.3
+Riverina	2011	M	63.5
+Riverina	2016	F	51.8
+Riverina	2016	M	59.5
+Southern Highlands and Shoalhaven	2006	F	42.4
+Southern Highlands and Shoalhaven	2006	M	52.3
+Southern Highlands and Shoalhaven	2011	F	43.6
+Southern Highlands and Shoalhaven	2011	M	51.4
+Southern Highlands and Shoalhaven	2016	F	43.4
+Southern Highlands and Shoalhaven	2016	M	49.6
+Sydney - Baulkham Hills and Hawkesbury	2006	F	60.8
+Sydney - Baulkham Hills and Hawkesbury	2006	M	73.3
+Sydney - Baulkham Hills and Hawkesbury	2011	F	60.1
+Sydney - Baulkham Hills and Hawkesbury	2011	M	71.1
+Sydney - Baulkham Hills and Hawkesbury	2016	F	58.9
+Sydney - Baulkham Hills and Hawkesbury	2016	M	68.9
+Sydney - Blacktown	2006	F	50.5
+Sydney - Blacktown	2006	M	65.2
+Sydney - Blacktown	2011	F	51.6
+Sydney - Blacktown	2011	M	65.2
+Sydney - Blacktown	2016	F	52.2
+Sydney - Blacktown	2016	M	64.4
+Sydney - City and Inner South	2006	F	52.7
+Sydney - City and Inner South	2006	M	57.4
+Sydney - City and Inner South	2011	F	58.7
+Sydney - City and Inner South	2011	M	63.9
+Sydney - City and Inner South	2016	F	58.7
+Sydney - City and Inner South	2016	M	63.5
+Sydney - Eastern Suburbs	2006	F	55
+Sydney - Eastern Suburbs	2006	M	61.7
+Sydney - Eastern Suburbs	2011	F	56.6
+Sydney - Eastern Suburbs	2011	M	63.3
+Sydney - Eastern Suburbs	2016	F	57.4
+Sydney - Eastern Suburbs	2016	M	62.9
+Sydney - Inner South West	2006	F	44.8
+Sydney - Inner South West	2006	M	59.2
+Sydney - Inner South West	2011	F	46
+Sydney - Inner South West	2011	M	59.3
+Sydney - Inner South West	2016	F	47.4
+Sydney - Inner South West	2016	M	59.4
+Sydney - Inner West	2006	F	55.8
+Sydney - Inner West	2006	M	64.4
+Sydney - Inner West	2011	F	57.2
+Sydney - Inner West	2011	M	65.5
+Sydney - Inner West	2016	F	56.9
+Sydney - Inner West	2016	M	64.9
+Sydney - North Sydney and Hornsby	2006	F	56.4
+Sydney - North Sydney and Hornsby	2006	M	69.1
+Sydney - North Sydney and Hornsby	2011	F	57
+Sydney - North Sydney and Hornsby	2011	M	68.7
+Sydney - North Sydney and Hornsby	2016	F	57.5
+Sydney - North Sydney and Hornsby	2016	M	67.6
+Sydney - Northern Beaches	2006	F	57.8
+Sydney - Northern Beaches	2006	M	69.2
+Sydney - Northern Beaches	2011	F	58.8
+Sydney - Northern Beaches	2011	M	69.4
+Sydney - Northern Beaches	2016	F	59.8
+Sydney - Northern Beaches	2016	M	68.3
+Sydney - Outer South West	2006	F	53.5
+Sydney - Outer South West	2006	M	68.2
+Sydney - Outer South West	2011	F	54
+Sydney - Outer South West	2011	M	67.2
+Sydney - Outer South West	2016	F	54
+Sydney - Outer South West	2016	M	65.7
+Sydney - Outer West and Blue Mountains	2006	F	55.4
+Sydney - Outer West and Blue Mountains	2006	M	68.9
+Sydney - Outer West and Blue Mountains	2011	F	55.7
+Sydney - Outer West and Blue Mountains	2011	M	67.2
+Sydney - Outer West and Blue Mountains	2016	F	55.5
+Sydney - Outer West and Blue Mountains	2016	M	65.2
+Sydney - Parramatta	2006	F	45.2
+Sydney - Parramatta	2006	M	58.4
+Sydney - Parramatta	2011	F	46.1
+Sydney - Parramatta	2011	M	59.5
+Sydney - Parramatta	2016	F	46.7
+Sydney - Parramatta	2016	M	59.5
+Sydney - Ryde	2006	F	53.1
+Sydney - Ryde	2006	M	63.8
+Sydney - Ryde	2011	F	53.6
+Sydney - Ryde	2011	M	64.2
+Sydney - Ryde	2016	F	54.2
+Sydney - Ryde	2016	M	63.3
+Sydney - South West	2006	F	42.8
+Sydney - South West	2006	M	59.4
+Sydney - South West	2011	F	43.3
+Sydney - South West	2011	M	57.8
+Sydney - South West	2016	F	43.8
+Sydney - South West	2016	M	56.4
+Sydney - Sutherland	2006	F	59.3
+Sydney - Sutherland	2006	M	70.9
+Sydney - Sutherland	2011	F	60
+Sydney - Sutherland	2011	M	69.9
+Sydney - Sutherland	2016	F	59.7
+Sydney - Sutherland	2016	M	68.1
+Migratory - Offshore - Shipping (NSW)	2006	F	71.4
+Migratory - Offshore - Shipping (NSW)	2006	M	81.1
+Migratory - Offshore - Shipping (NSW)	2011	F	12.7
+Migratory - Offshore - Shipping (NSW)	2011	M	41.2
+Migratory - Offshore - Shipping (NSW)	2016	F	31.4
+Migratory - Offshore - Shipping (NSW)	2016	M	36.3
+No usual address (NSW)	2006	F	34
+No usual address (NSW)	2006	M	40.7
+No usual address (NSW)	2011	F	30.3
+No usual address (NSW)	2011	M	31.8
+No usual address (NSW)	2016	F	28.1
+No usual address (NSW)	2016	M	29.3
+Ballarat	2006	F	47.6
+Ballarat	2006	M	59.5
+Ballarat	2011	F	50
+Ballarat	2011	M	59.4
+Ballarat	2016	F	49.2
+Ballarat	2016	M	56
+Bendigo	2006	F	49.3
+Bendigo	2006	M	60
+Bendigo	2011	F	51.1
+Bendigo	2011	M	60.3
+Bendigo	2016	F	50.1
+Bendigo	2016	M	56.6
+Geelong	2006	F	48.6
+Geelong	2006	M	61.4
+Geelong	2011	F	51.3
+Geelong	2011	M	61.8
+Geelong	2016	F	51.5
+Geelong	2016	M	58.9
+Hume	2006	F	51.6
+Hume	2006	M	64
+Hume	2011	F	52
+Hume	2011	M	62.3
+Hume	2016	F	50.3
+Hume	2016	M	57.9
+Latrobe - Gippsland	2006	F	46.3
+Latrobe - Gippsland	2006	M	57.9
+Latrobe - Gippsland	2011	F	47.8
+Latrobe - Gippsland	2011	M	58
+Latrobe - Gippsland	2016	F	46.1
+Latrobe - Gippsland	2016	M	52.9
+Melbourne - Inner	2006	F	56.7
+Melbourne - Inner	2006	M	61.8
+Melbourne - Inner	2011	F	60.1
+Melbourne - Inner	2011	M	65.6
+Melbourne - Inner	2016	F	58.5
+Melbourne - Inner	2016	M	63.9
+Melbourne - Inner East	2006	F	52.7
+Melbourne - Inner East	2006	M	64.7
+Melbourne - Inner East	2011	F	53
+Melbourne - Inner East	2011	M	63.6
+Melbourne - Inner East	2016	F	51.8
+Melbourne - Inner East	2016	M	61
+Melbourne - Inner South	2006	F	53.3
+Melbourne - Inner South	2006	M	65.7
+Melbourne - Inner South	2011	F	55.6
+Melbourne - Inner South	2011	M	66.7
+Melbourne - Inner South	2016	F	55.6
+Melbourne - Inner South	2016	M	65
+Melbourne - North East	2006	F	51.7
+Melbourne - North East	2006	M	64.1
+Melbourne - North East	2011	F	53.6
+Melbourne - North East	2011	M	64.8
+Melbourne - North East	2016	F	53.3
+Melbourne - North East	2016	M	62.9
+Melbourne - North West	2006	F	46.8
+Melbourne - North West	2006	M	61.5
+Melbourne - North West	2011	F	48.4
+Melbourne - North West	2011	M	62
+Melbourne - North West	2016	F	48.4
+Melbourne - North West	2016	M	60.2
+Melbourne - Outer East	2006	F	56.5
+Melbourne - Outer East	2006	M	69.9
+Melbourne - Outer East	2011	F	57.3
+Melbourne - Outer East	2011	M	69.1
+Melbourne - Outer East	2016	F	56
+Melbourne - Outer East	2016	M	65.8
+Melbourne - South East	2006	F	49.5
+Melbourne - South East	2006	M	63.7
+Melbourne - South East	2011	F	50.3
+Melbourne - South East	2011	M	63.9
+Melbourne - South East	2016	F	49.5
+Melbourne - South East	2016	M	61.5
+Melbourne - West	2006	F	49.5
+Melbourne - West	2006	M	63.3
+Melbourne - West	2011	F	51.3
+Melbourne - West	2011	M	64.5
+Melbourne - West	2016	F	51.1
+Melbourne - West	2016	M	63
+Mornington Peninsula	2006	F	48.3
+Mornington Peninsula	2006	M	61.8
+Mornington Peninsula	2011	F	50.6
+Mornington Peninsula	2011	M	62.7
+Mornington Peninsula	2016	F	50.7
+Mornington Peninsula	2016	M	60.1
+North West	2006	F	49
+North West	2006	M	61.8
+North West	2011	F	48.6
+North West	2011	M	59.4
+North West	2016	F	47.8
+North West	2016	M	55
+Shepparton	2006	F	50.2
+Shepparton	2006	M	62.3
+Shepparton	2011	F	49.9
+Shepparton	2011	M	59.6
+Shepparton	2016	F	48.3
+Shepparton	2016	M	55.6
+Warrnambool and South West	2006	F	51.4
+Warrnambool and South West	2006	M	65.3
+Warrnambool and South West	2011	F	52.8
+Warrnambool and South West	2011	M	64
+Warrnambool and South West	2016	F	51
+Warrnambool and South West	2016	M	59.7
+Migratory - Offshore - Shipping (Vic.)	2006	F	0
+Migratory - Offshore - Shipping (Vic.)	2006	M	73.5
+Migratory - Offshore - Shipping (Vic.)	2011	F	0
+Migratory - Offshore - Shipping (Vic.)	2011	M	94.4
+Migratory - Offshore - Shipping (Vic.)	2016	F	0
+Migratory - Offshore - Shipping (Vic.)	2016	M	70.4
+No usual address (Vic.)	2006	F	39.7
+No usual address (Vic.)	2006	M	47.5
+No usual address (Vic.)	2011	F	33.1
+No usual address (Vic.)	2011	M	34.8
+No usual address (Vic.)	2016	F	27.4
+No usual address (Vic.)	2016	M	31.5
+Brisbane - East	2006	F	55.4
+Brisbane - East	2006	M	68.1
+Brisbane - East	2011	F	57.6
+Brisbane - East	2011	M	67.4
+Brisbane - East	2016	F	56.7
+Brisbane - East	2016	M	63.9
+Brisbane - North	2006	F	55.4
+Brisbane - North	2006	M	67.5
+Brisbane - North	2011	F	58.1
+Brisbane - North	2011	M	67.4
+Brisbane - North	2016	F	58.1
+Brisbane - North	2016	M	65.7
+Brisbane - South	2006	F	57
+Brisbane - South	2006	M	67.5
+Brisbane - South	2011	F	57.4
+Brisbane - South	2011	M	66.4
+Brisbane - South	2016	F	56.1
+Brisbane - South	2016	M	64.1
+Brisbane - West	2006	F	59.1
+Brisbane - West	2006	M	70
+Brisbane - West	2011	F	58.8
+Brisbane - West	2011	M	68.4
+Brisbane - West	2016	F	57
+Brisbane - West	2016	M	64.5
+Brisbane Inner City	2006	F	61.6
+Brisbane Inner City	2006	M	67.2
+Brisbane Inner City	2011	F	64.6
+Brisbane Inner City	2011	M	69.8
+Brisbane Inner City	2016	F	62.8
+Brisbane Inner City	2016	M	67.5
+Cairns	2006	F	55.7
+Cairns	2006	M	64.8
+Cairns	2011	F	55.1
+Cairns	2011	M	61.6
+Cairns	2016	F	53.4
+Cairns	2016	M	56.9
+Darling Downs - Maranoa	2006	F	52.3
+Darling Downs - Maranoa	2006	M	66.6
+Darling Downs - Maranoa	2011	F	52.2
+Darling Downs - Maranoa	2011	M	64.4
+Darling Downs - Maranoa	2016	F	50.1
+Darling Downs - Maranoa	2016	M	59.2
+Central Queensland	2006	F	52.8
+Central Queensland	2006	M	67.1
+Central Queensland	2011	F	55.3
+Central Queensland	2011	M	67.4
+Central Queensland	2016	F	52.6
+Central Queensland	2016	M	60.2
+Gold Coast	2006	F	52
+Gold Coast	2006	M	62.3
+Gold Coast	2011	F	53.4
+Gold Coast	2011	M	61.9
+Gold Coast	2016	F	53.7
+Gold Coast	2016	M	61
+Ipswich	2006	F	50.5
+Ipswich	2006	M	63.4
+Ipswich	2011	F	51.6
+Ipswich	2011	M	61.8
+Ipswich	2016	F	50.6
+Ipswich	2016	M	58.1
+Logan - Beaudesert	2006	F	53.3
+Logan - Beaudesert	2006	M	68
+Logan - Beaudesert	2011	F	53.6
+Logan - Beaudesert	2011	M	65.3
+Logan - Beaudesert	2016	F	50.8
+Logan - Beaudesert	2016	M	61.1
+Mackay - Isaac - Whitsunday	2006	F	54.8
+Mackay - Isaac - Whitsunday	2006	M	68.7
+Mackay - Isaac - Whitsunday	2011	F	58.2
+Mackay - Isaac - Whitsunday	2011	M	70.5
+Mackay - Isaac - Whitsunday	2016	F	54.2
+Mackay - Isaac - Whitsunday	2016	M	62.2
+Moreton Bay - North	2006	F	46.4
+Moreton Bay - North	2006	M	58.6
+Moreton Bay - North	2011	F	48
+Moreton Bay - North	2011	M	57.7
+Moreton Bay - North	2016	F	46.3
+Moreton Bay - North	2016	M	53.9
+Moreton Bay - South	2006	F	62
+Moreton Bay - South	2006	M	74.9
+Moreton Bay - South	2011	F	62.3
+Moreton Bay - South	2011	M	73.1
+Moreton Bay - South	2016	F	60.1
+Moreton Bay - South	2016	M	68.7
+Queensland - Outback	2006	F	57.1
+Queensland - Outback	2006	M	67.4
+Queensland - Outback	2011	F	55.7
+Queensland - Outback	2011	M	62.9
+Queensland - Outback	2016	F	53.3
+Queensland - Outback	2016	M	57.2
+Sunshine Coast	2006	F	48.9
+Sunshine Coast	2006	M	59.1
+Sunshine Coast	2011	F	50.5
+Sunshine Coast	2011	M	58.4
+Sunshine Coast	2016	F	50.3
+Sunshine Coast	2016	M	56.6
+Toowoomba	2006	F	51.7
+Toowoomba	2006	M	64.9
+Toowoomba	2011	F	52.8
+Toowoomba	2011	M	64.2
+Toowoomba	2016	F	51.6
+Toowoomba	2016	M	60.1
+Townsville	2006	F	55.3
+Townsville	2006	M	67.5
+Townsville	2011	F	57.3
+Townsville	2011	M	66
+Townsville	2016	F	54.5
+Townsville	2016	M	58.9
+Wide Bay	2006	F	42.4
+Wide Bay	2006	M	52
+Wide Bay	2011	F	42.4
+Wide Bay	2011	M	49.2
+Wide Bay	2016	F	40.2
+Wide Bay	2016	M	44.1
+Migratory - Offshore - Shipping (Qld)	2006	F	63.6
+Migratory - Offshore - Shipping (Qld)	2006	M	88
+Migratory - Offshore - Shipping (Qld)	2011	F	40.6
+Migratory - Offshore - Shipping (Qld)	2011	M	58.5
+Migratory - Offshore - Shipping (Qld)	2016	F	43.2
+Migratory - Offshore - Shipping (Qld)	2016	M	52.3
+No usual address (Qld)	2006	F	30.3
+No usual address (Qld)	2006	M	39.2
+No usual address (Qld)	2011	F	28.6
+No usual address (Qld)	2011	M	33.3
+No usual address (Qld)	2016	F	25.9
+No usual address (Qld)	2016	M	26.7
+Adelaide - Central and Hills	2006	F	54
+Adelaide - Central and Hills	2006	M	63.6
+Adelaide - Central and Hills	2011	F	55.1
+Adelaide - Central and Hills	2011	M	63.4
+Adelaide - Central and Hills	2016	F	53.4
+Adelaide - Central and Hills	2016	M	60.2
+Adelaide - North	2006	F	49.6
+Adelaide - North	2006	M	62.1
+Adelaide - North	2011	F	50.7
+Adelaide - North	2011	M	61
+Adelaide - North	2016	F	49
+Adelaide - North	2016	M	57
+Adelaide - South	2006	F	53
+Adelaide - South	2006	M	63.5
+Adelaide - South	2011	F	54.4
+Adelaide - South	2011	M	63.3
+Adelaide - South	2016	F	53
+Adelaide - South	2016	M	59.3
+Adelaide - West	2006	F	47.5
+Adelaide - West	2006	M	57.2
+Adelaide - West	2011	F	50.7
+Adelaide - West	2011	M	59.3
+Adelaide - West	2016	F	51.2
+Adelaide - West	2016	M	57.6
+Barossa - Yorke - Mid North	2006	F	46.7
+Barossa - Yorke - Mid North	2006	M	58.1
+Barossa - Yorke - Mid North	2011	F	48.4
+Barossa - Yorke - Mid North	2011	M	57.9
+Barossa - Yorke - Mid North	2016	F	46.6
+Barossa - Yorke - Mid North	2016	M	54.1
+South Australia - Outback	2006	F	50.7
+South Australia - Outback	2006	M	60.7
+South Australia - Outback	2011	F	51.9
+South Australia - Outback	2011	M	60.8
+South Australia - Outback	2016	F	49.2
+South Australia - Outback	2016	M	54.5
+South Australia - South East	2006	F	49.5
+South Australia - South East	2006	M	61
+South Australia - South East	2011	F	49.2
+South Australia - South East	2011	M	58.4
+South Australia - South East	2016	F	47.5
+South Australia - South East	2016	M	54
+Migratory - Offshore - Shipping (SA)	2006	F	0
+Migratory - Offshore - Shipping (SA)	2006	M	57.1
+Migratory - Offshore - Shipping (SA)	2011	F	0
+Migratory - Offshore - Shipping (SA)	2011	M	100
+Migratory - Offshore - Shipping (SA)	2016	F	0
+Migratory - Offshore - Shipping (SA)	2016	M	100
+No usual address (SA)	2006	F	35.6
+No usual address (SA)	2006	M	41.9
+No usual address (SA)	2011	F	27.8
+No usual address (SA)	2011	M	35.9
+No usual address (SA)	2016	F	26.1
+No usual address (SA)	2016	M	28.6
+Bunbury	2006	F	52.5
+Bunbury	2006	M	67.1
+Bunbury	2011	F	53
+Bunbury	2011	M	65.8
+Bunbury	2016	F	51.1
+Bunbury	2016	M	59.5
+Mandurah	2006	F	39.8
+Mandurah	2006	M	54.1
+Mandurah	2011	F	43.2
+Mandurah	2011	M	55.5
+Mandurah	2016	F	42.7
+Mandurah	2016	M	51.4
+Perth - Inner	2006	F	54
+Perth - Inner	2006	M	63.5
+Perth - Inner	2011	F	56.6
+Perth - Inner	2011	M	66.9
+Perth - Inner	2016	F	55.3
+Perth - Inner	2016	M	63.6
+Perth - North East	2006	F	55
+Perth - North East	2006	M	67.4
+Perth - North East	2011	F	56.9
+Perth - North East	2011	M	67.5
+Perth - North East	2016	F	55.4
+Perth - North East	2016	M	63.1
+Perth - North West	2006	F	56.2
+Perth - North West	2006	M	69.4
+Perth - North West	2011	F	57.9
+Perth - North West	2011	M	69.7
+Perth - North West	2016	F	56.6
+Perth - North West	2016	M	65.6
+Perth - South East	2006	F	53.6
+Perth - South East	2006	M	67.1
+Perth - South East	2011	F	55
+Perth - South East	2011	M	67.1
+Perth - South East	2016	F	52.7
+Perth - South East	2016	M	62.7
+Perth - South West	2006	F	52
+Perth - South West	2006	M	65.6
+Perth - South West	2011	F	55.4
+Perth - South West	2011	M	67.3
+Perth - South West	2016	F	53.9
+Perth - South West	2016	M	62.6
+Western Australia - Wheat Belt	2006	F	52
+Western Australia - Wheat Belt	2006	M	65.3
+Western Australia - Wheat Belt	2011	F	52.4
+Western Australia - Wheat Belt	2011	M	62.9
+Western Australia - Wheat Belt	2016	F	49.8
+Western Australia - Wheat Belt	2016	M	57.3
+Western Australia - Outback (North)	2006	F	56.3
+Western Australia - Outback (North)	2006	M	66.9
+Western Australia - Outback (North)	2011	F	58.5
+Western Australia - Outback (North)	2011	M	65.4
+Western Australia - Outback (North)	2016	F	56.2
+Western Australia - Outback (North)	2016	M	66.1
+Western Australia - Outback (South)	2006	F	54.2
+Western Australia - Outback (South)	2006	M	67.1
+Western Australia - Outback (South)	2011	F	55.1
+Western Australia - Outback (South)	2011	M	66.6
+Western Australia - Outback (South)	2016	F	52.7
+Western Australia - Outback (South)	2016	M	60.1
+Migratory - Offshore - Shipping (WA)	2006	F	88.5
+Migratory - Offshore - Shipping (WA)	2006	M	88.8
+Migratory - Offshore - Shipping (WA)	2011	F	54.5
+Migratory - Offshore - Shipping (WA)	2011	M	79.5
+Migratory - Offshore - Shipping (WA)	2016	F	76.9
+Migratory - Offshore - Shipping (WA)	2016	M	78.7
+No usual address (WA)	2006	F	35.9
+No usual address (WA)	2006	M	44.2
+No usual address (WA)	2011	F	35.8
+No usual address (WA)	2011	M	40.8
+No usual address (WA)	2016	F	29
+No usual address (WA)	2016	M	33.7
+Hobart	2006	F	51.4
+Hobart	2006	M	59.6
+Hobart	2011	F	53.3
+Hobart	2011	M	59.7
+Hobart	2016	F	52
+Hobart	2016	M	56.7
+Launceston and North East	2006	F	47.6
+Launceston and North East	2006	M	59.1
+Launceston and North East	2011	F	49.4
+Launceston and North East	2011	M	57.9
+Launceston and North East	2016	F	47.5
+Launceston and North East	2016	M	53.4
+South East	2006	F	45.5
+South East	2006	M	54.5
+South East	2011	F	46.7
+South East	2011	M	53.1
+South East	2016	F	45.1
+South East	2016	M	49.5
+West and North West	2006	F	45.5
+West and North West	2006	M	58.6
+West and North West	2011	F	47.2
+West and North West	2011	M	57.4
+West and North West	2016	F	46.2
+West and North West	2016	M	52.9
+Migratory - Offshore - Shipping (Tas.)	2006	F	60
+Migratory - Offshore - Shipping (Tas.)	2006	M	82.1
+Migratory - Offshore - Shipping (Tas.)	2011	F	51.7
+Migratory - Offshore - Shipping (Tas.)	2011	M	74.4
+Migratory - Offshore - Shipping (Tas.)	2016	F	22.2
+Migratory - Offshore - Shipping (Tas.)	2016	M	75.5
+No usual address (Tas.)	2006	F	31.9
+No usual address (Tas.)	2006	M	38.8
+No usual address (Tas.)	2011	F	27.6
+No usual address (Tas.)	2011	M	31.6
+No usual address (Tas.)	2016	F	29.1
+No usual address (Tas.)	2016	M	30.8
+Darwin	2006	F	63.3
+Darwin	2006	M	68.7
+Darwin	2011	F	64.6
+Darwin	2011	M	67.7
+Darwin	2016	F	63.1
+Darwin	2016	M	67.3
+Northern Territory - Outback	2006	F	48.4
+Northern Territory - Outback	2006	M	56.7
+Northern Territory - Outback	2011	F	49.7
+Northern Territory - Outback	2011	M	56
+Northern Territory - Outback	2016	F	44.1
+Northern Territory - Outback	2016	M	46.8
+Migratory - Offshore - Shipping (NT)	2006	F	76.5
+Migratory - Offshore - Shipping (NT)	2006	M	79.5
+Migratory - Offshore - Shipping (NT)	2011	F	31.6
+Migratory - Offshore - Shipping (NT)	2011	M	83.3
+Migratory - Offshore - Shipping (NT)	2016	F	33.3
+Migratory - Offshore - Shipping (NT)	2016	M	39.3
+No usual address (NT)	2006	F	30.9
+No usual address (NT)	2006	M	36.7
+No usual address (NT)	2011	F	32.1
+No usual address (NT)	2011	M	34.8
+No usual address (NT)	2016	F	24.5
+No usual address (NT)	2016	M	26.1
+Australian Capital Territory	2006	F	63.9
+Australian Capital Territory	2006	M	70.9
+Australian Capital Territory	2011	F	64.3
+Australian Capital Territory	2011	M	70.6
+Australian Capital Territory	2016	F	60.9
+Australian Capital Territory	2016	M	66.7
+Migratory - Offshore - Shipping (ACT)	2006	F	0
+Migratory - Offshore - Shipping (ACT)	2006	M	0
+Migratory - Offshore - Shipping (ACT)	2011	F	0
+Migratory - Offshore - Shipping (ACT)	2011	M	0
+Migratory - Offshore - Shipping (ACT)	2016	F	0
+Migratory - Offshore - Shipping (ACT)	2016	M	0
+No usual address (ACT)	2006	F	48.9
+No usual address (ACT)	2006	M	53.3
+No usual address (ACT)	2011	F	48.5
+No usual address (ACT)	2011	M	48.5
+No usual address (ACT)	2016	F	49.3
+No usual address (ACT)	2016	M	34.3
+Other Territories	2006	F	48.3
+Other Territories	2006	M	69.9
+Other Territories	2011	F	56.3
+Other Territories	2011	M	41
+Other Territories	2016	F	56.9
+Other Territories	2016	M	58.4
+Migratory - Offshore - Shipping (OT)	2006	F	0
+Migratory - Offshore - Shipping (OT)	2006	M	0
+Migratory - Offshore - Shipping (OT)	2011	F	0
+Migratory - Offshore - Shipping (OT)	2011	M	0
+Migratory - Offshore - Shipping (OT)	2016	F	0
+Migratory - Offshore - Shipping (OT)	2016	M	100
+No usual address (OT)	2006	F	100
+No usual address (OT)	2006	M	40.9
+No usual address (OT)	2011	F	84.2
+No usual address (OT)	2011	M	140
+No usual address (OT)	2016	F	26.7
+No usual address (OT)	2016	M	14.3

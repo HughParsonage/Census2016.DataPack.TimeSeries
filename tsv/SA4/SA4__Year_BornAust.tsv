@@ -1,0 +1,643 @@
+SA4_NAME16	Year	BornAust	persons
+Capital Region	2006	0	23305
+Capital Region	2006	1	161912
+Capital Region	2011	0	25713
+Capital Region	2011	1	170206
+Capital Region	2016	0	27399
+Capital Region	2016	1	173116
+Central Coast	2006	0	39642
+Central Coast	2006	1	237263
+Central Coast	2011	0	43785
+Central Coast	2011	1	251642
+Central Coast	2016	0	48054
+Central Coast	2016	1	258376
+Central West	2006	0	12587
+Central West	2006	1	166437
+Central West	2011	0	14235
+Central West	2011	1	170938
+Central West	2016	0	15540
+Central West	2016	1	171249
+Coffs Harbour - Grafton	2006	0	12165
+Coffs Harbour - Grafton	2006	1	106477
+Coffs Harbour - Grafton	2011	0	14001
+Coffs Harbour - Grafton	2011	1	110250
+Coffs Harbour - Grafton	2016	0	15466
+Coffs Harbour - Grafton	2016	1	109764
+Far West and Orana	2006	0	5491
+Far West and Orana	2006	1	100370
+Far West and Orana	2011	0	5939
+Far West and Orana	2011	1	100243
+Far West and Orana	2016	0	6794
+Far West and Orana	2016	1	95120
+Hunter Valley exc Newcastle	2006	0	17346
+Hunter Valley exc Newcastle	2006	1	195253
+Hunter Valley exc Newcastle	2011	0	20163
+Hunter Valley exc Newcastle	2011	1	210268
+Hunter Valley exc Newcastle	2016	0	22041
+Hunter Valley exc Newcastle	2016	1	221858
+Illawarra	2006	0	53101
+Illawarra	2006	1	194196
+Illawarra	2011	0	56005
+Illawarra	2011	1	207308
+Illawarra	2016	0	58274
+Illawarra	2016	1	217899
+Mid North Coast	2006	0	17231
+Mid North Coast	2006	1	163874
+Mid North Coast	2011	0	18995
+Mid North Coast	2011	1	171041
+Mid North Coast	2016	0	20535
+Mid North Coast	2016	1	174009
+Murray	2006	0	7744
+Murray	2006	1	95529
+Murray	2011	0	8824
+Murray	2011	1	95416
+Murray	2016	0	9808
+Murray	2016	1	95312
+New England and North West	2006	0	9411
+New England and North West	2006	1	152888
+New England and North West	2011	0	10764
+New England and North West	2011	1	154939
+New England and North West	2016	0	12739
+New England and North West	2016	1	150908
+Newcastle and Lake Macquarie	2006	0	33604
+Newcastle and Lake Macquarie	2006	1	276834
+Newcastle and Lake Macquarie	2011	0	37254
+Newcastle and Lake Macquarie	2011	1	289376
+Newcastle and Lake Macquarie	2016	0	41933
+Newcastle and Lake Macquarie	2016	1	299889
+Richmond - Tweed	2006	0	25140
+Richmond - Tweed	2006	1	180316
+Richmond - Tweed	2011	0	28382
+Richmond - Tweed	2011	1	186830
+Richmond - Tweed	2016	0	29781
+Richmond - Tweed	2016	1	187965
+Riverina	2006	0	11275
+Riverina	2006	1	128577
+Riverina	2011	0	13009
+Riverina	2011	1	129052
+Riverina	2016	0	15146
+Riverina	2016	1	127192
+Southern Highlands and Shoalhaven	2006	0	17351
+Southern Highlands and Shoalhaven	2006	1	105327
+Southern Highlands and Shoalhaven	2011	0	18472
+Southern Highlands and Shoalhaven	2011	1	110624
+Southern Highlands and Shoalhaven	2016	0	20364
+Southern Highlands and Shoalhaven	2016	1	115498
+Sydney - Baulkham Hills and Hawkesbury	2006	0	54231
+Sydney - Baulkham Hills and Hawkesbury	2006	1	136597
+Sydney - Baulkham Hills and Hawkesbury	2011	0	61502
+Sydney - Baulkham Hills and Hawkesbury	2011	1	141816
+Sydney - Baulkham Hills and Hawkesbury	2016	0	72960
+Sydney - Baulkham Hills and Hawkesbury	2016	1	146200
+Sydney - Blacktown	2006	0	93937
+Sydney - Blacktown	2006	1	161709
+Sydney - Blacktown	2011	0	114349
+Sydney - Blacktown	2011	1	174950
+Sydney - Blacktown	2016	0	137773
+Sydney - Blacktown	2016	1	183227
+Sydney - City and Inner South	2006	0	87505
+Sydney - City and Inner South	2006	1	110489
+Sydney - City and Inner South	2011	0	107836
+Sydney - City and Inner South	2011	1	127538
+Sydney - City and Inner South	2016	0	140171
+Sydney - City and Inner South	2016	1	140749
+Sydney - Eastern Suburbs	2006	0	80701
+Sydney - Eastern Suburbs	2006	1	125552
+Sydney - Eastern Suburbs	2011	0	91693
+Sydney - Eastern Suburbs	2011	1	134767
+Sydney - Eastern Suburbs	2016	0	102966
+Sydney - Eastern Suburbs	2016	1	140462
+Sydney - Inner South West	2006	0	196122
+Sydney - Inner South West	2006	1	256542
+Sydney - Inner South West	2011	0	221411
+Sydney - Inner South West	2011	1	269946
+Sydney - Inner South West	2016	0	257357
+Sydney - Inner South West	2016	1	279558
+Sydney - Inner West	2006	0	91912
+Sydney - Inner West	2006	1	130440
+Sydney - Inner West	2011	0	105432
+Sydney - Inner West	2011	1	141133
+Sydney - Inner West	2016	0	125222
+Sydney - Inner West	2016	1	148720
+Sydney - North Sydney and Hornsby	2006	0	116306
+Sydney - North Sydney and Hornsby	2006	1	213611
+Sydney - North Sydney and Hornsby	2011	0	135304
+Sydney - North Sydney and Hornsby	2011	1	220765
+Sydney - North Sydney and Hornsby	2016	0	158225
+Sydney - North Sydney and Hornsby	2016	1	226949
+Sydney - Northern Beaches	2006	0	57740
+Sydney - Northern Beaches	2006	1	152725
+Sydney - Northern Beaches	2011	0	65830
+Sydney - Northern Beaches	2011	1	161082
+Sydney - Northern Beaches	2016	0	73076
+Sydney - Northern Beaches	2016	1	166494
+Sydney - Outer South West	2006	0	48522
+Sydney - Outer South West	2006	1	161128
+Sydney - Outer South West	2011	0	53852
+Sydney - Outer South West	2011	1	169966
+Sydney - Outer South West	2016	0	64423
+Sydney - Outer South West	2016	1	181969
+Sydney - Outer West and Blue Mountains	2006	0	51550
+Sydney - Outer West and Blue Mountains	2006	1	211909
+Sydney - Outer West and Blue Mountains	2011	0	53992
+Sydney - Outer West and Blue Mountains	2011	1	220053
+Sydney - Outer West and Blue Mountains	2016	0	59480
+Sydney - Outer West and Blue Mountains	2016	1	229895
+Sydney - Parramatta	2006	0	150100
+Sydney - Parramatta	2006	1	177152
+Sydney - Parramatta	2011	0	182071
+Sydney - Parramatta	2011	1	187719
+Sydney - Parramatta	2016	0	225200
+Sydney - Parramatta	2016	1	195616
+Sydney - Ryde	2006	0	55366
+Sydney - Ryde	2006	1	89796
+Sydney - Ryde	2011	0	65358
+Sydney - Ryde	2011	1	90898
+Sydney - Ryde	2016	0	82098
+Sydney - Ryde	2016	1	92525
+Sydney - South West	2006	0	149873
+Sydney - South West	2006	1	161720
+Sydney - South West	2011	0	164744
+Sydney - South West	2011	1	174613
+Sydney - South West	2016	0	187114
+Sydney - South West	2016	1	192201
+Sydney - Sutherland	2006	0	33900
+Sydney - Sutherland	2006	1	160081
+Sydney - Sutherland	2011	0	36457
+Sydney - Sutherland	2011	1	165649
+Sydney - Sutherland	2016	0	39379
+Sydney - Sutherland	2016	1	169214
+Migratory - Offshore - Shipping (NSW)	2006	0	3
+Migratory - Offshore - Shipping (NSW)	2006	1	42
+Migratory - Offshore - Shipping (NSW)	2011	0	44
+Migratory - Offshore - Shipping (NSW)	2011	1	63
+Migratory - Offshore - Shipping (NSW)	2016	0	142
+Migratory - Offshore - Shipping (NSW)	2016	1	232
+No usual address (NSW)	2006	0	2677
+No usual address (NSW)	2006	1	6403
+No usual address (NSW)	2011	0	3121
+No usual address (NSW)	2011	1	8280
+No usual address (NSW)	2016	0	3012
+No usual address (NSW)	2016	1	7028
+Ballarat	2006	0	11677
+Ballarat	2006	1	116409
+Ballarat	2011	0	13700
+Ballarat	2011	1	125223
+Ballarat	2016	0	15619
+Ballarat	2016	1	129747
+Bendigo	2006	0	9473
+Bendigo	2006	1	115715
+Bendigo	2011	0	11425
+Bendigo	2011	1	122356
+Bendigo	2016	0	13708
+Bendigo	2016	1	126822
+Geelong	2006	0	34841
+Geelong	2006	1	184112
+Geelong	2011	0	37977
+Geelong	2011	1	201229
+Geelong	2016	0	42931
+Geelong	2016	1	217488
+Hume	2006	0	14443
+Hume	2006	1	130031
+Hume	2011	0	15561
+Hume	2011	1	136344
+Hume	2016	0	16582
+Hume	2016	1	138911
+Latrobe - Gippsland	2006	0	27483
+Latrobe - Gippsland	2006	1	196798
+Latrobe - Gippsland	2011	0	30728
+Latrobe - Gippsland	2011	1	211772
+Latrobe - Gippsland	2016	0	31713
+Latrobe - Gippsland	2016	1	215278
+Melbourne - Inner	2006	0	139107
+Melbourne - Inner	2006	1	269653
+Melbourne - Inner	2011	0	166286
+Melbourne - Inner	2011	1	296056
+Melbourne - Inner	2016	0	212282
+Melbourne - Inner	2016	1	325095
+Melbourne - Inner East	2006	0	98580
+Melbourne - Inner East	2006	1	213402
+Melbourne - Inner East	2011	0	112882
+Melbourne - Inner East	2011	1	213285
+Melbourne - Inner East	2016	0	132677
+Melbourne - Inner East	2016	1	210397
+Melbourne - Inner South	2006	0	95259
+Melbourne - Inner South	2006	1	238923
+Melbourne - Inner South	2011	0	109734
+Melbourne - Inner South	2011	1	250710
+Melbourne - Inner South	2016	0	122457
+Melbourne - Inner South	2016	1	259756
+Melbourne - North East	2006	0	101591
+Melbourne - North East	2006	1	271246
+Melbourne - North East	2011	0	121615
+Melbourne - North East	2011	1	294626
+Melbourne - North East	2016	0	146326
+Melbourne - North East	2016	1	318712
+Melbourne - North West	2006	0	82170
+Melbourne - North West	2006	1	188246
+Melbourne - North West	2011	0	97509
+Melbourne - North West	2011	1	203627
+Melbourne - North West	2016	0	118853
+Melbourne - North West	2016	1	220510
+Melbourne - Outer East	2006	0	98847
+Melbourne - Outer East	2006	1	344100
+Melbourne - Outer East	2011	0	110343
+Melbourne - Outer East	2011	1	351625
+Melbourne - Outer East	2016	0	124273
+Melbourne - Outer East	2016	1	351411
+Melbourne - South East	2006	0	213474
+Melbourne - South East	2006	1	333470
+Melbourne - South East	2011	0	264698
+Melbourne - South East	2011	1	363348
+Melbourne - South East	2016	0	322825
+Melbourne - South East	2016	1	389542
+Melbourne - West	2006	0	167952
+Melbourne - West	2006	1	305115
+Melbourne - West	2011	0	223033
+Melbourne - West	2011	1	355310
+Melbourne - West	2016	0	284084
+Melbourne - West	2016	1	395787
+Mornington Peninsula	2006	0	47948
+Mornington Peninsula	2006	1	186687
+Mornington Peninsula	2011	0	53861
+Mornington Peninsula	2011	1	202188
+Mornington Peninsula	2016	0	56474
+Mornington Peninsula	2016	1	212877
+North West	2006	0	10710
+North West	2006	1	128853
+North West	2011	0	12358
+North West	2011	1	126980
+North West	2016	0	13329
+North West	2016	1	122506
+Shepparton	2006	0	10462
+Shepparton	2006	1	102764
+Shepparton	2011	0	12762
+Shepparton	2011	1	104877
+Shepparton	2016	0	14674
+Shepparton	2016	1	103449
+Warrnambool and South West	2006	0	7473
+Warrnambool and South West	2006	1	104912
+Warrnambool and South West	2011	0	8622
+Warrnambool and South West	2011	1	106145
+Warrnambool and South West	2016	0	9429
+Warrnambool and South West	2016	1	102813
+Migratory - Offshore - Shipping (Vic.)	2006	0	11
+Migratory - Offshore - Shipping (Vic.)	2006	1	31
+Migratory - Offshore - Shipping (Vic.)	2011	0	13
+Migratory - Offshore - Shipping (Vic.)	2011	1	19
+Migratory - Offshore - Shipping (Vic.)	2016	0	6
+Migratory - Offshore - Shipping (Vic.)	2016	1	17
+No usual address (Vic.)	2006	0	1700
+No usual address (Vic.)	2006	1	4015
+No usual address (Vic.)	2011	0	2235
+No usual address (Vic.)	2011	1	5202
+No usual address (Vic.)	2016	0	2011
+No usual address (Vic.)	2016	1	4389
+Brisbane - East	2006	0	38582
+Brisbane - East	2006	1	143095
+Brisbane - East	2011	0	47513
+Brisbane - East	2011	1	155067
+Brisbane - East	2016	0	50916
+Brisbane - East	2016	1	161200
+Brisbane - North	2006	0	31135
+Brisbane - North	2006	1	133087
+Brisbane - North	2011	0	42129
+Brisbane - North	2011	1	139887
+Brisbane - North	2016	0	49984
+Brisbane - North	2016	1	145601
+Brisbane - South	2006	0	82125
+Brisbane - South	2006	1	189451
+Brisbane - South	2011	0	106045
+Brisbane - South	2011	1	193363
+Brisbane - South	2016	0	125675
+Brisbane - South	2016	1	197242
+Brisbane - West	2006	0	39705
+Brisbane - West	2006	1	113489
+Brisbane - West	2011	0	47079
+Brisbane - West	2011	1	116891
+Brisbane - West	2016	0	52226
+Brisbane - West	2016	1	119486
+Brisbane Inner City	2006	0	44720
+Brisbane Inner City	2006	1	139214
+Brisbane Inner City	2011	0	59661
+Brisbane Inner City	2011	1	149155
+Brisbane Inner City	2016	0	71833
+Brisbane Inner City	2016	1	158253
+Cairns	2006	0	33503
+Cairns	2006	1	151008
+Cairns	2011	0	40827
+Cairns	2011	1	166796
+Cairns	2016	0	45928
+Cairns	2016	1	169994
+Darling Downs - Maranoa	2006	0	7133
+Darling Downs - Maranoa	2006	1	101064
+Darling Downs - Maranoa	2011	0	9079
+Darling Downs - Maranoa	2011	1	105209
+Darling Downs - Maranoa	2016	0	10265
+Darling Downs - Maranoa	2016	1	103746
+Central Queensland	2006	0	15997
+Central Queensland	2006	1	163858
+Central Queensland	2011	0	21565
+Central Queensland	2011	1	174105
+Central Queensland	2016	0	24294
+Central Queensland	2016	1	177115
+Gold Coast	2006	0	111984
+Gold Coast	2006	1	295124
+Gold Coast	2011	0	141114
+Gold Coast	2011	1	332087
+Gold Coast	2016	0	160312
+Gold Coast	2016	1	364761
+Ipswich	2006	0	45097
+Ipswich	2006	1	181309
+Ipswich	2011	0	60315
+Ipswich	2011	1	206178
+Ipswich	2016	0	73205
+Ipswich	2016	1	225959
+Logan - Beaudesert	2006	0	60186
+Logan - Beaudesert	2006	1	183761
+Logan - Beaudesert	2011	0	73987
+Logan - Beaudesert	2011	1	200012
+Logan - Beaudesert	2016	0	84415
+Logan - Beaudesert	2016	1	210818
+Mackay - Isaac - Whitsunday	2006	0	14718
+Mackay - Isaac - Whitsunday	2006	1	120997
+Mackay - Isaac - Whitsunday	2011	0	19915
+Mackay - Isaac - Whitsunday	2011	1	133632
+Mackay - Isaac - Whitsunday	2016	0	20759
+Mackay - Isaac - Whitsunday	2016	1	131072
+Moreton Bay - North	2006	0	31210
+Moreton Bay - North	2006	1	145013
+Moreton Bay - North	2011	0	39079
+Moreton Bay - North	2011	1	163791
+Moreton Bay - North	2016	0	43143
+Moreton Bay - North	2016	1	175620
+Moreton Bay - South	2006	0	23538
+Moreton Bay - South	2006	1	111504
+Moreton Bay - South	2011	0	33344
+Moreton Bay - South	2011	1	128539
+Moreton Bay - South	2016	0	41203
+Moreton Bay - South	2016	1	144639
+Queensland - Outback	2006	0	5422
+Queensland - Outback	2006	1	66537
+Queensland - Outback	2011	0	7418
+Queensland - Outback	2011	1	68335
+Queensland - Outback	2016	0	7204
+Queensland - Outback	2016	1	64552
+Sunshine Coast	2006	0	49981
+Sunshine Coast	2006	1	208842
+Sunshine Coast	2011	0	60780
+Sunshine Coast	2011	1	230951
+Sunshine Coast	2016	0	68824
+Sunshine Coast	2016	1	255500
+Toowoomba	2006	0	12544
+Toowoomba	2006	1	110209
+Toowoomba	2011	0	15956
+Toowoomba	2011	1	117085
+Toowoomba	2016	0	19190
+Toowoomba	2016	1	119778
+Townsville	2006	0	21270
+Townsville	2006	1	162819
+Townsville	2011	0	26584
+Townsville	2011	1	177419
+Townsville	2016	0	28766
+Townsville	2016	1	182107
+Wide Bay	2006	0	27595
+Wide Bay	2006	1	206615
+Wide Bay	2011	0	32803
+Wide Bay	2011	1	225392
+Wide Bay	2016	0	34557
+Wide Bay	2016	1	228947
+Migratory - Offshore - Shipping (Qld)	2006	0	33
+Migratory - Offshore - Shipping (Qld)	2006	1	57
+Migratory - Offshore - Shipping (Qld)	2011	0	110
+Migratory - Offshore - Shipping (Qld)	2011	1	281
+Migratory - Offshore - Shipping (Qld)	2016	0	40
+Migratory - Offshore - Shipping (Qld)	2016	1	89
+No usual address (Qld)	2006	0	2982
+No usual address (Qld)	2006	1	8208
+No usual address (Qld)	2011	0	3316
+No usual address (Qld)	2011	1	7922
+No usual address (Qld)	2016	0	3157
+No usual address (Qld)	2016	1	7348
+Adelaide - Central and Hills	2006	0	61916
+Adelaide - Central and Hills	2006	1	187865
+Adelaide - Central and Hills	2011	0	72405
+Adelaide - Central and Hills	2011	1	192595
+Adelaide - Central and Hills	2016	0	79140
+Adelaide - Central and Hills	2016	1	195243
+Adelaide - North	2006	0	86717
+Adelaide - North	2006	1	255052
+Adelaide - North	2011	0	100138
+Adelaide - North	2011	1	273369
+Adelaide - North	2016	0	114544
+Adelaide - North	2016	1	284669
+Adelaide - South	2006	0	68611
+Adelaide - South	2006	1	239867
+Adelaide - South	2011	0	77564
+Adelaide - South	2011	1	249073
+Adelaide - South	2016	0	82058
+Adelaide - South	2016	1	254775
+Adelaide - West	2006	0	52469
+Adelaide - West	2006	1	139921
+Adelaide - West	2011	0	60830
+Adelaide - West	2011	1	145245
+Adelaide - West	2016	0	65314
+Adelaide - West	2016	1	149564
+Barossa - Yorke - Mid North	2006	0	9739
+Barossa - Yorke - Mid North	2006	1	87528
+Barossa - Yorke - Mid North	2011	0	10463
+Barossa - Yorke - Mid North	2011	1	91738
+Barossa - Yorke - Mid North	2016	0	10552
+Barossa - Yorke - Mid North	2016	1	91965
+South Australia - Outback	2006	0	9050
+South Australia - Outback	2006	1	66994
+South Australia - Outback	2011	0	9418
+South Australia - Outback	2011	1	69688
+South Australia - Outback	2016	0	8734
+South Australia - Outback	2016	1	66659
+South Australia - South East	2006	0	18511
+South Australia - South East	2006	1	141156
+South Australia - South East	2011	0	21515
+South Australia - South East	2011	1	147084
+South Australia - South East	2016	0	23146
+South Australia - South East	2016	1	147785
+Migratory - Offshore - Shipping (SA)	2006	0	5
+Migratory - Offshore - Shipping (SA)	2006	1	4
+Migratory - Offshore - Shipping (SA)	2011	0	0
+Migratory - Offshore - Shipping (SA)	2011	1	0
+Migratory - Offshore - Shipping (SA)	2016	0	3
+Migratory - Offshore - Shipping (SA)	2016	1	3
+No usual address (SA)	2006	0	658
+No usual address (SA)	2006	1	1699
+No usual address (SA)	2011	0	668
+No usual address (SA)	2011	1	1996
+No usual address (SA)	2016	0	605
+No usual address (SA)	2016	1	1886
+Bunbury	2006	0	21779
+Bunbury	2006	1	107315
+Bunbury	2011	0	29267
+Bunbury	2011	1	119741
+Bunbury	2016	0	33058
+Bunbury	2016	1	128590
+Mandurah	2006	0	13945
+Mandurah	2006	1	47291
+Mandurah	2011	0	20159
+Mandurah	2011	1	57686
+Mandurah	2016	0	25129
+Mandurah	2016	1	64509
+Perth - Inner	2006	0	43328
+Perth - Inner	2006	1	84801
+Perth - Inner	2011	0	54760
+Perth - Inner	2011	1	89775
+Perth - Inner	2016	0	60640
+Perth - Inner	2016	1	94810
+Perth - North East	2006	0	56775
+Perth - North East	2006	1	126653
+Perth - North East	2011	0	69945
+Perth - North East	2011	1	137540
+Perth - North East	2016	0	82680
+Perth - North East	2016	1	151835
+Perth - North West	2006	0	143105
+Perth - North West	2006	1	251085
+Perth - North West	2011	0	181719
+Perth - North West	2011	1	275960
+Perth - North West	2016	0	208333
+Perth - North West	2016	1	295364
+Perth - South East	2006	0	119994
+Perth - South East	2006	1	231697
+Perth - South East	2011	0	157968
+Perth - South East	2011	1	249017
+Perth - South East	2016	0	192515
+Perth - South East	2016	1	264059
+Perth - South West	2006	0	89719
+Perth - South West	2006	1	195223
+Perth - South West	2011	0	113370
+Perth - South West	2011	1	220515
+Perth - South West	2016	0	133240
+Perth - South West	2016	1	242723
+Western Australia - Wheat Belt	2006	0	18313
+Western Australia - Wheat Belt	2006	1	96266
+Western Australia - Wheat Belt	2011	0	21864
+Western Australia - Wheat Belt	2011	1	100056
+Western Australia - Wheat Belt	2016	0	23334
+Western Australia - Wheat Belt	2016	1	98589
+Western Australia - Outback (North)	2006	0	8398
+Western Australia - Outback (North)	2006	1	50694
+Western Australia - Outback (North)	2011	0	16599
+Western Australia - Outback (North)	2011	1	63461
+Western Australia - Outback (North)	2016	0	17111
+Western Australia - Outback (North)	2016	1	63417
+Western Australia - Outback (South)	2006	0	14624
+Western Australia - Outback (South)	2006	1	84383
+Western Australia - Outback (South)	2011	0	20166
+Western Australia - Outback (South)	2011	1	89583
+Western Australia - Outback (South)	2016	0	19990
+Western Australia - Outback (South)	2016	1	85264
+Migratory - Offshore - Shipping (WA)	2006	0	114
+Migratory - Offshore - Shipping (WA)	2006	1	200
+Migratory - Offshore - Shipping (WA)	2011	0	112
+Migratory - Offshore - Shipping (WA)	2011	1	239
+Migratory - Offshore - Shipping (WA)	2016	0	168
+Migratory - Offshore - Shipping (WA)	2016	1	193
+No usual address (WA)	2006	0	1651
+No usual address (WA)	2006	1	3622
+No usual address (WA)	2011	0	2285
+No usual address (WA)	2011	1	4239
+No usual address (WA)	2016	0	1484
+No usual address (WA)	2016	1	3512
+Hobart	2006	0	24111
+Hobart	2006	1	164608
+Hobart	2011	0	27953
+Hobart	2011	1	173766
+Hobart	2016	0	30671
+Hobart	2016	1	177488
+Launceston and North East	2006	0	13656
+Launceston and North East	2006	1	112079
+Launceston and North East	2011	0	15592
+Launceston and North East	2011	1	115764
+Launceston and North East	2016	0	16335
+Launceston and North East	2016	1	112902
+South East	2006	0	3616
+South East	2006	1	28046
+South East	2011	0	4260
+South East	2011	1	29823
+South East	2016	0	4477
+South East	2016	1	29168
+West and North West	2006	0	9009
+West and North West	2006	1	91197
+West and North West	2011	0	9633
+West and North West	2011	1	94008
+West and North West	2016	0	9601
+West and North West	2016	1	91220
+Migratory - Offshore - Shipping (Tas.)	2006	0	20
+Migratory - Offshore - Shipping (Tas.)	2006	1	64
+Migratory - Offshore - Shipping (Tas.)	2011	0	19
+Migratory - Offshore - Shipping (Tas.)	2011	1	85
+Migratory - Offshore - Shipping (Tas.)	2016	0	18
+Migratory - Offshore - Shipping (Tas.)	2016	1	49
+No usual address (Tas.)	2006	0	130
+No usual address (Tas.)	2006	1	659
+No usual address (Tas.)	2011	0	183
+No usual address (Tas.)	2011	1	821
+No usual address (Tas.)	2016	0	139
+No usual address (Tas.)	2016	1	659
+Darwin	2006	0	19390
+Darwin	2006	1	74985
+Darwin	2011	0	26132
+Darwin	2011	1	81343
+Darwin	2016	0	34979
+Darwin	2016	1	85840
+Northern Territory - Outback	2006	0	6767
+Northern Territory - Outback	2006	1	71849
+Northern Territory - Outback	2011	0	8558
+Northern Territory - Outback	2011	1	75445
+Northern Territory - Outback	2016	0	9970
+Northern Territory - Outback	2016	1	70296
+Migratory - Offshore - Shipping (NT)	2006	0	20
+Migratory - Offshore - Shipping (NT)	2006	1	64
+Migratory - Offshore - Shipping (NT)	2011	0	30
+Migratory - Offshore - Shipping (NT)	2011	1	65
+Migratory - Offshore - Shipping (NT)	2016	0	53
+Migratory - Offshore - Shipping (NT)	2016	1	16
+No usual address (NT)	2006	0	361
+No usual address (NT)	2006	1	1275
+No usual address (NT)	2011	0	455
+No usual address (NT)	2011	1	1167
+No usual address (NT)	2016	0	402
+No usual address (NT)	2016	1	1379
+Australian Capital Territory	2006	0	70201
+Australian Capital Territory	2006	1	235979
+Australian Capital Territory	2011	0	86163
+Australian Capital Territory	2011	1	254624
+Australian Capital Territory	2016	0	105039
+Australian Capital Territory	2016	1	269693
+Migratory - Offshore - Shipping (ACT)	2006	0	0
+Migratory - Offshore - Shipping (ACT)	2006	1	0
+Migratory - Offshore - Shipping (ACT)	2011	0	0
+Migratory - Offshore - Shipping (ACT)	2011	1	0
+Migratory - Offshore - Shipping (ACT)	2016	0	0
+Migratory - Offshore - Shipping (ACT)	2016	1	0
+No usual address (ACT)	2006	0	163
+No usual address (ACT)	2006	1	481
+No usual address (ACT)	2011	0	160
+No usual address (ACT)	2011	1	435
+No usual address (ACT)	2016	0	130
+No usual address (ACT)	2016	1	351
+Other Territories	2006	0	663
+Other Territories	2006	1	1463
+Other Territories	2011	0	1255
+Other Territories	2011	1	1452
+Other Territories	2016	0	1452
+Other Territories	2016	1	2504
+Migratory - Offshore - Shipping (OT)	2006	0	0
+Migratory - Offshore - Shipping (OT)	2006	1	0
+Migratory - Offshore - Shipping (OT)	2011	0	0
+Migratory - Offshore - Shipping (OT)	2011	1	0
+Migratory - Offshore - Shipping (OT)	2016	0	0
+Migratory - Offshore - Shipping (OT)	2016	1	4
+No usual address (OT)	2006	0	5
+No usual address (OT)	2006	1	16
+No usual address (OT)	2011	0	5
+No usual address (OT)	2011	1	19
+No usual address (OT)	2016	0	22
+No usual address (OT)	2016	1	24

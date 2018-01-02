@@ -1,0 +1,136 @@
+STE_NAME16	Year	DwellingStructure	occupied_private_dwellings
+New South Wales	2006		1549
+New South Wales	2006	(Other)	25702
+New South Wales	2006	Flat/apartment	411795
+New South Wales	2006	Semi-detached, row/terrace house, townhouse etc.	226556
+New South Wales	2006	Separate house	1662618
+New South Wales	2011		3343
+New South Wales	2011	(Other)	21143
+New South Wales	2011	Flat/apartment	465190
+New South Wales	2011	Semi-detached, row/terrace house, townhouse etc.	263926
+New South Wales	2011	Separate house	1717700
+New South Wales	2016		14077
+New South Wales	2016	(Other)	23583
+New South Wales	2016	Flat/apartment	519380
+New South Wales	2016	Semi-detached, row/terrace house, townhouse etc.	317447
+New South Wales	2016	Separate house	1729820
+Victoria	2006		387
+Victoria	2006	(Other)	12850
+Victoria	2006	Flat/apartment	224542
+Victoria	2006	Semi-detached, row/terrace house, townhouse etc.	162965
+Victoria	2006	Separate house	1380921
+Victoria	2011		797
+Victoria	2011	(Other)	11693
+Victoria	2011	Flat/apartment	250494
+Victoria	2011	Semi-detached, row/terrace house, townhouse etc.	185737
+Victoria	2011	Separate house	1495969
+Victoria	2016		7703
+Victoria	2016	(Other)	11091
+Victoria	2016	Flat/apartment	246041
+Victoria	2016	Semi-detached, row/terrace house, townhouse etc.	300917
+Victoria	2016	Separate house	1546945
+Queensland	2006		1043
+Queensland	2006	(Other)	21500
+Queensland	2006	Flat/apartment	156295
+Queensland	2006	Semi-detached, row/terrace house, townhouse etc.	105919
+Queensland	2006	Separate house	1106877
+Queensland	2011		1278
+Queensland	2011	(Other)	19576
+Queensland	2011	Flat/apartment	181716
+Queensland	2011	Semi-detached, row/terrace house, townhouse etc.	129427
+Queensland	2011	Separate house	1215305
+Queensland	2016		8602
+Queensland	2016	(Other)	16815
+Queensland	2016	Flat/apartment	186778
+Queensland	2016	Semi-detached, row/terrace house, townhouse etc.	174984
+Queensland	2016	Separate house	1269653
+South Australia	2006		317
+South Australia	2006	(Other)	3843
+South Australia	2006	Flat/apartment	51965
+South Australia	2006	Semi-detached, row/terrace house, townhouse etc.	61406
+South Australia	2006	Separate house	466418
+South Australia	2011		325
+South Australia	2011	(Other)	2812
+South Australia	2011	Flat/apartment	54968
+South Australia	2011	Semi-detached, row/terrace house, townhouse etc.	66465
+South Australia	2011	Separate house	494472
+South Australia	2016		2454
+South Australia	2016	(Other)	3025
+South Australia	2016	Flat/apartment	41999
+South Australia	2016	Semi-detached, row/terrace house, townhouse etc.	94506
+South Australia	2016	Separate house	496799
+Western Australia	2006		377
+Western Australia	2006	(Other)	8044
+Western Australia	2006	Flat/apartment	52610
+Western Australia	2006	Semi-detached, row/terrace house, townhouse etc.	73323
+Western Australia	2006	Separate house	568816
+Western Australia	2011		684
+Western Australia	2011	(Other)	7381
+Western Australia	2011	Flat/apartment	62991
+Western Australia	2011	Semi-detached, row/terrace house, townhouse etc.	84333
+Western Australia	2011	Separate house	638769
+Western Australia	2016		2981
+Western Australia	2016	(Other)	6323
+Western Australia	2016	Flat/apartment	49084
+Western Australia	2016	Semi-detached, row/terrace house, townhouse etc.	122560
+Western Australia	2016	Separate house	685824
+Tasmania	2006		23
+Tasmania	2006	(Other)	1478
+Tasmania	2006	Flat/apartment	15238
+Tasmania	2006	Semi-detached, row/terrace house, townhouse etc.	7381
+Tasmania	2006	Separate house	157778
+Tasmania	2011		109
+Tasmania	2011	(Other)	1354
+Tasmania	2011	Flat/apartment	14515
+Tasmania	2011	Semi-detached, row/terrace house, townhouse etc.	10328
+Tasmania	2011	Separate house	166515
+Tasmania	2016		732
+Tasmania	2016	(Other)	1199
+Tasmania	2016	Flat/apartment	11262
+Tasmania	2016	Semi-detached, row/terrace house, townhouse etc.	11385
+Tasmania	2016	Separate house	172998
+Northern Territory	2006		36
+Northern Territory	2006	(Other)	2443
+Northern Territory	2006	Flat/apartment	8488
+Northern Territory	2006	Semi-detached, row/terrace house, townhouse etc.	5647
+Northern Territory	2006	Separate house	39314
+Northern Territory	2011		263
+Northern Territory	2011	(Other)	2473
+Northern Territory	2011	Flat/apartment	10084
+Northern Territory	2011	Semi-detached, row/terrace house, townhouse etc.	6879
+Northern Territory	2011	Separate house	41187
+Northern Territory	2016		569
+Northern Territory	2016	(Other)	2171
+Northern Territory	2016	Flat/apartment	11367
+Northern Territory	2016	Semi-detached, row/terrace house, townhouse etc.	7847
+Northern Territory	2016	Separate house	43100
+Australian Capital Territory	2006		43
+Australian Capital Territory	2006	(Other)	207
+Australian Capital Territory	2006	Flat/apartment	11784
+Australian Capital Territory	2006	Semi-detached, row/terrace house, townhouse etc.	15661
+Australian Capital Territory	2006	Separate house	89222
+Australian Capital Territory	2011		50
+Australian Capital Territory	2011	(Other)	228
+Australian Capital Territory	2011	Flat/apartment	16073
+Australian Capital Territory	2011	Semi-detached, row/terrace house, townhouse etc.	18810
+Australian Capital Territory	2011	Separate house	94267
+Australian Capital Territory	2016		271
+Australian Capital Territory	2016	(Other)	187
+Australian Capital Territory	2016	Flat/apartment	21404
+Australian Capital Territory	2016	Semi-detached, row/terrace house, townhouse etc.	25278
+Australian Capital Territory	2016	Separate house	95520
+Other Territories	2006		0
+Other Territories	2006	(Other)	6
+Other Territories	2006	Flat/apartment	145
+Other Territories	2006	Semi-detached, row/terrace house, townhouse etc.	7
+Other Territories	2006	Separate house	561
+Other Territories	2011		15
+Other Territories	2011	(Other)	7
+Other Territories	2011	Flat/apartment	214
+Other Territories	2011	Semi-detached, row/terrace house, townhouse etc.	69
+Other Territories	2011	Separate house	398
+Other Territories	2016		16
+Other Territories	2016	(Other)	12
+Other Territories	2016	Flat/apartment	115
+Other Territories	2016	Semi-detached, row/terrace house, townhouse etc.	87
+Other Territories	2016	Separate house	1130

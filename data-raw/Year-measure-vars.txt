@@ -1,0 +1,50 @@
+list(Year = list(class = "integer", permitted_values = c("2006", 
+"2011", "2016")), FOE = list(class = "character", permitted_values = c("Agriculture environmental and related studies", 
+"Architecture and building", "Creative arts", "Education", "Engineering and related technologies", 
+"Field of study inadequately described", "Field of study not stated", 
+"Food hospitality and personal services", "Health", "Information technology", 
+"Management and commerce", "Mixed field programmes", "Natural and physical sciences", 
+"Society and culture")), LabourForceStatus = list(class = "character", 
+    permitted_values = c("Employed (away from work)", "Employed (full-time)", 
+    "Employed (hours worked not stated)", "Employed (part-time)", 
+    "Not in the labour force", "Unemployed (looking for full-time work)", 
+    "Unemployed (looking for part-time work)", "Unemployed (looking for work)"
+    )), NonSchoolQualification = list(class = c("ordered", "factor"
+), permitted_values = 1:7), Children = list(class = "integer", 
+    permitted_values = 1:4), TotalFamilyIncome.min = list(class = "integer", 
+    permitted_values = c(-1, 52, 7800, 15600, 20800, 26000, 33800, 
+    41600, 52000, 78000, 104000, 130000, 156000, 208000)), FullTimeWorkers = list(
+    class = "integer", permitted_values = 0:2), PartTimeWorkers = list(
+    class = "integer", permitted_values = 0:2), AwayFromWork = list(
+    class = "integer", permitted_values = 0:2), NotWorking = list(
+    class = "integer", permitted_values = 0:2), TenureType = list(
+    class = "character", permitted_values = c("Other tenure type", 
+    "Owned outright", "Owned with a mortgage", "Rented Housing co operative community church group", 
+    "Rented Landlord type not stated", "Rented Other landlord type", 
+    "Rented Person not in same household", "Rented Real estate agent", 
+    "Rented State or territory housing authority")), HasDependantStudent = list(
+    class = "logical", permitted_values = c(FALSE, TRUE)), IndustryOfEmployment = list(
+    class = "character", permitted_values = c("Accommodation and food services", 
+    "Administrative and support services", "Agriculture forestry and fishing", 
+    "Arts and recreation services", "Construction", "Education and training", 
+    "Electricity gas water and waste services", "Financial and insurance services", 
+    "Health care and social assistance", "Information media and telecommunications", 
+    "Manufacturing", "Mining", "Other services", "Professional scientific and technical services", 
+    "Public administration and safety", "Rental hiring and real estate services", 
+    "Retail trade", "Transport postal and warehousing", "Wholesale trade"
+    )), LanguageSpoken = list(class = "character", permitted_values = c("(Other)", 
+"Afrikaans", "Arabic", "Australian_Indigenous_Languages", "Chinese_languages_Bengali", 
+"Chinese_languages_Cantonese", "Chinese_languages_Mandarin", 
+"Chinese_languages_Other", "Croatian", "Dutch", "English", "Filipino", 
+"French", "German", "Greek", "Hindi", "Indonesian", "Italian", 
+"Japanese", "Korean", "Macedonian", "Persian_includes_Dari", 
+"Polish", "Punjabi", "Russian", "Samoan", "Serbian", "Sinhalese", 
+"Spanish", "Tagalog", "Tamil", "Thai", "Turkish", "Urdu", "Vietnamese"
+)), Occupation = list(class = "character", permitted_values = c("Clerical and administrative workers", 
+"Community and personal service workers", "Labourers", "Machinery operators and drivers", 
+"Managers", "Professionals", "Sales workers", "Technicians and trades workers"
+)), TotalHouseholdIncome.min = list(class = "integer", permitted_values = c(-1, 
+52, 7800, 15600, 20800, 26000, 33800, 41600, 52000, 65000, 78000, 
+104000, 130000, 156000, 208000)), SameAddress1YearAgo = list(
+    class = "logical", permitted_values = c(FALSE, TRUE)), SameAddress5YearsAgo = list(
+    class = "logical", permitted_values = c(FALSE, TRUE)))

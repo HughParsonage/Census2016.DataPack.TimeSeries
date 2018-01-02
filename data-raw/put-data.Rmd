@@ -1,7 +1,7 @@
 
 
 ```{r Region}
-Region <- "STE"
+# Region <- "STE"
 ```
 
 ```{r setup}
@@ -12,6 +12,7 @@ knitr::opts_chunk$set(echo = TRUE,
 ```
 
 ```{r loadPackages}
+suppressMessages({
 library(readxl)
 library(testthat)
 library(magrittr)
@@ -19,6 +20,7 @@ library(hutils)
 library(data.table)
 library(ASGS)
 library(Census2016.DataPack)
+})
 ```
 
 
@@ -156,6 +158,90 @@ freadT <- function(g, vi = NULL, value.name = "persons") {
 }
 ```
 
+```{r}
+do_dots <- function(...) {
+  eval(substitute(alist(...)))
+}
+
+```
+
+```{r splitW}
+splitW <- function(DT, ...,
+                   Vs,
+                   # elict the rows of DT
+                   # from length(Vs)
+                   elicit = TRUE) {
+  lower_caps <- function(v) {
+    # Not_stated can be at the start of a code,
+    # e.g. Table 15
+    v <- gsub("(?<!(^))(?:Not_stated)", "na", v)
+    v <- gsub("(?:None)", "0", v)
+    v <- gsub("Information_and_Communication_Technology", 
+              "Information_and_communication_technology",
+              v)
+    v <- gsub("_ICT_", "_ict_", v)
+    v
+  }
+  
+  reraise_caps <- function(v) {
+    v <- gsub("Information_and_communication_technology",
+              "Information_and_Communication_Technology", 
+              v)
+    v <- gsub("_ict_", "_ICT_", v)
+    
+    v <- gsub("_", " ", v)
+    v
+  }
+  
+  if (missing(Vs)) {
+    dotsL <- length(match.call(expand.dots = FALSE)$...)
+    Vs <- vapply(seq_len(dotsL),
+                 function(x) deparse(do_dots(...)[[x]]),
+                 character(1))
+    v <- .subset2(DT, "variable")
+    # Assume a new level occurs with each capital letter, 
+    # except the following
+    v <- lower_caps(v)
+    level <- nchar(gsub("[^A-Z]", "", v))
+    n_levels <- uniqueN(level)
+  }
+  
+  if (elicit) {
+    out <- DT[which(level == length(Vs))]
+  } else {
+    out <- DT
+    if (n_levels > 1L) {
+      to_print <- copy(out)
+      to_print[, level := level] %>%
+        unique(by = "level") %>%
+        print
+      stop("Cannot print: levels appear to be different.")
+    }
+    if (length(Vs) != n_levels) {
+      stop("length(Vs) = ", length(Vs), " != n_levels = ", n_levels, ".")
+    }
+  }
+  
+  
+  out[, variable := lower_caps(variable)]
+  out[,
+      (Vs) := tstrsplit(.SD[[1]], split = "_(?=[A-Z])", perl = TRUE),
+      .SDcols = "variable"
+      ][,        
+        (Vs) := lapply(.SD, reraise_caps),
+        .SDcols = Vs
+        ]
+  
+  # for (vv in names(out)) {
+  #   if ("Total" %fin% out[[vv]]) {
+  #     out <- out[out[[vv]] != "Total"]
+  #   }
+  # }
+  out
+  
+}
+```
+
 ```{r extract_Year}
 .extract_Year <- function(v) {
   if (all(grepl("^.+_(2006|2011|2016)_Census.*$", v))) {
@@ -265,21 +351,8 @@ extract_CountryOfBirth <- function(DT) {
       CountryOfBirth := sub("^(.*)_(2006|2011|2016)_Census_(?:Persons|Males|Females)$",
                             "\\1",
                             variable)] %>%
-    .[CountryOfBirth == "The_Former_Yugoslav_Rebublic_of_Macedonia",
-      CountryOfBirth := "The former Yugoslav Republic of Macedonia"] %>%
-    .[CountryOfBirth == "Korea_Republic_of_South",
-      CountryOfBirth := "South Korea"] %>%
-    .[CountryOfBirth == "United_Kingdom_Channel_Islands_and_Isle_of_Man",
-      CountryOfBirth := "United Kingdom"] %>%
-    .[CountryOfBirth == "United_States_of_America",
-      CountryOfBirth := "United States"] %>%
-    .[CountryOfBirth == "Hong_Kong_SAR_of_China",
-      CountryOfBirth := "Hong Kong"] %>%
-    .[CountryOfBirth == "Hong_Kong_SAR_of_China",
-      CountryOfBirth := "Hong Kong"] %>%
-    .[CountryOfBirth == "Born_elsewhere",
-      CountryOfBirth := "Other"] %>%
-    .[, CountryOfBirth := gsub("_", " ", CountryOfBirth)]
+    decode_country %>%
+    .[]
 }
 ```
 
@@ -327,6 +400,60 @@ decodeRegion <- function(DT) {
 }
 ```
 
+```{r decode_country}
+.decode_country <- function(x, to = "alpha-3") {
+  xna <- is.na(x)
+  x[!xna] <- trimws(x[!xna])
+  stopifnot(to == "alpha-3",
+            names(ISO3166)[1] == "name")
+  nom <- ISO3166[["name"]]
+  a3 <- ISO3166[["alpha_3"]]
+  keep <- and(nchar(x, keepNA = FALSE) == 3L,
+              x == toupper(x))
+  
+  res <- a3[pmatch(x, nom, duplicates.ok = TRUE)]
+  res[keep] <- x[keep]
+  if (anyNA(res[!is.na(x)])) {
+    print(x[is.na(res[!is.na(x)])])
+    stop("Country code could not be decoded.")
+  }
+  res[xna] <- NA_character_
+  res
+}
+
+decode_country <- function(out) {
+  stopifnot(is.data.table(out),
+            "CountryOfBirth" %in% names(out))
+  out[, CountryOfBirth := trimws(gsub("_", " ", CountryOfBirth))]
+  out[, CountryOfBirth := gsub("(?<!(F))Ye?a?r.*arrival.ns$", "", CountryOfBirth,
+                               ignore.case = TRUE)]
+  out[CountryOfBirth %pin% "(Born )?[Ee]lsewhere", CountryOfBirth := NA_character_]
+  out[CountryOfBirth == "Country of birth not stated", CountryOfBirth := NA_character_]
+  out[CountryOfBirth %pin% "Bosnia", CountryOfBirth := "Bosnia and Herzegovina"]
+  out[CountryOfBirth %pin% "Korea", CountryOfBirth := "KOR"]
+  out[CountryOfBirth %pin% "Macedonia", CountryOfBirth := "Macedonia"]
+  out[CountryOfBirth %pin% c("United Kingdom",
+                             "N[a-z]+n Ireland",
+                             "England",
+                             "Scotland",
+                             "Wales"),
+      CountryOfBirth := "United Kingdom"]
+  out[CountryOfBirth %pin% "SE Europe nfd", CountryOfBirth := NA_character_]
+  out[CountryOfBirth %pin% "China excl? SARs (and )?Tai?w",  CountryOfBirth := "CHN"]
+  out[CountryOfBirth %pin% "Ho?ng Ko?ng",             CountryOfBirth := "Hong Kong"]
+  out[CountryOfBirth == "Vietnam", CountryOfBirth := "VNM"]
+  # Negative lookbehind due to FYROM (Macedonia)
+  
+  
+  out[CountryOfBirth %pin% "FYROM",                   CountryOfBirth := "MKD"]
+  out[CountryOfBirth %pin% "China excl? SARs Tai?w",  CountryOfBirth := "CHN"]
+  out[CountryOfBirth %pin% c("USA", "United States"), CountryOfBirth := "USA"]
+  out[CountryOfBirth %pin% "Ho?ng Ko?ng",             CountryOfBirth := "Hong Kong"]
+  out[, CountryOfBirth := .decode_country(CountryOfBirth)]
+  out[]
+}
+```
+
 
 
 ```{r Mop}
@@ -334,8 +461,7 @@ Mop <- function(DT, value.name = "persons", suborder = NULL) {
   # Check if any variables have already been used.
   # If so, stop; else, add to varIused
   varIBeingUsed <- .subset2(DT, "varI")
-  stopifnot("varI" %in% names(DT),
-            is.null(varIused) || !any(varIBeingUsed %in% varIused))
+  stopifnot(is.null(varIused) || !any(varIBeingUsed %in% varIused))
   drop_col(DT, "varI")
   
   stopifnot(value.name %in% names(DT),
@@ -422,6 +548,8 @@ Mop <- function(DT, value.name = "persons", suborder = NULL) {
             uniqueN(out[["FamilyComposition"]]) > 3L)) {
       out[!grepl("Other", FamilyComposition),
           CoupleFamily := FamilyComposition %pin% "Couple"]
+      # switch to the position of FamilyComposition
+      set_colsuborder(out, c("CoupleFamily", "FamilyComposition"))
       out[, FamilyComposition := NULL]
     }
   }
@@ -434,6 +562,21 @@ Mop <- function(DT, value.name = "persons", suborder = NULL) {
   if ("DwellingSubtype" %chin% names(out)) {
     out[DwellingSubtype == "4 or more storey block",
         DwellingSubtype := "4 storey block or more"]
+  }
+  
+  if ("Aboriginal" %chin% names(out) &&
+      "TorresStraitIslander" %chin% names(out)) {
+    c("Aboriginal", "Both Aboriginal & Torres Strait Islander", "Non-indigenous", 
+"Torres Strait Islander")
+    out[nor(Aboriginal, TorresStraitIslander), IndigenousStatus := "Non-indigenous"]
+    out[`&`(Aboriginal, TorresStraitIslander), IndigenousStatus := "Both Aboriginal & Torres Strait Islander"]
+    out[`&`(!Aboriginal, TorresStraitIslander), IndigenousStatus := "Torres Strait Islander"]
+    out[`&`(Aboriginal, !TorresStraitIslander), IndigenousStatus := "Aboriginal"]
+    out[, c("Aboriginal", "TorresStraitIslander") := NULL]
+  }
+  
+  if ("Age.int" %chin% names(out)) {
+    setnames(out, "Age.int", "Age.min")
   }
   
   for (j in names(DT)) {
@@ -566,23 +709,33 @@ Mop <- function(DT, value.name = "persons", suborder = NULL) {
   # Check for no duplicates, except for value.name
   if (anyDuplicated(out, by = setdiff(names(out), value.name))) {
     print(duplicated_rows(out, by = setdiff(names(out), value.name)))
-    stop("Duplicated rows.")
+    stop("2. Duplicated rows.")
   }
   if (!is.null(suborder)) {
-    set_colsuborder(DT, suborder)
-    setorderv(DT, setdiff(names(out), value.name))
+    set_colsuborder(out, suborder)
   }
+  
+  set_cols_last(out, value.name)
+  setorderv(out, setdiff(names(out), value.name))
 
   out_noms <- names(out)
   
   object_name <- 
     paste0(Region,
            "__",
-           paste0(setdiff(out_noms, c(Region_key, "persons")),
+           paste0(setdiff(out_noms, c(Region_key, value.name)),
                   collapse = "_"))
   
   if (object_name %in% ls(envir = .GlobalEnv)) {
-    stop("`", object_name, "` already defined.")
+    object_name <- 
+      paste0(Region,
+             "__",
+             paste0(setdiff(out_noms, c(Region_key, "persons")),
+                    collapse = "_"))
+    
+    if (object_name %in% ls(envir = .GlobalEnv)) {
+      stop("`", object_name, "` already defined.")
+    }
   }
   
   decoded_out <- decodeRegion(out)
@@ -599,6 +752,29 @@ Mop <- function(DT, value.name = "persons", suborder = NULL) {
   varIused <<- sort(c(varIused, unique(varIBeingUsed)))
   decoded_out[]
 }
+```
+
+
+```{r ISO3166}
+iso3166_url <-
+  "https://raw.githubusercontent.com/lukes/ISO-3166-Countries-with-Regional-Codes/master/all/all.csv"
+
+ISO3166 <-
+  if (file.exists("data-raw/ISO-3166-countries.csv")) {
+    fread("data-raw/ISO-3166-countries.csv")
+  } else {
+    fread(iso3166_url) %T>%
+      fwrite("data-raw/ISO-3166-countries.csv") %>%
+      .[]
+  }
+setnames(ISO3166, "alpha-3", "alpha_3")
+```
+
+```{r}
+expect_equal(.decode_country(c("United Kingdom", "Australia", "Australia",
+                               NA)), 
+             c("GBR", "AUS", "AUS",
+               NA))
 ```
 
 ```{r varIused}
@@ -661,6 +837,8 @@ freadT(1, c(1, 9), "persons") %>%
   .[Age >= "15-19"] %>%
   .[, varI := 0L] %>%
   setnames("persons", "adults") %>%
+  .[, varI := NULL] %>%
+  set_cols_last("adults") %>%
   assign(x = paste0(Region, "__Year_Age_adults"), envir = .GlobalEnv)
 ```
 
@@ -835,6 +1013,7 @@ melt_using_suffix <- function(DT, suffix, suffix_is = "Year", id.cols = Region_k
 
 ```{r Mop_multiple}
 Mop_multiple <- function(DT) {
+  DT[, Year := as.integer(Year)]
   DTnoms <- copy(names(DT))
   for (nom in DTnoms) {
     if (!(nom %chin% c(Region_key, "Year"))) {
@@ -855,7 +1034,7 @@ Mop_multiple <- function(DT) {
                nom_)
       
       assign(object_name,
-             value = DT[, .SD, .SDcols = c(Region_key, "Year", nom_)],
+             value = decodeRegion(DT[, .SD, .SDcols = c(Region_key, "Year", nom_)]),
              envir = .GlobalEnv)
     }
   }
@@ -908,6 +1087,7 @@ freadT(4, c(1114, 1737)) %>%
   .[, MaritalStatus := sub("^.*years(?:_and_over)?_([A-Z].+)_(Males|Females)$", "\\1", variable)] %>%
   .[MaritalStatus == "Never_married", MaritalStatus := "Never married"] %>%
   extract_Age %>%
+  setnames("Age", "Age5yr") %>%
   extract_Sex %>%
   Mop
 ```
@@ -923,6 +1103,7 @@ freadT(7, vi = c(2710, 3141), value.name = "females") %>%
   .[variable %pin% "Four_child",  ChildrenEverBorn := 4L] %>%
   .[variable %pin% "Five_child",  ChildrenEverBorn := 5L] %>%
   .[variable %pin% "Six_or_more_child", ChildrenEverBorn := 6L] %>%
+  setnames("Age", "Age5yr") %>%
   Mop(value.name = "females")
 ```
 
@@ -930,7 +1111,12 @@ freadT(7, vi = c(2710, 3141), value.name = "females") %>%
 freadT(8, c(3142, 3483)) %>%
   .[variable %pin% "Persons$"] %>%
   .[variable %npin% "Total"] %>%
-  extract_CountryOfBirth %>%
+  .[, variable := sub("_20(06|11|16)_Census_", "_", variable)] %>%
+  .[, variable := sub("_Persons", "", variable)] %>%
+  setnames("variable", "CountryOfBirth") %>%
+  decode_country %>%
+  .[, .(persons = sum(persons),
+        varI = first(varI)), keyby = c(Region_key, "Year", "CountryOfBirth")] %>%
   Mop
 ```
 
@@ -938,8 +1124,13 @@ freadT(8, c(3142, 3483)) %>%
 freadT(8, c(3142, 3483)) %>%
   .[variable %npin% "Persons$"] %>%
   .[variable %npin% "Total"] %>%
-  extract_CountryOfBirth %>%
+  .[, variable := sub("_20(06|11|16)_Census_", "_", variable)] %>%
   extract_Sex %>%
+  .[, variable := sub("_(Males|Females)$", "", variable)] %>%
+  setnames("variable", "CountryOfBirth") %>%
+  decode_country %>%
+  .[, .(persons = sum(persons),
+        varI = first(varI)), keyby = c(Region_key, "Year", "CountryOfBirth", "Sex")] %>%
   Mop
 ```
 
@@ -1019,6 +1210,14 @@ freadT(12) %>%
     Denomination := "Other spiritual beliefs"] %>%
   .[, Religion := gsub("_", " ", Religion)] %>%
   .[, Denomination := gsub("_", " ", Denomination)] %>%
+  .[Denomination == "Christian nfd",
+    Denomination := NA_character_] %>%
+  .[Denomination == "Churches of Christ",
+    Denomination := "Churches Of Christ"] %>%
+  .[Denomination == "Other Protestant",
+    Denomination := "Protestant (Other)"] %>%
+  .[Denomination == "Seventh day Adventist",
+    Denomination := "Seventh Day Adventist"] %>%
   Mop
 ```
 
@@ -1037,7 +1236,16 @@ freadT(13, value.name = "students") %>%
   .[variable %pin% "^Secondary",     EduInstitutionType := "Secondary"] %>%
   .[variable %pin% "^Tec.*Furt",     EduInstitutionType := "Technical or Further Educational Institution"] %>%
   .[variable %pin% "^Uni",           EduInstitutionType := "University or other tertiary"] %>%
-  .[variable %pin% "^Oth",           EduInstitutionType := "(Other)"] %>%
+  .[variable %pin% "^Oth",           EduInstitutionType := NA_character_] %>%
+    .[, EduInstitutionType := factor(EduInstitutionType,
+                                   levels = c(NA,
+                                              "Infants/Primary",
+                                              "Pre-school",
+                                              "Secondary",
+                                              "Technical or Further Educational Institution",
+                                              "University or other tertiary"),
+                                   ordered = TRUE)] %>%
+  .[, .(students = sum(students)), keyby = c(Region_key, "Year", "EduInstitutionType")] %>%
   Mop("students")
 
 ```
@@ -1057,11 +1265,17 @@ freadT(13, value.name = "students") %>%
   .[variable %pin% "^Secondary",     EduInstitutionType := "Secondary"] %>%
   .[variable %pin% "^Tec.*Furt",     EduInstitutionType := "Technical or Further Educational Institution"] %>%
   .[variable %pin% "^Uni",           EduInstitutionType := "University or other tertiary"] %>%
-  .[variable %pin% "^Oth",           EduInstitutionType := "(Other)"] %>%
+  .[variable %pin% "^Oth",           EduInstitutionType := NA_character_] %>%
   .[, EduInstitutionType := factor(EduInstitutionType,
-                                   levels = unique(EduInstitutionType),
+                                   levels = c(NA,
+                                              "Infants/Primary",
+                                              "Pre-school",
+                                              "Secondary",
+                                              "Technical or Further Educational Institution",
+                                              "University or other tertiary"),
                                    ordered = TRUE)] %>%
   extract_Sex %>%
+  .[, .(students = sum(students)), keyby = c(Region_key, "Year", "EduInstitutionType", "Sex")] %>%
   Mop("students")
 ```
 
@@ -1276,7 +1490,8 @@ freadT(19, value.name = "occupied_private_dwellings_being_rented") %>%
   .[variable %pin% "Housing.co.operative",
     Landlord := "Co-op/church group etc"] %>%
   .[variable %pin% "^20.._Census_([0-9]+)_.*$",
-    Rent.min := as.integer(sub("^20.._Census_([0-9]+)_.*$", "\\1", variable))] %>%
+    Rent.min := 52.5 * as.integer(sub("^20.._Census_([0-9]+)_.*$", "\\1", variable))] %>%
+  .[, Rent.min := as.integer(Rent.min)] %>%
   .[] %>%
   Mop("occupied_private_dwellings_being_rented")
 ```
@@ -1288,7 +1503,8 @@ freadT(20, value.name = "occupied_private_dwellings_being_rented") %>%
   .[!(variable %pin% "_Total$")] %>%
   .[!(variable %pin% "20.._Census_Total")] %>%
   .[variable %pin% "^20.._Census_([0-9]+)_.*$",
-    Rent.min := as.integer(sub("^20.._Census_([0-9]+)_.*$", "\\1", variable))] %>%
+    Rent.min := 52.5 * as.integer(sub("^20.._Census_([0-9]+)_.*$", "\\1", variable))] %>%
+  .[, Rent.min := as.integer(Rent.min)] %>%
 
   .[variable %pin% "Couple_family", FamilyComposition := "Couple family"] %>%
   .[variable %pin% "One.parent", FamilyComposition := "One-parent family"] %>%
@@ -1337,12 +1553,8 @@ freadT(24, value.name = "occupied_private_dwellings_being_rented") %>%
     TotalHouseholdIncome.min := 52L * as.integer(sub("^.*Census_([0-9]+)_.*$", "\\1", variable))] %>%
   .[grepl("Negative", variable), TotalHouseholdIncome.min := -1L] %>%
   .[variable %pin% "^20.._Census_.*_Rent_[0-9]",
-    Rent.min := as.integer(sub("^20.._Census_.*_Rent_([0-9]+).*$", "\\1", variable))] %>%
-  .[] %>%
-  # .[, list(occupied_private_dwellings_being_rented = sum(occupied_private_dwellings_being_rented),
-  #          # hack to allow Mop() to proceed
-  #          varI = first(varI)),
-  #   keyby = c(Region_key, "Year", "Rent.min", "TotalFamilyIncome.min")] %>%
+    Rent.min := 52.5 * as.integer(sub("^20.._Census_.*_Rent_([0-9]+).*$", "\\1", variable))] %>%
+  .[, Rent.min := as.integer(Rent.min)] %>%
   Mop("occupied_private_dwellings_being_rented")
 ```
 
@@ -1460,9 +1672,10 @@ fread29 %>%
     dot <- .
     for (nom in setdiff(names(dot), c(Region_key, "Year"))) {
       out <- dot[, .SD, .SDcols = c(Region_key, "Year", nom)]
-      assign(paste0(Region, "__Year_", nom),
-             value = decodeRegion(dot[, .SD, .SDcols = c(Region_key, "Year", nom)]),
-             envir = .GlobalEnv)
+      Mop(out, value.name = nom)
+      # assign(paste0(Region, "__Year_", nom),
+      #        value = decodeRegion(dot[, .SD, .SDcols = c(Region_key, "Year", nom)]),
+      #        envir = .GlobalEnv)
     }
   }
 ```
@@ -1475,11 +1688,7 @@ fread29 %>%
   setnames("persons", "value") %>%
   .[, variable := sub("^Percent_(.*)_20...*$", "\\1", variable)] %>%
   .[, variable := gsub("_([A-Za-z])", "\\U\\1\\E", variable)] %>%
-  .[, variable := sub("^([A-Z])", "\\L\\1\\E", variable)] %T>%
-  {
-    dot <- .
-    varIused <<- sort(c(varIused, unique(dot[["varI"]])))
-  } %>%
+  .[, variable := sub("^([A-Z])", "\\L\\1\\E", variable)] %>%
   dcast.data.table(formula = as.formula(paste0(Region_key, " + Year + Sex", "~", "variable")),
                    value.var = "value") %>%
   .[] %>%
@@ -1488,9 +1697,10 @@ fread29 %>%
     dot <- .
     for (nom in setdiff(names(dot), c(Region_key, "Year", "Sex"))) {
       out <- dot[, .SD, .SDcols = c(Region_key, "Year", "Sex", nom)]
-      assign(paste0(Region, "__Year_Sex", nom),
-             value = decodeRegion(dot[, .SD, .SDcols = c(Region_key, "Year", "Sex", nom)]),
-             envir = .GlobalEnv)
+      Mop(out, value.name = nom)
+      # assign(paste0(Region, "__Year_Sex_", nom),
+      #        value = decodeRegion(dot[, .SD, .SDcols = c(Region_key, "Year", "Sex", nom)]),
+      #        envir = .GlobalEnv)
     }
    
   }
@@ -1510,7 +1720,13 @@ fread29 %>%
                                                  "Certificate_Level_",
                                                  variable))))] %>%
   .[, NonSchoolQualification := factor(NonSchoolQualification,
-                                       levels = rev(unique(.$NonSchoolQualification)),
+                                       levels = c("Certificate nfd",
+                                                  "Certificate I and II Level",
+                                                  "Certificate III and IV Level",
+                                                  "Advanced Diploma and Diploma",
+                                                  "Bachelor",
+                                                  "Graduate Diploma and Graduate Certificate",
+                                                  "Postgraduate"),
                                        ordered = TRUE)] %>%
   provide_complementary_observation %>%
   .[] %>%
@@ -1532,7 +1748,13 @@ fread29 %>%
                                                  "Certificate_Level_",
                                                  variable))))] %>%
   .[, NonSchoolQualification := factor(NonSchoolQualification,
-                                       levels = rev(unique(.$NonSchoolQualification)),
+                                       levels = c("Certificate nfd",
+                                                  "Certificate I and II Level",
+                                                  "Certificate III and IV Level",
+                                                  "Advanced Diploma and Diploma",
+                                                  "Bachelor",
+                                                  "Graduate Diploma and Graduate Certificate",
+                                                  "Postgraduate"),
                                        ordered = TRUE)] %>%
   provide_complementary_observation(vars = c("Year", "Sex")) %>%
   .[] %>%
@@ -1621,10 +1843,15 @@ freadT(30, value.name = "families") %>%
     HasChildren := !grepl("with_no_children", variable)] %>%
   .[] %>%
   Mop("families",
-      suborder = c("FamilyComposition",
-                   "HasChildren",
+      suborder = c("CoupleFamily",
+                   "HasChild",
                    "TotalFamilyIncome.min",
-                   "FullTimeWorkers", "PartTimeWorkers", "AwayFromWork", 'NotWorking')) %>%
+                   "FullTimeWorkers",
+                   "PartTimeWorkers",
+                   "AwayFromWork", 
+                   'NotWorking',
+                   "families")
+      ) %>%
   .[]
 ```
 
@@ -1655,8 +1882,14 @@ freadT(31, value.name = "adults") %>%
                                        "Bachelor",
                                        "Graduate Diploma and Graduate Certificate", 
                                        "Postgraduate"))] %>%
-  .[, NonSchoolQualification := factor(NonSchoolQualification, 
-                                       levels = unique(.$NonSchoolQualification), 
+  .[, NonSchoolQualification := factor(NonSchoolQualification,
+                                       levels = c("Certificate nfd",
+                                                  "Certificate I and II Level",
+                                                  "Certificate III and IV Level",
+                                                  "Advanced Diploma and Diploma",
+                                                  "Bachelor",
+                                                  "Graduate Diploma and Graduate Certificate",
+                                                  "Postgraduate"),
                                        ordered = TRUE)] %>%
   .[] %>%
   Mop("adults")
@@ -1690,8 +1923,14 @@ freadT(31, value.name = "adults") %>%
                                        "Bachelor",
                                        "Graduate Diploma and Graduate Certificate", 
                                        "Postgraduate"))] %>%
-  .[, NonSchoolQualification := factor(NonSchoolQualification, 
-                                       levels = unique(.$NonSchoolQualification), 
+  .[, NonSchoolQualification := factor(NonSchoolQualification,
+                                       levels = c("Certificate nfd",
+                                                  "Certificate I and II Level",
+                                                  "Certificate III and IV Level",
+                                                  "Advanced Diploma and Diploma",
+                                                  "Bachelor",
+                                                  "Graduate Diploma and Graduate Certificate",
+                                                  "Postgraduate"),
                                        ordered = TRUE)] %>%
   .[] %>%
   Mop("adults")
@@ -1744,6 +1983,7 @@ freadT(33, value.name = "adults") %>%
   .[!grepl("20.._Census_Persons_Total", variable)] %>%
   .[!endsWith(variable, "Total")] %>%
   extract_Age %>%
+  setnames("Age", "Age5yr") %>%
   .[] %>%
   .[, variable := sub("^.*_([A-Z][^A-Z]+)$", "\\1", variable)] %>%
   .[] %>%
@@ -1768,6 +2008,7 @@ freadT(33, value.name = "adults") %>%
   .[!grepl("20.._Census_(Males|Females)_Total", variable)] %>%
   .[!endsWith(variable, "Total")] %>%
   extract_Age %>%
+  setnames("Age", "Age5yr") %>%
   .[] %>%
   .[, variable := sub("^.*_([A-Z][^A-Z]+)$", "\\1", variable)] %>%
   .[] %>%
@@ -1890,19 +2131,14 @@ ced_tbls <-
   use_series("NAME") %>%
   grep(pattern = paste0("^", Region), x = ., value = TRUE)
 
-library(Census2016.spec)
+suppressMessages({library(Census2016.spec)})
 test_check(data_list = mget(ced_tbls), show.progress = FALSE)
 
+data_path <- "data"
+provide.dir("tsv")
+provide.dir(file.path("tsv", Region))
+tsv_path <- file.path("tsv", Region)
 
-if (Region == "SA1") {
-  provide.dir(data_path <- normalizePath("~/Census2016.DataPack.SA1/data"))
-} else {
-  if (Region == "SSC") {
-    provide.dir(data_path <- normalizePath("~/Census2016.DataPack.SSC/data"))
-  } else {
-    data_path <- "data"
-  }
-}
 
 try({
 prior_data_size <- 
@@ -1941,7 +2177,7 @@ vapply(region_dtas,
 library(foreach)
 library(doParallel)
 cl <- makeCluster(8)
-registerDoParallel(cl)
+registerDoParallel(cl, cores = 8)
 
 foreach(tbl = ced_tbls, .inorder = FALSE, .export = c(ced_tbls, data_path)) %dopar% {
   save(list = tbl,
@@ -1949,16 +2185,19 @@ foreach(tbl = ced_tbls, .inorder = FALSE, .export = c(ced_tbls, data_path)) %dop
        compress = "gzip",
        compression_level = 9)
 }
+stopImplicitCluster()
+stopCluster(cl)
 
 
+fwrite <- function(...) data.table::fwrite(..., sep = "\t")
 for (tbl in ced_tbls) {
   
-  file.csv <- file.path("data-raw", "data", Region, paste0(tbl, ".csv"))
+  file.tsv <- file.path(tsv_path, paste0(tbl, ".tsv"))
   
   .ced_tbl <- get(tbl)
-  fwrite(.ced_tbl, file = file.csv)
+  fwrite(.ced_tbl, file = file.tsv)
   
-  switch (ceiling(file.size(file.csv) / (95 * 1024^2)),
+  switch (ceiling(file.size(file.tsv) / (95 * 1024^2)),
           {
             NULL
           },
@@ -1971,9 +2210,9 @@ for (tbl in ced_tbls) {
             NN <- nrow(DT)
             DT1 <- DT[seq_len(NN %/% 2)]
             DT2 <- DT[-seq_len(NN %/% 2)]
-            file.remove(file.csv)
-            fwrite(DT1, sub("\\.csv$", "1.csv", file.csv))
-            fwrite(DT2, sub("\\.csv$", "2.csv", file.csv))
+            file.remove(file.tsv)
+            fwrite(DT1, sub("\\.tsv$", "1.tsv", file.tsv))
+            fwrite(DT2, sub("\\.tsv$", "2.tsv", file.tsv))
           },
           {
             DT <- .ced_tbl
@@ -1990,13 +2229,14 @@ for (tbl in ced_tbls) {
             DT22 <- DT2[-seq_len(nrow(DT2) %/% 2)]
             stopifnot(nrow(DT11) + nrow(DT12) +
                         nrow(DT21) + nrow(DT22) == nrow(DT))
-            file.remove(file.csv)
-            fwrite(DT11, sub("\\.csv$", "11.csv", file.csv))
-            fwrite(DT12, sub("\\.csv$", "12.csv", file.csv))
-            fwrite(DT21, sub("\\.csv$", "21.csv", file.csv))
-            fwrite(DT22, sub("\\.csv$", "22.csv", file.csv))
+            file.remove(file.tsv)
+            fwrite(DT11, sub("\\.tsv$", "11.tsv", file.tsv))
+            fwrite(DT12, sub("\\.tsv$", "12.tsv", file.tsv))
+            fwrite(DT21, sub("\\.tsv$", "21.tsv", file.tsv))
+            fwrite(DT22, sub("\\.tsv$", "22.tsv", file.tsv))
           })
 }
+
 
 region_dtas <- list.files(path = "data/",
                           pattern = Region,

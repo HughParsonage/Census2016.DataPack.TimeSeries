@@ -1,0 +1,244 @@
+STE_NAME16	Year	Occupation	workers
+New South Wales	2006		55478
+New South Wales	2006	Clerical and administrative workers	447951
+New South Wales	2006	Community and personal service workers	249579
+New South Wales	2006	Labourers	277547
+New South Wales	2006	Machinery operators and drivers	187134
+New South Wales	2006	Managers	396461
+New South Wales	2006	Professionals	616284
+New South Wales	2006	Sales workers	282292
+New South Wales	2006	Technicians and trades workers	396724
+New South Wales	2011		57909
+New South Wales	2011	Clerical and administrative workers	473140
+New South Wales	2011	Community and personal service workers	297668
+New South Wales	2011	Labourers	273129
+New South Wales	2011	Machinery operators and drivers	199437
+New South Wales	2011	Managers	418331
+New South Wales	2011	Professionals	713549
+New South Wales	2011	Sales workers	290496
+New South Wales	2011	Technicians and trades workers	414668
+New South Wales	2016		62505
+New South Wales	2016	Clerical and administrative workers	467977
+New South Wales	2016	Community and personal service workers	350261
+New South Wales	2016	Labourers	297887
+New South Wales	2016	Machinery operators and drivers	206839
+New South Wales	2016	Managers	456084
+New South Wales	2016	Professionals	798126
+New South Wales	2016	Sales workers	311414
+New South Wales	2016	Technicians and trades workers	429239
+Victoria	2006		44583
+Victoria	2006	Clerical and administrative workers	337417
+Victoria	2006	Community and personal service workers	190486
+Victoria	2006	Labourers	224546
+Victoria	2006	Machinery operators and drivers	149223
+Victoria	2006	Managers	306321
+Victoria	2006	Professionals	472304
+Victoria	2006	Sales workers	230377
+Victoria	2006	Technicians and trades workers	319190
+Victoria	2011		56224
+Victoria	2011	Clerical and administrative workers	364497
+Victoria	2011	Community and personal service workers	234380
+Victoria	2011	Labourers	227184
+Victoria	2011	Machinery operators and drivers	154542
+Victoria	2011	Managers	332931
+Victoria	2011	Professionals	564779
+Victoria	2011	Sales workers	245335
+Victoria	2011	Technicians and trades workers	350757
+Victoria	2016		46924
+Victoria	2016	Clerical and administrative workers	363216
+Victoria	2016	Community and personal service workers	289348
+Victoria	2016	Labourers	247428
+Victoria	2016	Machinery operators and drivers	159193
+Victoria	2016	Managers	369921
+Victoria	2016	Professionals	636220
+Victoria	2016	Sales workers	265142
+Victoria	2016	Technicians and trades workers	358749
+Queensland	2006		32094
+Queensland	2006	Clerical and administrative workers	269199
+Queensland	2006	Community and personal service workers	166399
+Queensland	2006	Labourers	217249
+Queensland	2006	Machinery operators and drivers	132113
+Queensland	2006	Managers	225692
+Queensland	2006	Professionals	312867
+Queensland	2006	Sales workers	189041
+Queensland	2006	Technicians and trades workers	280340
+Queensland	2011		37033
+Queensland	2011	Clerical and administrative workers	299327
+Queensland	2011	Community and personal service workers	202980
+Queensland	2011	Labourers	215232
+Queensland	2011	Machinery operators and drivers	149322
+Queensland	2011	Managers	245607
+Queensland	2011	Professionals	385580
+Queensland	2011	Sales workers	199633
+Queensland	2011	Technicians and trades workers	304565
+Queensland	2016		34599
+Queensland	2016	Clerical and administrative workers	291317
+Queensland	2016	Community and personal service workers	241956
+Queensland	2016	Labourers	225268
+Queensland	2016	Machinery operators and drivers	147636
+Queensland	2016	Managers	258509
+Queensland	2016	Professionals	423917
+Queensland	2016	Sales workers	207795
+Queensland	2016	Technicians and trades workers	305441
+South Australia	2006		10665
+South Australia	2006	Clerical and administrative workers	100238
+South Australia	2006	Community and personal service workers	65095
+South Australia	2006	Labourers	85887
+South Australia	2006	Machinery operators and drivers	44090
+South Australia	2006	Managers	92580
+South Australia	2006	Professionals	127147
+South Australia	2006	Sales workers	66442
+South Australia	2006	Technicians and trades workers	97745
+South Australia	2011		12160
+South Australia	2011	Clerical and administrative workers	106216
+South Australia	2011	Community and personal service workers	77702
+South Australia	2011	Labourers	82328
+South Australia	2011	Machinery operators and drivers	47070
+South Australia	2011	Managers	93295
+South Australia	2011	Professionals	145127
+South Australia	2011	Sales workers	70882
+South Australia	2011	Technicians and trades workers	104588
+South Australia	2016		11507
+South Australia	2016	Clerical and administrative workers	99540
+South Australia	2016	Community and personal service workers	89625
+South Australia	2016	Labourers	82850
+South Australia	2016	Machinery operators and drivers	45515
+South Australia	2016	Managers	94075
+South Australia	2016	Professionals	151091
+South Australia	2016	Sales workers	71761
+South Australia	2016	Technicians and trades workers	100142
+Western Australia	2006		14687
+Western Australia	2006	Clerical and administrative workers	135974
+Western Australia	2006	Community and personal service workers	82917
+Western Australia	2006	Labourers	102022
+Western Australia	2006	Machinery operators and drivers	67894
+Western Australia	2006	Managers	117032
+Western Australia	2006	Professionals	173954
+Western Australia	2006	Sales workers	88082
+Western Australia	2006	Technicians and trades workers	153561
+Western Australia	2011		16186
+Western Australia	2011	Clerical and administrative workers	158179
+Western Australia	2011	Community and personal service workers	103386
+Western Australia	2011	Labourers	106227
+Western Australia	2011	Machinery operators and drivers	83855
+Western Australia	2011	Managers	133802
+Western Australia	2011	Professionals	218355
+Western Australia	2011	Sales workers	94596
+Western Australia	2011	Technicians and trades workers	183301
+Western Australia	2016		19132
+Western Australia	2016	Clerical and administrative workers	150408
+Western Australia	2016	Community and personal service workers	122889
+Western Australia	2016	Labourers	112599
+Western Australia	2016	Machinery operators and drivers	86392
+Western Australia	2016	Managers	139350
+Western Australia	2016	Professionals	237230
+Western Australia	2016	Sales workers	102337
+Western Australia	2016	Technicians and trades workers	187396
+Tasmania	2006		3028
+Tasmania	2006	Clerical and administrative workers	28654
+Tasmania	2006	Community and personal service workers	20466
+Tasmania	2006	Labourers	25569
+Tasmania	2006	Machinery operators and drivers	14580
+Tasmania	2006	Managers	26289
+Tasmania	2006	Professionals	35894
+Tasmania	2006	Sales workers	20301
+Tasmania	2006	Technicians and trades workers	29957
+Tasmania	2011		3271
+Tasmania	2011	Clerical and administrative workers	30054
+Tasmania	2011	Community and personal service workers	24220
+Tasmania	2011	Labourers	24652
+Tasmania	2011	Machinery operators and drivers	14579
+Tasmania	2011	Managers	26971
+Tasmania	2011	Professionals	40145
+Tasmania	2011	Sales workers	21152
+Tasmania	2011	Technicians and trades workers	32254
+Tasmania	2016		3769
+Tasmania	2016	Clerical and administrative workers	28194
+Tasmania	2016	Community and personal service workers	26754
+Tasmania	2016	Labourers	25183
+Tasmania	2016	Machinery operators and drivers	13800
+Tasmania	2016	Managers	26467
+Tasmania	2016	Professionals	40772
+Tasmania	2016	Sales workers	21402
+Tasmania	2016	Technicians and trades workers	30243
+Northern Territory	2006		2435
+Northern Territory	2006	Clerical and administrative workers	12670
+Northern Territory	2006	Community and personal service workers	10910
+Northern Territory	2006	Labourers	10363
+Northern Territory	2006	Machinery operators and drivers	5108
+Northern Territory	2006	Managers	10546
+Northern Territory	2006	Professionals	15842
+Northern Territory	2006	Sales workers	6441
+Northern Territory	2006	Technicians and trades workers	12867
+Northern Territory	2011		2373
+Northern Territory	2011	Clerical and administrative workers	14471
+Northern Territory	2011	Community and personal service workers	13186
+Northern Territory	2011	Labourers	9424
+Northern Territory	2011	Machinery operators and drivers	5966
+Northern Territory	2011	Managers	11837
+Northern Territory	2011	Professionals	19641
+Northern Territory	2011	Sales workers	6677
+Northern Territory	2011	Technicians and trades workers	14905
+Northern Territory	2016		2535
+Northern Territory	2016	Clerical and administrative workers	14102
+Northern Territory	2016	Community and personal service workers	14178
+Northern Territory	2016	Labourers	9642
+Northern Territory	2016	Machinery operators and drivers	5880
+Northern Territory	2016	Managers	12515
+Northern Territory	2016	Professionals	20654
+Northern Territory	2016	Sales workers	7021
+Northern Territory	2016	Technicians and trades workers	16189
+Australian Capital Territory	2006		2581
+Australian Capital Territory	2006	Clerical and administrative workers	33582
+Australian Capital Territory	2006	Community and personal service workers	15942
+Australian Capital Territory	2006	Labourers	9180
+Australian Capital Territory	2006	Machinery operators and drivers	4385
+Australian Capital Territory	2006	Managers	27171
+Australian Capital Territory	2006	Professionals	51570
+Australian Capital Territory	2006	Sales workers	13205
+Australian Capital Territory	2006	Technicians and trades workers	18671
+Australian Capital Territory	2011		3824
+Australian Capital Territory	2011	Clerical and administrative workers	37511
+Australian Capital Territory	2011	Community and personal service workers	18232
+Australian Capital Territory	2011	Labourers	9267
+Australian Capital Territory	2011	Machinery operators and drivers	4675
+Australian Capital Territory	2011	Managers	31030
+Australian Capital Territory	2011	Professionals	58083
+Australian Capital Territory	2011	Sales workers	13360
+Australian Capital Territory	2011	Technicians and trades workers	19909
+Australian Capital Territory	2016		5129
+Australian Capital Territory	2016	Clerical and administrative workers	34668
+Australian Capital Territory	2016	Community and personal service workers	21694
+Australian Capital Territory	2016	Labourers	10354
+Australian Capital Territory	2016	Machinery operators and drivers	4692
+Australian Capital Territory	2016	Managers	32776
+Australian Capital Territory	2016	Professionals	62716
+Australian Capital Territory	2016	Sales workers	13956
+Australian Capital Territory	2016	Technicians and trades workers	19639
+Other Territories	2006		35
+Other Territories	2006	Clerical and administrative workers	109
+Other Territories	2006	Community and personal service workers	117
+Other Territories	2006	Labourers	154
+Other Territories	2006	Machinery operators and drivers	95
+Other Territories	2006	Managers	167
+Other Territories	2006	Professionals	154
+Other Territories	2006	Sales workers	29
+Other Territories	2006	Technicians and trades workers	198
+Other Territories	2011		36
+Other Territories	2011	Clerical and administrative workers	158
+Other Territories	2011	Community and personal service workers	146
+Other Territories	2011	Labourers	170
+Other Territories	2011	Machinery operators and drivers	96
+Other Territories	2011	Managers	165
+Other Territories	2011	Professionals	189
+Other Territories	2011	Sales workers	20
+Other Territories	2011	Technicians and trades workers	202
+Other Territories	2016		54
+Other Territories	2016	Clerical and administrative workers	249
+Other Territories	2016	Community and personal service workers	301
+Other Territories	2016	Labourers	302
+Other Territories	2016	Machinery operators and drivers	161
+Other Territories	2016	Managers	340
+Other Territories	2016	Professionals	242
+Other Territories	2016	Sales workers	130
+Other Territories	2016	Technicians and trades workers	380

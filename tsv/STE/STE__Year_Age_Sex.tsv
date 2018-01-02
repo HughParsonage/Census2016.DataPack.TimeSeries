@@ -1,0 +1,595 @@
+STE_NAME16	Year	Age	Sex	persons
+New South Wales	2006	0-4	F	203914
+New South Wales	2006	0-4	M	216514
+New South Wales	2006	5-14	F	427415
+New South Wales	2006	5-14	M	451071
+New South Wales	2006	15-19	F	214291
+New South Wales	2006	15-19	M	225577
+New South Wales	2006	20-24	F	213675
+New South Wales	2006	20-24	M	218178
+New South Wales	2006	25-34	F	452444
+New South Wales	2006	25-34	M	438598
+New South Wales	2006	35-44	F	488847
+New South Wales	2006	35-44	M	468994
+New South Wales	2006	45-54	F	458722
+New South Wales	2006	45-54	M	445616
+New South Wales	2006	55-64	F	359399
+New South Wales	2006	55-64	M	360149
+New South Wales	2006	65-74	F	239816
+New South Wales	2006	65-74	M	225505
+New South Wales	2006	75-84	F	186585
+New South Wales	2006	75-84	M	142213
+New South Wales	2006	85+	F	75625
+New South Wales	2006	85+	M	36034
+New South Wales	2011	0-4	F	223400
+New South Wales	2011	0-4	M	235335
+New South Wales	2011	5-14	F	424538
+New South Wales	2011	5-14	M	449234
+New South Wales	2011	15-19	F	215190
+New South Wales	2011	15-19	M	228225
+New South Wales	2011	20-24	F	222735
+New South Wales	2011	20-24	M	226956
+New South Wales	2011	25-34	F	477188
+New South Wales	2011	25-34	M	464305
+New South Wales	2011	35-44	F	497826
+New South Wales	2011	35-44	M	473804
+New South Wales	2011	45-54	F	483242
+New South Wales	2011	45-54	M	467204
+New South Wales	2011	55-64	F	410158
+New South Wales	2011	55-64	M	400129
+New South Wales	2011	65-74	F	276600
+New South Wales	2011	65-74	M	265087
+New South Wales	2011	75-84	F	186058
+New South Wales	2011	75-84	M	150698
+New South Wales	2011	85+	F	91852
+New South Wales	2011	85+	M	47883
+New South Wales	2016	0-4	F	226279
+New South Wales	2016	0-4	M	238859
+New South Wales	2016	5-14	F	448106
+New South Wales	2016	5-14	M	473094
+New South Wales	2016	15-19	F	218321
+New South Wales	2016	15-19	M	230103
+New South Wales	2016	20-24	F	241181
+New South Wales	2016	20-24	M	248490
+New South Wales	2016	25-34	F	540962
+New South Wales	2016	25-34	M	526560
+New South Wales	2016	35-44	F	508625
+New South Wales	2016	35-44	M	494264
+New South Wales	2016	45-54	F	499528
+New South Wales	2016	45-54	M	478458
+New South Wales	2016	55-64	F	456703
+New South Wales	2016	55-64	M	433059
+New South Wales	2016	65-74	F	346555
+New South Wales	2016	65-74	M	330471
+New South Wales	2016	75-84	F	202200
+New South Wales	2016	75-84	M	170912
+New South Wales	2016	85+	F	105755
+New South Wales	2016	85+	M	61753
+Victoria	2006	0-4	F	149270
+Victoria	2006	0-4	M	156664
+Victoria	2006	5-14	F	313592
+Victoria	2006	5-14	M	330864
+Victoria	2006	15-19	F	163607
+Victoria	2006	15-19	M	171578
+Victoria	2006	20-24	F	167582
+Victoria	2006	20-24	M	171130
+Victoria	2006	25-34	F	344085
+Victoria	2006	25-34	M	333795
+Victoria	2006	35-44	F	381052
+Victoria	2006	35-44	M	360299
+Victoria	2006	45-54	F	346234
+Victoria	2006	45-54	M	333284
+Victoria	2006	55-64	F	270899
+Victoria	2006	55-64	M	263586
+Victoria	2006	65-74	F	179400
+Victoria	2006	65-74	M	166127
+Victoria	2006	75-84	F	139487
+Victoria	2006	75-84	M	106018
+Victoria	2006	85+	F	56802
+Victoria	2006	85+	M	27075
+Victoria	2011	0-4	F	167636
+Victoria	2011	0-4	M	177098
+Victoria	2011	5-14	F	318365
+Victoria	2011	5-14	M	335694
+Victoria	2011	15-19	F	168334
+Victoria	2011	15-19	M	177010
+Victoria	2011	20-24	F	184422
+Victoria	2011	20-24	M	190684
+Victoria	2011	25-34	F	383800
+Victoria	2011	25-34	M	377081
+Victoria	2011	35-44	F	397535
+Victoria	2011	35-44	M	377081
+Victoria	2011	45-54	F	371274
+Victoria	2011	45-54	M	355201
+Victoria	2011	55-64	F	313023
+Victoria	2011	55-64	M	298227
+Victoria	2011	65-74	F	207318
+Victoria	2011	65-74	M	194910
+Victoria	2011	75-84	F	140987
+Victoria	2011	75-84	M	113371
+Victoria	2011	85+	F	68727
+Victoria	2011	85+	M	36269
+Victoria	2016	0-4	F	180626
+Victoria	2016	0-4	M	190593
+Victoria	2016	5-14	F	345717
+Victoria	2016	5-14	M	363984
+Victoria	2016	15-19	F	174492
+Victoria	2016	15-19	M	181849
+Victoria	2016	20-24	F	204065
+Victoria	2016	20-24	M	209733
+Victoria	2016	25-34	F	452031
+Victoria	2016	25-34	M	437167
+Victoria	2016	35-44	F	409936
+Victoria	2016	35-44	M	395979
+Victoria	2016	45-54	F	401040
+Victoria	2016	45-54	M	379374
+Victoria	2016	55-64	F	349886
+Victoria	2016	55-64	M	327567
+Victoria	2016	65-74	F	264772
+Victoria	2016	65-74	M	244826
+Victoria	2016	75-84	F	155554
+Victoria	2016	75-84	M	129451
+Victoria	2016	85+	F	80427
+Victoria	2016	85+	M	47567
+Queensland	2006	0-4	F	124911
+Queensland	2006	0-4	M	132171
+Queensland	2006	5-14	F	267745
+Queensland	2006	5-14	M	281716
+Queensland	2006	15-19	F	132125
+Queensland	2006	15-19	M	138175
+Queensland	2006	20-24	F	133663
+Queensland	2006	20-24	M	135243
+Queensland	2006	25-34	F	265190
+Queensland	2006	25-34	M	258408
+Queensland	2006	35-44	F	295155
+Queensland	2006	35-44	M	280412
+Queensland	2006	45-54	F	273435
+Queensland	2006	45-54	M	265749
+Queensland	2006	55-64	F	216694
+Queensland	2006	55-64	M	220854
+Queensland	2006	65-74	F	130039
+Queensland	2006	65-74	M	129383
+Queensland	2006	75-84	F	92717
+Queensland	2006	75-84	M	74087
+Queensland	2006	85+	F	37473
+Queensland	2006	85+	M	19179
+Queensland	2011	0-4	F	144670
+Queensland	2011	0-4	M	153228
+Queensland	2011	5-14	F	281451
+Queensland	2011	5-14	M	296519
+Queensland	2011	15-19	F	143487
+Queensland	2011	15-19	M	150428
+Queensland	2011	20-24	F	146279
+Queensland	2011	20-24	M	147568
+Queensland	2011	25-34	F	296830
+Queensland	2011	25-34	M	290581
+Queensland	2011	35-44	F	316670
+Queensland	2011	35-44	M	304085
+Queensland	2011	45-54	F	300571
+Queensland	2011	45-54	M	290313
+Queensland	2011	55-64	F	251881
+Queensland	2011	55-64	M	249210
+Queensland	2011	65-74	F	161785
+Queensland	2011	65-74	M	160860
+Queensland	2011	75-84	F	95749
+Queensland	2011	75-84	M	80789
+Queensland	2011	85+	F	45152
+Queensland	2011	85+	M	24650
+Queensland	2016	0-4	F	144432
+Queensland	2016	0-4	M	152036
+Queensland	2016	5-14	F	299749
+Queensland	2016	5-14	M	316486
+Queensland	2016	15-19	F	145089
+Queensland	2016	15-19	M	151196
+Queensland	2016	20-24	F	157576
+Queensland	2016	20-24	M	159280
+Queensland	2016	25-34	F	328837
+Queensland	2016	25-34	M	317852
+Queensland	2016	35-44	F	320977
+Queensland	2016	35-44	M	307148
+Queensland	2016	45-54	F	323168
+Queensland	2016	45-54	M	308537
+Queensland	2016	55-64	F	282601
+Queensland	2016	55-64	M	270282
+Queensland	2016	65-74	F	214009
+Queensland	2016	65-74	M	208597
+Queensland	2016	75-84	F	111109
+Queensland	2016	75-84	M	98704
+Queensland	2016	85+	F	53759
+Queensland	2016	85+	M	31767
+South Australia	2006	0-4	F	42455
+South Australia	2006	0-4	M	44882
+South Australia	2006	5-14	F	94375
+South Australia	2006	5-14	M	99119
+South Australia	2006	15-19	F	48760
+South Australia	2006	15-19	M	51999
+South Australia	2006	20-24	F	49171
+South Australia	2006	20-24	M	50933
+South Australia	2006	25-34	F	92727
+South Australia	2006	25-34	M	93015
+South Australia	2006	35-44	F	110647
+South Australia	2006	35-44	M	108412
+South Australia	2006	45-54	F	110075
+South Australia	2006	45-54	M	106817
+South Australia	2006	55-64	F	90282
+South Australia	2006	55-64	M	87541
+South Australia	2006	65-74	F	59948
+South Australia	2006	65-74	M	55148
+South Australia	2006	75-84	F	49954
+South Australia	2006	75-84	M	37481
+South Australia	2006	85+	F	20739
+South Australia	2006	85+	M	9861
+South Australia	2011	0-4	F	47000
+South Australia	2011	0-4	M	49137
+South Australia	2011	5-14	F	92962
+South Australia	2011	5-14	M	97827
+South Australia	2011	15-19	F	50167
+South Australia	2011	15-19	M	53084
+South Australia	2011	20-24	F	51606
+South Australia	2011	20-24	M	53976
+South Australia	2011	25-34	F	101011
+South Australia	2011	25-34	M	101319
+South Australia	2011	35-44	F	109001
+South Australia	2011	35-44	M	107372
+South Australia	2011	45-54	F	113752
+South Australia	2011	45-54	M	111189
+South Australia	2011	55-64	F	101870
+South Australia	2011	55-64	M	97737
+South Australia	2011	65-74	F	69085
+South Australia	2011	65-74	M	64118
+South Australia	2011	75-84	F	47753
+South Australia	2011	75-84	M	38441
+South Australia	2011	85+	F	25146
+South Australia	2011	85+	M	13008
+South Australia	2016	0-4	F	47163
+South Australia	2016	0-4	M	49910
+South Australia	2016	5-14	F	95419
+South Australia	2016	5-14	M	100505
+South Australia	2016	15-19	F	49169
+South Australia	2016	15-19	M	51516
+South Australia	2016	20-24	F	52766
+South Australia	2016	20-24	M	55223
+South Australia	2016	25-34	F	109837
+South Australia	2016	25-34	M	108274
+South Australia	2016	35-44	F	105275
+South Australia	2016	35-44	M	104188
+South Australia	2016	45-54	F	114770
+South Australia	2016	45-54	M	112117
+South Australia	2016	55-64	F	109756
+South Australia	2016	55-64	M	104169
+South Australia	2016	65-74	F	87533
+South Australia	2016	65-74	M	81316
+South Australia	2016	75-84	F	50821
+South Australia	2016	75-84	M	42437
+South Australia	2016	85+	F	28143
+South Australia	2016	85+	M	16340
+Western Australia	2006	0-4	F	60935
+Western Australia	2006	0-4	M	63876
+Western Australia	2006	5-14	F	131891
+Western Australia	2006	5-14	M	139730
+Western Australia	2006	15-19	F	68109
+Western Australia	2006	15-19	M	71879
+Western Australia	2006	20-24	F	66289
+Western Australia	2006	20-24	M	69727
+Western Australia	2006	25-34	F	131102
+Western Australia	2006	25-34	M	130329
+Western Australia	2006	35-44	F	149921
+Western Australia	2006	35-44	M	146725
+Western Australia	2006	45-54	F	141304
+Western Australia	2006	45-54	M	138397
+Western Australia	2006	55-64	F	104881
+Western Australia	2006	55-64	M	108429
+Western Australia	2006	65-74	F	64670
+Western Australia	2006	65-74	M	62268
+Western Australia	2006	75-84	F	45209
+Western Australia	2006	75-84	M	35924
+Western Australia	2006	85+	F	18652
+Western Australia	2006	85+	M	8828
+Western Australia	2011	0-4	F	73409
+Western Australia	2011	0-4	M	77856
+Western Australia	2011	5-14	F	140728
+Western Australia	2011	5-14	M	148084
+Western Australia	2011	15-19	F	71737
+Western Australia	2011	15-19	M	76467
+Western Australia	2011	20-24	F	76823
+Western Australia	2011	20-24	M	82190
+Western Australia	2011	25-34	F	158133
+Western Australia	2011	25-34	M	165967
+Western Australia	2011	35-44	F	163220
+Western Australia	2011	35-44	M	165038
+Western Australia	2011	45-54	F	154428
+Western Australia	2011	45-54	M	155802
+Western Australia	2011	55-64	F	127105
+Western Australia	2011	55-64	M	127317
+Western Australia	2011	65-74	F	76706
+Western Australia	2011	65-74	M	75832
+Western Australia	2011	75-84	F	48410
+Western Australia	2011	75-84	M	39707
+Western Australia	2011	85+	F	22296
+Western Australia	2011	85+	M	11922
+Western Australia	2016	0-4	F	78574
+Western Australia	2016	0-4	M	83155
+Western Australia	2016	5-14	F	153378
+Western Australia	2016	5-14	M	161574
+Western Australia	2016	15-19	F	72882
+Western Australia	2016	15-19	M	77112
+Western Australia	2016	20-24	F	77777
+Western Australia	2016	20-24	M	82563
+Western Australia	2016	25-34	F	188224
+Western Australia	2016	25-34	M	190956
+Western Australia	2016	35-44	F	171523
+Western Australia	2016	35-44	M	173520
+Western Australia	2016	45-54	F	166831
+Western Australia	2016	45-54	M	168121
+Western Australia	2016	55-64	F	143084
+Western Australia	2016	55-64	M	138950
+Western Australia	2016	65-74	F	100911
+Western Australia	2016	65-74	M	98758
+Western Australia	2016	75-84	F	56237
+Western Australia	2016	75-84	M	47859
+Western Australia	2016	85+	F	26579
+Western Australia	2016	85+	M	15846
+Tasmania	2006	0-4	F	13860
+Tasmania	2006	0-4	M	14803
+Tasmania	2006	5-14	F	31753
+Tasmania	2006	5-14	M	33608
+Tasmania	2006	15-19	F	15962
+Tasmania	2006	15-19	M	16859
+Tasmania	2006	20-24	F	14457
+Tasmania	2006	20-24	M	14489
+Tasmania	2006	25-34	F	27981
+Tasmania	2006	25-34	M	26056
+Tasmania	2006	35-44	F	34534
+Tasmania	2006	35-44	M	32363
+Tasmania	2006	45-54	F	35734
+Tasmania	2006	45-54	M	34294
+Tasmania	2006	55-64	F	29429
+Tasmania	2006	55-64	M	29155
+Tasmania	2006	65-74	F	19227
+Tasmania	2006	65-74	M	18226
+Tasmania	2006	75-84	F	14298
+Tasmania	2006	75-84	M	10851
+Tasmania	2006	85+	F	5848
+Tasmania	2006	85+	M	2688
+Tasmania	2011	0-4	F	15164
+Tasmania	2011	0-4	M	16016
+Tasmania	2011	5-14	F	30577
+Tasmania	2011	5-14	M	32112
+Tasmania	2011	15-19	F	15844
+Tasmania	2011	15-19	M	16840
+Tasmania	2011	20-24	F	14650
+Tasmania	2011	20-24	M	14922
+Tasmania	2011	25-34	F	28538
+Tasmania	2011	25-34	M	26739
+Tasmania	2011	35-44	F	33727
+Tasmania	2011	35-44	M	31124
+Tasmania	2011	45-54	F	36727
+Tasmania	2011	45-54	M	34836
+Tasmania	2011	55-64	F	33877
+Tasmania	2011	55-64	M	32942
+Tasmania	2011	65-74	F	22674
+Tasmania	2011	65-74	M	22081
+Tasmania	2011	75-84	F	14154
+Tasmania	2011	75-84	M	11537
+Tasmania	2011	85+	F	6736
+Tasmania	2011	85+	M	3513
+Tasmania	2016	0-4	F	13929
+Tasmania	2016	0-4	M	14544
+Tasmania	2016	5-14	F	30056
+Tasmania	2016	5-14	M	31685
+Tasmania	2016	15-19	F	15118
+Tasmania	2016	15-19	M	15960
+Tasmania	2016	20-24	F	14574
+Tasmania	2016	20-24	M	15289
+Tasmania	2016	25-34	F	29695
+Tasmania	2016	25-34	M	28338
+Tasmania	2016	35-44	F	31227
+Tasmania	2016	35-44	M	28598
+Tasmania	2016	45-54	F	36154
+Tasmania	2016	45-54	M	33896
+Tasmania	2016	55-64	F	37087
+Tasmania	2016	55-64	M	35070
+Tasmania	2016	65-74	F	29305
+Tasmania	2016	65-74	M	28078
+Tasmania	2016	75-84	F	15926
+Tasmania	2016	75-84	M	13679
+Tasmania	2016	85+	F	7413
+Tasmania	2016	85+	M	4347
+Northern Territory	2006	0-4	F	7749
+Northern Territory	2006	0-4	M	8121
+Northern Territory	2006	5-14	F	15346
+Northern Territory	2006	5-14	M	16398
+Northern Territory	2006	15-19	F	6827
+Northern Territory	2006	15-19	M	7457
+Northern Territory	2006	20-24	F	7355
+Northern Territory	2006	20-24	M	7726
+Northern Territory	2006	25-34	F	16175
+Northern Territory	2006	25-34	M	15886
+Northern Territory	2006	35-44	F	15231
+Northern Territory	2006	35-44	M	15930
+Northern Territory	2006	45-54	F	12859
+Northern Territory	2006	45-54	M	13617
+Northern Territory	2006	55-64	F	7578
+Northern Territory	2006	55-64	M	9375
+Northern Territory	2006	65-74	F	2833
+Northern Territory	2006	65-74	M	3488
+Northern Territory	2006	75-84	F	1207
+Northern Territory	2006	75-84	M	1163
+Northern Territory	2006	85+	F	380
+Northern Territory	2006	85+	M	218
+Northern Territory	2011	0-4	F	8286
+Northern Territory	2011	0-4	M	8831
+Northern Territory	2011	5-14	F	15630
+Northern Territory	2011	5-14	M	16390
+Northern Territory	2011	15-19	F	6970
+Northern Territory	2011	15-19	M	7854
+Northern Territory	2011	20-24	F	7854
+Northern Territory	2011	20-24	M	8981
+Northern Territory	2011	25-34	F	18003
+Northern Territory	2011	25-34	M	18556
+Northern Territory	2011	35-44	F	16395
+Northern Territory	2011	35-44	M	16760
+Northern Territory	2011	45-54	F	13936
+Northern Territory	2011	45-54	M	14637
+Northern Territory	2011	55-64	F	9642
+Northern Territory	2011	55-64	M	11105
+Northern Territory	2011	65-74	F	3839
+Northern Territory	2011	65-74	M	4722
+Northern Territory	2011	75-84	F	1428
+Northern Territory	2011	75-84	M	1410
+Northern Territory	2011	85+	F	441
+Northern Territory	2011	85+	M	255
+Northern Territory	2016	0-4	F	8623
+Northern Territory	2016	0-4	M	9005
+Northern Territory	2016	5-14	F	15386
+Northern Territory	2016	5-14	M	16463
+Northern Territory	2016	15-19	F	6597
+Northern Territory	2016	15-19	M	7476
+Northern Territory	2016	20-24	F	7795
+Northern Territory	2016	20-24	M	8850
+Northern Territory	2016	25-34	F	21045
+Northern Territory	2016	25-34	M	21992
+Northern Territory	2016	35-44	F	16781
+Northern Territory	2016	35-44	M	17847
+Northern Territory	2016	45-54	F	15072
+Northern Territory	2016	45-54	M	16238
+Northern Territory	2016	55-64	F	11193
+Northern Territory	2016	55-64	M	12108
+Northern Territory	2016	65-74	F	5349
+Northern Territory	2016	65-74	M	6312
+Northern Territory	2016	75-84	F	1878
+Northern Territory	2016	75-84	M	1891
+Northern Territory	2016	85+	F	545
+Northern Territory	2016	85+	M	392
+Australian Capital Territory	2006	0-4	F	9818
+Australian Capital Territory	2006	0-4	M	10311
+Australian Capital Territory	2006	5-14	F	20575
+Australian Capital Territory	2006	5-14	M	21232
+Australian Capital Territory	2006	15-19	F	11376
+Australian Capital Territory	2006	15-19	M	12211
+Australian Capital Territory	2006	20-24	F	13447
+Australian Capital Territory	2006	20-24	M	14133
+Australian Capital Territory	2006	25-34	F	25482
+Australian Capital Territory	2006	25-34	M	24817
+Australian Capital Territory	2006	35-44	F	25026
+Australian Capital Territory	2006	35-44	M	23892
+Australian Capital Territory	2006	45-54	F	23896
+Australian Capital Territory	2006	45-54	M	22108
+Australian Capital Territory	2006	55-64	F	17301
+Australian Capital Territory	2006	55-64	M	16851
+Australian Capital Territory	2006	65-74	F	9003
+Australian Capital Territory	2006	65-74	M	8239
+Australian Capital Territory	2006	75-84	F	6159
+Australian Capital Territory	2006	75-84	M	4707
+Australian Capital Territory	2006	85+	F	2293
+Australian Capital Territory	2006	85+	M	1154
+Australian Capital Territory	2011	0-4	F	11458
+Australian Capital Territory	2011	0-4	M	12388
+Australian Capital Territory	2011	5-14	F	20679
+Australian Capital Territory	2011	5-14	M	21820
+Australian Capital Territory	2011	15-19	F	11634
+Australian Capital Territory	2011	15-19	M	12363
+Australian Capital Territory	2011	20-24	F	15109
+Australian Capital Territory	2011	20-24	M	15638
+Australian Capital Territory	2011	25-34	F	29247
+Australian Capital Territory	2011	25-34	M	28997
+Australian Capital Territory	2011	35-44	F	26783
+Australian Capital Territory	2011	35-44	M	26151
+Australian Capital Territory	2011	45-54	F	24729
+Australian Capital Territory	2011	45-54	M	23277
+Australian Capital Territory	2011	55-64	F	19944
+Australian Capital Territory	2011	55-64	M	18841
+Australian Capital Territory	2011	65-74	F	11246
+Australian Capital Territory	2011	65-74	M	10422
+Australian Capital Territory	2011	75-84	F	6468
+Australian Capital Territory	2011	75-84	M	5196
+Australian Capital Territory	2011	85+	F	3174
+Australian Capital Territory	2011	85+	M	1657
+Australian Capital Territory	2016	0-4	F	12898
+Australian Capital Territory	2016	0-4	M	13901
+Australian Capital Territory	2016	5-14	F	23063
+Australian Capital Territory	2016	5-14	M	24619
+Australian Capital Territory	2016	15-19	F	12145
+Australian Capital Territory	2016	15-19	M	12366
+Australian Capital Territory	2016	20-24	F	15565
+Australian Capital Territory	2016	20-24	M	15863
+Australian Capital Territory	2016	25-34	F	33679
+Australian Capital Territory	2016	25-34	M	32435
+Australian Capital Territory	2016	35-44	F	29460
+Australian Capital Territory	2016	35-44	M	28940
+Australian Capital Territory	2016	45-54	F	25979
+Australian Capital Territory	2016	45-54	M	25003
+Australian Capital Territory	2016	55-64	F	21597
+Australian Capital Territory	2016	55-64	M	19908
+Australian Capital Territory	2016	65-74	F	15506
+Australian Capital Territory	2016	65-74	M	13946
+Australian Capital Territory	2016	75-84	F	7916
+Australian Capital Territory	2016	75-84	M	6445
+Australian Capital Territory	2016	85+	F	3841
+Australian Capital Territory	2016	85+	M	2316
+Other Territories	2006	0-4	F	86
+Other Territories	2006	0-4	M	72
+Other Territories	2006	5-14	F	194
+Other Territories	2006	5-14	M	201
+Other Territories	2006	15-19	F	56
+Other Territories	2006	15-19	M	66
+Other Territories	2006	20-24	F	67
+Other Territories	2006	20-24	M	86
+Other Territories	2006	25-34	F	133
+Other Territories	2006	25-34	M	155
+Other Territories	2006	35-44	F	199
+Other Territories	2006	35-44	M	216
+Other Territories	2006	45-54	F	177
+Other Territories	2006	45-54	M	201
+Other Territories	2006	55-64	F	89
+Other Territories	2006	55-64	M	182
+Other Territories	2006	65-74	F	36
+Other Territories	2006	65-74	M	73
+Other Territories	2006	75-84	F	12
+Other Territories	2006	75-84	M	5
+Other Territories	2006	85+	F	4
+Other Territories	2006	85+	M	10
+Other Territories	2011	0-4	F	66
+Other Territories	2011	0-4	M	79
+Other Territories	2011	5-14	F	180
+Other Territories	2011	5-14	M	180
+Other Territories	2011	15-19	F	51
+Other Territories	2011	15-19	M	107
+Other Territories	2011	20-24	F	68
+Other Territories	2011	20-24	M	202
+Other Territories	2011	25-34	F	143
+Other Territories	2011	25-34	M	579
+Other Territories	2011	35-44	F	177
+Other Territories	2011	35-44	M	275
+Other Territories	2011	45-54	F	189
+Other Territories	2011	45-54	M	241
+Other Territories	2011	55-64	F	130
+Other Territories	2011	55-64	M	210
+Other Territories	2011	65-74	F	45
+Other Territories	2011	65-74	M	78
+Other Territories	2011	75-84	F	18
+Other Territories	2011	75-84	M	11
+Other Territories	2011	85+	F	0
+Other Territories	2011	85+	M	5
+Other Territories	2016	0-4	F	126
+Other Territories	2016	0-4	M	140
+Other Territories	2016	5-14	F	269
+Other Territories	2016	5-14	M	281
+Other Territories	2016	15-19	F	110
+Other Territories	2016	15-19	M	106
+Other Territories	2016	20-24	F	72
+Other Territories	2016	20-24	M	136
+Other Territories	2016	25-34	F	244
+Other Territories	2016	25-34	M	330
+Other Territories	2016	35-44	F	296
+Other Territories	2016	35-44	M	345
+Other Territories	2016	45-54	F	334
+Other Territories	2016	45-54	M	376
+Other Territories	2016	55-64	F	350
+Other Territories	2016	55-64	M	364
+Other Territories	2016	65-74	F	214
+Other Territories	2016	65-74	M	263
+Other Territories	2016	75-84	F	91
+Other Territories	2016	75-84	M	95
+Other Territories	2016	85+	F	33
+Other Territories	2016	85+	M	28

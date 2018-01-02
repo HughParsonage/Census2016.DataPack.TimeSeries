@@ -1,0 +1,163 @@
+STE_NAME16	Year	EduInstitutionType	students
+New South Wales	2006		600661
+New South Wales	2006	Infants/Primary	547146
+New South Wales	2006	Pre-school	114023
+New South Wales	2006	Secondary	438218
+New South Wales	2006	Technical or Further Educational Institution	160820
+New South Wales	2006	University or other tertiary	239039
+New South Wales	2011		537156
+New South Wales	2011	Infants/Primary	549346
+New South Wales	2011	Pre-school	126603
+New South Wales	2011	Secondary	451935
+New South Wales	2011	Technical or Further Educational Institution	168003
+New South Wales	2011	University or other tertiary	303070
+New South Wales	2016		598939
+New South Wales	2016	Infants/Primary	607171
+New South Wales	2016	Pre-school	132047
+New South Wales	2016	Secondary	466858
+New South Wales	2016	Technical or Further Educational Institution	144103
+New South Wales	2016	University or other tertiary	376133
+Victoria	2006		428906
+Victoria	2006	Infants/Primary	401095
+Victoria	2006	Pre-school	78097
+Victoria	2006	Secondary	333558
+Victoria	2006	Technical or Further Educational Institution	102307
+Victoria	2006	University or other tertiary	199023
+Victoria	2011		406747
+Victoria	2011	Infants/Primary	411016
+Victoria	2011	Pre-school	89820
+Victoria	2011	Secondary	345465
+Victoria	2011	Technical or Further Educational Institution	117952
+Victoria	2011	University or other tertiary	246549
+Victoria	2016		472697
+Victoria	2016	Infants/Primary	468702
+Victoria	2016	Pre-school	94970
+Victoria	2016	Secondary	364142
+Victoria	2016	Technical or Further Educational Institution	103685
+Victoria	2016	University or other tertiary	325051
+Queensland	2006		346067
+Queensland	2006	Infants/Primary	348516
+Queensland	2006	Pre-school	58750
+Queensland	2006	Secondary	236682
+Queensland	2006	Technical or Further Educational Institution	68106
+Queensland	2006	University or other tertiary	137846
+Queensland	2011		340630
+Queensland	2011	Infants/Primary	379781
+Queensland	2011	Pre-school	50611
+Queensland	2011	Secondary	258554
+Queensland	2011	Technical or Further Educational Institution	79243
+Queensland	2011	University or other tertiary	173432
+Queensland	2016		398405
+Queensland	2016	Infants/Primary	400511
+Queensland	2016	Pre-school	56639
+Queensland	2016	Secondary	298146
+Queensland	2016	Technical or Further Educational Institution	76992
+Queensland	2016	University or other tertiary	213221
+South Australia	2006		115534
+South Australia	2006	Infants/Primary	139515
+South Australia	2006	Pre-school	18577
+South Australia	2006	Secondary	87298
+South Australia	2006	Technical or Further Educational Institution	32751
+South Australia	2006	University or other tertiary	53729
+South Australia	2011		109791
+South Australia	2011	Infants/Primary	136539
+South Australia	2011	Pre-school	20579
+South Australia	2011	Secondary	90949
+South Australia	2011	Technical or Further Educational Institution	34845
+South Australia	2011	University or other tertiary	65955
+South Australia	2016		117939
+South Australia	2016	Infants/Primary	143307
+South Australia	2016	Pre-school	20292
+South Australia	2016	Secondary	93259
+South Australia	2016	Technical or Further Educational Institution	31394
+South Australia	2016	University or other tertiary	78780
+Western Australia	2006		188111
+Western Australia	2006	Infants/Primary	169873
+Western Australia	2006	Pre-school	27173
+Western Australia	2006	Secondary	116368
+Western Australia	2006	Technical or Further Educational Institution	40770
+Western Australia	2006	University or other tertiary	73090
+Western Australia	2011		194393
+Western Australia	2011	Infants/Primary	188624
+Western Australia	2011	Pre-school	32430
+Western Australia	2011	Secondary	123683
+Western Australia	2011	Technical or Further Educational Institution	48761
+Western Australia	2011	University or other tertiary	91935
+Western Australia	2016		216191
+Western Australia	2016	Infants/Primary	209889
+Western Australia	2016	Pre-school	30247
+Western Australia	2016	Secondary	157010
+Western Australia	2016	Technical or Further Educational Institution	46835
+Western Australia	2016	University or other tertiary	106811
+Tasmania	2006		38314
+Tasmania	2006	Infants/Primary	43782
+Tasmania	2006	Pre-school	4024
+Tasmania	2006	Secondary	29916
+Tasmania	2006	Technical or Further Educational Institution	12436
+Tasmania	2006	University or other tertiary	14162
+Tasmania	2011		34489
+Tasmania	2011	Infants/Primary	42071
+Tasmania	2011	Pre-school	4215
+Tasmania	2011	Secondary	29608
+Tasmania	2011	Technical or Further Educational Institution	12866
+Tasmania	2011	University or other tertiary	16529
+Tasmania	2016		41139
+Tasmania	2016	Infants/Primary	43778
+Tasmania	2016	Pre-school	3736
+Tasmania	2016	Secondary	29443
+Tasmania	2016	Technical or Further Educational Institution	10630
+Tasmania	2016	University or other tertiary	18250
+Northern Territory	2006		28116
+Northern Territory	2006	Infants/Primary	19699
+Northern Territory	2006	Pre-school	2811
+Northern Territory	2006	Secondary	9986
+Northern Territory	2006	Technical or Further Educational Institution	2192
+Northern Territory	2006	University or other tertiary	5820
+Northern Territory	2011		27866
+Northern Territory	2011	Infants/Primary	19906
+Northern Territory	2011	Pre-school	3339
+Northern Territory	2011	Secondary	12605
+Northern Territory	2011	Technical or Further Educational Institution	2726
+Northern Territory	2011	University or other tertiary	6679
+Northern Territory	2016		32997
+Northern Territory	2016	Infants/Primary	20355
+Northern Territory	2016	Pre-school	3707
+Northern Territory	2016	Secondary	13208
+Northern Territory	2016	Technical or Further Educational Institution	3045
+Northern Territory	2016	University or other tertiary	8054
+Australian Capital Territory	2006		22302
+Australian Capital Territory	2006	Infants/Primary	26942
+Australian Capital Territory	2006	Pre-school	4322
+Australian Capital Territory	2006	Secondary	22981
+Australian Capital Territory	2006	Technical or Further Educational Institution	8618
+Australian Capital Territory	2006	University or other tertiary	22709
+Australian Capital Territory	2011		21311
+Australian Capital Territory	2011	Infants/Primary	27709
+Australian Capital Territory	2011	Pre-school	5204
+Australian Capital Territory	2011	Secondary	23113
+Australian Capital Territory	2011	Technical or Further Educational Institution	9181
+Australian Capital Territory	2011	University or other tertiary	28338
+Australian Capital Territory	2016		26292
+Australian Capital Territory	2016	Infants/Primary	32822
+Australian Capital Territory	2016	Pre-school	5904
+Australian Capital Territory	2016	Secondary	24186
+Australian Capital Territory	2016	Technical or Further Educational Institution	8163
+Australian Capital Territory	2016	University or other tertiary	34291
+Other Territories	2006		286
+Other Territories	2006	Infants/Primary	234
+Other Territories	2006	Pre-school	46
+Other Territories	2006	Secondary	142
+Other Territories	2006	Technical or Further Educational Institution	33
+Other Territories	2006	University or other tertiary	23
+Other Territories	2011		960
+Other Territories	2011	Infants/Primary	211
+Other Territories	2011	Pre-school	38
+Other Territories	2011	Secondary	131
+Other Territories	2011	Technical or Further Educational Institution	27
+Other Territories	2011	University or other tertiary	32
+Other Territories	2016		829
+Other Territories	2016	Infants/Primary	345
+Other Territories	2016	Pre-school	74
+Other Territories	2016	Secondary	247
+Other Territories	2016	Technical or Further Educational Institution	36
+Other Territories	2016	University or other tertiary	42
